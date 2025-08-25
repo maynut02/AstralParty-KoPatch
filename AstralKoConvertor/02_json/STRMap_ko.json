@@ -1,0 +1,212 @@
+[
+    {
+        "zh-CN": "标准",
+        "en": "Standard",
+        "ja": "",
+        "zh-TW": "標準",
+        "kr": ""
+    },
+    {
+        "zh-CN": "新手",
+        "en": "Novice",
+        "ja": "",
+        "zh-TW": "新手",
+        "kr": ""
+    },
+    {
+        "zh-CN": "测试地图",
+        "en": "81000",
+        "ja": "81000",
+        "zh-TW": "81000",
+        "kr": "81000"
+    },
+    {
+        "zh-CN": "Map_001",
+        "en": "Map_001",
+        "ja": "Map_001",
+        "zh-TW": "Map_001",
+        "kr": "Map_001"
+    },
+    {
+        "zh-CN": "Map_002",
+        "en": "Map_002",
+        "ja": "Map_002",
+        "zh-TW": "Map_002",
+        "kr": "Map_002"
+    },
+    {
+        "zh-CN": "游乐园",
+        "en": "Amusement Park",
+        "ja": "遊園地",
+        "zh-TW": "遊樂園",
+        "kr": "유원지"
+    },
+    {
+        "zh-CN": "十字路口站",
+        "en": "Crossroads",
+        "ja": "四つ辻",
+        "zh-TW": "十字路口站",
+        "kr": "교차로"
+    },
+    {
+        "zh-CN": "樱花小镇",
+        "en": "Sakura Townlet",
+        "ja": "桜の町",
+        "zh-TW": "櫻花小鎮",
+        "kr": "사쿠라"
+    },
+    {
+        "zh-CN": "魅影都市",
+        "en": "Phantom City",
+        "ja": "ファントム・シティ",
+        "zh-TW": "魅影都市",
+        "kr": "팬텀 시티"
+    },
+    {
+        "zh-CN": "星趴·梦想号",
+        "en": "Dreama",
+        "ja": "夢想号",
+        "zh-TW": "星趴·夢想號",
+        "kr": "드림호"
+    },
+    {
+        "zh-CN": "御魂庆典",
+        "en": "Soul Celebration",
+        "ja": "御魂の祭",
+        "zh-TW": "禦魂慶典",
+        "kr": "영혼축제"
+    },
+    {
+        "zh-CN": "礼物广场",
+        "en": "Gift Plaza",
+        "ja": "ギフト広場",
+        "zh-TW": "禮物廣場",
+        "kr": "선물 광장"
+    },
+    {
+        "zh-CN": "Map_010",
+        "en": "Map_010",
+        "ja": "Map_010",
+        "zh-TW": "Map_010",
+        "kr": "Map_010"
+    },
+    {
+        "zh-CN": "水乡古镇",
+        "en": "Water Town",
+        "ja": "水郷古鎮",
+        "zh-TW": "水鄉古鎮",
+        "kr": "워터타운"
+    },
+    {
+        "zh-CN": "丛林冒险",
+        "en": "Forest Adventure",
+        "ja": "ジャングルアドベンチャー",
+        "zh-TW": "叢林冒險",
+        "kr": "정글 어드벤처"
+    },
+    {
+        "zh-CN": "魔法学院",
+        "en": "Magic Academy",
+        "ja": "魔法学院",
+        "zh-TW": "魔法學院",
+        "kr": "마법학원"
+    },
+    {
+        "zh-CN": "龙宫游乐园",
+        "en": "Dragon Palace Amusement Park",
+        "ja": "龍宮遊園地",
+        "zh-TW": "龍宮遊樂園",
+        "kr": "용궁유원지"
+    },
+    {
+        "zh-CN": "挑战1",
+        "en": "Challenge 1",
+        "ja": "チャレンジ１",
+        "zh-TW": "挑戰1",
+        "kr": "도전 1"
+    },
+    {
+        "zh-CN": "挑战2",
+        "en": "Challenge 2",
+        "ja": "チャレンジ２",
+        "zh-TW": "挑戰2",
+        "kr": "도전 2"
+    },
+    {
+        "zh-CN": "挑战3",
+        "en": "Challenge 3",
+        "ja": "チャレンジ２",
+        "zh-TW": "挑戰3",
+        "kr": "도전 3"
+    },
+    {
+        "zh-CN": "运用自己的计谋，以及亿点点运气的来取得胜利吧！",
+        "en": "Use your strategy and a bit of luck to achieve victory!",
+        "ja": "ズル賢い作戦、運にもたーっぷり頼っちゃって、勝利を掴み取れ！　",
+        "zh-TW": "運用自己的計謀，以及億點點運氣的來取得勝利吧！",
+        "kr": "기발한 전략과 약간의 운을 활용해서 승리를 쟁취하세요!"
+    },
+    {
+        "zh-CN": "团子千奇百怪，内圈战火连天。",
+        "en": "Various dango gather as battles rage in the inner circle.",
+        "ja": "団子は奇々怪々、圏内は戦いの連続！",
+        "zh-TW": "團子千奇百怪，內圈戰火連天。",
+        "kr": "격렬해지는 전투, 모여드는 당고!"
+    },
+    {
+        "zh-CN": "请注意来往车辆！",
+        "en": "Please watch out for passing vehicles!",
+        "ja": "列車が通ります。ご注意ください！",
+        "zh-TW": "請注意來往車輛！",
+        "kr": "오가는 차량에 주의하세요!"
+    },
+    {
+        "zh-CN": "小偷出没，请看好你的钱袋子！",
+        "en": "Thieves are about! Keep an eye on your purse!",
+        "ja": "泥棒注意！あなたの財布も狙われているかもしれません…",
+        "zh-TW": "小偷出沒，請看好妳的錢袋子！",
+        "kr": "도둑 주의! 당신의 지갑도 노려지고 있을지도 몰라요..."
+    },
+    {
+        "zh-CN": "击败海盗王嘎呜，保护梦想号！",
+        "en": "Defeat Pirate King Gawu and protect the Dreama!",
+        "ja": "海賊王ガオーを撃破し！夢想号を保護せよ！",
+        "zh-TW": "擊敗海盜王嘎嗚，保護夢想號！",
+        "kr": "해적왕 가우를 무찌르고, 드림호를 지키세요!"
+    },
+    {
+        "zh-CN": "擒鬼先擒王！",
+        "en": "Capture the king to catch the ghost!",
+        "ja": "敵将、討ち取ったりぃーーー！",
+        "zh-TW": "擒鬼先擒王！",
+        "kr": "유령을 잡으려면 왕부터ーーー!"
+    },
+    {
+        "zh-CN": "爆竹可是驱邪的好东西！",
+        "en": "Firecrackers are great for warding off evil spirits!",
+        "ja": "爆竹はとっておきの魔除け道具だ",
+        "zh-TW": "爆竹可是驅邪的好東西！",
+        "kr": "폭죽은 아주 좋은 액막이 도구!"
+    },
+    {
+        "zh-CN": "高回报伴随着高风险！小心断桥！",
+        "en": "High risk, high reward! Beware of broken bridges!",
+        "ja": "ハイリスクハイリターン！橋の崩落にご注意ください！",
+        "zh-TW": "高回報伴隨著高風險！小心斷橋！",
+        "kr": "하이 리스크, 하이 리턴! 끊어진 다리를 조심하세요!"
+    },
+    {
+        "zh-CN": "古老的魔法学院发生了冲突！但地点竟是学院食堂？",
+        "en": "Conflict has erupted at the ancient Magic Academy! But the location is... the Cafeteria?",
+        "ja": "古の魔法学院で衝突発生！ その舞台はなんと学院の食堂だった！？",
+        "zh-TW": "古老的魔法學院發生了沖突！但地點竟是學院食堂？",
+        "kr": "전통의 마법학원에서 충돌이 발생했다! 그 장소는 무려 학원의 식당?"
+    },
+    {
+        "zh-CN": "龙宫里有什么神奇的宝贝呢！？",
+        "en": "What magical treasures are there in the Dragon Palace!?",
+        "ja": "龍宮の中にはどんな秘密が眠っているのだろう～",
+        "zh-TW": "龍宮裏有什麽神奇的寶貝呢！？",
+        "kr": "용궁에는 어떤 신비한 보물들이 있을까요?"
+    }
+]

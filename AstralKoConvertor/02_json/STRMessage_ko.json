@@ -1,0 +1,1486 @@
+[
+    {
+        "zh-CN": "输入用户名",
+        "en": "Enter username",
+        "ja": "ユーザー名を入力",
+        "zh-TW": "輸入用戶名稱",
+        "kr": "사용자 이름 입력"
+    },
+    {
+        "zh-CN": "输入IP地址",
+        "en": "Enter IP address",
+        "ja": "IPアドレスを入力",
+        "zh-TW": "輸入IP位址",
+        "kr": "IP 주소 입력"
+    },
+    {
+        "zh-CN": "连接成功",
+        "en": "Connection established",
+        "ja": "接続成功",
+        "zh-TW": "連線成功",
+        "kr": "연결성공"
+    },
+    {
+        "zh-CN": "连接失败",
+        "en": "Connect failed",
+        "ja": "接続失敗",
+        "zh-TW": "連線失敗",
+        "kr": "연결실패"
+    },
+    {
+        "zh-CN": "网络不稳定，是否重连？",
+        "en": "Connection is unstable, would you like to reconnect?",
+        "ja": "通信エラーが発生しました。再接続しますか？",
+        "zh-TW": "網路不穩定，是否重連？",
+        "kr": "연결이 불안정합니다. 다시 연결하시겠습니까?"
+    },
+    {
+        "zh-CN": "错误命令号——{0}",
+        "en": "Error Code {0}",
+        "ja": "エラーコマンド番号{0}",
+        "zh-TW": "錯誤代碼——{0}",
+        "kr": "오류 코드 — {0}"
+    },
+    {
+        "zh-CN": "账号在其他设备登录",
+        "en": "Logged in on another device",
+        "ja": "他のデバイスでログイン済み",
+        "zh-TW": "帳號在其他裝置登入",
+        "kr": "다른 기기에서 로그인됨"
+    },
+    {
+        "zh-CN": "将清除本地配置，是否关闭游戏？",
+        "en": "The local configuration will be cleared, will the game be closed?",
+        "ja": "キャッシュクリアする、ゲームを閉じますか？",
+        "zh-TW": "將清除本地配置，是否關閉遊戲？",
+        "kr": "로컬 설정이 초기화됩니다, 종료하시겠습니까?"
+    },
+    {
+        "zh-CN": "网络连接失败，请重新登录",
+        "en": "Connection failed. Please retry.",
+        "ja": "通信エラーが発生しました。もう一度ログインしてください。",
+        "zh-TW": "網路連線失敗，請重新登入",
+        "kr": "네트워크 연결 실패, 다시 로그인해주세요"
+    },
+    {
+        "zh-CN": "服务器正在维护中，开服时间请查看公告",
+        "en": "The server is currently under maintenance. Please check the announcement.",
+        "ja": "サーバーメンテナンス中、メンテ明け時間は告知ページでご確認ください。",
+        "zh-TW": "伺服器正在維護中，開服時間請查看公告",
+        "kr": "서버 점검 중입니다, 오픈 시간은 공지를 확인해주세요"
+    },
+    {
+        "zh-CN": "您购买的星月票今日已到期，星月票涉及的所有奖励已经通过邮件发放完毕。\n请问您是否续购？",
+        "en": "Your Monthly Pass has expired today. All the reward have been sent via mail. \nWould you like to renew your Monthly Pass?",
+        "ja": "購入されたスターマンスリーパスは今日で期限切れになっております。継続購入しますか？",
+        "zh-TW": "您購買的星月票今日已到期，星月票涉及的所有獎勵已經通過郵件發放完畢。\n請問你是否續購？",
+        "kr": "월간 패스가 만료되었습니다. 모든 보상은 우편으로 지급되었습니다.\n재구매하시겠습니까?"
+    },
+    {
+        "zh-CN": "确定要退出登录吗？",
+        "en": "Are you sure to log out?",
+        "ja": "ログアウトします、よろしいですか？",
+        "zh-TW": "確定要退出登錄嗎？",
+        "kr": "로그아웃하시겠습니까?"
+    },
+    {
+        "zh-CN": "登录成功",
+        "en": "Login successful",
+        "ja": "ログイン成功",
+        "zh-TW": "登錄成功",
+        "kr": "로그인 성공"
+    },
+    {
+        "zh-CN": "登录失败",
+        "en": "Login failed",
+        "ja": "ログイン失敗",
+        "zh-TW": "登錄失敗",
+        "kr": "로그인 실패"
+    },
+    {
+        "zh-CN": "已注销",
+        "en": "Logged out",
+        "ja": "ログアウトしました",
+        "zh-TW": "已註銷",
+        "kr": "로그아웃됨"
+    },
+    {
+        "zh-CN": "昵称不能为空",
+        "en": "Nickname cannot be empty",
+        "ja": "１文字以上入力してください",
+        "zh-TW": "暱稱不能爲空",
+        "kr": "닉네임은 비워둘 수 없습니다"
+    },
+    {
+        "zh-CN": "昵称不能超过20个字符",
+        "en": "Nicknames cannot exceed 20 characters",
+        "ja": "適切でない表記・表現が含まれているか、文字数の制限に抵触しています。",
+        "zh-TW": "暱稱不能超過20個字符",
+        "kr": "닉네임은 20자를 초과할 수 없습니다"
+    },
+    {
+        "zh-CN": "昵称可用符号“-”或“_”，不能包含其他符号",
+        "en": "Nicknames can use symbols such as \"-\" or \"_\", and cannot contain any other symbols",
+        "ja": "適切でない表記・表現が含まれているか、文字数の制限に抵触しています。",
+        "zh-TW": "暱稱可用符號”-“或”_“，不能包含其他符號",
+        "kr": "닉네임에는 ‘-’ 또는 ‘_’ 이외의 다른 특수문자는 사용할 수 없습니다"
+    },
+    {
+        "zh-CN": "昵称不能包含非法字符",
+        "en": "Nicknames cannot contain illegal characters",
+        "ja": "適切でない表記・表現が含まれているか、文字数の制限に抵触しています。",
+        "zh-TW": "暱稱不能包含非法字符",
+        "kr": "닉네임에 유효하지 않은 문자가 포함되어 있습니다"
+    },
+    {
+        "zh-CN": "是否删除账号？",
+        "en": "Do you want to delete the account?",
+        "ja": "アカウント削除します、よろしいですか？",
+        "zh-TW": "是否刪除賬號？",
+        "kr": "계정을 삭제하시겠습니까?"
+    },
+    {
+        "zh-CN": "账号或密码不能为空！",
+        "en": "Account or password cannot be empty!",
+        "ja": "１文字以上入力してください",
+        "zh-TW": "賬號或密碼不能爲空！",
+        "kr": "비워둘 수 없습니다!"
+    },
+    {
+        "zh-CN": "请为您的账号取一个昵称\n※每天最多可修改一次昵称",
+        "en": "Please give your account a nickname\n※ Nicknames can be changed up to once a day",
+        "ja": "名前を入力してください。\n※名前の変更は２４時間に1回可能です",
+        "zh-TW": "請爲您的賬號取壹個昵稱\n※每天最多可修改壹次昵稱",
+        "kr": "닉네임을 설정해주세요\n※하루에 한 번 변경할 수 있습니다"
+    },
+    {
+        "zh-CN": "账号或密码错误！",
+        "en": "Account or password incorrect!",
+        "ja": "アカウントまたはパスワードが違います",
+        "zh-TW": "賬號或密碼錯誤！",
+        "kr": "계정 또는 비밀번호가 틀렸습니다!"
+    },
+    {
+        "zh-CN": "开始游戏",
+        "en": "Start!",
+        "ja": "ゲームスタート！",
+        "zh-TW": "開始遊戲",
+        "kr": "게임 시작!"
+    },
+    {
+        "zh-CN": "排队中…",
+        "en": "Queuing....",
+        "ja": "順番待ち中…",
+        "zh-TW": "排隊中…",
+        "kr": "대기 중…"
+    },
+    {
+        "zh-CN": "[color=#999999]不超过20个字符[/color]",
+        "en": "Enter nickname (maximum 20 characters)",
+        "ja": "[color=#999999]20文字以内で入力してください[/color]",
+        "zh-TW": "[color=#999999]不超過20個字符[/color]",
+        "kr": "[color=#999999]20자 이내로 입력하세요[/color]"
+    },
+    {
+        "zh-CN": "检测到有重要内容需要更新，请重新登录",
+        "en": "Update detected, please log in again...",
+        "ja": "アップデートが検出されました、ログインし直してください...",
+        "zh-TW": "檢測到有重要內容需要更新，請重新登錄",
+        "kr": "업데이트가 필요합니다, 다시 로그인해주세요"
+    },
+    {
+        "zh-CN": "修改昵称",
+        "en": "Edit Nickname",
+        "ja": "名前変更",
+        "zh-TW": "修改暱稱",
+        "kr": "수정"
+    },
+    {
+        "zh-CN": "昵称未发生变化",
+        "en": "Nickname unchanged",
+        "ja": "名前の変化はありません",
+        "zh-TW": "暱稱未發生變化",
+        "kr": "변경되지 않았습니다"
+    },
+    {
+        "zh-CN": "修改昵称冷却中，请明日再试",
+        "en": "Nickname change on cooldown, please try again tomorrow",
+        "ja": "申し訳ありませんが、制限に達しました。しばらくしてから、再度お試しください",
+        "zh-TW": "修改暱稱冷卻中，請明日再試",
+        "kr": "닉네임 변경 쿨타임 중입니다, 내일 다시 시도해주세요"
+    },
+    {
+        "zh-CN": "前往",
+        "en": "Go to",
+        "ja": "移動",
+        "zh-TW": "前往",
+        "kr": "이동"
+    },
+    {
+        "zh-CN": "跳转[color=#5a64f2]Discord[/color]获得奖励",
+        "en": "Join [color=#5a64f2]Discord[/color] for rewards",
+        "ja": "公式[color=#5a64f2]ディスコード[/color]に参加で報酬を獲得",
+        "zh-TW": "跳轉[color=#5a64f2]Discord[/color]獲得獎勵",
+        "kr": "[color=#5a64f2]디스코드[/color]로 이동하여 보상받기"
+    },
+    {
+        "zh-CN": "确定使用这个昵称吗？\n※每天最多可修改一次昵称",
+        "en": "Do you confirm using this nickname?\n※ Nicknames can be changed up to once a day",
+        "ja": "名前はこちらでよろしいですか？\n※名前の変更は２４時間に1回可能です",
+        "zh-TW": "您確認使用這個暱稱嗎？\n※每天最多可修改壹次暱稱",
+        "kr": "이 닉네임을 사용하시겠습니까?\n※하루에 한 번 변경할 수 있습니다"
+    },
+    {
+        "zh-CN": "请选择房间",
+        "en": "Select Room",
+        "ja": "ルーム選択",
+        "zh-TW": "請選擇房間",
+        "kr": "방 선택"
+    },
+    {
+        "zh-CN": "房间已开战，暂未实装观战功能，敬请期待！",
+        "en": "Game has already started.\nSpecator mode is not prepared.\n",
+        "ja": "ルームバトルが開始されましたが、観戦機能はまだ実装されておりません。",
+        "zh-TW": "房間已開戰，暫未​​實裝觀戰功能，敬請期待！",
+        "kr": "게임이 시작되었습니다, 관전 기능은 아직 구현되지 않았으니 기대해주세요!"
+    },
+    {
+        "zh-CN": "房间已经处于备战状态，无法加入",
+        "en": "Game is ready.\nCannot join.",
+        "ja": "ルームはすでに準備段階に入っており、今からの参加はできません。",
+        "zh-TW": "房間已經處於備戰狀態，無法加入",
+        "kr": "방이 이미 준비 상태입니다, 입장할 수 없습니다"
+    },
+    {
+        "zh-CN": "房间已经满员，请选择其他房间",
+        "en": "Room is full.",
+        "ja": "ルームはすでに満員になった",
+        "zh-TW": "房間已經滿員，請選擇其他房間",
+        "kr": "방이 이미 가득 찼습니다"
+    },
+    {
+        "zh-CN": "请输入密码",
+        "en": "Please enter password",
+        "ja": "パスワード入力してください",
+        "zh-TW": "請輸入密碼",
+        "kr": "비밀번호를 입력하세요"
+    },
+    {
+        "zh-CN": "数据载入中....",
+        "en": "Loading....",
+        "ja": "準備完了、データを読み込み中",
+        "zh-TW": "載入中....",
+        "kr": "데이터를 불러오는 중..."
+    },
+    {
+        "zh-CN": "该角色已经被其他玩家选择了",
+        "en": "This character has been chosen",
+        "ja": "すでに他のプレイヤーに選択されました",
+        "zh-TW": "該角色已經被其他玩家選擇了",
+        "kr": "이미 다른 플레이어가 선택했습니다"
+    },
+    {
+        "zh-CN": "暂未获得角色",
+        "en": "Unavailable character",
+        "ja": "当キャラはまだ未獲得",
+        "zh-TW": "暫未獲得角色",
+        "kr": "미획득 캐릭터"
+    },
+    {
+        "zh-CN": "无法选择该角色",
+        "en": "Cannot choose this character",
+        "ja": "当キャラは選択できません",
+        "zh-TW": "無法選擇該角色",
+        "kr": "선택할 수 없는 캐릭터"
+    },
+    {
+        "zh-CN": "你确定要关闭该房间吗？",
+        "en": "Are you sure to close the room?",
+        "ja": "ルームを閉じてもいいですか",
+        "zh-TW": "您確定要關閉該房間嗎？",
+        "kr": "이 방을 닫으시겠습니까?"
+    },
+    {
+        "zh-CN": "下架倒计时：{0}天{1}小时",
+        "en": "Ends in: {0}D{1}H",
+        "ja": "終了まで{0}日{1}時間",
+        "zh-TW": "下架倒數：{0}天{1}小時",
+        "kr": "종료까지: {0}D {1}H"
+    },
+    {
+        "zh-CN": "下架倒计时：{0}小时{1}分钟",
+        "en": "Ends in: {0}H{1}M",
+        "ja": "終了まで{0}時間{1}分",
+        "zh-TW": "下架倒數計時：{0}小時{1}分鐘",
+        "kr": "종료까지: {0}H {1}M"
+    },
+    {
+        "zh-CN": "刷新倒计时：{0}天{1}小时",
+        "en": "Refresh: {0}D{1}H",
+        "ja": "更新するまで{0}日{1}時間",
+        "zh-TW": "刷新倒數計時：{0}天{1}小時",
+        "kr": "새로고침까지: {0}D {1}H"
+    },
+    {
+        "zh-CN": "刷新倒计时：{0}小时{1}分钟",
+        "en": "Refresh: {0}H{1}M",
+        "ja": "更新するまで{0}時間{1}分",
+        "zh-TW": "刷新倒數計時：{0}小時{1}分鐘",
+        "kr": "새로고침까지: {0}H {1}M"
+    },
+    {
+        "zh-CN": "确认退出游戏？",
+        "en": "Confirm to exit?",
+        "ja": "ゲームを終了しますか",
+        "zh-TW": "確認退出遊戲？",
+        "kr": "종료하시겠습니까?"
+    },
+    {
+        "zh-CN": "抱歉，货币不足",
+        "en": "Sorry, insufficient currency",
+        "ja": "申し訳ありません、素材が足りません",
+        "zh-TW": "抱歉，貨幣不足",
+        "kr": "죄송합니다, 재화가 부족합니다"
+    },
+    {
+        "zh-CN": "无法加入好友房间，请先离开当前房间！",
+        "en": "Please leave your current room!",
+        "ja": "現在の部屋から退出してください！",
+        "zh-TW": "無法加入好友房間，請先離開目前房間！",
+        "kr": "현재 방을 먼저 나가주세요!"
+    },
+    {
+        "zh-CN": "确定用【电脑Bot】补齐空位？",
+        "en": "Confirm to add <Bots> into empty player positions?",
+        "ja": "空のプレイヤー位置に<Bots>を追加しますか？",
+        "zh-TW": "確定用【電腦Bot】補齊空位？",
+        "kr": "【Bot】으로 빈자리를 채우시겠습니까?"
+    },
+    {
+        "zh-CN": "是否进入新手引导？",
+        "en": "Confirm to enter beginner tutorial?",
+        "ja": "初心者チュートリアルに入りますか？",
+        "zh-TW": "是否進入新手教學？",
+        "kr": "튜토리얼을 시작하시겠습니까?"
+    },
+    {
+        "zh-CN": "是否退出当前房间？",
+        "en": "Confirm to leave the current room?",
+        "ja": "現在の部屋を退出しますか？",
+        "zh-TW": "是否退出目前房間？",
+        "kr": "현재 방에서 나가시겠습니까?"
+    },
+    {
+        "zh-CN": "您是否要离开本局游戏？",
+        "en": "Confirm to leave the current game?",
+        "ja": "現在のゲームを終了しますか？",
+        "zh-TW": "您是否要離開本局遊戲？",
+        "kr": "현재 게임을 떠나시겠습니까?"
+    },
+    {
+        "zh-CN": "当前房间内的玩家没有完全准备，无法开始游戏。",
+        "en": "Wait for other players to prepare.",
+        "ja": "他のプレイヤーの準備が整うまでお待ちください。",
+        "zh-TW": "目前房間內的角色沒有完全準備，無法開始遊戲。",
+        "kr": "다른 플레이어가 준비될 때까지 기다려 주세요."
+    },
+    {
+        "zh-CN": "当前房间存在时间超时，已被关闭。",
+        "en": "Your room is closed for being over clock.",
+        "ja": "時間オーバーで部屋は閉鎖されました。",
+        "zh-TW": "因超過時限，房間已被關閉。",
+        "kr": "현재 방의 시간이 초과되어 닫혔습니다."
+    },
+    {
+        "zh-CN": "您是否要关闭游戏?",
+        "en": "Confirm to exit the game?",
+        "ja": "ゲームを終了しますか？",
+        "zh-TW": "您是否要關閉遊戲?",
+        "kr": "종료하시겠습니까?"
+    },
+    {
+        "zh-CN": "由于您在上一把游戏中非正常退出游戏，请在{0}秒后再尝试加入游戏。",
+        "en": "Please try joining the game in {0}s, as you left your previous game improperly.",
+        "ja": "前回のゲームを不適切に退出したため、{0}秒後に再度ゲーム参加をお試しください。",
+        "zh-TW": "由於您在上一局遊戲中未正確退出遊戲，請在{0}秒後再嘗試加入遊戲。",
+        "kr": "이전 게임이 비정상적으로 종료하여, {0}초 후에 다시 게임에 참가할 수 있습니다."
+    },
+    {
+        "zh-CN": "正在连接支付系统，请稍等",
+        "en": "Connecting Payment System, Please wait.....",
+        "ja": "支払いシステム接続中、しばらくお待ち下さい。",
+        "zh-TW": "正在連接支付系統，請稍等",
+        "kr": "결제 시스템에 연결 중, 잠시만 기다려 주세요..."
+    },
+    {
+        "zh-CN": "USD",
+        "en": "USD",
+        "ja": "USD",
+        "zh-TW": "USD",
+        "kr": "USD"
+    },
+    {
+        "zh-CN": "房间未满员，无法开始游戏。",
+        "en": "Wait for other players to join.",
+        "ja": "ルーム満員しない、ゲームを始めることができません。",
+        "zh-TW": "房間未滿員，無法開始遊戲。",
+        "kr": "방이 가득 차지 않아, 게임을 시작할 수 없습니다."
+    },
+    {
+        "zh-CN": "由于在全员准备的状态下长时间未开始游戏，房主已转让。",
+        "en": "The host has been transferred to others since the waiting time is too long",
+        "ja": "準備完了で開始せず、ホスト変更。",
+        "zh-TW": "房主長時間未開始遊戲，主持權已轉移至其他玩家",
+        "kr": "방장이 변경되었습니다."
+    },
+    {
+        "zh-CN": "您已被房主请出了房间。",
+        "en": "You have been removed from the room",
+        "ja": "ホストによりルームからキックされました。",
+        "zh-TW": "您已被房主請出了房間。",
+        "kr": "방장에 의해 방에서 추방되었습니다."
+    },
+    {
+        "zh-CN": "保存成功！",
+        "en": "Saved",
+        "ja": "設定完了",
+        "zh-TW": "保存成功",
+        "kr": "저장완료"
+    },
+    {
+        "zh-CN": "选择了未拥有的装扮，未保存成功",
+        "en": "Not saved as there are outfits you do not own",
+        "ja": "未所持の装備を選択したため、設定に失敗しました",
+        "zh-TW": "選擇了未擁有的裝扮，未能儲存",
+        "kr": "보유하지 않은 스킨을 선택, 저장에 실패했습니다"
+    },
+    {
+        "zh-CN": "确定要重置为上次保存的配置？",
+        "en": "Reset to the last configuration?",
+        "ja": "前回の設定にリセットしますか？",
+        "zh-TW": "確定要重置為上次儲存的配置？",
+        "kr": "마지막 설정으로 초기화할까요?"
+    },
+    {
+        "zh-CN": "剩余：{0}天{1}小时",
+        "en": "Remaining: {0}d {1}h",
+        "ja": "残り時間：{0}日{1}時間",
+        "zh-TW": "剩餘：{0}天{1}小時",
+        "kr": "남은 시간: {0}d {1}h"
+    },
+    {
+        "zh-CN": "剩余：{0}小时{1}分钟",
+        "en": "Remaining: {0}h{1}m",
+        "ja": "残り時間：{0}時間{1}分",
+        "zh-TW": "剩餘：{0}小時{1}分鐘",
+        "kr": "남은 시간: {0}h {1}m"
+    },
+    {
+        "zh-CN": "信息未公开",
+        "en": "Not public",
+        "ja": "情報非公開",
+        "zh-TW": "資訊未公開",
+        "kr": "비공개"
+    },
+    {
+        "zh-CN": "有效期剩余：{0}天{1}小时{2}分钟",
+        "en": "Expire in: {0}d{1}h{2}m",
+        "ja": "有効期限切れるまで後：{0}日{1}時間{2}分",
+        "zh-TW": "有效期限剩餘：{0}天{1}小時{2}分鐘",
+        "kr": "남은 유효 기간: {0}d {1}h {2}m"
+    },
+    {
+        "zh-CN": "将于{0}天{1}小时{2}分钟后，转换为[color=#FF9933]{3}[/color]个[color=#FF9933]{4}[/color]",
+        "en": "Converted into {3} {4} in {0}d{1}h{2}m",
+        "ja": "後{0}日{1}時間{2}分で，{4}{3}個に変えます",
+        "zh-TW": "將於{0}天{1}小時{2}分鐘後，轉換為{3}個{4}",
+        "kr": "{0}d {1}h {2}m 후에 {3}개의 {4}로 변환됩니다"
+    },
+    {
+        "zh-CN": "有效期大于等于179天，暂不可再次购买",
+        "en": "Cannot purchase as the validity period is over 179 days",
+        "ja": "有効期限は最大期限「179日」に達しています、これ以上の購入はできません",
+        "zh-TW": "有效期限大於等於179天，暫時不可再購買",
+        "kr": "유효 기간이 179일 이상이므로, 더 이상 구매할 수 없습니다"
+    },
+    {
+        "zh-CN": "剩余领取天数{0}天",
+        "en": "Expire in {0} days",
+        "ja": "パスの有効期限はあと{0}日",
+        "zh-TW": "剩餘領取天數{0}天",
+        "kr": "남은 수령일수 {0}일"
+    },
+    {
+        "zh-CN": "{0}天后过期",
+        "en": "Expire in {0} days",
+        "ja": "受け取り期限あと{0}日",
+        "zh-TW": "{0}天後過期",
+        "kr": "{0}일 후 만료"
+    },
+    {
+        "zh-CN": "{0}小时后过期",
+        "en": "Expire in {0} hrs",
+        "ja": "受け取り期限あと{0}時間",
+        "zh-TW": "{0}小時後過期",
+        "kr": "{0}시간 후 만료"
+    },
+    {
+        "zh-CN": "{0}分钟后过期",
+        "en": "Expire in {0} mins",
+        "ja": "受け取り期限あと{0}分",
+        "zh-TW": "{0}分鐘後過期",
+        "kr": "{0}분 후 만료"
+    },
+    {
+        "zh-CN": "邮件已过期",
+        "en": "Mail expires",
+        "ja": "このメールの受け取り期限が過ぎています",
+        "zh-TW": "郵件已過期",
+        "kr": "우편이 만료되었습니다"
+    },
+    {
+        "zh-CN": "单人游戏无结算奖励，\n无法完成任务和成就，\n确定用【电脑Bot】补齐空位？",
+        "en": "Singer-player mode is rewardless. Confirm to add Bots?",
+        "ja": "ソロプレイでは報酬の獲得や、ミッションや実績の達成等ができません、よろしいですか？",
+        "zh-TW": "單人遊戲無結算獎勵，\n無法完成任務和成就，\n確定用【電腦Bot】補齊空位？",
+        "kr": "싱글 플레이는 보상 획득 및 퀘스트와 업적 달성이 불가능합니다. 【Bot】을 채우시겠습니까?"
+    },
+    {
+        "zh-CN": "玩家人数不足",
+        "en": "Not enough players",
+        "ja": "プレイヤー人数不足",
+        "zh-TW": "玩家人數不足",
+        "kr": "플레이어 수 부족"
+    },
+    {
+        "zh-CN": "规则说明",
+        "en": "Rules",
+        "ja": "ルール",
+        "zh-TW": "規則說明",
+        "kr": "규칙"
+    },
+    {
+        "zh-CN": "▼星月票说明\n每次购买星月票，可立即获得600星盘，同时使星月票生效时间延长30日。\n在生效期间，每日邮件发送30星盘，每日凌晨4点重置(UTC+8)。\n每封星月票奖励的邮件有30天领取时限，过期邮件会自动删除，请及时登录领取。\n\n星月票生效时间小于179天时，才能继续购买并正常增加生效时长。\n当生效时间大于等于179天时，将无法续订星月票。",
+        "en": "▼Rules \nGet 600 Star Discs immediately and 30-day Monthly Pass for every purchase. \nGet 30 Star Discs daily via mail during the validity period. It refreshes at 4 AM(UTC+8).\nThe reward mail expires in 30 days. Please claim it promptly.\nYou can purchase more only when your Monthly Pass validity period is less than 179 days.",
+        "ja": "▼スターマンスリーパスについて\n「スターマンスリーパス」を購入すると、即時に「星盤×600」を獲得し、さらにパスの期間が30日延長されます。\n期間内、毎日4:00に「星盤×30」はメール形式で支給されます。\nメールは最大30日間保留されます、期間切れのメールは自動的に削除されます。\n\n「スターマンスリーパス」の有効期間が179日未満の場合、期間の延長ができます。\n有効期限が179日以上の場合、「スターマンスリーパス」の購入はできません。",
+        "zh-TW": "每次購買月卡，可立即獲得600星盤，同時使月卡生效時間延長30日。\n在生效期間，每日郵件發送30星盤，每日淩晨4點重置(UTC+8)。\n每封月卡獎勵的郵件有30天領取時限，過期郵件會自動刪除，請及時登錄領取。\n",
+        "kr": "▼스타 패스 설명\n스타 패스를 구매할 때마다 즉시 스타 코인 600개를 획득, 스타 패스의 유효 기간이 30일 연장됩니다.\n유효 기간 동안 매일 오전 5시(UTC+9)에 우편으로 스타 코인 30개가 지급됩니다.\n각 스타 패스 보상 우편은 30일의 수령 기한이 있으며, 기한이 만료된 우편은 자동으로 삭제되니, 늦지 않게 로그인하여 수령해주세요.\n\n유효 기간이 179일 이상일 경우에는 스타 패스를 추가로 구매할 수 없습니다."
+    },
+    {
+        "zh-CN": "抱歉，{0}不足",
+        "en": "Sorry, insufficient {0}",
+        "ja": "{0}が不足しています",
+        "zh-TW": "抱歉，{0}不足",
+        "kr": "{0}이(가) 부족합니다"
+    },
+    {
+        "zh-CN": "是否消耗{0}个刮刮乐代币进行抽奖？",
+        "en": "Spend {0} Token to play the scratch off?",
+        "ja": "コイン{0}個を消耗します、よろしいですか？",
+        "zh-TW": "是否消耗{0}個刮刮樂代幣進行抽獎？",
+        "kr": "스크래치 토큰 {0}개를 사용하여 진행할까요?"
+    },
+    {
+        "zh-CN": "以后不再提示",
+        "en": "Don't remind",
+        "ja": "次回から表示しない",
+        "zh-TW": "以後不再提示",
+        "kr": "다음부터 무시하기"
+    },
+    {
+        "zh-CN": "请选择好友",
+        "en": "Please select a friend",
+        "ja": "フレンドを選択してください",
+        "zh-TW": "請選擇好友",
+        "kr": "친구를 선택해주세요"
+    },
+    {
+        "zh-CN": "{0}天{1}小时",
+        "en": "{0}d {1}h",
+        "ja": "{0}日{1}時間",
+        "zh-TW": "{0}天{1}小時",
+        "kr": "{0}d {1}h"
+    },
+    {
+        "zh-CN": "{0}小时{1}分钟",
+        "en": "{0}h{1}m",
+        "ja": "{0}時間{1}分",
+        "zh-TW": "{0}小時{1}分鐘",
+        "kr": "{0}h {1}m"
+    },
+    {
+        "zh-CN": "抱歉，所需道具不足",
+        "en": "Sorry, insufficient required items.",
+        "ja": "必要なアイテムが不足しています。",
+        "zh-TW": "抱歉，所需道具不足",
+        "kr": "필요한 아이템이 부족합니다"
+    },
+    {
+        "zh-CN": "使用{0}将直接升满羁绊等级，确定使用吗？",
+        "en": "Using {0} will max out the Friendship LV. Are you sure?",
+        "ja": "{0}を１つ消耗して絆レベルをMAXにします、よろしいですか？",
+        "zh-TW": "使用{0}將直接升滿羈絆等級，確定使用嗎？",
+        "kr": "{0}을 사용하면 인연 레벨이 MAX가 됩니다, 사용하시겠습니까?"
+    },
+    {
+        "zh-CN": "确定使用{0}进行缔结契约吗？",
+        "en": "Are you sure using {0} to Bond Forge?",
+        "ja": "{0}を１つ消耗して契約締結します、よろしいですか？",
+        "zh-TW": "確定使用{0}進行締結契約嗎？",
+        "kr": "{0}을(를) 사용하여 계약을 체결하시겠습니까?"
+    },
+    {
+        "zh-CN": "每周获取上限",
+        "en": "Weekly Maximum",
+        "ja": "週間取得上限",
+        "zh-TW": "每周獲取上限",
+        "kr": "주간획득상한"
+    },
+    {
+        "zh-CN": "感谢您的举报，我们会密切监控该玩家的游戏行为。",
+        "en": "Thanks for your report! We will monitor the player's behavior.",
+        "ja": "通報にご協力いただき、ありがとうございます。該当するプレイヤーの行為を調査します。",
+        "zh-TW": "感謝您的舉報，我們會密切監控該玩家的遊戲行為。",
+        "kr": "제보해주셔서 감사합니다, 해당 플레이어의 게임 플레이를 면밀히 모니터링하겠습니다."
+    },
+    {
+        "zh-CN": "请先选择难度，再快速加入",
+        "en": "Please select a difficulty first.",
+        "ja": "難易度をチェックした後、クイック参加を押してください！",
+        "zh-TW": "請先選擇難度，再快速加入",
+        "kr": "먼저 난이도를 선택한 후 빠르게 참여해주세요"
+    },
+    {
+        "zh-CN": "已拥有角色：",
+        "en": "Owned Characters:",
+        "ja": "所持キャラクター：",
+        "zh-TW": "已擁有角色：",
+        "kr": "보유 캐릭터:"
+    },
+    {
+        "zh-CN": "已拥有皮肤：",
+        "en": "Owned Skins:",
+        "ja": "所持スキン：",
+        "zh-TW": "已擁有皮膚：",
+        "kr": "보유 스킨:"
+    },
+    {
+        "zh-CN": "已解锁表情：",
+        "en": "Unlocked Emotes:",
+        "ja": "スタンプ：",
+        "zh-TW": "已解鎖表情：",
+        "kr": "이모티콘:"
+    },
+    {
+        "zh-CN": "创建订单失败",
+        "en": "Failed to create order",
+        "ja": "このオーダーの送り状作成に失敗しました",
+        "zh-TW": "創建訂單失敗",
+        "kr": "주문 생성 실패"
+    },
+    {
+        "zh-CN": "商品不存在",
+        "en": "Item does not exist",
+        "ja": "商品が見つかりません",
+        "zh-TW": "商品不存在",
+        "kr": "상품이 존재하지 않음"
+    },
+    {
+        "zh-CN": "确定要购买{0}吗？",
+        "en": "Confirm to purchase {0}?",
+        "ja": "{0}を購入します、よろしいですか？",
+        "zh-TW": "確定要購買{0}嗎？",
+        "kr": "{0}을(를) 구매하시겠습니까?"
+    },
+    {
+        "zh-CN": "折扣倒计时：{0}天{1}小时",
+        "en": "Discount ends in: {0}d{1}h",
+        "ja": "割引終了まであと：{0}日{1}時間",
+        "zh-TW": "折扣倒計時：{0}天{1}小時",
+        "kr": "할인 종료까지: {0}d {1}h"
+    },
+    {
+        "zh-CN": "折扣倒计时：{0}小时{1}分钟",
+        "en": "Discount ends in: {0}h{1}m",
+        "ja": "割引終了まであと：{0}時間{1}分",
+        "zh-TW": "折扣倒計時：{0}小時{1}分鐘",
+        "kr": "할인 종료까지: {0}h {1}m"
+    },
+    {
+        "zh-CN": "地图信息",
+        "en": "Map Information",
+        "ja": "マップ情報",
+        "zh-TW": "地圖信息",
+        "kr": "지도 정보"
+    },
+    {
+        "zh-CN": "怪物信息",
+        "en": "Monster Information",
+        "ja": "モンスター情報",
+        "zh-TW": "怪物信息",
+        "kr": "몬스터 정보"
+    },
+    {
+        "zh-CN": "邀请码无效",
+        "en": "Invalid Invitation Code",
+        "ja": "招待コード無効",
+        "zh-TW": "邀請碼無效",
+        "kr": "잘못된초대코드"
+    },
+    {
+        "zh-CN": "确定消耗{0}购买{1}吗？",
+        "en": "Confirm to spend {0} to purchase {1}?",
+        "ja": "{0}を消耗して、{1}を購入しますか？",
+        "zh-TW": "確定消耗{0}購買{1}嗎？",
+        "kr": "{0}을 소모하여 {1}을(를) 구매할까요?"
+    },
+    {
+        "zh-CN": "本日不再提示",
+        "en": "Do not prompt today",
+        "ja": "本日はこれ以上表示しません",
+        "zh-TW": "本日不再提示",
+        "kr": "오늘은 더 이상 알리지 않음"
+    },
+    {
+        "zh-CN": "是否消耗{0}个{1}进行抽奖？",
+        "en": "Do you want to spend {0} {1} to draw?",
+        "ja": "{1}を{0}個使ってガチャを引きますか？",
+        "zh-TW": "是否消耗{0}個{1}進行抽獎？",
+        "kr": "{1} {0}개를 사용해 추첨하시겠습니까?"
+    },
+    {
+        "zh-CN": "买入{0}确认",
+        "en": "Confirm purchase of {0}",
+        "ja": "{0}購入確認",
+        "zh-TW": "買入{0}確認",
+        "kr": "{0}구매확인"
+    },
+    {
+        "zh-CN": "共消耗{0}{1} {2}{3}获得{4}{5}",
+        "en": "Total consumed: {0}{1} {2}{3} to obtain {4}{5}",
+        "ja": "{0}{1} と{2}{3}を使って{4}{5}を購入",
+        "zh-TW": "共消耗{0}{1} {2}{3}獲得{4}{5}",
+        "kr": "{0}{1} {2}{3}을 소모해 {4}{5}를 획득"
+    },
+    {
+        "zh-CN": "共消耗{0}{1} {2}{3}将通行证等级提升至{4}",
+        "en": "Total consumed: {0}{1} {2}{3} to upgrade Pass level to {4}",
+        "ja": "{0}{1}と {2}{3}を使ってパスレベルを{4}にしますか？",
+        "zh-TW": "共消耗{0}{1} {2}{3}將通行證等級提升至{4}",
+        "kr": "{0}{1} {2}{3}을 소모해 패스 레벨을 {4}로 올리기"
+    },
+    {
+        "zh-CN": "购买通行证等级",
+        "en": "Purchase Pass Level",
+        "ja": "星盤で解放する",
+        "zh-TW": "購買通行證等級",
+        "kr": "패스 레벨 구매"
+    },
+    {
+        "zh-CN": "仅需",
+        "en": "（123456@#）",
+        "ja": "１回きりお得！",
+        "zh-TW": "（123456@#）",
+        "kr": "1회용 특가!"
+    },
+    {
+        "zh-CN": "当前装扮方案未保存，是否继续？",
+        "en": "Your dressing up is not saved. Continue?",
+        "ja": "現在の衣装プランは保存されていません。続けますか？",
+        "zh-TW": "目前裝扮尚未儲存，是否繼續？",
+        "kr": "현재 복장이 저장되지 않았습니다, 계속하시겠습니까?"
+    },
+    {
+        "zh-CN": "（123456@#）",
+        "en": "（123456@#）",
+        "ja": "購入エラー：今月の課金上限より{0}を超過しました。",
+        "zh-TW": "（123456@#）",
+        "kr": "구매오류: 이번달 과금 상한을 {0} 초과하였습니다."
+    },
+    {
+        "zh-CN": "档案",
+        "en": "Profile",
+        "ja": "プロフィール",
+        "zh-TW": "檔案",
+        "kr": "프로필"
+    },
+    {
+        "zh-CN": "跳过",
+        "en": "Skip",
+        "ja": "スキップ",
+        "zh-TW": "跳過",
+        "kr": "건너뛰기"
+    },
+    {
+        "zh-CN": "难度已修改，请重新准备",
+        "en": "Difficulty setting has been changed. Please ready up again.",
+        "ja": "難易度設定が変更されました、もう一度準備してください",
+        "zh-TW": "難度已修改，請重新准備",
+        "kr": "난이도가 변경되었습니다, 다시 준비해주세요"
+    },
+    {
+        "zh-CN": "点击过于频繁，请稍后尝试",
+        "en": "You're tapping too frequently. Please try again later.",
+        "ja": "操作が頻回すぎます。しばらく経ってから再度お試しください",
+        "zh-TW": "點擊過于頻繁，請稍後嘗試",
+        "kr": "너무 자주 누르고 있습니다, 잠시 후에 다시 시도해주세요"
+    },
+    {
+        "zh-CN": "已获得",
+        "en": "Obtained",
+        "ja": "獲得",
+        "zh-TW": "已獲得",
+        "kr": "획득"
+    },
+    {
+        "zh-CN": "断线重连中...",
+        "en": "Reconnecting…",
+        "ja": "再接続中",
+        "zh-TW": "重新連接中⋯",
+        "kr": "재접속중"
+    },
+    {
+        "zh-CN": "第{0}轮 开始！",
+        "en": "Round {0} Starts",
+        "ja": "ラウンド{0}、開始",
+        "zh-TW": "第{0}輪 開始！",
+        "kr": "제{0}턴 시작!"
+    },
+    {
+        "zh-CN": "时间到了，系统将帮助你完成选择",
+        "en": "Thinking time is over, system will choose for you.",
+        "ja": "思考時間終了、システム自動選択します",
+        "zh-TW": "時間到了，系統將幫助你完成選擇",
+        "kr": "시간 초과, 시스템이 자동 선택합니다"
+    },
+    {
+        "zh-CN": "对手已经丧心病狂了，你无法闪避！",
+        "en": "Opponent used (All-or-nothing), you cannot evade now.",
+        "ja": "相手（狂気）を使いました、回避使えません",
+        "zh-TW": "對手已經喪心病狂了，您無法閃避！",
+        "kr": "상대가 (모 아니면 도)를 사용, 회피 불가"
+    },
+    {
+        "zh-CN": "传递炸弹判定！",
+        "en": "Passing Bomb",
+        "ja": "ボム判定",
+        "zh-TW": "傳遞炸彈判定！",
+        "kr": "폭탄전달"
+    },
+    {
+        "zh-CN": "彩票开奖了！",
+        "en": "Lottery Result Out",
+        "ja": "宝くじ抽選",
+        "zh-TW": "彩票開獎了！",
+        "kr": "복권 당첨!"
+    },
+    {
+        "zh-CN": "你还需要继续选择彩票",
+        "en": "Continue to choose the lottery",
+        "ja": "ナンバーを選択してください",
+        "zh-TW": "你還需要繼續選擇彩票",
+        "kr": "복권 번호를 선택하세요"
+    },
+    {
+        "zh-CN": "所有玩家的星币不足，不能进入赌博！",
+        "en": "All players don't have enough coins. Cannot enter betting!",
+        "ja": "全てのキャラのコインが足りません、当セクションに入ることはできません。",
+        "zh-TW": "所有角色的星幣不足，無法下注賭博！",
+        "kr": "모든 캐릭터의 코인이 부족하여 도박을 할 수 없습니다!"
+    },
+    {
+        "zh-CN": "请选择传送地块",
+        "en": "Please choose a panel for teleportation.",
+        "ja": "転送したいマスを選んでください",
+        "zh-TW": "請選擇傳送地塊",
+        "kr": "이동할 패널을 선택하세요"
+    },
+    {
+        "zh-CN": "请移动镜头选择传送地块",
+        "en": "Move the camera to select a panel for teleportation.",
+        "ja": "カメラを転送したいマスまで移動してください",
+        "zh-TW": "請移動鏡頭選擇傳送地塊",
+        "kr": "카메라를 움직여 이동할 패널을 선택하세요"
+    },
+    {
+        "zh-CN": "请选择目标格子设置路障",
+        "en": "Choose a target panel to put a barricade.",
+        "ja": "障害物の目標マスを選んでください",
+        "zh-TW": "請選擇目標地塊設置路障",
+        "kr": "목표 패널 선택, 바리케이드를 설치"
+    },
+    {
+        "zh-CN": "请选择当前{0}格范围内的格子",
+        "en": "Choose a panel within {0} panels.",
+        "ja": "{0}範囲内のマスを選択してください",
+        "zh-TW": "請選擇目前{0}格範圍內的地塊",
+        "kr": "현재 {0}칸 내의 패널을 선택하세요"
+    },
+    {
+        "zh-CN": "请选择可追击的角色",
+        "en": "Select a character to pursue.",
+        "ja": "追擊したいキャラを選択してください",
+        "zh-TW": "請選擇可追擊的角色",
+        "kr": "추격할 수 있는 캐릭터를 선택하세요"
+    },
+    {
+        "zh-CN": "玩家当前的星币不足",
+        "en": "Character insufficient coins.",
+        "ja": "当キャラのコインは足りません",
+        "zh-TW": "角色當前的星幣不足",
+        "kr": "현재 코인이 부족합니다"
+    },
+    {
+        "zh-CN": "请选择需要的卡牌",
+        "en": "Please select a required card.",
+        "ja": "使いたいカードを選択してください",
+        "zh-TW": "請選擇所需的卡牌",
+        "kr": "필요한 카드를 선택하세요"
+    },
+    {
+        "zh-CN": "选择点数",
+        "en": "Choose number.",
+        "ja": "点数を選択してください",
+        "zh-TW": "選擇點數",
+        "kr": "점수 선택"
+    },
+    {
+        "zh-CN": "此角色暂时没表情！",
+        "en": "Character's emotion system not enabled.",
+        "ja": "当キャラのスタンプはありません",
+        "zh-TW": "此角色暫時沒有表情！",
+        "kr": "이모티콘이 없습니다!"
+    },
+    {
+        "zh-CN": "发送表情频率太频繁了，稍后再试！",
+        "en": "Sending emotion too frequently!",
+        "ja": "スタンプ使いすぎだよ！",
+        "zh-TW": "發送表情頻率太頻繁了，稍後再試！",
+        "kr": "이모티콘 과부하!"
+    },
+    {
+        "zh-CN": "您已消耗了{0}点COST，使用当前卡牌将超出上限",
+        "en": "Used up {0} cost, you can't use cards exceeding cost limit.",
+        "ja": "{0}ポイントコストを消耗した、コスト上限を超えるカードは使えません",
+        "zh-TW": "您已消耗了{0}點COST，無法打出目前卡牌",
+        "kr": "코스트 {0}을(를) 소모했습니다, 이 카드는 상한을 초과합니다"
+    },
+    {
+        "zh-CN": "卡牌上限为{0}张，请丢弃掉不必要的卡牌",
+        "en": "Hand limit reached, please discard excess cards.",
+        "ja": "手札は上限以上になりました、余分のカードを捨ててください",
+        "zh-TW": "卡牌上限為{0}張，請丟棄不必要的卡牌",
+        "kr": "카드 상한이 {0}장입니다, 불필요한 카드를 버려주세요"
+    },
+    {
+        "zh-CN": "获得{0}星币",
+        "en": "Gain {0} coins.",
+        "ja": "{0}コイン獲得",
+        "zh-TW": "獲得{0}星幣",
+        "kr": "{0}코인 획득"
+    },
+    {
+        "zh-CN": "受到{0}点伤害",
+        "en": "Take {0} damage.",
+        "ja": "{0}点ダメージを受けました",
+        "zh-TW": "受到{0}點傷害",
+        "kr": "{0}의 피해를 받았습니다"
+    },
+    {
+        "zh-CN": "本轮开始，每次轮次奖励星币提升！",
+        "en": "More coins for each player starting from this round!",
+        "ja": "本ターンから、毎ターンボーナスアップ",
+        "zh-TW": "本輪開始，每回合獎勵星幣提升！",
+        "kr": "이번 턴부터 매 턴 보상 코인 상승!"
+    },
+    {
+        "zh-CN": "正在退出房间，请稍等",
+        "en": "Exiting the room, Please wait",
+        "ja": "ルーム退室中、しばらくお待ちください。",
+        "zh-TW": "正在退出房間，請稍等",
+        "kr": "퇴실 중입니다, 잠시만 기다려주세요"
+    },
+    {
+        "zh-CN": "[size=52]{0}[/size]的行动回合开始!",
+        "en": "[size=52]{0}[/size]Turn for Taking Action",
+        "ja": "[size=52]{0}[/size]ターン開始",
+        "zh-TW": "[size=52]{0}[/size]行動回合開始",
+        "kr": "[size=52]{0}[/size]턴 시작!"
+    },
+    {
+        "zh-CN": "[size=52]{0}[/size]正在思考…",
+        "en": "[size=52]{0}[/size]Dwelling…",
+        "ja": "[size=52]{0}[/size]考え中…",
+        "zh-TW": "[size=52]{0}[/size]正在思考⋯",
+        "kr": "[size=52]{0}[/size]생각중..."
+    },
+    {
+        "zh-CN": "[size=52]{0}[/size]正在准备出牌…",
+        "en": "[size=52]{0}[/size]Preparing to play cards…",
+        "ja": "[size=52]{0}[/size]カードを出す準備中…",
+        "zh-TW": "[size=52]{0}[/size]正在準備出牌⋯",
+        "kr": "[size=52]{0}[/size] 카드를 낼 준비 중..."
+    },
+    {
+        "zh-CN": "[size=52]{0}[/size]正在决定是否停留…",
+        "en": "[size=52]{0}[/size]Thinking about if stay…",
+        "ja": "[size=52]{0}[/size]滞在するかどうか考え中…",
+        "zh-TW": "[size=52]{0}[/size]正在決定是否要停留⋯",
+        "kr": "[size=52]{0}[/size]이(가) 멈출지 고민 중..."
+    },
+    {
+        "zh-CN": "[size=52]{0}[/size]正在商店选购卡牌…",
+        "en": "[size=52]{0}[/size]Purchasing cards…",
+        "ja": "[size=52]{0}[/size]ショップでカードを選んでいます…",
+        "zh-TW": "[size=52]{0}[/size]正在商店選購卡片⋯",
+        "kr": "[size=52]{0}[/size]이(가) 상점에서 카드를 고르는 중..."
+    },
+    {
+        "zh-CN": "[size=52]{0}[/size]正在评估掉血风险…",
+        "en": "[size=52]{0}[/size]Thinking about HP loss…",
+        "ja": "[size=52]{0}[/size]ダメージリスクを評価中…",
+        "zh-TW": "[size=52]{0}[/size]正在評估掉血風險⋯",
+        "kr": "[size=52]{0}[/size]이(가) 피해량을 계산 중..."
+    },
+    {
+        "zh-CN": "[size=52]{0}[/size]正在选择幸运数字…",
+        "en": "[size=52]{0}[/size]Choosing lucky number",
+        "ja": "[size=52]{0}[/size]ラッキーナンバーを選択中…",
+        "zh-TW": "[size=52]{0}[/size]正在選擇幸運數字...",
+        "kr": "[size=52]{0}[/size]이(가) 행운의 숫자를 선택 중"
+    },
+    {
+        "zh-CN": "[size=52]{0}[/size]正在填充炮弹…",
+        "en": "[size=52]{0}[/size]Reload shells…",
+        "ja": "[size=52]{0}[/size]砲弾を補填中…",
+        "zh-TW": "[size=52]{0}[/size]正在填充砲彈...",
+        "kr": "[size=52]{0}[/size] 포탄 장전 중..."
+    },
+    {
+        "zh-CN": "[size=52]{0}[/size]作为代表…",
+        "en": "[size=52]{0}[/size]As the host...",
+        "ja": "[size=52]{0}[/size]代表として…",
+        "zh-TW": "[size=52]{0}[/size]作為代表...",
+        "kr": "[size=52]{0}[/size] 대표로서..."
+    },
+    {
+        "zh-CN": "[size=52]{0}[/size]正在使用DD打人…",
+        "en": "[size=52]{0}[/size]Using hitman service…",
+        "ja": "[size=52]{0}[/size]復讐代行屋使用中...",
+        "zh-TW": "[size=52]{0}[/size]正在使用Ubeat打人⋯",
+        "kr": "[size=52]{0}[/size]이(가) DD로 공격 중.."
+    },
+    {
+        "zh-CN": "[size=52]{0}[/size]正在选择传送点…",
+        "en": "[size=52]{0}[/size]Selecting portal target...",
+        "ja": "[size=52]{0}[/size]転送地点を選択中…",
+        "zh-TW": "[size=52]{0}[/size]正在選擇傳送點⋯",
+        "kr": "[size=52]{0}[/size] 전송 지점 선택 중.."
+    },
+    {
+        "zh-CN": "[size=52]{0}[/size]正在医院体检…",
+        "en": "[size=52]{0}[/size]Taking a check-up in hospital...",
+        "ja": "[size=52]{0}[/size]医院で健診中…",
+        "zh-TW": "[size=52]{0}[/size]正在醫院體檢⋯",
+        "kr": "[size=52]{0}[/size] 건강검진 중..."
+    },
+    {
+        "zh-CN": "[size=52]{0}[/size]需要住院1回合！",
+        "en": "[size=52]{0}[/size]Hospital stay for 1 round",
+        "ja": "[size=52]{0}[/size]1ターン入院が必要です！",
+        "zh-TW": "[size=52]{0}[/size]需要住院1回合！",
+        "kr": "[size=52]{0}[/size]이(가) 1턴 동안 입원!"
+    },
+    {
+        "zh-CN": "[size=52]{0}[/size]正在住院！",
+        "en": "[size=52]{0}[/size]In hospital!",
+        "ja": "[size=52]{0}[/size]入院中！",
+        "zh-TW": "[size=52]{0}[/size]正在住院！",
+        "kr": "[size=52]{0}[/size] 입원 중!"
+    },
+    {
+        "zh-CN": "[size=52]{0}[/size]正在占卜…",
+        "en": "[size=52]{0}[/size]Fortunetelling…",
+        "ja": "[size=52]{0}[/size]占い中…",
+        "zh-TW": "[size=52]{0}[/size]正在占卜⋯",
+        "kr": "[size=52]{0}[/size]점보는중"
+    },
+    {
+        "zh-CN": "[size=52]{0}[/size]正在弃牌…",
+        "en": "[size=52]{0}[/size]Discarding…",
+        "ja": "[size=52]{0}[/size]カードを捨てています…",
+        "zh-TW": "[size=52]{0}[/size]正在棄牌⋯",
+        "kr": "[size=52]{0}[/size] 카드를 버리는 중..."
+    },
+    {
+        "zh-CN": "[size=52]{0}[/size]正在选择方向…",
+        "en": "[size=52]{0}[/size] is choosing direction...",
+        "ja": "[size=52]{0}[/size]進行方向を選んでいます…",
+        "zh-TW": "[size=52]{0}[/size]正在選擇方向⋯",
+        "kr": "[size=52]{0}[/size]이(가) 방향을 선택 중..."
+    },
+    {
+        "zh-CN": "[size=52]{0}[/size]正在选择强化筹码…",
+        "en": "[size=52]{0}[/size] is selecting an enhancement chip…",
+        "ja": "[size=52]{0}[/size]強化チップを選んでいます…",
+        "zh-TW": "[size=52]{0}[/size]正在選擇強化籌碼⋯",
+        "kr": "[size=52]{0}[/size]이(가) 강화 칩을 선택 중..."
+    },
+    {
+        "zh-CN": "击倒星选者",
+        "en": "Defeat Star Chooser",
+        "ja": "星選者阻止",
+        "zh-TW": "擊倒星選者",
+        "kr": "성선자처치"
+    },
+    {
+        "zh-CN": "星选者奖励",
+        "en": "Star Chooser Reward",
+        "ja": "星選者ボーナス",
+        "zh-TW": "星選者獎勵",
+        "kr": "성선자 보상"
+    },
+    {
+        "zh-CN": "本关卡限制使用该角色",
+        "en": "In this stage, the use of characters is restricted.",
+        "ja": "このステージでは、このキャラクターの使用は制限されます。",
+        "zh-TW": "本關卡限制使用該角色",
+        "kr": "이 맵에서는 해당 캐릭터의 사용이 제한됩니다"
+    },
+    {
+        "zh-CN": "如果现在离开游戏，您将会受到惩罚。",
+        "en": "Warning: Penalties for quitting match.",
+        "ja": "現在退出した場合、ペナルティ対象となります",
+        "zh-TW": "如果現在離開遊戲，您將會受到懲罰。",
+        "kr": "지금 게임에서 나가시면 페널티를 받게 됩니다."
+    },
+    {
+        "zh-CN": "因其他玩家退出游戏，对局解散",
+        "en": "Due to the withdrawal of other players from the game, the game was disbanded.",
+        "ja": "他の参加プレイヤーが通信を切断しました、対局を終了しました",
+        "zh-TW": "因其他玩家退出遊戲，對局解散",
+        "kr": "다른 플레이어의 게임 이탈로 인해 게임이 해산되었습니다"
+    },
+    {
+        "zh-CN": "[size=52]{0}[/size]正在观看剧情…",
+        "en": "[size=52]{0}[/size] is watching the story...",
+        "ja": "[size=52]{0}さん[/size]ストーリーを観てます…",
+        "zh-TW": "[size=52]{0}[/size]正在觀看劇情⋯",
+        "kr": "[size=52]{0}[/size]이(가) 스토리를 보는 중..."
+    },
+    {
+        "zh-CN": "您当前正处于隐藏UI状态",
+        "en": "It's in hidden UI config currently.",
+        "ja": "今はUIが隠れています",
+        "zh-TW": "您目前正處於隱藏UI狀態",
+        "kr": "현재 UI 숨김 상태"
+    },
+    {
+        "zh-CN": "得到了秘宝！",
+        "en": "Treasure aquaired！",
+        "ja": "秘宝GET！",
+        "zh-TW": "得到了秘寶！",
+        "kr": "비보 GET!"
+    },
+    {
+        "zh-CN": "需要先通关上一难度。",
+        "en": "Clearing the previous difficulty is required.",
+        "ja": "前の難易度をクリアする必要があります",
+        "zh-TW": "需要先通關壹上難度。",
+        "kr": "이전 난이도를 먼저 클리어해야 합니다"
+    },
+    {
+        "zh-CN": "羁绊等级 Ⅰ",
+        "en": "Friendship LV Ⅰ",
+        "ja": "好感度レベル I",
+        "zh-TW": "羈絆等級 Ⅰ",
+        "kr": "우정 레벨 Ⅰ"
+    },
+    {
+        "zh-CN": "羁绊等级 Ⅱ",
+        "en": "Friendship LV Ⅱ",
+        "ja": "好感度レベル II",
+        "zh-TW": "羈絆等級 Ⅱ",
+        "kr": "우정 레벨 Ⅱ"
+    },
+    {
+        "zh-CN": "羁绊等级 Ⅲ",
+        "en": "Friendship LV Ⅲ",
+        "ja": "好感度レベル III",
+        "zh-TW": "羈絆等級 Ⅲ",
+        "kr": "우정 레벨 Ⅲ"
+    },
+    {
+        "zh-CN": "羁绊等级 Ⅳ",
+        "en": "Friendship LV Ⅳ",
+        "ja": "好感度レベル IV",
+        "zh-TW": "羈絆等級 Ⅳ",
+        "kr": "우정 레벨 Ⅳ"
+    },
+    {
+        "zh-CN": "羁绊等级 Ⅴ",
+        "en": "Friendship LV Ⅴ",
+        "ja": "好感度レベル V",
+        "zh-TW": "羈絆等級 Ⅴ",
+        "kr": "우정 레벨 Ⅴ"
+    },
+    {
+        "zh-CN": "突破奖励",
+        "en": "LV UP Reward",
+        "ja": "突破報酬",
+        "zh-TW": "突破獎勵",
+        "kr": "레벨보상"
+    },
+    {
+        "zh-CN": "星引擎Party团队",
+        "en": "Astral Party Team",
+        "ja": "Astral Party Team",
+        "zh-TW": "星引擎 Party 團隊",
+        "kr": "Astral Party Team"
+    },
+    {
+        "zh-CN": "星月票每日奖励",
+        "en": "Monthly Pass Daily Bonus",
+        "ja": "スターマンスリーパスの報酬",
+        "zh-TW": "星月票每日獎勵",
+        "kr": "스타 패스 일일 보상"
+    },
+    {
+        "zh-CN": "附件为星月票的本日奖励，请及时领取。",
+        "en": "Here is the daily bonus for your Monthly Pass, please receive it ASAP.",
+        "ja": "スターマンスリーパスの本日の報酬になります、有効期限切れる前に受け取ってください。",
+        "zh-TW": "附件為星月票本日獎勵，請及時領取。",
+        "kr": "첨부된 파일은 스타 패스 오늘치 보상입니다, 늦지 않게 수령해주세요."
+    },
+    {
+        "zh-CN": "星引擎Party团队",
+        "en": "Astral Party Team",
+        "ja": "Astral Party Team",
+        "zh-TW": "星引擎 Party 團隊",
+        "kr": "Astral Party Team"
+    },
+    {
+        "zh-CN": "维护补偿",
+        "en": "MaintenSance Compensation",
+        "ja": "メンテナンス補償",
+        "zh-TW": "維護補償",
+        "kr": "점검 보상"
+    },
+    {
+        "zh-CN": "亲爱的各位玩家：\n附件是本次停服维护的补偿。\n感谢各位玩家的理解和配合，谢谢。",
+        "en": "To all players:\nThe attachment is the compensation for this outage maintenance.\nThanks for your understanding and cooperation.",
+        "ja": "親愛なるプレーヤーの皆様へ：\nアップデート、メンテナンスに伴う補償：\nご理解とご協力のほどお願い申し上げます。",
+        "zh-TW": "親愛的各位玩家：\n附件是本次停服維護的補償。\n感謝各位玩家的理解和配合，謝謝。",
+        "kr": "친애하는 플레이어 여러분:\n첨부된 파일은 이번 서버 점검 보상입니다.\n이해와 협조에 감사드립니다."
+    },
+    {
+        "zh-CN": "星月票到期提醒",
+        "en": "Monthly Pass Expiration Reminder",
+        "ja": "スターマンスリーパスの有効期限切れのお知らせ",
+        "zh-TW": "星月票到期提醒",
+        "kr": "스타 패스 만료 알림"
+    },
+    {
+        "zh-CN": "亲爱的玩家：\n您的星月票奖励不足3天，如需续订请前往商店进行购买。\n祝您游玩愉快。",
+        "en": "Dear players, \nYour Monthly Pass will expire soon. You can go to the store to renew your Monthly Pass.\n Wish you a happy game.",
+        "ja": "スターマンスリーパスは間もなく期限切れになります、継続購入する場合はショップにで購入をご検討ください",
+        "zh-TW": "親愛的玩家：\n您的星月票獎勵不足3天，如需續訂請前往商店進行購買。\n祝您遊玩愉快。",
+        "kr": "친애하는 플레이어님:\n스타 패스 보상 수령 기간이 3일 남았습니다, 연장을 원하시면 상점에서 구매해주세요."
+    },
+    {
+        "zh-CN": "鼠标拖拽卡牌至屏幕中心释放，则可以打出卡牌。",
+        "en": "Drag the card in to the screen center, and release to use the card.",
+        "ja": "カードを画面の中央にドラッグして出す。",
+        "zh-TW": "滑鼠拖曳卡片至螢幕中心釋放，即可打出卡片。",
+        "kr": "카드를 화면 중앙으로 드래그하여 사용."
+    },
+    {
+        "zh-CN": "拖拽卡牌至屏幕中心释放，则可以打出卡牌。",
+        "en": "Drag the card in to the screen center, and release to use the card.",
+        "ja": "カードを画面の中央にドラッグして出す。",
+        "zh-TW": "拖曳卡片至螢幕中心釋放，即可打出卡片。",
+        "kr": "카드를 화면 중앙으로 드래그하여 사용."
+    },
+    {
+        "zh-CN": "以地块为目标的卡，需要点击地块并确定后才可生效。",
+        "en": "If the card applies to a panel, click the panel to take the card effect.",
+        "ja": "タイルをターゲットとするカードは、タイルをクリックし確認後に有効になる。",
+        "zh-TW": "以地塊為目標的卡，需要點擊地塊並確定後才可生效。",
+        "kr": "패널을 목표로 하는 카드는, 패널을 클릭하고 확인해야만 효과가 적용됩니다."
+    },
+    {
+        "zh-CN": "以地块为目标的卡，需要点击地块并确定后才可生效。",
+        "en": "If the card applies to a panel, click the panel to take the card effect.",
+        "ja": "タイルをターゲットとするカードは、タイルをタップし確認後に有効になる。",
+        "zh-TW": "以地塊為目標的卡，需要點擊地塊並確定後才可生效。",
+        "kr": "패널을 목표로 하는 카드는, 패널을 클릭하고 확인해야만 효과가 적용됩니다."
+    },
+    {
+        "zh-CN": "以角色为目标的卡牌，需要点击左侧的角色头像来使用。",
+        "en": "If the card applies to a character, click the character avatar in the left to take the card effect.",
+        "ja": "キャラをターゲットとするカードは、左のキャラのアイコンをタップして使用する。",
+        "zh-TW": "以角色為目標的卡牌，需要點擊左側的角色頭像來使用。",
+        "kr": "캐릭터를 목표로 하는 카드는, 왼쪽의 캐릭터 아바타를 클릭해야 사용할 수 있습니다."
+    },
+    {
+        "zh-CN": "当被其他玩家的卡牌指定为目标时，若持有反制类卡牌，则可以选择性打出。\n反制卡牌的使用方法与其他卡牌一样，拖拽至屏幕中心即可生效。",
+        "en": "You can use counter cards when you are targeted by others.",
+        "ja": "他のキャラのカードによって指定されたとき、反撃カードを持っていれば任意で出すことができる。反撃カードの使用方法は他のカードと同様、画面の中央にドラッグして有効になる。",
+        "zh-TW": "當被其他角色的卡牌指定為目標時，若持有反制類卡牌，則可以選擇打出。\n反制卡牌的使用方法與其他卡牌一樣，拖曳至螢幕中心即可生效。",
+        "kr": "다른 플레이어의 카드가 자신을 지정했을 때, 대응 카드를 가지고 있다면 선택하여 낼 수 있습니다.\n대응 카드는 다른 카드와 마찬가지로 화면 중앙으로 드래그하여 사용할 수 있습니다."
+    },
+    {
+        "zh-CN": "战斗开始时，双方同时打出战斗牌，战斗牌会有相应的费用。",
+        "en": "As the fight starts, both sides use ATK cards, and they have cost.",
+        "ja": "戦闘の開始時に、両方のキャラは同時に戦闘カードを出すが、それにはコストが関連している。",
+        "zh-TW": "戰鬥開始時，雙方同時打出戰鬥牌，出牌需支付相應的費用。",
+        "kr": "전투 시작 시, 양측은 동시에 전투 카드를 내며, 해당 카드에는 코스트가 있습니다."
+    },
+    {
+        "zh-CN": "角色的攻击和防御是存在波动的，在打出战斗牌后会有所变化，这个数值显示在角色的头顶。",
+        "en": "Players' ATK and DEF stats are floating. The stats number is shown overhead.",
+        "ja": "キャラの攻撃力と防御力は変動する。戦闘カードをプレイした後、これらの値は変更されキャラの頭上に表示される。",
+        "zh-TW": "角色的攻擊和防禦是存在波動的，在打出戰鬥牌後會有所變化，這個數值顯示在角色的頭頂。",
+        "kr": "캐릭터의 공격력과 방어력은 전투 카드를 내면 변화합니다. 이 수치는 캐릭터의 머리 위에 표시됩니다."
+    },
+    {
+        "zh-CN": "双方出牌完毕后，攻击方会投掷一枚1-6的骰子，攻击方最终的攻击力点数为骰子点数+出牌后的攻击力。",
+        "en": "After both sides used cards, the attacker roll a 6-sided dice, and the total attack = dice point + attack point.",
+        "ja": "両方のキャラがカードを出し終えた後、攻撃側は1-6のダイスを振る。攻撃側の最終的な攻撃力はダイスの出目＋カードの攻撃力。",
+        "zh-TW": "雙方出牌完畢後，攻擊方會擲出一枚1-6的骰子，攻擊方最終的攻擊力點數為骰子點數+出牌後的攻擊力。",
+        "kr": "양측이 카드를 모두 낸 후, 공격자는 1~6의 주사위를 굴립니다. 공격자의 최종 공격력은 주사위 눈금 + 카드를 낸 후의 공격력입니다"
+    },
+    {
+        "zh-CN": "攻击方骰点后，防御方可以选择防御和闪避\n防御：投掷一枚1-6的骰子，防守方的最终防御点数等于骰子点数+出牌后的防御力。最终受到攻击点数-防御点数的伤害（最低为1点）\n闪避：投掷一枚1-6的骰子，大于攻击方的骰子点数或骰点结果为6则完全不受伤害，小于或等于攻击方的骰子点数则受到对方全额攻击点数的伤害。",
+        "en": "When attacked, the defender can choose defense or evasion.\nDefend: Roll a 6-sided dice. The total defense = dice point + defense point. The total damage taken = total attack - total defense (1 at least)\nEvade: Roll a 6-sided dice. If your roll is bigger than attacker's roll, or is 6, you take 0 damage. Otherwise, you take the full damage.",
+        "ja": "攻撃側がダイスを振った後、防御側は防御または回避を選ぶことができる。\n防御：1-6のダイスを振り、防御側の最終的な防御点数はダイスの出目＋カードの防御力。最終的に受けるダメージは攻撃点数−防御点数(最小1点)。\n回避：1-6のダイスを振り、結果が攻撃側の出目よりも高い、または6が出ればダメージなし。それ以下ならば、攻撃側の全攻撃点数をダメージとして受ける。",
+        "zh-TW": "攻擊方擲骰後，防禦方可以選擇防禦或閃避\n 防禦：擲一枚1-6的骰子，防守方的最終防禦點數等於骰子點數+出牌後的防禦力。最後受到攻擊點數-防禦點數的傷害（最低為1點）\n 閃避：投擲一枚1-6的骰子，大於攻擊方的骰子點數或骰點結果為6則完全不受傷害，小於或等於攻擊方的骰子點數，則受到對方全額攻擊點數的傷害。",
+        "kr": "공격자가 주사위를 굴린 후, 방어자는 방어 또는 회피를 선택할 수 있습니다.\n방어: 1~6의 주사위를 굴림, 방어자의 최종 방어력은 주사위 눈금 + 카드를 낸 후의 방어력. 최종적으로 받는 피해는 공격력 - 방어력(최소 1).\n회피: 1~6의 주사위를 굴림, 공격자의 주사위 눈금보다 크거나 눈금이 6이면 피해를 받지 않음. 작거나 같으면 상대방의 전체 공격력만큼의 피해를 받음."
+    },
+    {
+        "zh-CN": "亲爱的各位玩家，欢迎来到\n星引擎商店，“星币商店”\n每天会刷新不同的免费道具，\n请注意领取哦！",
+        "en": "Welcome to the Store. There are free items that refresh daily!",
+        "ja": "親愛なるプレイヤーの皆さん、ようこそスターショップへ。「スターコインショップ」では様々なフリーアイテムを日替わりで更新されます、是非ご利用ください！",
+        "zh-TW": "親愛的各位玩家，歡迎來到星引擎商店。 「星幣商店」每天會更新不同的免費商品，請注意領取！",
+        "kr": "친애하는 플레이어 여러분, 아스트랄 파티 상점에 오신 것을 환영합니다.\n'스타 코인 상점'은 매일 다른 무료 아이템이 업데이트됩니다.\n잊지 말고 수령하세요!"
+    },
+    {
+        "zh-CN": "每个角色都有5级的羁绊等级。每1个等级都有相对应的羁绊经验。快速提升羁绊等级的方式就是赠送礼物。如果礼物和角色的相性匹配，则可以获得更多的经验值。",
+        "en": "Friendship is something valuable between you and the characters, and it has 5 levels. Give them gifts they like to improve the friendship faster!",
+        "ja": "キャラクターの絆レベルは５段階あります、レベルことに必要な絆経験値も異なります。絆レベルを上げるにはギフトを贈ることが最も有効です。キャラクターとギフトの組み合わせにより絆経験値の上昇量が異なる。",
+        "zh-TW": "每個角色都有5級的羈絆等級。快速提升羈絆等級的方式就是贈送禮物。如果禮物和角色的相性匹配，則可以獲得更多的經驗值。",
+        "kr": "각 캐릭터는 5단계의 우정 레벨을 가지고 있으며, 각 레벨마다 상응하는 우정 경험치가 있습니다. 우정 레벨을 빠르게 올리는 방법은 선물을 주는 것이며, 캐릭터와의 궁합이 맞으면 더 많은 경험치를 얻을 수 있습니다."
+    },
+    {
+        "zh-CN": "恭喜你，提升了角色的羁绊经验！当某个角羁绊等级达到5级后即可解锁“缔结契约”功能。",
+        "en": "Congrats on the friendship improve! Once the friendship level reaches to 5, you can forge the bond and get all rewards of the character!",
+        "ja": "おめでとう！キャラクターの絆経験値が上昇！キャラクターの絆レベルが５に達すと、「契約締結」が解放されます。",
+        "zh-TW": "恭喜你，提升了角色的羈絆經驗！當角色羈絆等級達到5級後即可解鎖其「締結契約」功能。完成締結契約後，就可解鎖該角色的所有獎勵！",
+        "kr": "인연 레벨 상승! 인연 레벨이 5가 되면 계약 체결 기능이 해제, 계약을 완료하면 해당 캐릭터의 모든 보상 획득 가능."
+    },
+    {
+        "zh-CN": "收集更多的道具，完成缔结\n契约将会获得更加丰富的奖\n励！",
+        "en": "Get better rewards by forging the bond!",
+        "ja": "もっと素材を集め、キャラクターと契約を結ぶことで契約報酬を貰える！",
+        "zh-TW": "收集更多的道具，完成締結契約將會獲得更豐富的獎勵！",
+        "kr": "더 많은 아이템을 모아 계약을 체결하면 풍성한 보상을 받을 수 있습니다!"
+    },
+    {
+        "zh-CN": "在合作模式下，玩家需要齐心协力保证生存、获取星币，打败首领以赢得最终的胜利。",
+        "en": "In co-op mode, players must work together to survive, collect coins, and defeat the boss to achieve final victory.",
+        "ja": "協力チャレンジでは、プレイヤーは生存を確保し、スターコインを獲得し、ボスを倒して最終的な勝利を収める必要があります。",
+        "zh-TW": "在合作模式下，玩家需要齊心協力保證生存、獲取星幣，打敗首領以贏得最終的勝利。",
+        "kr": "협동 모드에서 플레이어는 힘을 합쳐 생존하고, 코인을 얻고, 보스를 물리쳐 최종 승리를 쟁취해야 합니다."
+    },
+    {
+        "zh-CN": "合作模式下存在一个时间进度条，进度会随着游戏的轮次推进。如果有玩家倒下则会加快推进的速度，一旦到达进度条的终点则宣告本局游戏的失败。",
+        "en": "In co-op mode, there is a Progress Bar that advances with each round. If a player is knocked down, the speed increases. Reaching the end of the Progress Bar results in game failure.",
+        "ja": "協力チャレンジでは、ゲームのラウンドが進むにつれて進捗バーも進みます。プレイヤーが倒れると進行速度が速くなり、進捗バーの終点に到達すると、失敗となります。",
+        "zh-TW": "合作模式下存在一個時間進度條，進度會隨著遊戲的輪次推進。 如果有玩家倒下則會加快推進的速度，一旦到達進度條的終點則宣告本局遊戲的失敗。",
+        "kr": "협동 모드에는 시간 진행 바가 존재하며, 게임 턴이 진행될수록 같이 증가합니다. 만약 플레이어가 쓰러지면 증가 속도가 빨라지며, 진행 바가 끝에 도달하면 패배합니다."
+    },
+    {
+        "zh-CN": "在合作挑战模式内，玩家的升级是需要消耗星币的。升级后玩家能获得独特的强化来应对即将到来的挑战，不断提升等级，获得更强大的强化吧！",
+        "en": "In co-op challenge mode, players need to spend coins to upgrade. After upgrading, players gain unique enhancements to face upcoming challenges, continuously leveling up for stronger enhancements!",
+        "ja": "協力チャレンジモードでは、プレイヤーのスターレベルアップにはスターコインを消費する必要があります。 レベルアップすると、今後の挑戦に備えてユニークな強化を得ることができ、レベルを上げ続けて、より強力な強化を得ましょう！",
+        "zh-TW": "在合作挑戰模式內，玩家的升級是需要消耗星幣的。 升級後玩家能獲得獨特的強化來應對即將到來的挑戰，不斷提升等級，獲得更強大的強化吧！",
+        "kr": "협동 도전 모드에서 플레이어의 레벨업에는 코인이 소모됩니다. 레벨업 후 플레이어는 앞으로 다가올 도전에 맞설 독특한 강화를 얻을 수 있습니다. 계속해서 레벨을 올려 더욱 강력한 강화를 얻으세요!"
+    },
+    {
+        "zh-CN": "在礼物大作战模式，四名玩家将分为“礼物守卫”和“捣蛋鬼”两个阵营进行对抗，“礼物守卫”方只会有一个玩家，但是会获得大幅度强化，且可以使用“礼物守卫”的专属卡牌。",
+        "en": "In Gift Battle mode, 4 players will be divided into two camps: \"Gift Guardian\" and \"Tricker\". Only 1 player will be the Gift Guardian, but Gift Guardian will be powerful and able to use exclusive cards.\n",
+        "ja": "プレイヤーは二つの陣営、イタズラっ子陣営とギフトガーディアン陣営に分かれます。3人のプレイヤーはイタズラっ子陣営に割り当てられます、\nギフトガーディアン陣営には1人のプレイヤーしかいません。しかし、ステータス強化のほか専属カードも使用できます。",
+        "zh-TW": "在禮物大作戰模式，四名玩家將分爲“禮物守衛”和“搗蛋鬼”兩個陣營進行對抗，“禮物守衛”方只會有壹個玩家，但是會獲得大幅度強化，且可以使用“禮物守衛”的專屬卡牌。",
+        "kr": "선물 대작전 모드에서 4명의 플레이어는 '선물 수호자'와 '장난꾸러기' 두 진영으로 나뉘어 대결합니다. '선물 수호자'는 한 명뿐이지만, 대폭 강화되며 '선물 수호자' 전용 카드를 사용할 수 있습니다."
+    },
+    {
+        "zh-CN": "“捣蛋鬼”需要在地图中获取礼物，并将礼物运送到【起始点】来交付，交付一定数量的礼物后即可获胜。“礼物守卫”则需要同时击倒所有“捣蛋鬼”，或在限定时间内阻止捣蛋鬼交付足够的礼物来获胜。",
+        "en": "Tricker need to collect gifts on the map and deliver them to the Start Point. Delivering a certain number of gifts will lead to victory. Gift Guardian need to knock down all the Trickers, or prevent the Tricker from delivering enough gifts within a limited time to win.",
+        "ja": "「イタズラっ子陣営」は、特定のマスでギフトを獲得し、【スタートポイント】に戻って納品し、十分な数のギフトを取得すれば勝利です。「ギフトガーディアン陣営」は全てのイタズラっ子をスタンさせる、或いは一定ラウンド内のギフト納品を阻止することで勝利を獲得できます。",
+        "zh-TW": "“搗蛋鬼”需要在地圖中獲取禮物，並將禮物運送到【起始點】來交付，交付壹定數量的禮物後即可獲勝。“禮物守衛”則需要同時擊倒所有“搗蛋鬼”，或在限定時間內阻止搗蛋鬼交付足夠的禮物來獲勝。",
+        "kr": "'장난꾸러기'는 지도에서 선물을 획득하여 【시작 지점】으로 가져가야 하며, 일정 수량의 선물을 전달하면 승리합니다. '선물 수호자'는 모든 '장난꾸러기'를 동시에 쓰러뜨리거나, 제한 시간 내에 '장난꾸러기'가 충분한 선물을 전달하는 것을 막아야 승리합니다."
+    },
+    {
+        "zh-CN": "“捣蛋鬼”可以在地图上的【礼物格】上停留来获得礼物。“礼物守卫”停留在【礼物格上】则会归还身上的1个礼物，且下次移动可以自由转向。",
+        "en": "Trickers can get gifts by staying on the Gift Panel. Gift Guardians stay on the Gift Panel will return one gift they are carrying, and then choose their next movement direction.",
+        "ja": "「イタズラっ子」はマップ上の【ギフトマス】に止まることでギフトを獲得できます。一方、「ギフトガーディアン」が【ギフトマス】に止まると、所持しているプレゼントを1つ返却し、次回の移動では自由に方向転換が可能になります",
+        "zh-TW": "“搗蛋鬼”可以在地圖上的【禮物格】上停留來獲得禮物。“禮物守衛”停留在【禮物格上】則會歸還身上的1個禮物，且下次移動可以自由轉向。",
+        "kr": "'장난꾸러기'는 지도 상의 【선물 패널】에 멈추어 선물을 획득할 수 있습니다. '선물 수호자'는 【선물 패널】에 멈추면 소지한 선물 1개를 돌려주며, 다음 이동 시 자유롭게 방향을 바꿀 수 있습니다."
+    },
+    {
+        "zh-CN": "在挑战中击中对方，则可以夺取对方身上的一个礼物，如果击倒对方，则可以夺取对方身上的全部礼物。\n要小心哦，如果没有队友帮助，“捣蛋鬼”们被击倒需要3回合才能重新行动，且会使得“礼物守卫”交替提升[color=#FF4646]1[/color]点攻击力、[color=#FF4646]1[/color]점防御力",
+        "en": "If you hit your opponent during battle, you can take one gift from them. If you knock down your opponent, you can take all the gifts they have. Be careful, if trickers are knocked down, without the help of teammates, they need 3 turns to revive, and this will alternately increase the Gift Guardian's ATK and DEF by [color=#FF4646]1[/color] point.",
+        "ja": "戦闘で相手に命中すると、相手が持っているギフトを1つ奪うことができます。相手を倒すと、相手が持っているすべてのギフトを奪うことができます。\n\nただし注意が必要です。仲間の助けがない場合、「イタズラっ子」が倒されると3ターンの間行動できなくなります。。「ギフトガーディアン」がイタズラっ子を倒すごとに攻撃力と防御力がそれぞれ[color=#FF4646]1[/color]ずつ交互に上昇します。",
+        "zh-TW": "在挑戰中擊中對方，則可以奪取對方身上的壹個禮物，如果擊倒對方，則可以奪取對方身上的全部禮物。\n要小心哦，如果沒有隊友幫助，“搗蛋鬼”們被擊倒需要3回合才能重新行動，且會使得“禮物守衛”交替提升[color=#FF4646]1[/color]點攻擊力、[color=#FF4646]1[/color]點防禦力",
+        "kr": "도전 중에 상대를 명중시키면 상대방의 선물 1개를 빼앗을 수 있습니다. 상대를 쓰러뜨리면 상대방이 가진 선물을 모두 빼앗을 수 있습니다.\n조심하세요, 동료의 도움 없이 '장난꾸러기'가 쓰러지면 3턴 후에야 다시 행동할 수 있으며, '선물 수호자'의 공격력과 방어력이 [color=#FF4646]1[/color]씩 번갈아 증가합니다."
+    },
+    {
+        "zh-CN": "在标准模式下，累计获得3颗星星，即可胜利。",
+        "en": "In Standard Mode, getting 3 stars will lead to victory.",
+        "ja": "ノーマルモードでは、星が三つになると勝利になります。",
+        "zh-TW": "在標準模式下，累計獲得3顆星星，即可勝利。",
+        "kr": "일반 모드에서 누적 3개의 별을 획득하면 승리합니다."
+    },
+    {
+        "zh-CN": "星星的获取只要星币达标即可，不需要花费星币。每多一颗星星，所需星币的标准也会提高。",
+        "en": "Stars are awarded when coins criteria are met, without the need to spend coin. With each additional star earned, the required of coins will also increase.",
+        "ja": "規定枚数以上のコインを保有することでスターを獲得できる権利を貰える。ノーマルモードの時、スターの獲得時にコインの消費は発生しないのでご注意！",
+        "zh-TW": "星星的獲取只要星幣達標即可，不需要花費星幣。 每多一顆星星，所需星幣的標準也會提高。",
+        "kr": "별은 스타 코인이 기준치에 도달하면 획득할 수 있으며, 스타 코인을 소모하지 않습니다. 별이 하나씩 늘어날수록 필요한 스타 코인의 기준도 높아집니다."
+    },
+    {
+        "zh-CN": "击倒敌对角色，会抢夺其身上一半星币；\n击倒怪物，会获得怪物身上的所有星币",
+        "en": "Defeating other characters will get half of their coins.\nDefeating monsters will get coins.",
+        "ja": "敵対キャラクターをスタンさせると、そのキャラクターの持ちコインの半分を奪えることができます。モンスターを撃破時させると、そのモンスターの持ちコインをすべて貰えます。",
+        "zh-TW": "擊倒敵對角色，會搶奪其身上一半星幣;\n擊倒怪物，會獲得怪物身上的所有星幣",
+        "kr": "적 캐릭터를 쓰러뜨리면 상대방이 소지한 스타 코인의 절반을 빼앗을 수 있습니다.\n몬스터를 쓰러뜨리면 몬스터가 소지한 모든 스타 코인을 획득할 수 있습니다."
+    },
+    {
+        "zh-CN": "被击倒的角色，将跳过他的下一个行动回合",
+        "en": "Defeated characters will skip their next turn.",
+        "ja": "スタンしたキャラクターは次のターンでは動けなくなります。",
+        "zh-TW": "被擊倒的角色，將跳過他的下一個行動回合",
+        "kr": "쓰러진 캐릭터는 다음 턴의 행동을 건너뜁니다"
+    },
+    {
+        "zh-CN": "合作模式下存在一个时间进度条，进度会随着游戏的轮次推进。如果有玩家倒下则会加快推进的速度，一旦到达进度条的终点则宣告本局游戏的失败。",
+        "en": "In co-op mode, there is a Progress Bar that advances with each round. If a player is knocked down, the speed increases. Reaching the end of the Progress Bar results in game failure.",
+        "ja": "協力チャレンジでは、ゲームのラウンドが進むにつれて進捗バーも進みます。プレイヤーが倒れると進行速度が速くなり、進捗バーの終点に到達すると、失敗となります。",
+        "zh-TW": "合作模式下存在一個時間進度條，進度會隨著遊戲的輪次推進。 如果有玩家倒下則會加快推進的速度，一旦到達進度條的終點則宣告本局遊戲的失敗。",
+        "kr": "협동 모드에는 시간 진행 바가 존재하며, 게임 턴이 진행될수록 같이 증가합니다. 만약 플레이어가 쓰러지면 증가 속도가 빨라지며, 진행 바가 끝에 도달하면 패배합니다."
+    },
+    {
+        "zh-CN": "在进度条上，有以<img src='ui://1ov1i0v9gd4d8u' width='50' height='50'/>显示的进度事件，当进度条推进至有进度事件的节点时，将触发该事件。",
+        "en": "Map events are displayed on the progress bar.",
+        "ja": "<img src='ui://fxejlqlfgd4d8u' width='50' height='50'/>マップイベントは進捗バーに表示されます。",
+        "zh-TW": "在進度條上，有以<img src='ui://fxejlqlfgd4d8u' width='50' height='50'/>顯示的進度事件，當進度條推進至有進度事件的節點時，將觸發該事件。",
+        "kr": "진행 바에 <img src='ui://1ov1i0v9gd4d8u' width='50' height='50'/> 맵 이벤트가 표시됩니다."
+    },
+    {
+        "zh-CN": "在合作挑战模式内，玩家获取星星是需要消耗星币的。升级后，玩家能获得强化筹码来应对即将到来的挑战，星星越多，获得强化筹码就会越强！",
+        "en": "In Co-Op Mode, Stars can be obtained by spending coins. Getting more stars allows you to acquire unique enhancement to deal with the more challenges. The more stars you have, the stronger the enhancement chips you can obtain!",
+        "ja": "協力チャレンジモードでは、スターコインを消耗することでスターを獲得できます、スターを増やすことで迫り来る挑戦に対処するためのユニークな強化効果を得ることができます。スターの数が多いほど、獲得できる強化チップが強くなります！",
+        "zh-TW": "在合作挑戰模式內，玩家獲取星星是需要消耗星幣的。 升級后，玩家能獲得強化籌碼來應對即將到來的挑戰，星星越多，獲得強化籌碼就會越強！",
+        "kr": "협동 도전 모드에서 플레이어는 스타 코인을 소모하여 별을 획득해야 합니다. 레벨업 후 플레이어는 앞으로 다가올 도전에 맞설 강화 칩을 얻을 수 있습니다. 별이 많을수록 얻을 수 있는 강화 칩이 더 강력해집니다!"
+    }
+]

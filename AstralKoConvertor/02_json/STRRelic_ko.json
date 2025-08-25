@@ -1,0 +1,905 @@
+[
+    {
+        "zh-CN": "筹码获取概率：{0}",
+        "en": "Chip drop rate: {0}",
+        "ja": "チップ獲得率：{0}",
+        "zh-TW": "籌碼獲取概率：{0}",
+        "kr": "칩 획득 확률: {0}"
+    },
+    {
+        "zh-CN": "治愈",
+        "en": "Heal",
+        "ja": "ヒール",
+        "zh-TW": "治愈",
+        "kr": "치유"
+    },
+    {
+        "zh-CN": "星光",
+        "en": "Starlight",
+        "ja": "スターライト",
+        "zh-TW": "星光",
+        "kr": "스타라이트"
+    },
+    {
+        "zh-CN": "标记",
+        "en": "Mark",
+        "ja": "マーク",
+        "zh-TW": "標記",
+        "kr": "마킹"
+    },
+    {
+        "zh-CN": "K回合开始时恢复治愈层数的生命值，回合结束时层数减半",
+        "en": "Restore HP based on Heal stacks at the start of the turn, halve stacks at the end.",
+        "ja": "ターン開始時、【ヒール】スタックと同じ数のＨＰを回復、ターン終了時、【ヒール】スタック半減",
+        "zh-TW": "K回合開始時恢複治愈層數的生命值，回合結束時層數減半",
+        "kr": "턴 시작 시, 【치유】 중첩과 같은 수의 HP를 회복, 턴 종료 시 【치유】 중첩 반감."
+    },
+    {
+        "zh-CN": "等量增加轮次奖励时获得的星币数",
+        "en": "Increase Star Coins from round rewards by an equal amount.",
+        "ja": "ラウンドボーナスを獲得時、【スターライト】スタック数と同じ数のスターコイン獲得",
+        "zh-TW": "等量增加輪次獎勵時獲得的星幣數",
+        "kr": "턴 보너스 획득 시 【스타라이트】 중첩과 같은 수의 코인 획득."
+    },
+    {
+        "zh-CN": "被标记目标受到伤害+1",
+        "en": "Marked targets take +1 damage.",
+        "ja": "ターゲット被ダメージ+1",
+        "zh-TW": "被標記目標受到傷害+1",
+        "kr": "대상이 받는 피해 +1"
+    },
+    {
+        "zh-CN": "拳击手套-初级",
+        "en": "Boxing Gloves - Basic",
+        "ja": "ボクシング グローブ‐初級",
+        "zh-TW": "拳擊手套-初級",
+        "kr": "복싱 글러브 - 초급"
+    },
+    {
+        "zh-CN": "拳击手套-中级",
+        "en": "Boxing Gloves - Fairly good",
+        "ja": "ボクシング グローブ‐中級",
+        "zh-TW": "拳擊手套-中級",
+        "kr": "복싱 글러브 - 중급"
+    },
+    {
+        "zh-CN": "拳击手套-高级",
+        "en": "Boxing Gloves - Excellent",
+        "ja": "ボクシング グローブ‐上級",
+        "zh-TW": "拳擊手套-高級",
+        "kr": "복싱 글러브 - 상급"
+    },
+    {
+        "zh-CN": "速度轮滑-初级",
+        "en": "Speed Roller Skates - Basic",
+        "ja": "スピードローラー スケート - 初級",
+        "zh-TW": "速度輪滑-初級",
+        "kr": "스피드 롤러 스케이트 - 초급"
+    },
+    {
+        "zh-CN": "速度轮滑-中级",
+        "en": "Speed Roller Skates - Fairly Good",
+        "ja": "スピードローラー スケート - 中級",
+        "zh-TW": "速度輪滑-中級",
+        "kr": "스피드 롤러 스케이트 - 중급"
+    },
+    {
+        "zh-CN": "速度轮滑-高级",
+        "en": "Speed Roller Skates - Excellent",
+        "ja": "スピードローラー スケート - 上級",
+        "zh-TW": "速度輪滑-高級",
+        "kr": "스피드 롤러 스케이트 - 상급"
+    },
+    {
+        "zh-CN": "夹心饼干-一般",
+        "en": "Sandwich Cookie - Regular",
+        "ja": "サンドクッキー‐普通",
+        "zh-TW": "夾心餅乾-一般",
+        "kr": "샌드 쿠키 - 보통"
+    },
+    {
+        "zh-CN": "夹心饼干-可口",
+        "en": "Sandwich Cookie - Tasty",
+        "ja": "サンドクッキー‐なかなか",
+        "zh-TW": "夾心餅乾-可口",
+        "kr": "샌드 쿠키 - 맛있음"
+    },
+    {
+        "zh-CN": "夹心饼干-美味",
+        "en": "Sandwich Cookie - Delicious",
+        "ja": "サンドクッキーウマすぎ",
+        "zh-TW": "夹心饼干-美味",
+        "kr": "샌드 쿠키 - 매우 맛있음"
+    },
+    {
+        "zh-CN": "美工刀-初级",
+        "en": "Utility Knife - Basic",
+        "ja": "カッターナイフ‐ベーシック",
+        "zh-TW": "美工刀-初級",
+        "kr": "커터칼 - 기본"
+    },
+    {
+        "zh-CN": "美工刀-锋利",
+        "en": "Utility Knife - Sharp",
+        "ja": "カッターナイフ‐シャープ",
+        "zh-TW": "美工刀-鋒利",
+        "kr": "커터칼 - 날카로움"
+    },
+    {
+        "zh-CN": "手电筒-一般",
+        "en": "Flashlight - Regular",
+        "ja": "懐中電灯‐一般",
+        "zh-TW": "手電筒筒-一般",
+        "kr": "손전등 - 일반"
+    },
+    {
+        "zh-CN": "手电筒-强光",
+        "en": "Flashlight - Bright",
+        "ja": "懐中電灯‐強光",
+        "zh-TW": "手電筒筒-強光",
+        "kr": "손전등 - 강력"
+    },
+    {
+        "zh-CN": "手电筒-爆闪",
+        "en": "Flashlight - Strobe",
+        "ja": "懐中電灯‐爆閃",
+        "zh-TW": "手電筒筒-爆閃",
+        "kr": "손전등 - 섬광"
+    },
+    {
+        "zh-CN": "银行卡-余额少",
+        "en": "Bank Card - Low Balance",
+        "ja": "キャッシュカード‐残高少ない",
+        "zh-TW": "銀行卡-餘額少",
+        "kr": "은행 카드 - 잔액 부족"
+    },
+    {
+        "zh-CN": "银行卡-余额多",
+        "en": "Bank Card - High Balance",
+        "ja": "キャッシュカード‐残高多い",
+        "zh-TW": "銀行卡-餘額多",
+        "kr": "은행 카드 - 잔액 많음"
+    },
+    {
+        "zh-CN": "银行卡-用不完",
+        "en": "Bank Card - Unlimited Balance",
+        "ja": "キャッシュカード‐アンリミテッド",
+        "zh-TW": "銀行卡-用不完",
+        "kr": "은행 카드 - 무제한"
+    },
+    {
+        "zh-CN": "摩托头盔-一般",
+        "en": "Motorcycle Helmet - Regular",
+        "ja": "ヘルメット‐一般",
+        "zh-TW": "摩托頭盔-一般",
+        "kr": "헬멧 - 일반"
+    },
+    {
+        "zh-CN": "摩托头盔-中级",
+        "en": "Motorcycle Helmet - Fairly Good",
+        "ja": "ヘルメット‐普通",
+        "zh-TW": "摩托頭盔-中級",
+        "kr": "헬멧 - 중급"
+    },
+    {
+        "zh-CN": "摩托头盔-高级",
+        "en": "Motorcycle Helmet - Excellent",
+        "ja": "ヘルメット‐高級",
+        "zh-TW": "摩托頭盔-高級",
+        "kr": "헬멧 - 고급"
+    },
+    {
+        "zh-CN": "医疗箱-紧急治疗",
+        "en": "Medical Kit - Emergency Treatment",
+        "ja": "救急箱‐緊急治療",
+        "zh-TW": "醫療箱-緊急治療",
+        "kr": "의료 키트 - 응급"
+    },
+    {
+        "zh-CN": "医疗箱-完备治疗",
+        "en": "Medical Kit - Comprehensive Treatment",
+        "ja": "救急箱‐完備治療",
+        "zh-TW": "醫療箱-完備治療",
+        "kr": "의료 키트 - 완벽"
+    },
+    {
+        "zh-CN": "肾上腺素-一般",
+        "en": "Adrenaline - Regular",
+        "ja": "アドレナリン注射液-一般",
+        "zh-TW": "腎上腺素-一般",
+        "kr": "아드레날린 - 일반"
+    },
+    {
+        "zh-CN": "肾上腺素-高效",
+        "en": "Adrenaline - High Efficiency",
+        "ja": "アドレナリン注射液-高効率",
+        "zh-TW": "腎上腺素-高效",
+        "kr": "아드레날린 - 고효율"
+    },
+    {
+        "zh-CN": "额外电池",
+        "en": "Extra Battery",
+        "ja": "エクストラ‐バッテリー",
+        "zh-TW": "額外電池",
+        "kr": "추가 배터리"
+    },
+    {
+        "zh-CN": "会员推荐信",
+        "en": "Membership Recommendation Letter",
+        "ja": "会員推薦状",
+        "zh-TW": "會員推薦信",
+        "kr": "회원추천서"
+    },
+    {
+        "zh-CN": "维生素药丸",
+        "en": "Vitamin Pills",
+        "ja": "ビタミン剤",
+        "zh-TW": "維生素藥丸",
+        "kr": "비타민알약"
+    },
+    {
+        "zh-CN": "大背包",
+        "en": "Large Backpack",
+        "ja": "ビッグバック",
+        "zh-TW": "大背包",
+        "kr": "큰 배낭"
+    },
+    {
+        "zh-CN": "魔法秘典",
+        "en": "Magic Tome",
+        "ja": "マジックトーム",
+        "zh-TW": "魔法秘典",
+        "kr": "마법 사전"
+    },
+    {
+        "zh-CN": "手持风扇-小",
+        "en": "Handheld Fan - Small",
+        "ja": "手持ち扇風機-小",
+        "zh-TW": "手持風扇-小",
+        "kr": "손풍기 - 소"
+    },
+    {
+        "zh-CN": "智能手表",
+        "en": "Smartwatch",
+        "ja": "スマートウォッチ",
+        "zh-TW": "智慧手錶",
+        "kr": "스마트 워치"
+    },
+    {
+        "zh-CN": "标记喷罐",
+        "en": "Marking Spray Can",
+        "ja": "スプレー缶",
+        "zh-TW": "標記噴罐",
+        "kr": "스프레이"
+    },
+    {
+        "zh-CN": "可口糖果",
+        "en": "Tasty Candy",
+        "ja": "おいしいキャンディー",
+        "zh-TW": "可口糖果",
+        "kr": "맛있는 사탕"
+    },
+    {
+        "zh-CN": "大碗炖肉",
+        "en": "Gourmet Stew",
+        "ja": "トンポーロウ",
+        "zh-TW": "大碗燉肉",
+        "kr": "고기 스튜"
+    },
+    {
+        "zh-CN": "小猪存钱罐",
+        "en": "Piggy Bank",
+        "ja": "豚の貯金箱",
+        "zh-TW": "小豬存錢罐",
+        "kr": "돼지저금통"
+    },
+    {
+        "zh-CN": "“8面”骰子",
+        "en": "8-Sided Die",
+        "ja": "8面ダイス",
+        "zh-TW": "“8面”骰子",
+        "kr": "8면주사위"
+    },
+    {
+        "zh-CN": "诅咒之剑",
+        "en": "Cursed Sword",
+        "ja": "呪いの剣",
+        "zh-TW": "詛咒之劍",
+        "kr": "마검"
+    },
+    {
+        "zh-CN": "复仇之戟",
+        "en": "Revenge Halberd",
+        "ja": "復讐の戟",
+        "zh-TW": "複仇之戟",
+        "kr": "복수의창"
+    },
+    {
+        "zh-CN": "贯穿之铳",
+        "en": "Piercing Gun",
+        "ja": "貫通の銃",
+        "zh-TW": "貫穿之铳",
+        "kr": "꿰뚫는총"
+    },
+    {
+        "zh-CN": "缓冲盾牌",
+        "en": "Buffer Shield",
+        "ja": "バッファーシールド",
+        "zh-TW": "緩沖盾牌",
+        "kr": "버퍼 실드"
+    },
+    {
+        "zh-CN": "友情徽章",
+        "en": "Friendship Badge",
+        "ja": "友情バッチ",
+        "zh-TW": "友情徽章",
+        "kr": "우정 배지"
+    },
+    {
+        "zh-CN": "ATM机",
+        "en": "ATM",
+        "ja": "ATM",
+        "zh-TW": "ATM機",
+        "kr": "ATM"
+    },
+    {
+        "zh-CN": "星币锤",
+        "en": "Star Coin Hammer",
+        "ja": "スターコインハンマー",
+        "zh-TW": "星幣錘",
+        "kr": "스타 코인 해머"
+    },
+    {
+        "zh-CN": "鹰眼瞄具",
+        "en": "Eagle Eye Sight",
+        "ja": "イーグルアイ",
+        "zh-TW": "鷹眼瞄具",
+        "kr": "이글 아이"
+    },
+    {
+        "zh-CN": "忍术飞镖",
+        "en": "Ninja Throwing Darts",
+        "ja": "忍術手裏剣",
+        "zh-TW": "忍術飛镖",
+        "kr": "닌자 표창"
+    },
+    {
+        "zh-CN": "标靶",
+        "en": "Target Board",
+        "ja": "標的",
+        "zh-TW": "標靶",
+        "kr": "표적"
+    },
+    {
+        "zh-CN": "魔法箭袋",
+        "en": "Magic Quiver",
+        "ja": "魔法の矢袋",
+        "zh-TW": "魔法箭袋",
+        "kr": "마법화살통"
+    },
+    {
+        "zh-CN": "手持风扇-大",
+        "en": "Handheld Fan - Large",
+        "ja": "手持ち扇風機-大",
+        "zh-TW": "手持風扇-大",
+        "kr": "손풍기 - 대"
+    },
+    {
+        "zh-CN": "佐茶蛋糕",
+        "en": "Tea Cake",
+        "ja": "紅茶にケーキ",
+        "zh-TW": "佐茶蛋糕",
+        "kr": "티 케이크"
+    },
+    {
+        "zh-CN": "古老法杖",
+        "en": "Ancient Staff",
+        "ja": "古の魔法杖",
+        "zh-TW": "古老法杖",
+        "kr": "고대지팡이"
+    },
+    {
+        "zh-CN": "精品剑盾",
+        "en": "Premium Sword and Shield",
+        "ja": "精良な装備セット",
+        "zh-TW": "精品劍盾",
+        "kr": "고급 검과 방패"
+    },
+    {
+        "zh-CN": "普通瞄具",
+        "en": "Standard Sight",
+        "ja": "スタンダードサイト",
+        "zh-TW": "普通瞄具",
+        "kr": "표준 조준경"
+    },
+    {
+        "zh-CN": "大铁锚",
+        "en": "Iron Anchor",
+        "ja": "ギガントアンカー",
+        "zh-TW": "大鐵錨",
+        "kr": "거대 닻"
+    },
+    {
+        "zh-CN": "梦想号模型",
+        "en": "Dreamliner Model",
+        "ja": "夢想号プラモデル",
+        "zh-TW": "梦想號模型",
+        "kr": "드림라이너 모델"
+    },
+    {
+        "zh-CN": "三叉戟",
+        "en": "Trident",
+        "ja": "トライデント",
+        "zh-TW": "三叉戟",
+        "kr": "삼지창"
+    },
+    {
+        "zh-CN": "惊涛御守",
+        "en": "Raging WaveCharm",
+        "ja": "荒波の御守り",
+        "zh-TW": "驚濤禦守",
+        "kr": "파도의 부적"
+    },
+    {
+        "zh-CN": "迷幻海鲜汤",
+        "en": "Psychedelic Seafood Soup",
+        "ja": "幻のシーフードスープ",
+        "zh-TW": "迷幻海鮮湯",
+        "kr": "환상의 해물 스프"
+    },
+    {
+        "zh-CN": "无限之蛇",
+        "en": "Infinite Serpent",
+        "ja": "無限の蛇",
+        "zh-TW": "無限之蛇",
+        "kr": "무한의뱀"
+    },
+    {
+        "zh-CN": "交错双鲤",
+        "en": "Intertwined Twin Carps",
+        "ja": "陰陽鯉",
+        "zh-TW": "交錯雙鯉",
+        "kr": "쌍잉어"
+    },
+    {
+        "zh-CN": "小蛇玩偶",
+        "en": "Snake Plushie",
+        "ja": "蛇のぬいぐるみ",
+        "zh-TW": "小蛇玩偶",
+        "kr": "뱀 인형"
+    },
+    {
+        "zh-CN": "小鲤鱼玩偶",
+        "en": "Carp Plushie",
+        "ja": "鯉のぬいぐるみ",
+        "zh-TW": "小鯉魚玩偶",
+        "kr": "잉어 인형"
+    },
+    {
+        "zh-CN": "攻击力[color=#FF4646]+1[/color]。",
+        "en": "ATK [color=#FF4646]+1[/color].",
+        "ja": "攻撃力[color=#FF4646]+1[/color]。",
+        "zh-TW": "攻擊力[color=#FF4646]+1[/color]。",
+        "kr": "공격력 [color=#FF4646]+1[/color]."
+    },
+    {
+        "zh-CN": "攻击力[color=#FF4646]+2[/color]。",
+        "en": "ATK [color=#FF4646]+2[/color].",
+        "ja": "攻撃力[color=#FF4646]+2[/color]。",
+        "zh-TW": "攻擊力[color=#FF4646]+2[/color]。",
+        "kr": "공격력 [color=#FF4646]+2[/color]."
+    },
+    {
+        "zh-CN": "攻击力[color=#FF4646]+5[/color]。",
+        "en": "ATK [color=#FF4646]+5[/color].",
+        "ja": "攻撃力[color=#FF4646]+5[/color]。",
+        "zh-TW": "攻擊力[color=#FF4646]+5[/color]。",
+        "kr": "공격력 [color=#FF4646]+5[/color]."
+    },
+    {
+        "zh-CN": "移动速度[color=#94FF46]+1[/color]。",
+        "en": "Movement [color=#94FF46]+1[/color].",
+        "ja": "移動力[color=#94FF46]+1[/color]。",
+        "zh-TW": "移動速度[color=#94FF46]+1[/color]。",
+        "kr": "이동거리[color=#94FF46]+1[/color]"
+    },
+    {
+        "zh-CN": "移动速度[color=#94FF46]+2[/color]。",
+        "en": "Movement [color=#94FF46]+2[/color].",
+        "ja": "移動力[color=#94FF46]+2[/color]。",
+        "zh-TW": "移動速度[color=#94FF46]+2[/color]。",
+        "kr": "이동거리[color=#94FF46]+2[/color]"
+    },
+    {
+        "zh-CN": "移动速度[color=#94FF46]+4[/color]。",
+        "en": "Movement [color=#94FF46]+4[/color].",
+        "ja": "移動力[color=#94FF46]+4[/color]。",
+        "zh-TW": "移動速度[color=#94FF46]+4[/color]。",
+        "kr": "이동거리[color=#94FF46]+4[/color]"
+    },
+    {
+        "zh-CN": "最大生命值[color=#94FF46]+2[/color]。",
+        "en": "Max HP[color=#94FF46]+2[/color].",
+        "ja": "HP上限[color=#94FF46]+2[/color]。",
+        "zh-TW": "最大生命值[color=#94FF46]+2[/color]。",
+        "kr": "최대 HP [color=#94FF46]+2[/color]."
+    },
+    {
+        "zh-CN": "最大生命值[color=#94FF46]+3[/color]。",
+        "en": "Max HP [color=#94FF46]+3[/color].",
+        "ja": "HP上限[color=#94FF46]+3[/color]。",
+        "zh-TW": "最大生命值[color=#94FF46]+3[/color]。",
+        "kr": "최대 HP [color=#94FF46]+3[/color]."
+    },
+    {
+        "zh-CN": "最大生命值[color=#94FF46]+5[/color]。回合开始时，如果生命值低于50%时，获得1次反击。",
+        "en": "Max HP [color=#94FF46]+5[/color]. At the start of the turn, if HP ≤ 50%, gain 1 stack of Counter.",
+        "ja": "HP上限[color=#94FF46]+5[/color]、ターン開始時、HPが半分以下の場合、自身に反撃1回得る。",
+        "zh-TW": "最大生命值[color=#94FF46]+5[/color]。回合開始時，如果生命值低于50%時，獲得1次反擊。",
+        "kr": "최대 HP [color=#94FF46]+5[/color]. 턴 시작 시, HP가 50% 이하일 때, 반격 1회 획득."
+    },
+    {
+        "zh-CN": "生命为满时，增加[color=#FF4646]2[/color]点攻击力，且攻击时额外上升<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>层数的攻击力。",
+        "en": "When HP is full, gain [color=#FF4646]+2[/color] ATK. Additional ATK increases based on <img src='ui://xuaw6o8jkva0b0' width='32' height='32'/> stacks.",
+        "ja": "HPが満タン時、攻撃力[color=#FF4646]+2[/color]、それに加えて攻撃時に<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>スタック数と同じ数の攻撃力が上昇。",
+        "zh-TW": "生命爲滿時，增加[color=#FF4646]2[/color]點攻擊力，且攻擊時額外上升<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>層數的攻擊力。",
+        "kr": "HP가 최대치인 경우, 공격력[color=#FF4646]+2[/color], 공격 시 추가로 <img src='ui://xuaw6o8jkva0b0' width='32' height='32'/> 중첩 수만큼 공격력이 증가."
+    },
+    {
+        "zh-CN": "生命为满时，增加[color=#FF4646]4[/color]点攻击力，且攻击时额外上升<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>层数的攻击力。",
+        "en": "When HP is full, gain [color=#FF4646]+4[/color] ATK. Additional ATK increases based on <img src='ui://xuaw6o8jkva0b0' width='32' height='32'/> stacks.",
+        "ja": "HPが満タン時、攻撃力[color=#FF4646]+4[/color]、それに加えて攻撃時に<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>スタック数と同じ数の攻撃力が上昇。",
+        "zh-TW": "生命爲滿時，增加[color=#FF4646]4[/color>點攻擊力，且攻擊時額外上升<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>層數的攻擊力。",
+        "kr": "HP가 최대치인 경우, 공격력[color=#FF4646]+4[/color], 공격 시 추가로 <img src='ui://xuaw6o8jkva0b0' width='32' height='32'/> 중첩 수만큼 공격력이 증가."
+    },
+    {
+        "zh-CN": "击倒怪物时，恢复[color=#94FF46]2[/color]Hp。",
+        "en": "knockdown a monster, recover[color=#94FF46]2[/color]Hp.",
+        "ja": "モンスターを倒した時にHP[color=#94FF46]+2[/color]。",
+        "zh-TW": "擊倒怪物時，恢復[color=#94FF46]2[/color]Hp。",
+        "kr": "몬스터를 쓰러뜨렸을 때, HP[color=#94FF46]+2[/color]."
+    },
+    {
+        "zh-CN": "击中怪物时，获得1<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>。",
+        "en": "Gain 1 <img src='ui://xuaw6o8jkva0b2' width='32' height='32'/> when hitting a monster.",
+        "ja": "戦闘でモンスターにヒットするたびに、<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>+1。",
+        "zh-TW": "擊中怪物時，獲得1<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>。",
+        "kr": "몬스터를 맞힐 때마다 <img src='ui://xuaw6o8jkva0b2' width='32' height='32'/> 1중첩 획득."
+    },
+    {
+        "zh-CN": "攻击怪物时，获得[color=#FFB346]1[/color]星币。每有3层<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>，增加[color=#FF4646]1[/color] 点攻击力。",
+        "en": "When attacking a monster, for every 3 stacks of <img src='ui://xuaw6o8jkva0b2' width='32' height='32'/> , gain[color=#FF4646]+1[/color] ATK and [color=#FFB346]1[/color] Star Coins.",
+        "ja": "モンスターを攻撃時コイン[color=#FFB346]+1[/color]。、<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>3ごとに攻撃力[color=#FF4646]+1[/color] 。",
+        "zh-TW": "攻擊怪物時，每有3層<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>，增加[color=#FF4646]1[/color] 點攻擊力，並獲得[color=#FFB346]1[/color]星幣。",
+        "kr": "몬스터 공격 시, [color=#FFB346]1[/color] 코인 획득. <img src='ui://xuaw6o8jkva0b2' width='32' height='32'/> 3중첩마다 공격력[color=#FF4646]+1[/color]."
+    },
+    {
+        "zh-CN": "获得4<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>。",
+        "en": "Gain 4 <img src='ui://xuaw6o8jkva0b2' width='32' height='32'/> .",
+        "ja": "<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>スタック+4。",
+        "zh-TW": "獲得4<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>。",
+        "kr": "<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/> 중첩 +4."
+    },
+    {
+        "zh-CN": "获得7<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>。",
+        "en": "Gain 7 <img src='ui://xuaw6o8jkva0b2' width='32' height='32'/> .",
+        "ja": "<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>スタック+7。",
+        "zh-TW": "獲得7<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>。",
+        "kr": "<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/> 중첩 +7."
+    },
+    {
+        "zh-CN": "获得3<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>，所有角色轮次星币奖励+3。",
+        "en": "Gain 3 <img src='ui://xuaw6o8jkva0b2' width='32' height='32'/> , all characters' round Star Coin rewards +3.",
+        "ja": "<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>スタック+3、全キャラクターのラウンドボーナス+3。",
+        "zh-TW": "獲得3<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>，所有角色輪次星幣獎勵+3。",
+        "kr": "<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/> 중첩 +3, 모든 캐릭터의 턴 코인 보너스 +3."
+    },
+    {
+        "zh-CN": "防御力[color=#4386F4]+1[/color]。",
+        "en": "DEF[color=#4386F4]+1[/color].",
+        "ja": "防御力[color=#4386F4]+1[/color]。",
+        "zh-TW": "防禦力[color=#4386F4]+1[/color]。",
+        "kr": "방어력 [color=#4386F4]+1[/color]."
+    },
+    {
+        "zh-CN": "防御力[color=#4386F4]+2[/color]。",
+        "en": "DEF[color=#4386F4]+2[/color].",
+        "ja": "防御力[color=#4386F4]+2[/color]。",
+        "zh-TW": "防禦力[color=#4386F4]+2[/color]。",
+        "kr": "방어력 [color=#4386F4]+2[/color]."
+    },
+    {
+        "zh-CN": "防御力[color=#4386F4]+3[/color]。",
+        "en": "DEF[color=#4386F4]+3[/color].",
+        "ja": "防御力[color=#4386F4]+3[/color]。",
+        "zh-TW": "防禦力[color=#4386F4]+3[/color]。",
+        "kr": "방어력 [color=#4386F4]+3[/color]."
+    },
+    {
+        "zh-CN": "回合开始时，获得1层<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>。",
+        "en": "At the start of the turn, gain 1 stack of <img src='ui://xuaw6o8jkva0b0' width='32' height='32'/> .",
+        "ja": "ターン開始時、<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>スタック+1。",
+        "zh-TW": "回合開始時，獲得1層<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>。",
+        "kr": "턴 시작 시 <img src='ui://xuaw6o8jkva0b0' width='32' height='32'/> 중첩 +1."
+    },
+    {
+        "zh-CN": "回合开始时，获得3层<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>。",
+        "en": "At the start of the turn, gain 3 stacks of <img src='ui://xuaw6o8jkva0b0' width='32' height='32'/> .",
+        "ja": "ターン開始時、<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>スタック+3。",
+        "zh-TW": "回合開始時，獲得3層<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>。",
+        "kr": "턴 시작 시 <img src='ui://xuaw6o8jkva0b0' width='32' height='32'/> 중첩 +3."
+    },
+    {
+        "zh-CN": "生命值低于50%时，攻击力[color=#FF4646]+3[/color]，且无法被反击。",
+        "en": "When HP ≤ 50%: Gain ATK [color=#FF4646]+3[/color], and counterattack immunity.",
+        "ja": "HPが半分以下時、攻撃力[color=#FF4646]+3[/color]、反撃無効を得る。",
+        "zh-TW": "生命值低于50%時，攻擊力[color=#FF4646]+3[/color]，且無法被反擊。",
+        "kr": "HP가 50% 이하일 때, 공격력[color=#FF4646]+3[/color], 반격 면역."
+    },
+    {
+        "zh-CN": "生命值低于50%时，攻击力[color=#FF4646]+8[/color]，且无法被反击。",
+        "en": "When HP ≤ 50%: Gain ATK [color=#FF4646]+8[/color], and counterattack immunity.",
+        "ja": "HPが半分以下時、攻撃力[color=#FF4646]+8[/color]、反撃無効を得る。",
+        "zh-TW": "生命值低于50%時，攻擊力[color=#FF4646]+8[/color]，且無法被反擊。",
+        "kr": "HP가 50% 이하일 때, 공격력[color=#FF4646]+8[/color], 반격 면역."
+    },
+    {
+        "zh-CN": "技能冷却[color=#4386F4]-1[/color]。",
+        "en": "Skill cooldown [color=#4386F4]-1[/color].",
+        "ja": "CT[color=#4386F4]-1[/color]。",
+        "zh-TW": "技能冷卻[color=#4386F4]-1[/color]。",
+        "kr": "스킬 쿨타임 -1."
+    },
+    {
+        "zh-CN": "轮次奖励卡牌数量[color=#4386F4]+2[/color]。",
+        "en": "Round reward card amount [color=#4386F4]+2[/color].",
+        "ja": "ターンボーナスカード数[color=#4386F4]+2[/color]。",
+        "zh-TW": "輪次獎勵卡牌數量[color=#4386F4]+2[/color]。",
+        "kr": "턴 보너스 카드 수 [color=#4386F4]+2[/color]."
+    },
+    {
+        "zh-CN": "每获得一张卡牌，获得1层<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>。",
+        "en": "Gain 1 stack of <img src='ui://xuaw6o8jkva0b0' width='32' height='32'/> for each card obtained.",
+        "ja": "カードを獲得するたび、<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>スタック+1。",
+        "zh-TW": "每獲得壹張卡牌，獲得1層<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>。",
+        "kr": "카드를 획득할 때마다 <img src='ui://xuaw6o8jkva0b0' width='32' height='32'/> 중첩 +1."
+    },
+    {
+        "zh-CN": "出牌数量[color=#4386F4]+1[/color]。",
+        "en": "Card play count [color=#4386F4]+1[/color].",
+        "ja": "カード使用数[color=#4386F4]+1[/color]。",
+        "zh-TW": "出牌數量[color=#4386F4]+1[/color]。",
+        "kr": "카드 사용 횟수[color=#4386F4]+1[/color]."
+    },
+    {
+        "zh-CN": "每使用[color=#4386F4]3[/color]张效果牌，复制最后使用的那张效果牌并加入手牌。",
+        "en": "Every [color=#4386F4]3[/color] effect cards played, return the last one.",
+        "ja": "カード[color=#4386F4]3[/color]枚使うごとに、その[color=#4386F4]3[/color]枚目に使ったカードを手札に加える。",
+        "zh-TW": "每使用[color=#4386F4]3[/color]張效果牌，複製最後使用的那張效果牌並加入手牌。",
+        "kr": "카드를 [color=#4386F4]3[/color]장 사용할 때마다 마지막으로 사용한 카드를 다시 가져옴."
+    },
+    {
+        "zh-CN": "使用技能时，对6格范围内的怪物施加1层<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>。",
+        "en": "When using a skill, apply 1 stack of <img src='ui://xuaw6o8jkva0b1' width='32' height='32'/> to monsters within 6 pannels.",
+        "ja": "スキル使用時、6マス以内のモンスターに<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>１つ付与。",
+        "zh-TW": "使用技能時，對6格範圍內的怪物施加1層<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>。",
+        "kr": "스킬 사용 시, 6칸 내 몬스터에게 <img src='ui://xuaw6o8jkva0b1' width='32' height='32'/> 1중첩 부여."
+    },
+    {
+        "zh-CN": "回合结束时，若自己手牌少于[color=#4386F4]5[/color]张，则抽取1张卡牌。",
+        "en": "At the end of the turn, if you have fewer than [color=#4386F4]5[/color] cards, draw 1 card.",
+        "ja": "ターン終了時、手札数が[color=#4386F4]5[/color]より少ないの場合、カード1枚を得る。",
+        "zh-TW": "回合結束時，若自己手牌小於[color=#4386F4]5[/color]，則抽取一張卡牌。",
+        "kr": "턴 종료 시, 손패가 [color=#4386F4]5[/color]장 미만이면 카드 1장을 뽑음."
+    },
+    {
+        "zh-CN": "使用效果牌对怪物造成伤害后，对目标施加1层<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>。",
+        "en": "After dealing damage to a monster with an effect card, apply 1 stack of <img src='ui://xuaw6o8jkva0b1' width='32' height='32'/> to the target.",
+        "ja": "効果カードでモンスターにダメージを与えた後、目標モンスターに<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>を１つ付与。",
+        "zh-TW": "使用效果牌對怪物造成傷害後，對目標施加1層<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>。",
+        "kr": "효과 카드로 몬스터에게 피해를 입힌 후, 대상에게 <img src='ui://xuaw6o8jkva0b1' width='32' height='32'/> 1중첩을 부여."
+    },
+    {
+        "zh-CN": "打出手牌时，获得1层<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>，如果当前生命为满。则消耗4层<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>，本回合出牌数[color=#4386F4]+1[/color]。",
+        "en": "When playing a card, gain 1 stack of <img src='ui://xuaw6o8jkva0b0' width='32' height='32'/> . If HP is full, consume 4 stacks of <img src='ui://xuaw6o8jkva0b0' width='32' height='32'/> to gain [color=#4386F4]+1[/color] card play this turn.",
+        "ja": "カードを出すたびに、<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>スタック+1。ｈｐが満タンの場合、<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>スタック-4、カード使用数[color=#4386F4]+1[/color]。",
+        "zh-TW": "打出手牌時，獲得1層<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>，如果當前生命爲滿。則消耗4層<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>，本回合出牌數[color=#4386F4]+1[/color]。",
+        "kr": "카드를 낼 때마다 <img src='ui://xuaw6o8jkva0b0' width='32' height='32'/> 중첩 +1. HP가 최대치인 경우, <img src='ui://xuaw6o8jkva0b0' width='32' height='32'/> 4중첩 소모, 이번 턴의 카드 사용 횟수[color=#4386F4]+1[/color]."
+    },
+    {
+        "zh-CN": "回合结束时，附近4格范围内的所有角色获得1层<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>并恢复1点生命值。",
+        "en": "At the end of the turn, all characters within 4 panels gain 1 stack of <img src='ui://xuaw6o8jkva0b0' width='32' height='32'/> and restore 1 HP .",
+        "ja": "ターン終了時、周囲4マス以内の全員の<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>スタック+1、HP+1。",
+        "zh-TW": "回合結束時，附近4格範圍內的所有角色獲得1層<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>並恢複1點生命值。",
+        "kr": "턴 종료 시, 주변 4칸 내 모든 캐릭터의 <img src='ui://xuaw6o8jkva0b0' width='32' height='32'/> 중첩 +1, HP +1."
+    },
+    {
+        "zh-CN": "每使用[color=#4386F4]2[/color]张效果牌，获得[color=#FFB346]+3[/color]星币。",
+        "en": "Every [color=#4386F4]2[/color] Effect Cards used, gain [color=#FFB346]+3[/color] coins.",
+        "ja": "効果カードを[color=#4386F4]2[/color]枚使うごとに、コイン[color=#FFB346]+3[/color]。",
+        "zh-TW": "每使用[color=#4386F4]2[/color]張效果牌，獲得[color=#FFB346]+3[/color]星幣。",
+        "kr": "효과 카드 [color=#4386F4]2[/color]장 사용할 때마다 [color=#FFB346]3[/color]코인 획득"
+    },
+    {
+        "zh-CN": "自己最终的移动点数为[color=#94FF46]8[/color]时，获得[color=#FFB346]8[/color]星币，每累计8点移动，获得1<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>。",
+        "en": "When the final movements are [color=#94FF46]8[/color], gain [color=#FFB346]8[/color] Star Coins. For every 8 movements accumulated, gain 1 <img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>.",
+        "ja": "ダイスの出目が8の場合、スターコイン+8。ダイスの累計出目が8につき、<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>スタック+1。",
+        "zh-TW": "自己最終的移動點數爲[color=#94FF46]8[/color]時，獲得[color=#FFB346]8[/color]星幣，每累計8點移動，獲得1<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>。",
+        "kr": "주사위 눈이 8일 경우, 8 코인 획득. 누적 주사위 눈이 8이 될 때마다 <img src='ui://xuaw6o8jkva0b2' width='32' height='32'/> 스택 +1."
+    },
+    {
+        "zh-CN": "你将一直被诅咒，每击倒一个怪物，永远增加[color=#FF4646]+1[/color] 点攻击力。",
+        "en": "You will be Cursed. \nGain [color=#FF4646]+1[/color] ATK permanently for each monster you defeat.",
+        "ja": "呪い：モンスターを撃破するたびに、攻撃力[color=#FF4646]+1[/color]を得る。",
+        "zh-TW": "妳將壹直被詛咒，每擊敗壹個怪物，永遠增加[color=#FF4646]1[/color]點攻擊力。",
+        "kr": "저주: 몬스터를 처치할 때마다 공격력[color=#FF4646]+1[/color]."
+    },
+    {
+        "zh-CN": "你被诅咒时:攻击力[color=#FF4646]+5[/color]，你中毒时:防御力[color=#4386F4]+5[/color]。",
+        "en": "When Cursed: [color=#FF4646]+5[/color] ATK. When Poisoned: [color=#4386F4]+5[/color] DEF.",
+        "ja": "呪いされた時：攻撃力[color=#FF4646]+5[/color]、中毒状態になった間：防御力[color=#4386F4]+5[/color]。",
+        "zh-TW": "妳被詛咒時:攻擊力[color=#FF4646]+5[/color]，妳中毒時:防禦力[color=#4386F4]+5[/color]。",
+        "kr": "저주 상태인 경우: 공격력[color=#FF4646]+5[/color].\n중독 상태인 경우: 방어력[color=#4386F4]+5[/color]."
+    },
+    {
+        "zh-CN": "你的效果牌额外附加目标防御力的伤害。",
+        "en": "Effect cards deal additional damage equal to target's DEF.",
+        "ja": "効果カードが目標モンスターの防御力と同じの数のダメージを追加で出る。",
+        "zh-TW": "妳的效果牌額外附加目標防禦力的傷害。",
+        "kr": "효과 카드가 대상 몬스터의 방어력과 동일한 수치의 추가 피해를 입힘."
+    },
+    {
+        "zh-CN": "被攻击时，获得2层<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>与[color=#FFB346]3[/color]星币。",
+        "en": "Gain 2 stacks of <img src='ui://xuaw6o8jkva0b0' width='32' height='32'/> and [color=#FFB346]3[/color] coins when attacked.",
+        "ja": "攻撃を受けるたび、<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>スタック+2、スターコイン[color=#FFB346]+3[/color]。",
+        "zh-TW": "被攻擊時，獲得2層<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>與[color=#FFB346]3[/color]星幣。",
+        "kr": "공격받을 때마다 <img src='ui://xuaw6o8jkva0b0' width='32' height='32'/> 중첩 +2, [color=#FFB346]3[/color] 코인 획득."
+    },
+    {
+        "zh-CN": "转账或治疗友方角色时，当前角色与目标同时获得2层<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>。",
+        "en": "When transferring or healing an ally, both the current character and the target gain 2 stacks of <img src='ui://xuaw6o8jkva0b0' width='32' height='32'/> .",
+        "ja": "味方に治療や振り込みを行った際に、味方と同様に<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>スタック+2。",
+        "zh-TW": "轉賬或治療友方角色時，當前角色與目標同時獲得2層<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>。",
+        "kr": "아군을 치료하거나 자금을 이체할 때, 자신과 아군 모두 <img src='ui://xuaw6o8jkva0b0' width='32' height='32'/> 중첩 +2."
+    },
+    {
+        "zh-CN": "转账时，当前角色与目标同时获得1<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>。",
+        "en": "When transferring, both the current character and the target gain 1 <img src='ui://xuaw6o8jkva0b2' width='32' height='32'/> .",
+        "ja": "振り込みを行った際に、振り込む相手と同様に<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>スタック数+1。",
+        "zh-TW": "轉賬時，當前角色與目標同時獲得1<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>。",
+        "kr": "자금을 이체할 때, 자신과 대상 모두 <img src='ui://xuaw6o8jkva0b2' width='32' height='32'/> 중첩 +1."
+    },
+    {
+        "zh-CN": "获得5<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>，如果当前角色的<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>大于10层，攻击时消耗6星币，额外增加当前持有星币数量[color=#FF4646]30%[/color]的攻击力。",
+        "en": "Gain 5 <img src='ui://xuaw6o8jkva0b2' width='32' height='32'/> . If the current character has more than 10 stacks of <img src='ui://xuaw6o8jkva0b2' width='32' height='32'/> , consume 6Star Coins to gain additional ATK equal to [color=#FF4646]30%[/color] of the current Star Coin amount.",
+        "ja": "<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>スタック+5、<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>スタックは１０以上の場合、攻撃時にスターコイン6消費、スターコインの数の[color=#FF4646]30%[/color]の攻撃力上昇。",
+        "zh-TW": "獲得5<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>，如果當前角色的<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>大于10層，攻擊時消耗6星幣，額外增加當前持有星幣數量[color=#FF4646]30%[/color]的攻擊力。",
+        "kr": "<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/> 중첩 +5. <img src='ui://xuaw6o8jkva0b2' width='32' height='32'/> 중첩이 10 이상일 경우, 공격 시 6코인을 소모하여 현재 보유한 코인의 [color=#FF4646]30%[/color]만큼 공격력 증가."
+    },
+    {
+        "zh-CN": "攻击时施加1层<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>，本次攻击上升对方<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>层数两倍攻击力。",
+        "en": "Apply 1 stack of <img src='ui://xuaw6o8jkva0b1' width='32' height='32'/> when attacking. This attack gains ATK equal to twice the target's <img src='ui://xuaw6o8jkva0b1' width='32' height='32'/> stacks.",
+        "ja": "攻撃時、目標に<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>を1つ１付与し、攻撃目標の<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>スタック数の二倍の攻撃力上昇。",
+        "zh-TW": "攻擊時施加1層<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>，本次攻擊上升對方<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>層數兩倍攻擊力。",
+        "kr": "공격 시 대상의 <img src='ui://xuaw6o8jkva0b1' width='32' height='32'/> 중첩 +1, 대상의 <img src='ui://xuaw6o8jkva0b1' width='32' height='32'/> 중첩의 두 배만큼 공격력 증가."
+    },
+    {
+        "zh-CN": "出牌数[color=#4386F4]+1[/color]，对怪物使用伤害效果牌时，使伤害增加<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>层数的数值。",
+        "en": "[color=#4386F4]+1[/color] card play. When using damage effect cards on monsters, increase damage by the number of <img src='ui://xuaw6o8jkva0b1' width='32' height='32'/> stacks.",
+        "ja": "カード使用数[color=#4386F4]+1[/color]、ダメージ系効果カードを使用した場合、目標モンスターに<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>スタック数と同じ数のダメージを与える。",
+        "zh-TW": "出牌數[color=#4386F4]+1[/color]，對怪物使用傷害效果牌時，使傷害增加<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>層數的數值。",
+        "kr": "카드 사용 횟수[color=#4386F4]+1[/color]. 피해를 주는 효과 카드를 사용할 경우, 대상에게 <img src='ui://xuaw6o8jkva0b1' width='32' height='32'/> 중첩 수와 동일한 피해를 입힘."
+    },
+    {
+        "zh-CN": "攻击力[color=#FF4646]+1[/color]，回合开始时，对附近4格范围内的随机怪物施加1层<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>。",
+        "en": "[color=#FF4646]+1[/color] ATK. At the start of turn, apply 1 stack of <img src='ui://xuaw6o8jkva0b1' width='32' height='32'/> to a random monster within 4 panels.",
+        "ja": "攻撃力[color=#FF4646]+1[/color]、ターン開始時、4マス以内のランダムなモンスターに<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>を1つ１付与（1ターンに1度）。",
+        "zh-TW": "攻擊力[color=#FF4646]+1[/color]，回合開始時，對附近4格範圍內的隨機怪物施加1層<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>。",
+        "kr": "공격력 [color=#FF4646]+1[/color]. 턴 시작 시, 4칸 내 랜덤 몬스터의 <img src='ui://xuaw6o8jkva0b1' width='32' height='32'/> 중첩 +1."
+    },
+    {
+        "zh-CN": "对被标记的怪物使用卡牌时，施加1层<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>并使该卡牌返回手牌。(每回合触发一次)",
+        "en": "When using a card on a marked monster, return this card to hand and apply 1 stack of <img src='ui://xuaw6o8jkva0b1' width='32' height='32'/> . Triggers once per turn.",
+        "ja": "<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>されたモンスターに対してカードを使用した場合、使用したカードを手札に戻し、目標のモンスターに<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>を1つ付与（1ターンに1度）。",
+        "zh-TW": "對被標記的怪物使用卡牌時，施加1層<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>並使該卡牌返回手牌。(每回合觸發一次)",
+        "kr": "마킹이 있는 몬스터에게 카드를 사용했을 경우, 사용한 카드를 손으로 되돌리고 대상에게 <img src='ui://xuaw6o8jkva0b1' width='32' height='32'/> 중첩 +1. (턴당 1회)"
+    },
+    {
+        "zh-CN": "使用技能时，抽取一张手牌，并对6格范围内的怪物施加1层<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>。",
+        "en": "When using a skill, draw 1 card and apply 1 stack of <img src='ui://xuaw6o8jkva0b1' width='32' height='32'/> to monsters within 6 pannels.",
+        "ja": "スキル使用時、カードを1枚獲得、6マス以内のモンスターに<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>１つ付与。",
+        "zh-TW": "使用技能時，抽取壹張手牌，並對6格範圍內的怪物施加1層<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>。",
+        "kr": "스킬 사용 시, 카드 1장을 획득하고 6칸 내 몬스터의 <img src='ui://xuaw6o8jkva0b1' width='32' height='32'/> 중첩 +1."
+    },
+    {
+        "zh-CN": "攻击力[color=#FF4646]+1[/color]。攻击茶壶时，攻击力[color=#FF4646]+1[/color]，防御力[color=#4386F4]+1[/color]，持续1轮。",
+        "en": "ATK[color=#FF4646]+1[/color].When attacking Teapot, ATK[color=#FF4646]+1[/color], DEF[color=#4386F4]+1[/color].\nLasts 1 turn.",
+        "ja": "攻撃力[color=#FF4646]+1[/color]。ティーポットを攻撃する時に、攻撃力[color=#FF4646]+1[/color]、防御力[color=#4386F4]+1[/color]（１ターン継続）。",
+        "zh-TW": "攻擊力[color=#FF4646]+1[/color]。攻擊茶壺時，攻擊力[color=#FF4646]+1[/color]，防禦力[color=#4386F4]+1[/color]，持續1輪。",
+        "kr": "공격력 [color=#FF4646]+1[/color]. 찻주전자를 공격할 때, 공격력 [color=#FF4646]+1[/color], 방어력 [color=#4386F4]+1[/color]. (1턴 지속)"
+    },
+    {
+        "zh-CN": "所有效果牌的射程[color=#94FF46]+3[/color]，出牌数量[color=#4386F4]+1[/color]。",
+        "en": "All Effect Card Range[color=#94FF46]+3[/color]. Card play count [color=#4386F4]+1[/color].",
+        "ja": "全ての効果カードの効果距離[color=#94FF46]+3[/color]、カード使用数[color=#4386F4]+1[/color]。",
+        "zh-TW": "所有效果牌的射程[color=#94FF46]+3[/color]，出牌數量[color=#4386F4]+1[/color]。",
+        "kr": "모든 효과 카드의 효과 거리 [color=#94FF46]+3[/color],   카드 사용 횟수[color=#4386F4]+1[/color]."
+    },
+    {
+        "zh-CN": "攻击力[color=#FF4646]+4[/color]，成为【问题学生】时，防御力[color=#4386F4]+4[/color]。",
+        "en": "ATK[color=#FF4646]+4[/color].\nWhen being 【Problem Student】, DEF[color=#4386F4]+4[/color].",
+        "ja": "攻撃力[color=#FF4646]+4[/color]、【問題生徒】になった時、防御力[color=#4386F4]+4[/color]。",
+        "zh-TW": "攻擊力[color=#FF4646]+4[/color]，成爲【問題學生】時，防禦力[color=#4386F4]+4[/color]。",
+        "kr": "공격력 [color=#FF4646]+4[/color]. 【문제 학생】이 되었을 때, 방어력 [color=#4386F4]+4[/color]"
+    },
+    {
+        "zh-CN": "攻击力[color=#FF4646]+2[/color]，攻击时施加1层<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>。",
+        "en": "ATK[color=#FF4646]+2[/color].\nApply 1 stack of <img src='ui://xuaw6o8jkva0b1' width='32' height='32'/> when attacking.",
+        "ja": "攻撃力[color=#FF4646]+2[/color]。攻撃時、目標に<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>を一つ付与。",
+        "zh-TW": "攻擊力[color=#FF4646]+2[/color]，攻擊時施加1層<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>。",
+        "kr": "공격력 [color=#FF4646]+2[/color]. 공격 시, 대상의 <img src='ui://xuaw6o8jkva0b1' width='32' height='32'/> 중첩 +1."
+    },
+    {
+        "zh-CN": "受到伤害时，攻击力[color=#FF4646]+1[/color]。回合开始时，失去[color=#94FF46]1[/color]点攻击加成。",
+        "en": "Gain [color=#FF4646]+1[/color] ATK when taking damage. At the start of your turn, lose 1 point of ATK bonus.",
+        "ja": "ダメージを受けるたびに、攻撃力[color=#FF4646]+1[/color]。ターン開始時、このチップによる攻撃力ボーナス[color=#4386F4]-1[/color]。",
+        "zh-TW": "受到傷害時，攻擊力[color=#FF4646]+1[/color]。回合開始時，失去[color=#94FF46]1[/color]點攻擊加成。",
+        "kr": "피해를 받을 때마다 공격력 [color=#FF4646]+1[/color]. 턴 시작 시, 이 칩으로 얻은 공격력 보너스 [color=#4386F4]-1[/color]."
+    },
+    {
+        "zh-CN": "移动[color=#4386F4]+2[/color]，每累计15点移动点数，技能CD[color=#4386F4]-1[/color]。",
+        "en": "Movement[color=#4386F4]+2[/color]. Every 15 accumulated movement points reduces active skill cooldown by [color=#4386F4]1[/color].",
+        "ja": "移動力[color=#4386F4]+2[/color]。ダイスの出目累計15ごとに、スキルCT[color=#4386F4]-1[/color]。",
+        "zh-TW": "移動[color=#4386F4]+2[/color]，每累計15點移動點數，技能CD[color=#4386F4]-1[/color]。",
+        "kr": "이동 거리 +2. 누적 주사위 눈이 15가 될 때마다 스킬 쿨타임 [color=#4386F4]-1[/color]."
+    },
+    {
+        "zh-CN": "使用技能时，使一名未被强化的友方角色攻击力[color=#FF4646]+1[/color]，防御力[color=#4386F4]+1[/color]。",
+        "en": "When using a skill, grants [color=#FF4646]+1[/color] ATK and [color=#4386F4]+1[/color] DEF to a friendly character that hasn’t been buffed.",
+        "ja": "スキル使用時、味方キャラ1名に攻撃力[color=#FF4646]+1[/color]、防御力[color=#4386F4]+1[/color]。（この効果は単体対象に重複発動しない）",
+        "zh-TW": "使用技能時，使壹名未被強化的友方角色攻擊力[color=#FF4646]+1[/color]，防禦力[color=#4386F4]+1[/color]。",
+        "kr": "스킬 사용 시, 아군 하나의 공격력 [color=#FF4646]+1[/color], 방어력 [color=#4386F4]+1[/color]."
+    },
+    {
+        "zh-CN": "使用效果牌时，受到[color=#FF4646]1[/color]点伤害。获得卡牌时，回复[color=#94FF46]1[/color] 点生命值",
+        "en": "When using effect cards, take [color=#FF4646]1[/color] damage. When gaining cards, restore [color=#94FF46]1[/color] HP",
+        "ja": "効果カード使用時、[color=#FF4646]1[/color]ダメージを受ける。カードを獲得時、HP[color=#94FF46]1[/color] 回復する。",
+        "zh-TW": "使用效果牌時，受到[color=#FF4364]1[/color]點傷害。獲得卡牌時，回複[color=#94FF46]1[/color] 點生命值",
+        "kr": "효과 카드 사용 시, [color=#FF4646]1[/color]의 피해를 받음. 카드 획득 시, HP [color=#94FF46]+1[/color]."
+    },
+    {
+        "zh-CN": "你的战斗骰点只会是[color=#4386F4]1[/color] 或者[color=#4386F4]6[/color]点。",
+        "en": "Combat dice will only roll [color=#4386F4]1[/color] or [color=#4386F4]6[/color].",
+        "ja": "戦闘中のダイスの出目は[color=#4386F4]1[/color] か[color=#4386F4]6[/color]になる。",
+        "zh-TW": "妳的戰鬥股點只會是[color=#4386F4]1[/color] 或者[color=#4386F4]6[/color]點。",
+        "kr": "전투 중 주사위 눈은 [color=#4386F4]1[/color] 또는 [color=#4386F4]6[/color]만 나옴."
+    },
+    {
+        "zh-CN": "回合开始时，抽取手牌至8张，出牌数量[color=#4386F4]+1[/color]。",
+        "en": "At the start of your turn, draw cards until you have 8 in hand.\nCard play count [color=#4386F4]+1[/color].",
+        "ja": "ターン開始時、手札を8までドローする、カード使用数[color=#4386F4]+1[/color]。",
+        "zh-TW": "回合開始時，抽取手牌至8張。出牌數量[color=#4386F4]+1[/color]。",
+        "kr": "턴 시작 시, 손패가 8장이 될 때까지 뽑음. 카드 사용 횟수[color=#4386F4]+1[/color]"
+    },
+    {
+        "zh-CN": "你的攻击骰点只会是[color=#4386F4]6[/color]点，且无法被反击。",
+        "en": "You cannot be counterattacked, and your attack dice rolls are fixed at [color=#4386F4]6[/color].",
+        "ja": "反撃無効を得る、攻撃時、ダイスの出目を[color=#4386F4]6[/color]に固定する。",
+        "zh-TW": "妳無法被反擊，且攻擊股點只會是[color=#4386F4]6[/color]點。",
+        "kr": "반격 면역. 공격 시 주사위 눈을 [color=#4386F4]6[/color]으로 고정."
+    },
+    {
+        "zh-CN": "受到伤害时，本回合受到伤害[color=#94FF46]-2[/color]，攻击力[color=#FF4646]+2[/color]。",
+        "en": "After taking damage, gain ATK[color=#FF4646]+2[/color]and take [color=#94FF46]2[/color] less damage this turn.",
+        "ja": "ダメージを受ける時、このターンで受けるダメージ[color=#94FF46]-2[/color]、攻撃力[color=#FF4646]+2[/color]。",
+        "zh-TW": "受到傷害時，本回合受到傷害[color=#94FF46]-2[/color]，攻擊力[color=#FF4646]+2[/color]。",
+        "kr": "피해를 받을 때, 이번 턴에 받는 피해 [color=#94FF46]-2[/color], 공격력 [color=#FF4646]+2[/color]."
+    },
+    {
+        "zh-CN": "使用主动技能后，获得[color=#FFB346]1[/color]层反击，反击时，永久增加[color=#FF4646]1[/color] 点攻击与防御。",
+        "en": "After your active skill resolves, gain [color=#FFB346]1[/color]stack of Counter. \nWhen countering, gain [color=#FF4646]+1[/color] ATK and [color=#4386F4]+1[/color] DEF permanently.",
+        "ja": "スキル使用後、反撃[color=#FFB346]1[/color]回得る、反撃時、攻撃力[color=#FF4646]+1[/color]永続、防御力[color=#4386F4]+1[/color]永続を得る。",
+        "zh-TW": "使用主動技能後，獲得[color=#FFB346]1[/color]層反擊，反擊時，永久增加[color=#FF4646]1[/color] 點攻擊與防禦。",
+        "kr": "스킬 사용 후, 반격[color=#FFB346]1[/color]회 획득. 반격 시 영구적으로 공격력 [color=#FF4646]+1[/color]과 방어력 [color=#4386F4]+1[/color]."
+    }
+]

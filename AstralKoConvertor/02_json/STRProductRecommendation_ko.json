@@ -1,0 +1,282 @@
+[
+    {
+        "zh-CN": "新手角色礼包",
+        "en": "Beginner Character Pack",
+        "ja": "新規キャラクターギフトパック",
+        "zh-TW": "新手特惠禮包",
+        "kr": "초보자 특별 패키지"
+    },
+    {
+        "zh-CN": "获得角色自选箱（第1期+第2期）",
+        "en": "Character Select Box (S1+S2)",
+        "ja": "キャラクターセレクトボックス",
+        "zh-TW": "角色自選箱（第1期+第2期）",
+        "kr": "캐릭터 선택 상자 (시즌1+시즌2)"
+    },
+    {
+        "zh-CN": "7日超值礼包",
+        "en": "7-Day Premium Pack",
+        "ja": "7日間超值パック",
+        "zh-TW": "7日超值禮包",
+        "kr": "7일 특가 패키지"
+    },
+    {
+        "zh-CN": "获得各种超值奖励！",
+        "en": "Get Abundant Rewards!",
+        "ja": "豪華報酬を手に入れよう！",
+        "zh-TW": "獲得各種超值獎勵！",
+        "kr": "다양한 특가 보상 획득!"
+    },
+    {
+        "zh-CN": "啦啦队-恋",
+        "en": "Cheerleader - Ren",
+        "ja": "チアリーダー：レン",
+        "zh-TW": "啦啦隊-戀",
+        "kr": "치어리더 - 렌"
+    },
+    {
+        "zh-CN": "全新皮肤上架",
+        "en": "New character skins are now on sale!",
+        "ja": "新しいスキンが販売開始",
+        "zh-TW": "全新造型上架！",
+        "kr": "새로운 스킨 출시!"
+    },
+    {
+        "zh-CN": "总计获得[color=#FF1668]1500[/color]星盘！！",
+        "en": "Get [color=#FF1668]1500[/color] Star Disc at Most",
+        "ja": "最大獲得星盤×[color=#FF1668]1500[/color]!!!",
+        "zh-TW": "總計獲得[color=#FF1668]1500[/color]星盤！！",
+        "kr": "총 [color=#FF1668]1500[/color] 디스크 획득!!"
+    },
+    {
+        "zh-CN": "[color=#FFFFFF]月卡-星月票 [/color] [color=#FF1668]86% OFF[/color]",
+        "en": "[color=#FFFFFF]Monthly Pass [/color] [color=#FF1668]86% OFF[/color]",
+        "ja": "[color=#FFFFFF]スターマンスリーパス [/color][color=#FF1668]86% OFF[/color]",
+        "zh-TW": "[color=#FFFFFF]月卡-星月票 [/color] [color=#FF1668]86% OFF[/color]",
+        "kr": "[color=#FFFFFF]월간 패스[/color] [color=#FF1668]86% 할인[/color]"
+    },
+    {
+        "zh-CN": "时尚达人-帕露南",
+        "en": "Fashion Icon - Parunan",
+        "ja": "ファッションプロ-パルナン",
+        "zh-TW": "時尚達人-帕露南",
+        "kr": "패션의 아이콘 - 파루난"
+    },
+    {
+        "zh-CN": "新皮肤开始贩售",
+        "en": "New Skin Available Now",
+        "ja": "NEWスキン発売中！",
+        "zh-TW": "新造型開始販賣",
+        "kr": "신규 스킨 판매중!"
+    },
+    {
+        "zh-CN": "宝箱怪-璐璐",
+        "en": "Mimic-Lulu",
+        "ja": "ミミックールル",
+        "zh-TW": "寶箱怪-璐璐",
+        "kr": "미믹 - 루루"
+    },
+    {
+        "zh-CN": "新皮肤开始贩售",
+        "en": "New Skin Available Now",
+        "ja": "NEWスキン発売中！",
+        "zh-TW": "新造型開始販賣",
+        "kr": "신규 스킨 판매중!"
+    },
+    {
+        "zh-CN": "冰沙快递-米米",
+        "en": "Slushie Express",
+        "ja": "スムージーエキスプレス-ミミ",
+        "zh-TW": "冰沙快遞-米米",
+        "kr": "슬러시 익스프레스 - 미미"
+    },
+    {
+        "zh-CN": "新皮肤开始贩售",
+        "en": "New Skin Available Now",
+        "ja": "NEWスキン発売中！",
+        "zh-TW": "新造型開始販賣",
+        "kr": "신규 스킨 판매중!"
+    },
+    {
+        "zh-CN": "清凉夏日通行证",
+        "en": "Last Summer Pass",
+        "ja": "清涼サマーミッションパス",
+        "zh-TW": "清涼夏季通行證",
+        "kr": "시원한 여름 시즌 패스"
+    },
+    {
+        "zh-CN": "超值礼物等待你获取！",
+        "en": "More Valuable Gifts",
+        "ja": "スペシャル報酬を獲得可能！",
+        "zh-TW": "超值禮物等待你獲取！",
+        "kr": "스페셜 보상 획득 가능!"
+    },
+    {
+        "zh-CN": "清凉夏日通行证",
+        "en": "Cool Summer Pass",
+        "ja": "清涼サマーミッションパス",
+        "zh-TW": "清涼夏日通行證",
+        "kr": "시원한 여름 시즌 패스"
+    },
+    {
+        "zh-CN": "战斗女仆-美咲",
+        "en": "Maid-Warrior: Misaki",
+        "ja": "バトルメイド-ミサキ",
+        "zh-TW": "戰鬥女僕-美咲",
+        "kr": "전투 메이드 - 미사키"
+    },
+    {
+        "zh-CN": "战斗女仆-枫",
+        "en": "Maid-Warrior: Fen",
+        "ja": "バトルメイド-ヒメ",
+        "zh-TW": "戰鬥女僕-楓",
+        "kr": "전투 메이드 - 펜"
+    },
+    {
+        "zh-CN": "祭典礼服通行证",
+        "en": "Festival Dress Pass",
+        "ja": "パーティードレスパス",
+        "zh-TW": "祭典禮服通行證",
+        "kr": "축제 의상 시즌 패스"
+    },
+    {
+        "zh-CN": "超天酱&糖糖",
+        "en": "Kangel&Ame",
+        "ja": "超てんちゃん＆あめちゃん",
+        "zh-TW": "超天醬&糖糖",
+        "kr": "초텐쨩&아메쨩"
+    },
+    {
+        "zh-CN": "联动角色限时购买！",
+        "en": "Collaboration Character Bundle",
+        "ja": "コラボレーションキャラ限定販売中",
+        "zh-TW": "聯動角色限時購買！",
+        "kr": "콜라보 캐릭터 한정 판매!"
+    },
+    {
+        "zh-CN": "节日盛装通行证",
+        "en": "Festive Dress Pass",
+        "ja": "メリークリスマスパス",
+        "zh-TW": "節日盛裝通行證",
+        "kr": "축제 의상 시즌 패스"
+    },
+    {
+        "zh-CN": "忍者为何？-小町",
+        "en": "Why the Ninja? - Komachi",
+        "ja": "ニンジャナンデ！？-コマチ",
+        "zh-TW": "忍者爲何？-小町",
+        "kr": "닌자는 왜? - 코마치"
+    },
+    {
+        "zh-CN": "雍容盛景-南希露",
+        "en": "Splendor Royale - Nancy Lu",
+        "ja": "雍容絶景-ナンシー・ロー",
+        "zh-TW": "雍容盛景-南希露",
+        "kr": "단아한 절경 - 낸시루"
+    },
+    {
+        "zh-CN": "甜蜜陷阱通行证",
+        "en": "Sweet Trap Pass",
+        "ja": "ハニートラップパス",
+        "zh-TW": "甜蜜陷阱通行證",
+        "kr": "달콤한 함정 패스"
+    },
+    {
+        "zh-CN": "合作挑战 7日助力礼包",
+        "en": "Co-op Challenge 7-Day Support Pack",
+        "ja": "協力チャレンジ7日間助力パック",
+        "zh-TW": "合作挑戰 7日助力禮包",
+        "kr": "협동 챌린지 7일 지원 패키지"
+    },
+    {
+        "zh-CN": "2名角色直升 LV5！",
+        "en": "Instantly level up 2 characters to LV5!",
+        "ja": "キャラ二名を協力チャレンジレベル５までUP！",
+        "zh-TW": "2名角色直升 LV5！",
+        "kr": "즉시 캐릭터 2명을 LV5로 레벨업!"
+    },
+    {
+        "zh-CN": "皮肤限时折扣[size=25]2.21~3.7[/size]",
+        "en": "Limited Time Skin Sale[size=25]2.21~3.7[/size]",
+        "ja": "スキン限定割引[size=25]2.21~3.7[/size]",
+        "zh-TW": "造型限時折扣[size=25]2.21~3.7[/size]",
+        "kr": "스킨 한정 할인 [size=25]2.21~3.7[/size]"
+    },
+    {
+        "zh-CN": "50%OFF",
+        "en": "50%OFF",
+        "ja": "50%OFF",
+        "zh-TW": "50%OFF",
+        "kr": "50%OFF"
+    },
+    {
+        "zh-CN": "护卫队长-帕帕拉",
+        "en": "Guard Captain - Papala",
+        "ja": "護衛隊長-パパラ",
+        "zh-TW": "護衛隊長-帕帕拉",
+        "kr": "호위대장-파파라"
+    },
+    {
+        "zh-CN": "新皮肤开始贩售",
+        "en": "New Skin Available Now",
+        "ja": "NEWスキン発売中！",
+        "zh-TW": "新造型開始販賣",
+        "kr": "신규 스킨 판매중!"
+    },
+    {
+        "zh-CN": "转角之期通行证",
+        "en": "Fated crossroads battle pass",
+        "ja": "街角の約束パス",
+        "zh-TW": "轉角之期通行證",
+        "kr": "운명의 교차로"
+    },
+    {
+        "zh-CN": "冒失少女-阿兰娜",
+        "en": "Clumsy Girl - Alana",
+        "ja": "ドジっ子-アランナ",
+        "zh-TW": "冒失少女-阿蘭娜",
+        "kr": "덜렁이 - 알라나"
+    },
+    {
+        "zh-CN": "滨边时光-姬梦朝",
+        "en": "Shoreline Memories – Yume",
+        "ja": "浜辺の日々-ユメ",
+        "zh-TW": "濱邊時光-姬夢朝",
+        "kr": "해변의추억-유메"
+    },
+    {
+        "zh-CN": "泳池派对-恋",
+        "en": "Pool Party - Ren",
+        "ja": "プールパーティー-レン",
+        "zh-TW": "泳池派對-戀",
+        "kr": "수영장 파티 - 렌"
+    },
+    {
+        "zh-CN": "清凉夏日系列礼包",
+        "en": "Cool Summer Series Bundle",
+        "ja": "清涼サマーシリーズパック",
+        "zh-TW": "清涼夏日系列禮包",
+        "kr": "시원한 여름 시리즈 패키지"
+    },
+    {
+        "zh-CN": "海湾假日-凛",
+        "en": "Harbour Holiday - Rin",
+        "ja": "浜辺のバカンス-リン",
+        "zh-TW": "海灣假日-凜",
+        "kr": "해변의 바캉스 - 린"
+    },
+    {
+        "zh-CN": "海滨救援-梅加斯",
+        "en": "Seaside Rescue - Megas",
+        "ja": "マリンレスキュー-メガス",
+        "zh-TW": "海濱救援-梅加斯",
+        "kr": "라이프가드 - 메가스"
+    },
+    {
+        "zh-CN": "冲浪海岸-茉莉",
+        "en": "Coastal Surfer - Jasmine",
+        "ja": "エンドレスサーフィン-ジャスミン",
+        "zh-TW": "沖浪海岸-茉莉",
+        "kr": "해변의 서퍼 - 재스민"
+    }
+]

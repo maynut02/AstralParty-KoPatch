@@ -1,0 +1,1633 @@
+[
+    {
+        "zh-CN": "帕露南",
+        "en": "Parunan",
+        "ja": "パルナン",
+        "zh-TW": "帕露南",
+        "kr": "파루난"
+    },
+    {
+        "zh-CN": "芬妮",
+        "en": "Fanny",
+        "ja": "ファニィ",
+        "zh-TW": "芬妮",
+        "kr": "페니"
+    },
+    {
+        "zh-CN": "阿兰娜",
+        "en": "Alana",
+        "ja": "アランナ",
+        "zh-TW": "阿蘭娜",
+        "kr": "알라나"
+    },
+    {
+        "zh-CN": "小町",
+        "en": "Komachi",
+        "ja": "コマチ",
+        "zh-TW": "小町",
+        "kr": "코마치"
+    },
+    {
+        "zh-CN": "派德曼",
+        "en": "Padman",
+        "ja": "パッドマン",
+        "zh-TW": "派德曼",
+        "kr": "패드맨"
+    },
+    {
+        "zh-CN": "帕帕拉",
+        "en": "Papara",
+        "ja": "パパラ",
+        "zh-TW": "帕帕拉",
+        "kr": "파파라"
+    },
+    {
+        "zh-CN": "恋",
+        "en": "Ren",
+        "ja": "レン",
+        "zh-TW": "戀",
+        "kr": "렌"
+    },
+    {
+        "zh-CN": "米米",
+        "en": "Mimi",
+        "ja": "ミミ",
+        "zh-TW": "米米",
+        "kr": "미미"
+    },
+    {
+        "zh-CN": "Z3000",
+        "en": "Z3000",
+        "ja": "ゼット3000",
+        "zh-TW": "Z3000",
+        "kr": "Z3000"
+    },
+    {
+        "zh-CN": "潘大猛",
+        "en": "Pandaman",
+        "ja": "パンダマン",
+        "zh-TW": "潘大猛",
+        "kr": "판다맨"
+    },
+    {
+        "zh-CN": "璐璐",
+        "en": "Lulu",
+        "ja": "ルル",
+        "zh-TW": "璐璐",
+        "kr": "루루"
+    },
+    {
+        "zh-CN": "枫",
+        "en": "Fen",
+        "ja": "ヒメ",
+        "zh-TW": "楓",
+        "kr": "펜"
+    },
+    {
+        "zh-CN": "蓝海晴",
+        "en": "HaiQing",
+        "ja": "カイセイ",
+        "zh-TW": "藍海晴",
+        "kr": "카이세이"
+    },
+    {
+        "zh-CN": "美咲",
+        "en": "Misaki",
+        "ja": "ミサキ",
+        "zh-TW": "美咲",
+        "kr": "미사키"
+    },
+    {
+        "zh-CN": "娜蒂斯",
+        "en": "Nardis",
+        "ja": "ナーディス",
+        "zh-TW": "娜蒂斯",
+        "kr": "나르디스"
+    },
+    {
+        "zh-CN": "茉莉",
+        "en": "Jasmine",
+        "ja": "ジャスミン",
+        "zh-TW": "茉莉",
+        "kr": "재스민"
+    },
+    {
+        "zh-CN": "阿尔",
+        "en": "AL",
+        "ja": "アル",
+        "zh-TW": "阿爾",
+        "kr": "AL"
+    },
+    {
+        "zh-CN": "星魅琉华",
+        "en": "Star luka",
+        "ja": "ルカ",
+        "zh-TW": "星魅琉華",
+        "kr": "루카"
+    },
+    {
+        "zh-CN": "南希露",
+        "en": "Nancy Lu",
+        "ja": "ナンシーロー",
+        "zh-TW": "南希露",
+        "kr": "낸시 루"
+    },
+    {
+        "zh-CN": "凛",
+        "en": "Rin",
+        "ja": "リン",
+        "zh-TW": "凜",
+        "kr": "린"
+    },
+    {
+        "zh-CN": "梅加斯",
+        "en": "Megas",
+        "ja": "メガス",
+        "zh-TW": "梅加斯",
+        "kr": "메가스"
+    },
+    {
+        "zh-CN": "姬梦朝",
+        "en": "Yume",
+        "ja": "ユメ",
+        "zh-TW": "姬夢朝",
+        "kr": "유메"
+    },
+    {
+        "zh-CN": "照",
+        "en": "Teru",
+        "ja": "テル",
+        "zh-TW": "照",
+        "kr": "테루"
+    },
+    {
+        "zh-CN": "超绝最可爱天使酱",
+        "en": "OMGKawaiiAngel",
+        "ja": "超絶最かわてんしちゃん",
+        "zh-TW": "超絕最可愛天使醬",
+        "kr": "초텐쟝"
+    },
+    {
+        "zh-CN": "主播女孩",
+        "en": "Needy Girl",
+        "ja": "ニーディーガール",
+        "zh-TW": "主播女孩",
+        "kr": "아메쟝"
+    },
+    {
+        "zh-CN": "小偷",
+        "en": "Thief",
+        "ja": "泥棒",
+        "zh-TW": "小偷",
+        "kr": "도둑"
+    },
+    {
+        "zh-CN": "海盗鲨鱼",
+        "en": "Shark Pirate",
+        "ja": "海賊サメ",
+        "zh-TW": "海盜鯊魚",
+        "kr": "상어해적"
+    },
+    {
+        "zh-CN": "嘎呜",
+        "en": "Gawu",
+        "ja": "ガオー",
+        "zh-TW": "嘎嗚",
+        "kr": "가우"
+    },
+    {
+        "zh-CN": "海盗王嘎呜",
+        "en": "King Gawu",
+        "ja": "海賊王ガオー",
+        "zh-TW": "海盜王嘎呜",
+        "kr": "해적왕 가우"
+    },
+    {
+        "zh-CN": "海盗精锐",
+        "en": "Elite Pirate",
+        "ja": "海賊精鋭",
+        "zh-TW": "海盜精銳",
+        "kr": "정예해적"
+    },
+    {
+        "zh-CN": "冰冷蓝灵",
+        "en": "Frozen Blue Spirit",
+        "ja": "氷刻青霊",
+        "zh-TW": "冰冷藍靈",
+        "kr": "파란정령"
+    },
+    {
+        "zh-CN": "狂躁红灵",
+        "en": "Fever Red Spirit",
+        "ja": "凶暴赤霊",
+        "zh-TW": "狂躁紅靈",
+        "kr": "빨간정령"
+    },
+    {
+        "zh-CN": "刀剑灵体",
+        "en": "Sword Spirit",
+        "ja": "刀剣霊",
+        "zh-TW": "刀劍靈體",
+        "kr": "검정령"
+    },
+    {
+        "zh-CN": "长戟灵体",
+        "en": "Spear Spirit",
+        "ja": "長戟霊",
+        "zh-TW": "長戟靈體",
+        "kr": "창정령"
+    },
+    {
+        "zh-CN": "天王寺雅央",
+        "en": "Tendoji Masao",
+        "ja": "天王寺雅央",
+        "zh-TW": "天王寺雅央",
+        "kr": "마사오"
+    },
+    {
+        "zh-CN": "舞狮嘎呜",
+        "en": "Lion Gawu",
+        "ja": "獅子舞いガオー",
+        "zh-TW": "舞獅嘎嗚",
+        "kr": "사자탈 가우"
+    },
+    {
+        "zh-CN": "指挥平台",
+        "en": "Ground Control",
+        "ja": "指揮センター",
+        "zh-TW": "指揮平台",
+        "kr": "지상 관제"
+    },
+    {
+        "zh-CN": "氛围机器人",
+        "en": "Ambient Enlivener Robot",
+        "ja": "雰囲気系ロボ",
+        "zh-TW": "氛圍機器人",
+        "kr": "분위기 로봇"
+    },
+    {
+        "zh-CN": "爆竹呱呱",
+        "en": "Cracker Croak",
+        "ja": "爆竹ゲロゲロ",
+        "zh-TW": "爆竹呱呱",
+        "kr": "폭죽 개구리"
+    },
+    {
+        "zh-CN": "机械蛇龙",
+        "en": "Mechanical Snake Dragon",
+        "ja": "機械蛇龍",
+        "zh-TW": "機械蛇龍",
+        "kr": "기계사룡"
+    },
+    {
+        "zh-CN": "天王寺雅央",
+        "en": "Tendoji Masao",
+        "ja": "天王寺雅央",
+        "zh-TW": "天王寺雅央",
+        "kr": "마사오"
+    },
+    {
+        "zh-CN": "天王寺雅央",
+        "en": "Tendoji Masao",
+        "ja": "天王寺雅央",
+        "zh-TW": "天王寺雅央",
+        "kr": "마사오"
+    },
+    {
+        "zh-CN": "果冻战士",
+        "en": "Jelly Fighter",
+        "ja": "ゼリーファイター",
+        "zh-TW": "果凍戰士",
+        "kr": "젤리 파이터"
+    },
+    {
+        "zh-CN": "果冻护卫",
+        "en": "Jelly Guard",
+        "ja": "ゼリーガーディアン",
+        "zh-TW": "果凍護衛",
+        "kr": "젤리 가디언"
+    },
+    {
+        "zh-CN": "果冻巫师",
+        "en": "Jelly Wizard",
+        "ja": "ゼリーウィザード",
+        "zh-TW": "果凍巫師",
+        "kr": "젤리 마법사"
+    },
+    {
+        "zh-CN": "魔法茶壶",
+        "en": "Magic Teapot",
+        "ja": "魔法のティーポット",
+        "zh-TW": "魔法茶壺",
+        "kr": "마법의 찻주전자"
+    },
+    {
+        "zh-CN": "变异茶壶",
+        "en": "Mutant Teapot",
+        "ja": "変なティーポット",
+        "zh-TW": "變異茶壺",
+        "kr": "이상한 찻주전자"
+    },
+    {
+        "zh-CN": "海王鲨",
+        "en": "King Shark",
+        "ja": "サメタラシ",
+        "zh-TW": "海王鲨",
+        "kr": "상어왕"
+    },
+    {
+        "zh-CN": "天川真梦梓",
+        "en": "Amakawa Mamushi",
+        "ja": "天川真夢梓",
+        "zh-TW": "天川真夢梓",
+        "kr": "마무시"
+    },
+    {
+        "zh-CN": "天川苍鲤",
+        "en": "Amakawa Souri",
+        "ja": "天川蒼鯉",
+        "zh-TW": "天川蒼鯉",
+        "kr": "소우리"
+    },
+    {
+        "zh-CN": "蟹布罗",
+        "en": "Crab Soldier",
+        "ja": "蟹兄ぃ",
+        "zh-TW": "蟹布羅",
+        "kr": "게병사"
+    },
+    {
+        "zh-CN": "虾布罗",
+        "en": "Prawn Soldier",
+        "ja": "蝦兄ぃ",
+        "zh-TW": "蝦布羅",
+        "kr": "새우병"
+    },
+    {
+        "zh-CN": "金小鱼",
+        "en": "Golden Fish",
+        "ja": "金ちゃん",
+        "zh-TW": "金小魚",
+        "kr": "금붕어양"
+    },
+    {
+        "zh-CN": "大嗓门",
+        "en": "Loudmouth",
+        "ja": "コエデカフグ",
+        "zh-TW": "大嗓門",
+        "kr": "큰소리 복어"
+    },
+    {
+        "zh-CN": "练家子",
+        "en": "Martial Trainee",
+        "ja": "ムキムキフグ",
+        "zh-TW": "練家子",
+        "kr": "무술가 복어"
+    },
+    {
+        "zh-CN": "天川真梦梓（友方）",
+        "en": "Amakawa Mamushi(Ally)",
+        "ja": "天川真夢梓（味方）",
+        "zh-TW": "天川真夢梓（友方）",
+        "kr": "마무시 (동료)"
+    },
+    {
+        "zh-CN": "天川苍鲤（友方）",
+        "en": "Amakawa Souri(Ally)",
+        "ja": "天川蒼鯉（味方）",
+        "zh-TW": "天川蒼鯉（友方）",
+        "kr": "소우리 (동료)"
+    },
+    {
+        "zh-CN": "商业之主",
+        "en": "Lord of Commerce",
+        "ja": "やり手の商人",
+        "zh-TW": "商業之主",
+        "kr": "최고의 상인"
+    },
+    {
+        "zh-CN": "古怪神探",
+        "en": "Quirky Detective",
+        "ja": "風変わりな探偵",
+        "zh-TW": "古怪神探",
+        "kr": "괴짜 탐정"
+    },
+    {
+        "zh-CN": "社恐修女",
+        "en": "Shy Nun",
+        "ja": "ぼっちシスター",
+        "zh-TW": "社恐修女",
+        "kr": "수줍은 수녀"
+    },
+    {
+        "zh-CN": "暗影忍者",
+        "en": "Shadow Ninja",
+        "ja": "暗躍する忍者",
+        "zh-TW": "暗影忍者",
+        "kr": "섀도우 닌자"
+    },
+    {
+        "zh-CN": "社员叔叔",
+        "en": "Uncle Employee",
+        "ja": "会社員",
+        "zh-TW": "社員叔叔",
+        "kr": "회사원"
+    },
+    {
+        "zh-CN": "猩红辣妹",
+        "en": "Red Hot",
+        "ja": "深紅のギャル",
+        "zh-TW": "猩紅辣妹",
+        "kr": "진홍빛 갸루"
+    },
+    {
+        "zh-CN": "游戏大师",
+        "en": "Pro Gamer",
+        "ja": "ゲームマスター",
+        "zh-TW": "遊戲大師",
+        "kr": "게임 마스터"
+    },
+    {
+        "zh-CN": "看板娘",
+        "en": "Kanban Musume",
+        "ja": "看板娘",
+        "zh-TW": "看板娘",
+        "kr": "간판녀"
+    },
+    {
+        "zh-CN": "垃圾箱",
+        "en": "Waste-Collecting robot",
+        "ja": "回収ロボット",
+        "zh-TW": "垃圾桶",
+        "kr": "재활용 로봇"
+    },
+    {
+        "zh-CN": "肉弹战车",
+        "en": "Human Chariot",
+        "ja": "肉弾戦車",
+        "zh-TW": "肉彈戦車",
+        "kr": "인간전차"
+    },
+    {
+        "zh-CN": "小猎手",
+        "en": "Young Hunter",
+        "ja": "リトルハンター",
+        "zh-TW": "-",
+        "kr": "리틀 헌터"
+    },
+    {
+        "zh-CN": "史莱姆",
+        "en": "Slime Girl",
+        "ja": "スライムガール",
+        "zh-TW": "史萊姆",
+        "kr": "슬라임 걸"
+    },
+    {
+        "zh-CN": "旗袍娘",
+        "en": "Cheongsam Girl",
+        "ja": "ドレスガール",
+        "zh-TW": "旗袍娘",
+        "kr": "치파오 걸"
+    },
+    {
+        "zh-CN": "命运少女",
+        "en": "Destiny Girl",
+        "ja": "デスティニーガール",
+        "zh-TW": "命運少女",
+        "kr": "데스티니 걸"
+    },
+    {
+        "zh-CN": "太刀使",
+        "en": "Katana Master",
+        "ja": "太刀使い",
+        "zh-TW": "太刀使",
+        "kr": "검성"
+    },
+    {
+        "zh-CN": "绿洲女王",
+        "en": "Oasis Queen",
+        "ja": "オアシスクイーン",
+        "zh-TW": "綠洲女王",
+        "kr": "오아시스 퀸"
+    },
+    {
+        "zh-CN": "家政机器人",
+        "en": "Robot Maid",
+        "ja": "ロボメイド",
+        "zh-TW": "家政機器人",
+        "kr": "로봇메이드"
+    },
+    {
+        "zh-CN": "暗区少主",
+        "en": "Syndicate Prince",
+        "ja": "暗黒の若君",
+        "zh-TW": "暗區少主",
+        "kr": "암흑의주인"
+    },
+    {
+        "zh-CN": "午夜闪光",
+        "en": "Midnight Flash",
+        "ja": "真夜中の閃光",
+        "zh-TW": "午夜閃光",
+        "kr": "심야의 섬광"
+    },
+    {
+        "zh-CN": "网络魅影",
+        "en": "Cyber Phantom",
+        "ja": "ネットファントム",
+        "zh-TW": "網絡魅影",
+        "kr": "사이버 팬텀"
+    },
+    {
+        "zh-CN": "新人调查员",
+        "en": "Rookie investigator",
+        "ja": "新人捜査官",
+        "zh-TW": "新人調查員",
+        "kr": "신입수사관"
+    },
+    {
+        "zh-CN": "机械超人",
+        "en": "Mech Hero",
+        "ja": "メカ・ドミナンス",
+        "zh-TW": "機械超人",
+        "kr": "메카닉 히어로"
+    },
+    {
+        "zh-CN": "风水师",
+        "en": "Fengshui Master",
+        "ja": "風水師",
+        "zh-TW": "風水師",
+        "kr": "풍수사"
+    },
+    {
+        "zh-CN": "三神御主",
+        "en": "Hierarch of Mikami",
+        "ja": "三神教祖",
+        "zh-TW": "三神禦主",
+        "kr": "삼신교주"
+    },
+    {
+        "zh-CN": "超天酱",
+        "en": "KAngel",
+        "ja": "超てんちゃん",
+        "zh-TW": "超天醬",
+        "kr": "OMGkawaiiAngel"
+    },
+    {
+        "zh-CN": "糖糖",
+        "en": "Ame-chan",
+        "ja": "あめちゃん",
+        "zh-TW": "糖糖",
+        "kr": "Ame-chan"
+    },
+    {
+        "zh-CN": "小浣熊",
+        "en": "Racoon",
+        "ja": "アライグマ",
+        "zh-TW": "小浣熊",
+        "kr": "라쿤"
+    },
+    {
+        "zh-CN": "海盗鲨鱼",
+        "en": "Shark Pirate",
+        "ja": "海賊サメ",
+        "zh-TW": "海盜鲨魚",
+        "kr": "상어해적"
+    },
+    {
+        "zh-CN": "天王寺雅央",
+        "en": "Gawu",
+        "ja": "ガオー",
+        "zh-TW": "天王寺雅央",
+        "kr": "가우"
+    },
+    {
+        "zh-CN": "天王寺雅央",
+        "en": "King Gawu",
+        "ja": "海賊王ガオー",
+        "zh-TW": "天王寺雅央",
+        "kr": "해적왕 가우"
+    },
+    {
+        "zh-CN": "海盗精锐",
+        "en": "Elite Pirate",
+        "ja": "海賊精鋭",
+        "zh-TW": "海盜精銳",
+        "kr": "해적정예"
+    },
+    {
+        "zh-CN": "冰冷蓝灵",
+        "en": "Frozen Blue Spirit",
+        "ja": "氷刻青霊",
+        "zh-TW": "冰冷藍靈",
+        "kr": "파란정령"
+    },
+    {
+        "zh-CN": "狂躁红灵",
+        "en": "Fever Red Spirit",
+        "ja": "凶暴赤霊",
+        "zh-TW": "狂躁紅靈",
+        "kr": "빨간정령"
+    },
+    {
+        "zh-CN": "刀剑灵体",
+        "en": "Sword Spirit",
+        "ja": "刀剣霊",
+        "zh-TW": "刀劍靈體",
+        "kr": "검정령"
+    },
+    {
+        "zh-CN": "长戟灵体",
+        "en": "Spear Spirit",
+        "ja": "長戟霊",
+        "zh-TW": "長戟靈體",
+        "kr": "창정령"
+    },
+    {
+        "zh-CN": "天王寺雅央",
+        "en": "Tendoji Masao",
+        "ja": "天王寺雅央",
+        "zh-TW": "天王寺雅央",
+        "kr": "마사오"
+    },
+    {
+        "zh-CN": "舞狮嘎呜",
+        "en": "Lion Gawu",
+        "ja": "獅子舞いガオー",
+        "zh-TW": "舞獅嘎嗚",
+        "kr": "사자탈 가우"
+    },
+    {
+        "zh-CN": "指挥平台",
+        "en": "Ground Control",
+        "ja": "指揮センター",
+        "zh-TW": "指揮平台",
+        "kr": "지상 관제"
+    },
+    {
+        "zh-CN": "氛围机器人",
+        "en": "Ambient Enlivener Robot",
+        "ja": "雰囲気系ロボ",
+        "zh-TW": "氛圍機器人",
+        "kr": "분위기 로봇"
+    },
+    {
+        "zh-CN": "爆竹呱呱",
+        "en": "Cracker Croak",
+        "ja": "爆竹ゲロゲロ",
+        "zh-TW": "爆竹呱呱",
+        "kr": "폭죽 개구리"
+    },
+    {
+        "zh-CN": "机械蛇龙",
+        "en": "Mechanical Snake Dragon",
+        "ja": "機械蛇龍",
+        "zh-TW": "機械蛇龍",
+        "kr": "기계사룡"
+    },
+    {
+        "zh-CN": "学院安全官",
+        "en": "Security Officer",
+        "ja": "学院警備官",
+        "zh-TW": "學院安全官",
+        "kr": "학원경비관"
+    },
+    {
+        "zh-CN": "代理院长",
+        "en": "Acting Dean",
+        "ja": "学院長代理",
+        "zh-TW": "代理院長",
+        "kr": "학원장대리"
+    },
+    {
+        "zh-CN": "果冻战士",
+        "en": "Jelly Fighter",
+        "ja": "ゼリーファイター",
+        "zh-TW": "果凍戰士",
+        "kr": "젤리 파이터"
+    },
+    {
+        "zh-CN": "果冻护卫",
+        "en": "Jelly Guard",
+        "ja": "ゼリーガーディアン",
+        "zh-TW": "果凍護衛",
+        "kr": "젤리 가디언"
+    },
+    {
+        "zh-CN": "果冻巫师",
+        "en": "Jelly Wizard",
+        "ja": "ゼリーウィザード",
+        "zh-TW": "果凍巫師",
+        "kr": "젤리 마법사"
+    },
+    {
+        "zh-CN": "魔法茶壶",
+        "en": "Magic Teapot",
+        "ja": "魔法のティーポット",
+        "zh-TW": "魔法茶壺",
+        "kr": "마법의 찻주전자"
+    },
+    {
+        "zh-CN": "变异茶壶",
+        "en": "Mutant Teapot",
+        "ja": "変なティーポット",
+        "zh-TW": "變異茶壺",
+        "kr": "이상한 찻주전자"
+    },
+    {
+        "zh-CN": "海王鲨",
+        "en": "Oceanlord Shark",
+        "ja": "サメタラシ",
+        "zh-TW": "海王鲨",
+        "kr": "サメタラシ"
+    },
+    {
+        "zh-CN": "天川真梦梓",
+        "en": "Amakawa Mamushi",
+        "ja": "天川真夢梓",
+        "zh-TW": "天川真夢梓",
+        "kr": "마무시"
+    },
+    {
+        "zh-CN": "天川苍鲤",
+        "en": "Amakawa Souri",
+        "ja": "天川蒼鯉",
+        "zh-TW": "天川蒼鯉",
+        "kr": "소우리"
+    },
+    {
+        "zh-CN": "蟹布罗",
+        "en": "Crab Soldier",
+        "ja": "蟹兄ぃ",
+        "zh-TW": "蟹布羅",
+        "kr": "게병사"
+    },
+    {
+        "zh-CN": "虾布罗",
+        "en": "Prawn Soldier",
+        "ja": "蝦兄ぃ",
+        "zh-TW": "蝦布羅",
+        "kr": "새우병"
+    },
+    {
+        "zh-CN": "金小鱼",
+        "en": "Golden Fish",
+        "ja": "金ちゃん",
+        "zh-TW": "金小魚",
+        "kr": "금붕어양"
+    },
+    {
+        "zh-CN": "大嗓门",
+        "en": "Loudmouth",
+        "ja": "コエデカフグ",
+        "zh-TW": "大嗓門",
+        "kr": "큰소리 복어"
+    },
+    {
+        "zh-CN": "练家子",
+        "en": "Martial Trainee",
+        "ja": "ムキムキフグ",
+        "zh-TW": "練家子",
+        "kr": "무술가 복어"
+    },
+    {
+        "zh-CN": "天川真梦梓",
+        "en": "Amakawa Mamushi",
+        "ja": "天川真夢梓",
+        "zh-TW": "天川真夢梓",
+        "kr": "마무시"
+    },
+    {
+        "zh-CN": "天川苍鲤",
+        "en": "Amakawa Souri",
+        "ja": "天川蒼鯉",
+        "zh-TW": "天川蒼鯉",
+        "kr": "소우리"
+    },
+    {
+        "zh-CN": "“我也不知道这玩意买来干嘛用，但是买都买了”",
+        "en": "I don't even know why I bought this thing, but well, I bought it anyway.",
+        "ja": "なんで買ったか全然わからへんけど、もう買うてまうたわ。",
+        "zh-TW": "“我也不知道這玩意買來幹嘛用，但是買都買了”",
+        "kr": "내가 이걸 왜 사는지 모르지만, 뭐, 이미 사버렸어."
+    },
+    {
+        "zh-CN": "“又又又出现事件了？太棒了！”",
+        "en": "Another event popped up? Awesome!",
+        "ja": "またまた事件？やった〜！",
+        "zh-TW": "“又又又出現事件了？太棒了！”",
+        "kr": "또 사건이야? 좋아!"
+    },
+    {
+        "zh-CN": "“不不不不不不行的啊…”",
+        "en": "No, no, no, that's definitely not okay...",
+        "ja": "むむむむむむ無理です…",
+        "zh-TW": "“不不不不不不行的啊…”",
+        "kr": "으으으으, 말도 안 돼..."
+    },
+    {
+        "zh-CN": "“我在阴影中杀戮，犹如…后面啥来着？”",
+        "en": "I commit slaughter in the shadows, like... what was the rest?",
+        "ja": "影の中に私は居る、まるで…なんだっけ？",
+        "zh-TW": "“我在陰影中殺戮，猶如…後面啥來著？”",
+        "kr": "나는 그림자 속에 있어, 마치... 뭐였더라?"
+    },
+    {
+        "zh-CN": "“实在抱歉，不好意思，让您见笑了..”",
+        "en": "My deepest apologies for causing any embarrassment to you.",
+        "ja": "すみません、すみません…いやぁお恥ずかしい…",
+        "zh-TW": "“實在抱歉，不好意思，讓您見笑了..”",
+        "kr": "죄송합니다, 죄송합니다... 정말 부끄러워요..."
+    },
+    {
+        "zh-CN": "“你喜欢可爱的东西吗？Honey~”",
+        "en": "Do you have a thing for cute stuff, Honey?",
+        "ja": "ハニハニ〜！かわいいもの好き？好きっしょ！",
+        "zh-TW": "“妳喜歡可愛的東西嗎？Honey~”",
+        "kr": "하니하니~! 귀여운 거 좋아해? 좋아하지!"
+    },
+    {
+        "zh-CN": "“什么都恋只会害了你的小哥哥！”",
+        "en": "Fan-girling over everything will only end up you, oni-chan!",
+        "ja": "恋に触ると火傷するよ？お兄ちゃん♪",
+        "zh-TW": "“什麽都戀只會害了妳的小哥哥！”",
+        "kr": "사랑에 빠지면 화상 입을걸? 오빠♪"
+    },
+    {
+        "zh-CN": "帕露南・克里西亚\n    生日：6月14日\n    喜欢的食物：看起来贼贵的\n    联合城的商业传奇，帝国集团的所有者。克里西亚家族是久负盛名的传统家族财团，帕露南让这个帝国更加繁荣，使联合城的各种产业都遍布了克利西亚家族的身影。\n    帕露南很少出现在公共场合，只有很多年前报纸留下的采访照片。",
+        "en": "Parunan Crecia\nBirthday: 14/06\nFavorite Food: As long as it's expensive\nOwner of Imperial Group, and a legend of Union City.\nAs the most renowned consortium in the city, the house of Crecia is bringing prosperity to the empire under the leadership of Parunan.\nSeldomly seen in public, Parunan is only known in some interview pictures in newspapers years ago.",
+        "ja": "パルナン クレシア\n 誕生日：6月14日\n 好きな食べ物：高そうなもの\n  ユニオンシティ商業界の伝説、インペリアルグループのオーナー。クレシア家は長い歴史を誇る伝統的な家族財閥で、パルナンはそれをより繁栄させ、ユニオンシティの様々な産業にクレシア家の影響を広めました。\n\nパルナンは表舞台にはほとんど姿を見せず、数年前の新聞の取材写真しか残っていません。",
+        "zh-TW": "帕露南・克里西亞\n生日：6月14\n喜歡的食物：只要看起來超貴的\n聯合城的商業傳奇，帝國集團的所有者。克里西亞家族是久負盛名的傳統家族財團，帕露南讓這個帝國更加繁榮，使聯合城的各種產業都遍布了克利西亞家族的身影。\n帕露南很少出現在公共場合，只有很多年前報紙留下的採訪照片。",
+        "kr": "파루난 크레시아\n생일 : 6월 14일\n좋아하는 음식 : 비싸 보이는 것\n유니온 시 상업계의 전설이자 임페리얼 그룹의 오너. 크레시아 가문은 유서 깊은 전통 재벌 가문으로, 파루난의 리더십 아래 더욱 번성하여 유니온 시티의 여러 산업에 영향력을 확대했다.\n\n모습을 거의 드러내지 않는 탓에, 몇 년 지난 신문의 인터뷰 사진으로만 그녀의 모습을 확인할 수 있다."
+    },
+    {
+        "zh-CN": "芬妮・克雷格\n    生日：2月17日\n    喜欢的食物：草莓蛋糕\n    格雷森侦探事务所是整个联合城数一数二的私人侦探事务所，芬妮则是事务所的核心。她办理过无数非常级棘手的案件，而这些案件无一例外都得到了完美的解决。不光如此，她还是一位资深的法学博士，拥有联合城颁发的双证。\n    在“天王落”事件后失踪，录入的形象是很久之前的。",
+        "en": "Fanny Craig\nBirthday: 17/02\nFavorite Food: Strawberry Cake\nHaving solved loads of intricate cases, Fanny is a big shot in Grayson Detective Agency, the prestigious agency to exist in Union City. Her law doctor degree isn't something you should take lightly.\nEver since the Tennou Drop incident, she has mysteriously disappeared, leaving only her old photograph as a proof of her existence.",
+        "ja": "ファニィ クレイグ\n 誕生日：2月17日\n 好きな食べ物：いちごケーキ\n 「グレイソン探偵事務所」は、ユニオンシティで最も有名な私立探偵事務所の一つで、ファニィはその中心人物です。彼女は数々の難事件をすべて完璧に解決してきました。さらに、彼女は経験豊富な法学博士で、ユニオンシティから授与されたダブルディグリーを持っています。\n\n「天王落」事件の後、行方不明になり、彼女のプロフィールはかなり古いものです。",
+        "zh-TW": "芬妮・克雷格\n生日：2月17日\n喜歡的食物：草莓蛋糕\n格雷森偵探事務所是整個聯合城數一數二的私家偵探事務所，芬妮則是事務所的核心。她完美解決過無數非常棘手的案件。不光如此，她還是一位資深的法學博士，兼具學歷與實戰經驗。\n在「天王落」事件後失踪，現時只能從舊照中知曉她的外貌",
+        "kr": "페니 크레이그\n생일 : 2월 17일\n좋아하는 음식 : 딸기 케이크\n유니온 시에서 가장 유명한 사립 탐정 사무소 「그레이슨 탐정 사무소」의 핵심 인물. 그녀는 수많은 까다로운 사건들을 완벽하게 해결해왔고, 유니온 시에서 수여한 법학 박사 학위도 가지고 있다.\n\n「텐노 드롭」 사건 이후, 자신이 있었다는 유일한 증거인 옛 사진 한 장만 남긴 채 그대로 실종되었다."
+    },
+    {
+        "zh-CN": "阿兰娜・格瑞斯塔\n    生日：2月21\n    喜欢的食物：芋头\n    联合城星辉院的修女长。星辉院是联合城政府资助具有孤儿院性质的机构，里面收养了星辉位面各地区的孤儿，阿兰娜也是孤儿的一员。\n    “退魔之夜”事件后加入战斗修女团。她一直帮助维护修道院的日常运营，很少在外露面。",
+        "en": "Alana Gresta\nBirthday: 21/02\nFavorite Food: Taro\nAbbess of Asterism Monastery in Union City, an institute sponsored by the government to adopt orphans, in which she was one of them.\nShe became a fighter since Exorcism Night, while operating the monastery.",
+        "ja": "アランナ グレスタ\n 誕生日：2月21日\n 好きな食べ物：里芋\nユニオンシティのアステリズム・モナスタリーの修道院長。アステリズム・モナスタリーは政府の援助を受けた孤児院を兼ねた機関で、各地の星光次元から孤児たちを受け入れており、アランナもかつてその中の一人でした。\n\n「エクソシズム・ナイト」事件の後、彼女は戦闘修道女団に加わりました。現在も修道院の運営を支え続けており、彼女の姿が外部で見られることはほとんどありません。",
+        "zh-TW": "阿蘭娜・格瑞斯塔\n生日：2月21\n喜歡的食物：芋頭\n聯合城星輝院的修女長。星輝院是聯合城政府資助的孤兒院，裡頭收養了星輝位面各地區的孤兒，阿蘭娜亦是其中之一。\n「退魔之夜」事件後加入戰鬥修女團，期間一直協助維護修道院的日常運營，鮮有露面。",
+        "kr": "알라나 그레스타\n생일 : 2월 21일\n좋아하는 음식 : 토란\n유니온 시에 위치한 「아스테리즘 수도원」의 수도원장. 「아스테리즘 수도원」은 정부의 지원을 받는 고아원을 겸한 기관으로, 각지에서 온 고아들을 받아들이며, 알라나 역시 과거에 그들 중 한 명이었다.\n\n「퇴마의 밤」 사건 이후, 그녀는 전투 수녀단에 합류했다. 현재도 수도원 운영을 돕고 있으며, 외부에서 그녀의 모습을 보기란 매우 드물다."
+    },
+    {
+        "zh-CN": "青山小町\n    生日：1月8日\n    喜欢的食物：米饭\n    本苍院的研究员，致力于星辉古文献的研究。她也是密宗的忍者传人，脖子上会说话的围巾是密宗的魔道具“绞毙”。\n    “退魔之夜”事件发生后本苍院被毁，她本人则被政府保护了起来，很少人能见到她。",
+        "en": "Aoyama Komachi\nBirthday: 08/01\nFavorite Food: Rice\nResearcher of Honnsou-in, dedicating herself to studying ancient asterism documents. She also happens to be a Tantra ninja, bearing the legendary speaking scarf artifact called Strangle.\nEver since Honnsou-in's destruction during Exorcism Night incident, Komachi is now heavily protected by the Government, leaving no trace of her in public.",
+        "ja": "青山小町\n 誕生日：1月8日\n 好きな食べ物：ご飯\n コマチは本蒼院でアステリズムの研究に専攻する研究員です。また、密教の忍者の末裔でもあり、彼女の首に巻かれた話すマフラーは密教の魔法具「ストラングル)」である。\n 「エクソシズム ナイト」事件の後、本蒼院は破壊されましたが、彼女自体は政府によって保護され、それから彼女に会える人はほとんどいません。",
+        "zh-TW": "青山小町\n生日：1月8日\n喜歡的食物：米飯\n本蒼院的研究員，致力於星輝古文獻的研究。她也是密宗的忍者傳人，脖子上會說話的圍巾是密宗的魔道具「絞斃」。\n「退魔之夜」事件發生後，本蒼院被毀，她本人則被政府保護了起來，很少人能見到她。",
+        "kr": "아오야마 코마치\n생일 : 1월 8일\n좋아하는 음식 : 밥\n고대 아스테리즘에 관한 문헌 연구에 전념하고 있는 연구 기관 「혼소인」 소속의 연구원. 그녀는 또한 밀교 닌자의 후예이며, 그녀의 목에 두른 말하는 머플러는 밀교의 마도구 「교살」이다.\n\n「퇴마의 밤」 사건 이후 「혼소인」은 파괴되었지만, 코마치 자신은 정부의 보호를 받고 있어 더이상 사회에서 찾아볼 수가 없다."
+    },
+    {
+        "zh-CN": "派德曼\n    生日：5月20日（发现日）\n    喜欢的食物：未知\n    超自然生物，虽然不会对周围的人产生直接的肉体伤害，但是会不断蚕食周围人的精神，使他们陷入神经质，癫狂，自残的精神状态。表达感情和发声都是通过面部的平板电脑，但有传闻说那些声音只是在模仿某人说话。\n    在“天王落”事件后被收容。",
+        "en": "Padman\nBirthday: 20/05\nFavorite Food: Unknown\nSupernatural creature that feeds on people's minds, which leads to mental status including nervosity, insanity, and even self-harm.\nIt speaks and communicates through a tablet computer. Not sure if it imitates someone's voice.\nThe government provided him shelter after Tennnou Drop.",
+        "ja": "パッドマン\n 誕生日：5月20日(発見日)\n 好きな食べ物：未知\n超自然生物。直接的な肉体的な害を与えることはありませんが、周囲の人々の精神を侵食し、神経症、狂気、自傷行為などの精神状態に陥らせます。感情表現や発声はタブレットを通じて行いますが、その声は特定の人物の話し方を模倣しているだけだという噂もあります。\n\n「天王落」事件後に収容されました。",
+        "zh-TW": "派德曼\n生日：5月20（發現日）\n喜歡的食物：未知\n超自然生物，雖然不會對人產生直接的肉體傷害，但是會不斷蠶食圍遭人類的精神，使他們陷入神經質，癲狂，自殘的精神狀態。表達感情和發聲都是透過臉部的平板電腦，但有傳聞說那些聲音只是在模仿某人說話。\n在「天王落」事件後被收容。",
+        "kr": "패드맨\n생일 : 5월 20일 (발견일) \n좋아하는 음식 : 알 수 없음 \n사람의 감정에서 기운을 뽑아먹어, 그들로 하여금 불안, 광기, 심지어 자기혐오 같은 정신이상을 간접 유발하는 초현상적인 생명체. 태블릿 컴퓨터를 통해 감정을 표현하고 소통하지만 , 그 목소리가 특정 인물의 말을 흉내 내는 것뿐이라는 소문도 있다.\n\n「텐노 드롭」 사건 이후에 수용되었다."
+    },
+    {
+        "zh-CN": "帕帕拉\n    生日：10月31日\n    喜欢的食物：番茄酱为辅料的任何东西\n    “猩红行者”乐队的主唱兼吉他手，也是联合城地下飙车集团“地窖”的主理人。乐队吉他主唱是她童年的兴趣爱好，飙车才是现在的心头好。她喜欢把车子涂成红色并且贴上各种可爱的贴纸。\n    现在依然活跃于地下赛车场和各Livehouse。",
+        "en": "Papara\nBirthday: 31/10\nFavorite Food: Everything with ketchup\nLead singer and guitarist of Scarlet walker, also leader of the underground Bōsōzoku in Union city. Music is what she likes, but car racing is what she dies for. She has a scarlet car plastered with cute stickers.\nCan be often seen in underground races and certain livehouses.",
+        "ja": "パパラ\n 誕生日：10月31日\n 好きな食べ物：ケチャップ料理全般\nバンド「スカーレット・ウォーカー」のボーカル兼ギタリスト。同時に、ユニオンシティの地下ドライブグループ「地窖」のリーダーでもある。バンド活動は子供時代からの趣味で、現在の情熱はドライブへと移った。愛車を真っ赤に塗装し、様々な可愛らしいステッカーで飾り立てるのが好きだ。\n\n現在も、地下レーシングサーキットや様々なライブハウスで精力的に活動を続けている。",
+        "zh-TW": "帕帕拉\n生日：10月31日\n喜歡的食物：任何沾有番茄醬的料理\n「猩紅行者」樂團的主唱兼吉他手，也是聯合城地下飆車集團「地窖」的主理人。擔任樂團吉他主唱是她童年的興趣，飆車才是現在的心頭好。喜歡把車子塗成紅色並且貼上各種可愛的貼紙。\n現在仍活躍於地下賽車場和各 Livehouse。",
+        "kr": "파파라\n생일 : 10월 31일\n좋아하는 음식 : 케찹을 뿌린 모든 것\n밴드 「스칼렛 워커」의 보컬 겸 기타리스트이자, 동시에 유니온 시 지하 폭주족  「지하창고」의 리더. 밴드 활동은 어릴 적부터의 취미였지만, 지금의 열정은 드라이브로 옮겨갔다. 그녀는 자신의 차를 새빨갛게 칠하고 다양한 귀여운 스티커로 꾸미는 것을 좋아한다.\n\n현재도 지하 레이싱 서킷과 다양한 라이브 하우스에서 열정적으로 활동하고 있다."
+    },
+    {
+        "zh-CN": "恋\n    生日：4月23日\n    喜欢的食物：汉堡\n    游戏《星引擎派对》的监制，超级游戏玩家/制作人。游戏杂志《pamagames》把她评选为联合城有史以来最强的游戏玩家。她喜欢收集一些有年代感的电子产品，还有一只灰色的鼠鼠宠物。\n    自称永远18岁的谜之美少女，虽然游戏内的形象是她小的时候。",
+        "en": "Ren\nBirthday: 23/04\nFavorite Food: Hamburger\nProducer of Astral Party!\nShe is selected as the most powerful player in Union City by the magazine Pamagames.\nShe likes collecting retro gadgets and keeps a mouse pet.\nShe always calls herself an 18-year-old mysterious pretty girl, but in the game she appears as in her teenage.",
+        "ja": "レン\n誕生日：4月23日\n好きな食べ物：ハンバーガー\n ゲーム「アストラルパーティ」のプロデューサーであり、超一流のゲーマー/クリエイター。ゲーム雑誌『pamagames』によると、彼女はユニオンシティ史上最強のゲームプレイヤーとして評価されている。彼女はレトロな電子製品を収集するのが好きで、グレーのペットネズミを飼っています。\n 自称永遠の18歳の謎の美少女で、ゲーム内のキャラクターは彼女が子供の頃の姿である。",
+        "zh-TW": "戀\n生日：4月23\n喜歡的食物：漢堡\n遊戲《星引擎派對》的監製，超級遊戲角色/製作人。遊戲雜誌《Pamagames》把她選為聯合城有史以來最強的遊戲角色。她喜歡收集一些有年代感的電子產品，還有一隻灰色的鼠鼠寵物。\n自稱永遠18歲的謎之美少女，在遊戲內以小時候的樣子示人。",
+        "kr": "렌\n생일 : 4월 23일\n좋아하는 음식 : 햄버거\n「아스트랄 파티」의 프로듀서이자 최고의 게이머/크리에이터. 게임 잡지 『pamagames』에 따르면, 그녀는 유니온 시 역사상 가장 영향력 있는 게이머로 선정되었다. 그녀는 레트로한 전자기기를 수집하는 것을 좋아하며, 회색 애완용 쥐를 키운다.\n\n자신을 영원한 18세의 수수께끼 미소녀라고 자칭하지만, 게임 속에서는 그녀가 어릴 적의 모습으로 등장한다."
+    },
+    {
+        "zh-CN": "米米\n    生日：8月2日\n    喜欢的食物：精致的快餐便当\n    游戏《星引擎派对》的全能看板娘，超级打工战士。便利店、酒吧、超市都有米米打工的身影，恋第一次见到米米就是在便利店。至于米米为什么会成为《星引擎派对》游戏的看板娘就不得而知了。\n    米米神出鬼没，可能会出现在各种打工场合，除了某些直播工作的时候形象没有任何变化。",
+        "en": "Mimi\nBirthday: 02/08\nFavorite Food: Lovely bento\nAstral Party's poster girl and a hardworker at heart! She can be found working in many workplaces, from grocery stores to supermarkets.\nMimi is likely to be seen in various workplaces.",
+        "ja": "ミミ\n 誕生日：8月2日\n 好きな食べ物：精巧な弁当\n 「アストラルパーティ」のオールラウンダー看板娘、スーパーバイト戦士、コンビニ深夜勤務からバーのカクテル作り、スーパーのレジ打ちまで、あらゆる職種をこなす働き者で、レンが初めて彼女と出会ったのも、ある夜のコンビニだった。どうしてミミが「アストラルパーティ」の看板娘になったのか――その理由を知る者は誰もいない。\n ミミの姿は街の至る所で目撃される。飲食店から小売店まで、あらゆるアルバイト現場で彼女の活躍を見ることができる。特定のライブ配信の時を除けば、いつも変わらず笑顔で働いている。",
+        "zh-TW": "米米\n生日：8月2日\n喜歡的食物：精緻的快餐便當\n遊戲《星引擎派對》的全能看板娘，超級打工戰士。便利店、酒吧、超市都有米米打工的身影，戀第一次見到米米就是在便利商店。至於米米為什麼會成為《星引擎派對》遊戲的看板娘就不得而知了。\n米米神出鬼沒，可能會出現在各種打工場合，除了某些直播工作的時候，形象一般沒有任何變化。",
+        "kr": "미미\n생일 : 8월 2일 \n좋아하는 음식 : 먹음직스러운 도시락 \n\n뼛속까지 워커홀릭인 「아스트랄 파티」의 간판 아가씨. 편의점 야간 근무부터 바의 칵테일 제조, 슈퍼마켓 계산대까지 모든 직종을 소화하는 일꾼으로, 렌이 처음 그녀를 만난 곳도 어느 날 밤의 편의점이었다. 왜 미미가 「아스트랄 파티」의 간판 아가씨가 되었는지 그 이유는 아무도 모른다.\n\n미미의 모습은 도시 곳곳에서 목격된다. 식당부터 소매점까지, 온갖 아르바이트 현장에서 그녀의 활약상을 볼 수 있다. 특정 라이브 방송 시간을 제외하면, 늘 한결같이 웃는 얼굴로 일하고 있다."
+    },
+    {
+        "zh-CN": "Z3000\n    生日：未知\n    喜欢的食物：任何\n    一切都是未知。有传言是疯狂科学家制造的助手机器人，也有人猜测是废旧工破产遗留下来的有意念的幽灵。可以确定的是它会把乱丢垃圾的人吸入自己的身体里好好的教训一番！\n    目击到它的人很少，基本相当于都市传说。",
+        "en": "Z3000\nBirthday: Unknown\nFavorite Food: Anything\nRumor says it was created by a crazy scientist, a ghost with consciousness.\nIt likes giving lessons to people who drop litter around, by sucking them into its own body.\nIt is an urban myth witnessed by none.",
+        "ja": "Z3000\n 誕生日：未知\n 好きな食べ物：全て\n Z3000の正体は深い霧に閉ざされたままである。巷では「狂気のマットサイエンティストが最後に生み出した助手用ロボット」と囁かれるかと思えば、「廃棄物処理プラントで目覚めた集合意識」という怪談も存在する。しかし一つだけ事実として確認されているのは、この異形が路上にゴミを捨てた者を文字通り\"体内\"に取り込み、鉄槌を下すという恐るべき習性だ。\n\nその姿を捉えた者はごく僅か。今やZ3000は、夜ごと都市を徘徊する生ける伝説と化している。",
+        "zh-TW": "Z3000\n生日：未知\n喜歡的食物：任何\n一切都是未知。有傳言是瘋狂科學家製造的助手機器人，也有人猜測是回收工場破產後，遺留下來的幽靈。可以確定的是它會把亂丟垃圾的人，吸入體內，好好教訓一番！\n目擊到它的人很少，基本上相當於都市傳說。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "潘大猛\n    生日：10月1日\n    喜欢的食物：绿叶蔬菜\n    土生土长的联合城人。街舞、摇滚、二次元文化都是其最爱。平时会在街区做街舞表演和义工，偶尔也去枫的酒店打工，毕竟他的爱好都挺花钱的。\n    你可以在周末下午去联合城凰区的三神广场看他的表演。",
+        "en": "Pandaman\nBirthday: 10/01\nFavorite Food: Vegetables\n100% Union City local who like street dance, rock music, and ACGN.\nHe often does part-time job in Fen's hotel to fund his costly hobbies.\nHe performs street dance every weekend at Mikami square in Huang District.",
+        "ja": "パンダマン\n 誕生日：10月1日\n 好きな食べ物：緑黄色野菜\n生まれも育ちもユナイテッドシティ。彼はストリートダンス、ロック、アニメ文化が大好きで、普段は地域でストリートダンスのパフォーマンスやボランティア活動を行い、時折、姫夢楓の【隆興飯店】でアルバイトもしています。彼の趣味は結構お金がかかるので。\n 週末の午後にユニオンシティの鳳凰区の「サンシン」広場に行ったら、パンダマンのパフォーマンスの姿が見れます。",
+        "zh-TW": "潘大猛\n生日：10月1日\n喜歡的食物：綠葉蔬菜\n土生土長的聯合城人。街舞、搖滾、二次元文化都是其最愛。平常會在街區做街舞表演和義工，偶爾也去楓的飯店打工，畢竟他的嗜好都挺花錢的。\n你可以在週末下午去聯合城凰區的三神廣場看他的表演。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "璐璐\n    生日：12月12日\n    喜欢的食物：比自己小的都喜欢\n    拉姆齐生物科技的技术顾问。她是实验室的产物，拥有非常高的智慧。一般情况下都会待在实验室里，偶尔溜出去外面进行她的“狩猎”活动，但是根本没人知道她到底“狩猎”了什么。\n    璐璐的外形非常容易迷惑他人，千万不要上当！",
+        "en": "Lulu\nBirthday: 12/12\nFavorite Food: Anything smaller than her\nTechnical advisor to Ramsey Biotechnology and born in the lab. She is highly intelligent and only go outside of the lab to do \"huntings\" occassionaly.\nDon't be fooled by her appearance!",
+        "ja": "ルル\n 誕生日：12月12日\n 好きな食べ物：自分より小さいもの全部好き\n 「ランジー・バイオテクノロジー」のテクニカルアドバイザー。彼女は実験室の産物で、非常に高い知能を持っています。彼女が普段実験室にいることが多く、時折、彼女が「ハンティング」活動を行うために外に出かけますが、誰もが彼女が具体的に何を「ハンティング」しているのかを知りません。\n ルルの外見に騙されないように気をつけましょう！",
+        "zh-TW": "璐璐\n生日：12月12日\n喜歡的食物：體形比自己小的\n拉姆齊生物科技的技術顧問。她是實驗室的產物，擁有非常高的智能。一般情況下都會待在實驗室裡，偶爾溜出去外面進行她的「狩獵」活動，但是根本沒人知道她到底「狩獵」了什麼。\n璐璐的外形非常容易迷惑他人，千萬不要上當！",
+        "kr": ""
+    },
+    {
+        "zh-CN": "姬梦枫\n    生日：11月7日\n    喜欢的食物：牛肉丸\n    联合城最好吃饭店【隆兴饭店】的老板娘。其真实身份是【凰天会】的大当家，道上的人都称她为“公主”。和帕露南有密切的商业往来，恋的家主和青梅竹马，主星之一。\n    在隆兴饭店可以偶尔看见她和妹妹在指导工作。",
+        "en": "Fen\nBirthday: 07/11\nFavorite Food: Beef Ball\nOwner of Longxing Hotel, the hottest hotel in Union City.\nAlso known as \"Princess\", the leader of Huangtianhui. Fen has a close business partnership with Parunan, and grew up with Ren together.\nShe is occasionally seen supervising emloyees with her sister in Longxing Hotel.",
+        "ja": "姫夢楓\n 誕生日：11月7日\n 好きな食べ物：ビーフボール\n ユニオンシティ最高のレストラン【隆興飯店】の女将。彼女の正体は【凰天会】の組長であり、組の側の奴らは彼女を「ヒメ」と呼んでいます。パルナンとは密接なビジネス関係を持ち、レンの家主であり、幼馴染であり、マスタースターの一つでもあります。\n 　隆興飯店では、時々彼女と妹が仕事を指導している姿を見ることができます。",
+        "zh-TW": "姬夢楓\n生日：11月7日\n喜歡的食物：牛肉丸\n聯合城超人氣飯店【隆興飯店】的老闆娘。其真實身分是【凰天會】的大當家，道上的人都稱她為「公主」。主星之一，與帕露南有密切的商業往來，是戀的青梅竹馬和家主。\n在隆興飯店偶爾會看見她和妹妹在監督員工。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "蓝海晴\n   生日：3月22日\n   喜欢的食物：草莓\n   占卜店“日月”的老板。看起来比较成熟，其实才从大学毕业几年。因为性格和外表的缘故很受顾客欢迎。传言在大学时期加入的社团是一个情报组织，为了收集有关“星引擎”的消息。周末会去一个叫“虹之镜”的酒吧消遣，和那里的酒保库拉拉是多年的好友。\n   和大学时代比样貌有明显变化。",
+        "en": "HaiQing\nBirthday: 22/03\nFavorite Food: Strawberry\nAs the Sun & Moon divination shop owner, HaiQing looks grown up despite it is not long after her university graduation.\nShe was a member of an intelligence group in the school, and to collect intel on Star Engine, she usually spent some weekend time in a bar called Dispersion Prisms, and the bartender Kurara was her long-time friend.\nShe has undergone significant changes in appearance compared to her appearance at university graduation.",
+        "ja": "カイセイ\n誕生日：3月22日\n好きな食べ物：イチゴ\n      占い店「日月」の店主。見た目はかなり成熟しているが、実は大学を卒業してから数年しか経っていない。性格と外見のおかげで非常に人気がある。大学時代に加わったクラブは情報組織であるという噂があり、「スターエンジン」に関する情報を集めるためだった。週末は「虹の鏡」というバーで過ごすことが多く、そこのバーテンダーのクララとは長年の親友である。\n       大学時代と比べて外見が明らかに変わった。",
+        "zh-TW": "藍海晴\n生日：3月22日\n喜歡的食物：草莓\n占卜店「日月」的老闆。看起來比較成熟，其實才從大學畢業沒幾年。因為個性和外表的緣故，很受顧客歡迎。傳言在大學時期加入的社團是一個情報組織，為了收集有關「星引擎」的消息，週末會去一個叫「虹之鏡」的酒吧消遣，和那裡的酒保庫拉拉是多年的好友。跟大學時代相比，樣貌有明顯變化。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "龙崎美咲\n   生日：7月20日\n   喜欢的食物：抹茶冰淇淋\n三神教教主的护法。三神教是和星辉院齐名的又一宗教机构。它不光承担着福利院的工作，还有和本苍院一样的文献研究能力。美咲的龙崎家与天王寺家，米泽家同是三神教三大家族。\n   和雅央以及教主是青梅竹马，与青山小町是好友。一直在追查“天王落”事件的真相。",
+        "en": "Ryugasaki Misaki\nBirthday: 20/07\nFavorite Food: Matcha Ice Cream\nCustodian of Mikami's Hierarchy, a religious institute equally famous with Abbess of Asterism Monastery. It is dedicated to both charity and the study of ancient documents. Misaki, Yonezawa, and Tennoji are the three houses of Mikami.\nMisaki grew up together with the Hierarch and Gao, and was also a friend of Komachi. She has been chasing after the truth behind Tennnou Drop.",
+        "ja": "龍ケ崎美咲\n生日：7月20日\n好きな食べ物：抹茶アイスクリーム\n      三神（みかみ）教の護法。三神教はアステリズムモナスタリーと並ぶもう一つの宗教機関で、慈善活動と古文書の研究に専念しています。美咲が属する龍ケ崎家は、天王寺家、米沢家と共に三神教の三大家族です。\n      雅央や三神教教主とは幼馴染で、小町とは親友です。彼女は「天王落」事件の真実を追求し続けています。",
+        "zh-TW": "龍崎美咲\n生日：7月20日\n喜歡的食物：抹茶冰淇淋\n三神教教主的護法。三神教是另一個和星輝院齊名的宗教機構。它不光承擔福利院的工作，還有和本蒼院一樣的文獻研究能力。美咲的龍崎家與天王寺家，米澤家同是三神教三大家族。\n和雅央，教主是青梅竹馬。與小町是好友，一直在追查「天王落」事件的真相。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "娜蒂斯・恩菲尔德\n生日：9月19日\n喜欢的食物：炭烤鹰嘴豆\n绿洲市的权贵，也是联合城领导者家族之一。作为联合城的工业命脉，绿洲市的能源产业对于联合城至关重要。恩菲尔德家族不但是绿洲市实质的掌权者，还是联合城掌权议会中的一员，家族的产业遍布整个绿洲市。\n娜蒂斯长期居住在联合城，偶尔被家族叫回绿洲市。",
+        "en": "Nardis Enfield\nBirthday: 19/09\nFavorite Food: Grilled Chickpea\nNardis is from a powerful house of Oasis City, also a leading family of Union City.\nWith a strong energy industry, Oasis City holds the lifeblood of Union City's industrial machines.\nHouse of Enfield is not only powerful in Oasis City, but also a member of Union City's council.\nNardis lives in Union City, and once in a while visits Oasis City upon the family's call.",
+        "ja": "ナーディス エンフィールド\n誕生日：9月19日\n好きな食べ物：ひよこ豆をグリル焼き\nオアシスシティの権貴、ユニオンシティ指導者一族の一つ。ユニオンシティのメインエンジンとしてオアシスシティのエネルギー産業は必要不可欠。エンフィールド一族はオアシスシティの実質な支配者であり、ユニオンシティトップ議会のメンバーとしてオアシスシティを君臨し続ける。\nナーディスはユニオンシティに住んでいるが、たまには家族にオアシスシティに呼び戻されるらしい。",
+        "zh-TW": "娜蒂斯・恩菲爾德\n生日：9月19日\n喜歡的食物：炭烤鷹嘴豆\n綠洲市的權貴，也是聯合城領導者家族之一。作為聯合城的工業命脈，綠洲市的能源產業對於聯合城至關重要。恩菲爾德家族不但是綠洲市實質的掌權者，還是聯合城掌权議會中的一員，家族的產業遍佈整個綠洲市。\n娜蒂斯長期居住在聯合城，偶爾被家族叫回綠洲市。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "茉莉\n生日：8月12日\n喜欢的食物：无\n蓝海晴在大学时期同好会一同制作的机器人.内部的系统是一个在“暗网”搞到的据说非常高质量的AI。茉莉在她们毕业后被同好会的另一个成员露佳・皮克西带去了拉姆齐生物科技的技术部门，在那里她变成了一个得力的助手。\n茉莉会经常把璐璐当做有害垃圾清理，虽然遭到了璐璐多次抗议，但还是乐此不疲。",
+        "en": "Jasmine\nBirthday:12/08\nFavourite Food: N/A\nThe robot made by the hobby club during HaiQing's time at university.\nThe core system of the robot is a highly advanced AI acquired from the \"Dark Web\". \nAfter graduation, Jasmine was taken to Ramsey Biotechnology by another club member, Luga Pixie, and has since become a valuable assistant.\nJasmine always regards Lulu as waste disposal.\nAlthough Lulu has protested many times, Jasmine remains undeterred and enjoys it.",
+        "ja": "ジャスミン\n誕生日：8月12日\n好きな食べ物：ない\nカイセイの大学時代に同好会で作ったロボット、その内部システムはダークウェブで手に入れためちゃくちゃハイレベルのAIらしい。ジャスミンはカイセイたちの卒業後に同好会のもう一人のメンバーであるルカ・ピクシーに連れて「ランジー・バイオテクノロジー」で有能な助手になりました。\nジャスミンはしばしばルルを有害ゴミとして処理してるらしい、ルルは何度も抗議したにもかかわらず、楽しんで続けています。",
+        "zh-TW": "茉莉\n生日：8月12\n喜歡的食物：無\n藍海晴在大學時期同好會一同製作的機器人.內部的系統是一個在“暗網”搞到的據說非常高質量的AI。茉莉在她們畢業後被同好會的另一個成員露佳・皮克西帶去了拉姆齊生物科技的技術部門，在那裏她變成了一個得力的助手。\n茉莉會經常把璐璐當做有害垃圾清理，雖然遭到了璐璐多次抗議，但還是樂此不疲。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "阿尔・威尔逊\n生日：1月2日 \n喜欢的食物：奶酪\n“地窖”的创始人之一，与“凰天会”和恩菲尔德家族有着密切往来，人称“A.L”。兵器“天王”的持有者。“天王落”事件的主因。因为阿尔不知为何原因准备将“天王”摧毁才引发了后面的公司战争。摧毁天王使得一系列的神秘事件重新开始袭扰联合城。也正因此事，神器才又重回大众视野。\n在“天王落”事件后消失，不知所踪。",
+        "en": "AL Wilson\n\nBirthday: 2/1\nFavorite Food: Cheese\n\nOne of the founders of \"The Cellar,\" was closely connected to the \"Huangtianhui\" and the Enfield family, often known simply as \"A.L.\" He was the holder of the weapon \"Tennou\" and the key figure behind the \"Tennou Drop\" incident. The company war began when A.l., for reasons unknown, sought to destroy the \"Tennou.\" The destruction of the weapon triggered a series of mysterious events that once again plagued Union City.\nThis incident also brought the legendary weapon back into the public spotlight.\nAfter the \"Tennou Drop\" incident, Al disappeared and has been missing ever since.",
+        "ja": "アル・ウィルソン\n誕生日: 1月2日\n好きな食べ物: チーズ\n「地窖」の創設者の一人であり、「凰天会」やエンフィールド家と密接な関係を持つ。通称「A.L」。兵器「天王」の所持者。「天王落事件」の主因である。アルが何らかの理由で「天王」を破壊しようとしたことが、後の企業戦争を引き起こした。「天王」の破壊は、一連の神秘的な出来事を再びユナイテッドシティに襲わせるきっかけとなった。この事件により、神器が再び人々の注目を集めることとなる。\n「天王落事件」後、アルは姿を消し、行方不明となった。",
+        "zh-TW": "阿爾・威爾遜\n生日：1月2日 \n喜歡的食物：奶酪\n“地窖”的創始人之壹，與“凰天會”和恩菲爾德家族有著密切往來，人稱“A.L”。兵器“天王”的持有者。“天王落”事件的主因。因爲阿爾不知爲何原因准備將“天王”摧毀才引發了後面的公司戰爭。摧毀天王使得壹系列的神秘事件重新開始襲擾聯合城。也正因此事，神器才又重回大衆視野。\n在“天王落”事件後消失，不知所蹤。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "星魅琉华\n生日：2月15日\n喜欢的食物：三文鱼料理\n库拉拉的好友兼搭档，“虹之镜”酒吧的调酒师。“退魔之夜”和“天王落”事件的亲历者。午夜飙车党的精神领袖，人送称号“午夜闪光”。“天王落”事件引发了公司之间的激烈战斗，“虹之镜”作为之前的万事屋自然不能避免，自从酒吧名义上的老大在“退魔之夜”失踪后，星魅琉华也逐渐的淡出了大众的视野。\n周六偶尔会帮助库拉拉打理酒吧。",
+        "en": "Star Luka\nBirthday:15/02\nFavourite Food: Salmon\nKulala's partner, the bartender at “Rainbow Mirror” bar.\nA witness to the \"Exorcism Night\" and \"Tennnou Drop\" incidents.\nThe guiding spirit of the Midnight Racers, known as \"Midnight Flash\".\nThe \"Tennnou Drop\" incident sparked fierce battles among companies, and \"Rainbow Mirror\" previously serving as a jack-of-all-trades, could not avoid involvement.\nSince the nominal boss of the bar disappeared during the \"Exorcism Night,\" Star Luka has also gradually faded from public view.\nLuka occasionally assists Kulala with the bar on Saturdays.",
+        "ja": "星魅琉華\n誕生日：2月15日\n好きな食べ物：サーモンの料理\nクララの友人兼パートナー、バー“虹の鏡”のバーテンダーである。“エクソシズム ナイト”と“天王落”事件の体験者。ミッドナイトレーサーズのカリスマ的存在、人から「真夜中の閃光」と呼ばれています。「天王落」事件が企業間で激しい戦闘を引き起こし、“虹の鏡”はその間の万事屋として避けることはできませんでした。さらに、“エクソシズム ナイト”でバーの大将が行方不明になっていき、琉華は徐々に一般の視野から姿を消しました。\n土曜は時々クララのお手伝いにバーの手入れをしています。",
+        "zh-TW": "星魅琉華\n生日：2月15\n喜歡的食物：三文魚料理\n庫拉拉的好友兼搭檔，“虹之鏡”酒吧的調酒師。“退魔之夜”和“天王落”事件的親歷者。午夜飆車黨的精神領袖，人送稱號“午夜閃光”。“天王落”事件引發了公司之間的激烈戰鬥，“虹之鏡”作爲之前的萬事屋自然不能避免，自從酒吧名義上的老大在“退魔之夜”失蹤後，星魅琉華也逐漸的淡出了大眾的視野。\n週六偶爾會幫助庫拉拉打理酒吧。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "南希露\n生日：未知\n喜欢的食物：未知\n库拉拉的好友兼搭档，“虹之镜”酒吧的服务生。“退魔之夜”和“天王落”事件的亲历者。都市传说级别的超级网络黑客“网络魅影”。当然这个称号也是网上那些小屁孩起的，南希露从没说过自己是谁。有一个好友因为暗网的问题而丧命后就一直在默默的调查“星引擎”的下落，意图复活好友。\n听说一直住在“虹之镜”酒吧。",
+        "en": "Nancy Lu \nBirthday: Unknown\nFavorite Food: Unknown\nA close friend of Kulara and works at the \"Dispersion Prisms\" bar, Nancy is a witness to the \"Exorcism Night\" and \"Tennou Drop\" incidents.\nKnown in the online world as the \"Cyber Phantom\" for her legendary hacking skills—a title bestowed by internet kids—she has never revealed her true identity.\nAfter the tragic loss of a friend linked to the dark web, she has been quietly investigating the \"Star Engine\" in hopes of reviving them.\nRumor has it that she resides at the \"Dispersion Prisms\".",
+        "ja": "ナンシー・ロー\n誕生日：未知\n好きな食べ物：未知\nクララの友人兼パートナー、バー\"虹の鏡\"のウェイターである。彼女は、\"エクソシズム ナイト\"と\"天王落\"事件の体験者で、ネット上の人々から「ネットファントム」と呼ばれる都市伝説レベルのスーパーハッカーとして知られている。親友がダークウェブで亡くなって以来、ナンシーは表に姿を現さずにスターエンジンの行方を調査している。また、ナンシー・ローが\"虹の鏡\"に住んでいるという噂もある。",
+        "zh-TW": "南希露\n生日：未知\n喜歡的食物：未知\n庫拉拉的好友兼搭檔，“虹之鏡”酒吧的服務生。“退魔之夜”和“天王落”事件的親曆者。都市傳說級別的超級網絡黑客“網絡魅影”。當然這個稱號也是網上那些小屁孩起的，南希露從沒說過自己是誰。有壹個好友因爲暗網的問題而喪命後就壹直在默默的調查“星引擎”的下落，意圖複活好友。\n聽說壹直住在“虹之鏡”酒吧。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "克利西亚・米泽 ・凛 \n生日：5月25日\n喜欢的食物：巧克力饼干\n米泽家的大小姐。按理说应该是三神教的护法之一，但是忍受不了那些繁文缛节让大哥给安排了一出“离家出走”。现任职于“联合城异常调查处（UAID）”，职位是初级调查员。但因为一直笨手笨脚常常被上司训斥。\n时常因为工作郁闷会去雅央那里过周末，做得一手连雅央和美咲都赞不绝口的料理。",
+        "en": "Crecia ・Yonezawa・Rin\nBirthday: 25/05\nFavorite Food: Chocolate Cookies\n\nThe eldest daughter of the Rin family. Although she was expected to be one of the Custodians of Mikami's Hierarchy, she couldn't tolerate the rigid formalities and arranged a \"runaway\" with the help of her brother. She currently works as a junior investigator at the Union City Abnormal Investigation Division (UAID).\nHowever, her clumsiness often leads to reprimands from her superiors.\nTo cope with the frustrations and burdens from work, she spends a lot of weekends with Masao, impressing both Masao and Misaki with her exceptional cooking skills.",
+        "ja": "クレシア・ヨネザワ・リン\n誕生日：5月25日\n好きな食べ物：チョコレートクッキー\n米澤家のご令嬢、理屈で言えば、三神教の護法の1人であるべきだが、あまりにも行儀のよい振る舞いに我慢できず、兄貴に頼んで“家出”をさせられた。現在は「連合都市異常捜査課（通称UAID）」で働いており、職位は初級捜査官です。しかし、上司にいつも叱責されるほど愚かで不器用で。仕事でストレスがたまる一方、ストレスの発散のためによく雅央のところで週末を過ごすことが多い、雅央とミサキも絶賛するほど料理の腕がいい。",
+        "zh-TW": "克利西亞・米澤 ・凜 \n生日：5月25日\n喜歡的食物：巧克力餅幹\n米澤家的大小姐。按理說應該是三神教的護法之壹，但是忍受不了那些繁文缛節讓大哥給安排了壹出“離家出走”。現任職于“聯合城異常調查處（UAID）”，職位是初級調查員。但因爲壹直笨手笨腳常常被上司訓斥。\n時常因爲工作郁悶會去雅央那裏過周末，做得壹手連雅央和美咲都贊不絕口的料理。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "梅加斯・威廉姆斯 \n生日：1月23日\n喜欢的食物：菲力牛排\n库拉拉的好友兼搭档，“虹之镜”酒吧的服务生。“退魔之夜”和“天王落”事件的亲历者。格斗游戏大师，因其精湛的操作和机械方面的造诣游戏界称号“机械师”。恋小时候就认识梅加斯，算是恋的对手和老师。“天王落”事件引发了公司之间的激烈战斗，梅加斯也在事件中遭受了重大的精神挫折，与星魅琉华一样淡出了人们的视野。\n和琉华住在一起，偶尔会出现在酒吧。",
+        "en": "Megas Williams\nBirthday: 23/01\nFavorite Food: Filet Mignon\nWorks at the \"Dispersion Prisms\" bar and a close friend of Kulara. She is a witness to the \"Exorcism Night\" and \"Tennou Drop\" incidents. A master of fighting games, she is known as the \"Mechanist\" for her exceptional skills and expertise in mechanics.\nShe has known Ren since childhood, serving as both a rival and a mentor.\nThe \"Tennou Drop\" incident sparked fierce battles between companies, and Megas experienced significant emotional turmoil from it.\nShe lives quietly with Star Luka and occasionally makes appearances at the bar.",
+        "ja": "メガス・ウィリアムズ\n誕生日：1月23日\n好きな食べ物：牛ヒレステーキ\nクララの友人兼パートナー、バー“虹の鏡”のウェイター。“エクソシズム ナイト”と“天王落”事件の体験者。格ゲーの達人で、その卓越したゲーム操作プラス本人がメガ方面にかなりの造詣があり、ゲーム界隈では「メカニシャン」と呼ばれています。レンの幼馴染であり、ライバルであり師匠とも言えます。『天王落』事件は企業間の激しい争いを引き起こし、メガスもその事件で大きな精神的ダメージを受け、星魅琉華と同様に人々の視野から消えました。\n琉華と一緒に住んでおり、時々バーに現れます。",
+        "zh-TW": "梅加斯・威廉姆斯 \n生日：1月23日\n喜歡的食物：菲力牛排\n庫拉拉的好友兼搭檔，“虹之鏡”酒吧的服務生。“退魔之夜”和“天王落”事件的親曆者。格鬥遊戲大師，因其精湛的操作和機械方面的造詣遊戲界稱號“機械師”。戀小時候就認識梅加斯，算是戀的對手和老師。“天王落”事件引發了公司之間的激烈戰鬥，梅加斯也在事件中遭受了重大的精神挫折，與星魅琉華壹樣淡出了人們的視野。\n和琉華住在壹起，偶爾會出現在酒吧。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "姬梦朝\n  生日：10月17日\n  喜欢的食物：豆腐制品\n“隆兴饭店”的二把手。其真实身份是“凰天会”的二当家，也是会里的风水师，道上的人都称她为“二公主”。与姐姐不同，梦朝主要是负责内部事务，在饭店和自己领地出现的次数比姐姐要多的多。\n每周末饭店的例行检查她都会和食客们攀谈，以改善饭店的服务质量。",
+        "en": "Ji Mengzhao \nBirthday: 17/10\nFavorite Food: Tofu-based dishes\n\nThe second-in-command of \"Longxing Hotel,\" Mengzhao Ji is also the deputy leader and feng shui master of the secretive \"Phoenix Sky Club.\" Known as the \"Second Princess,\" she focuses on internal affairs and is often seen at the hotel, far more than her elder sister.\nEvery weekend, she chats with diners during routine inspections, gathering feedback to improve the hotel's service.",
+        "ja": "姫夢朝\n\n誕生日：10月17日\n\n好きな食べ物：豆腐製品\n\n「隆興飯店」の二番手。彼女の正体は「凰天会」の若頭であり、凰天会の風水師でもある。組の側の奴らは彼女を「ユメ嬢」と呼んでいる。姉とは異なり、ユメは主に内部業務を担当しており、店や自分の縄張りに現れる回数は姉よりもはるかに多い。\n\n毎週末、店の定期検査では、彼女は食客たちと会話を交わし、店のサービス品質を向上させるために努めている。",
+        "zh-TW": "姬夢朝\n  生日：10月17日\n  喜歡的食物：豆腐制品\n“隆興飯店”的二把手。其真實身份是“凰天會”的二當家，也是會裏的風水師，道上的人都稱她爲“二公主”。與姐姐不同，夢朝主要是負責內部事務，在飯店和自己領地出現的次數比姐姐要多的多。\n每周末飯店的例行檢查她都會和食客們攀談，以改善飯店的服務質量。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "照\n生日：2月19日\n喜欢的食物：烤鳗鱼\n“三神教”现任的教主。三神教作为联合城比较有影响力的组织，人员组成结构复杂。作为“教主”的照一般都很少露面，但是作为一般人的照则是非常喜欢外出游玩。她本人也不拘泥非要穿着传统服饰以彰显自己的“教主”地位，相反她很喜欢穿一些很符合她身型的衣服。\n照有时候会偷偷溜去雅央那里玩，这让美咲和组织内的长老很是头疼。",
+        "en": "Teru\nBirthday: February 19th\nFavourite Food: Grilled Eel\n\nTeru is the current Hierarch of Mikami, one of the most influential organizations in Union City. The structure of Mikami is complex, and the \"Hierarch\" rarely shows her face. However, as Teru, an ordinary person, she loves going out and having fun.\nShe doesn’t like wearing traditional robes that emphasize her position as the Hierarch;\non the contrary, she prefers outfits that suit her style and figure.\nTeru occasionally sneaks off to visit Masao, which causes no small amount of stress for Misaki and the elders within the organization.",
+        "ja": "テル\n誕生日：2月19日\n好きな食べ物：ウナギの白焼き\n「三神教」の教祖、三神教はユニオンシティにおいて影響力が大きい教団で、人員構成は複雑である。表向きは神秘的な三神教の教祖として振る舞うものの、プライベートでは気軽に街へ繰り出し、自由気ままに過ごすのが好き。重々しい教団の衣装よりも、むしろ自分らしいおしゃれを楽しむタイプで、『教祖』という立場に縛られず、しなやかに生きる姿勢を大切にしている。\nたまに雅央のところにこっそり遊びに行くため、美咲や教団の長老たちを困らせている。",
+        "zh-TW": "照\n生日：2月19日\n喜歡的食物：烤鳗魚\n“三神教”現任的教主。三神教作爲聯合城比較有影響力的組織，人員組成結構複雜。作爲“教主”的照壹般都很少露面，但是作爲壹般人的照則是非常喜歡外出遊玩。她本人也不拘泥非要穿著傳統服飾以彰顯自己的“教主”地位，相反她很喜歡穿壹些很符合她身型的衣服。\n照有時候會偷偷溜去雅央那裏玩，這讓美咲和組織內的長老很是頭疼。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "超绝最可爱天使酱\n生日：7月7日\n喜欢的食物：未知\n网络天使，糖糖开直播时的变装。装作性格乖巧的样子，动不动就会做出讨好阿宅们的行为。",
+        "en": "OM kawaii Angel\nBirthday: 07/07\nFavorite Food: Unknown\nAn “internet angel”.\nAme’s alter ego while streaming.\nPretends to be\nreally nice and sweet.\nConstantly flirts with nerd types.",
+        "ja": "超絶最かわてんしちゃん\n誕生日：７月７日\n好きな食べ物：未知\nインターネットエンジェル。あめちゃんが配信時に仮装する姿。性格が良いフリをしている。すぐオタクに媚びる。",
+        "zh-TW": "超绝最可爱天使酱\n生日：7月7日\n喜歡的食物：未知\n網路天使，糖糖開台時的變裝。裝作性格乖巧的樣子，動不動就會做出討好宅宅們的行為。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "糖糖\n生日：5月5日\n喜欢的食物：未知\n看上去老实文静，实际性格任性，容易得意忘形，迫切的想要得到他人的认可，性格恶劣。",
+        "en": "Ame-chan \nBirthday: 05/05\nFavorite Food: Unknown\nLooks quiet but pretty selfish\nand gets carried away.\nA troublesome personality\nwith a need for approval.",
+        "ja": "あめちゃん\n誕生日：５月５日\n好きな食べ物：未知\nおとなしめに見えて、すぐ調子に乗るワガママで承認欲求が強い女の子。性格が悪い。",
+        "zh-TW": "糖糖\n生日：5月5日\n喜歡的食物：未知\n看上去老實文靜，實際性格任性，容易得意忘形，迫切想要得到他人認可。性格惡劣。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "小浣熊\n对于小浣熊而言，星币并不是什么非常有价值的东西，只是小浣熊对亮晶晶的东西很有占有欲罢了。",
+        "en": "Racoon\nStar Coin is of no significant value to the Raccoon. He is just drawn to shiny things.",
+        "ja": "アライグマ\nアライグマにとって、コインはそれほど価値があるわけではなく、ただ光るものに魅かれるだけです。",
+        "zh-TW": "小浣熊\n對小浣熊而言，星幣並不是什麼非常有價值的東西，只是小浣熊對亮晶晶的東西很有佔有欲罷了。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "海盗鲨鱼只会傻乎乎的往前攻击，对于别人的反击毫不在意。他们一般听从于他们的老大海盗精锐的命令。",
+        "en": "Shark Pirate attack blindly forward, never care about the counterattack.\nThey generally follow the orders of Elite Pirates.",
+        "ja": "海賊のサメは愚かにも前進して攻撃するだけで、反撃されるにも構わず。通常、彼らは海賊の精鋭の指示に従います。",
+        "zh-TW": "海盜鲨魚只會傻乎乎的往前攻擊，對于別人的反擊毫不在意。他們壹般聽從于他們的老大海盜精銳的命令。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "天王寺雅央\n生日：5月6日\n喜欢的食物：袋装薯片\n    恋的房东兼游戏搭子，虽然姓天王寺但是恋也并不知晓她的身世。雅央掌管着一栋巨大的公寓和一座浴场。恋和雅央很早之前就认识，两人经常一起玩游戏，所以她们既是对手又是伙伴。雅央不怎么出门，很多人只见过她穿着奇怪睡衣的样子，但听恋说雅央身材非常了得。\n    之所以变成游戏里怪兽的样子，纯粹是因为恋的恶趣味以及打赌输了的结果。",
+        "en": "Tennoji Gao\nBirthday: 06/05\nFavorite Food: Potato Chips\nRen's landlord and game partner. No one knows her family background, but she owns a giant apartment building and a bath house. She often play digital games with Ren and is quite a home bird. Rumor says she has an extremely hot figure despite wearing a strange pajama.\nPlaying as a monster is because she lose a bet to Ren who has a weired aesthetic taste.",
+        "ja": "天王寺　雅央(てんのうじ　まさお)\n生年月日：5月6日\n好きな食べ物：ポテトチップス\n       レンの大家さんであり、ゲームのパートナーでもあります。姓は天王寺ですが、レンにその出自は知られていません。雅央は巨大なアパートと銭湯を管理しています。レンとは昔からの知り合いで、二人はよく一緒にゲームをしています。そのため、ライバルでもあり、仲間でもあります。雅央はあまり外出しないため、奇妙なパジャマを着ている姿しか見たことがない人が多いです。しかし、レンによると、雅央のスタイルは素晴らしいそうです。\n        ゲームの中で怪物の姿になっているのは、レンの変わった趣味です。",
+        "zh-TW": "天王寺雅央\n生日：5月6日\n喜歡的食物：袋裝薯片\n戀的房東兼遊戲拍檔，雖然姓天王寺，但是戀也不知曉她的身世。雅央掌管一棟巨大公寓和一座浴場。戀和雅央很早之前就認識，兩人常常一起玩遊戲，既是對手又是夥伴。雅央不怎麼出門，很多人亦只看過她穿奇怪睡衣的樣子，但據說身材非常了得。\n 之所以變成遊戲裡怪獸的樣子，純粹是因為戀的惡趣味以及打賭輸了。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "海盗精锐是力量的化身。但是除了勇猛强悍外好像智商也不是很高的样子，不过最好不要去主动招惹它！",
+        "en": "The Elite Pirate is powerful.\nHowever, they are still a bit silly. But it's still best not to provoke them!",
+        "ja": "海賊精鋭は力の化身そのもの、勇敢果敢で強そうな見た目をしているが、知能があんまり高くないようで。でも、あんまり自ら挑発するのはやめたほうがいいかもしれない。",
+        "zh-TW": "海盜精銳是力量的化身。但是除了勇猛強悍外好像智商也不是很高的樣子，不過最好不要去主動招惹它！",
+        "kr": ""
+    },
+    {
+        "zh-CN": "四处游荡的蓝色小幽灵。",
+        "en": "The Blue Spirit wandering around.",
+        "ja": "さまよっている青く小さな幽霊。",
+        "zh-TW": "四處遊蕩的藍色小幽靈。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "脾气暴躁的红色小幽灵。甚至快把自己气炸了！",
+        "en": "The Red Spirit with a fiery temper, on the verge of exploding!",
+        "ja": "気性の激しい赤く小さな幽霊、いつでも爆発しそうな感じ。",
+        "zh-TW": "脾氣暴躁的紅色小幽靈。甚至快把自己氣炸了！",
+        "kr": ""
+    },
+    {
+        "zh-CN": "刀剑转化出的灵体，到底是剑上有了灵魂还是原主人的灵魂裹挟了武器就不得而知了。",
+        "en": "A spirit from swords. We never know whether the sword has grown a soul or if the owner's spirit has infused the weapon.",
+        "ja": "刀剣から転化された霊体は、果たして剣に魂が宿ったのか、それとも元の持ち主の魂が武器に取り込まれたのかは、はっきりとはわからない。",
+        "zh-TW": "刀劍轉化出的靈體，到底是劍上有了靈魂還是原主人的靈魂裹挾了武器就不得而知了。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "长戟转化出的灵体，与刀剑灵体相同，只是类型略有区别。",
+        "en": "A spirit from spears, similar to the sword spirit, differing only in type.",
+        "ja": "長戟から変化した霊体は、刀剣の霊体と同じですが、種類が少し異なります。",
+        "zh-TW": "長戟轉化出的靈體，與刀劍靈體相同，只是類型略有區別。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "天王寺雅央\n生日：5月6日\n喜欢的食物：袋装薯片\n    家里蹲的典范，玩世不恭的代表。这家伙身上无时无刻不透露着什么叫老天赏饭吃。出身名门的她基本上就没什么物质上的烦恼，唯一值得注意的问题就是与生俱来的能力。在每年的年末时情绪异常不稳定且性情大变。以至于到最后大家不得不在这时都来到雅央家里陪这位情绪不稳定的大小姐玩上好几天游戏。\n   雅央的谐音发音就是嘎呜。她本人非常不喜欢雅央这个名字，因为念起来就像个男孩子。恋觉得这家伙输了游戏就会嗷嗷乱叫，就给她起了个嘎呜的外号，不过意外的雅央很喜欢这个外号。",
+        "en": "Tennoji Masao\nBirthday: 06/05\nFavorite Food: Chips\n\nA typical couch potato and cynic, she was born with a silver spoon.\nShe lives a happy life without any worries, except for her gift.\nUnfortunately, she suffers from emotional instability, becoming increasingly irritable at the end of each year.\nHer friends have to go to her place to play games for days to help keep her calm.\nHowever, she quacks every time she loses, which led Ren to give her the nickname \"Gawu.\"\nInterestingly, \"Gawu\" also sounds like her family name, Masao. She has never liked her family name, so she surprisingly accepted this nickname.",
+        "ja": "天王寺　雅央(てんのうじ　まさお)\n誕生日：5月6日\n好きな食べ物：ポテトチップス\n典型的な引きこもりで、世間体を気にしません。名門出身の彼女は基本的に悩みはありませんが、唯一の問題は生まれつきの能力にあります。毎年年末になると情緒不安定になり、性格が豹変するため、最終的にはみんなが彼女の家に招集され、数日間ゲームに付き合わされる羽目になります。\n雅央のあだ名は｢ガオー｣です。彼女は｢まさお｣という名前が、男の子みたいで大嫌いです。レンは雅央がゲームで負けるとガオーガオーと叫ぶので｢ガオー｣というあだ名を付けましたが、雅央はこのあだ名を気に入っています。",
+        "zh-TW": "天王寺雅央\n生日：5月6日\n喜歡的食物：袋裝薯片\n   家裏蹲的典範，玩世不恭的代表。這家夥身上無時無刻不透露著什麽叫老天賞飯吃。出身名門的她基本上就沒什麽物質上的煩惱，唯壹值得注意的問題就是與生俱來的能力。在每年的年末時情緒異常不穩定且性情大變。以至于到最後大家不得不在這時都來到雅央家裏陪這位情緒不穩定的大小姐玩上好幾天遊戲。\n   雅央的諧音發音就是嘎嗚。她本人非常不喜歡雅央這個名字，因爲念起來就像個男孩子。戀覺得這家夥輸了遊戲就會嗷嗷亂叫，就給她起了個嘎嗚的綽號，不過意外的雅央很喜歡這個綽號。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "天王寺雅央\n生日：5月6日\n喜欢的食物：袋装薯片\n    恋的房东兼游戏搭子，虽然姓天王寺但是恋也并不知晓她的身世。雅央掌管着一栋巨大的公寓和一座浴场。恋和雅央很早之前就认识，两人经常一起玩游戏，所以她们既是对手又是伙伴。雅央不怎么出门，很多人只见过她穿着奇怪睡衣的样子，但听恋说雅央身材非常了得。\n    之所以变成游戏里怪兽的样子，纯粹是因为恋的恶趣味以及打赌输了的结果。",
+        "en": "Tennoji Gao\nBirthday: 06/05\nFavorite Food: Potato Chips\nRen's landlord and game partner. No one knows her family background, but she owns a giant apartment building and a bath house.\nShe often play digital games with Ren and is quite a home bird.\nRumor says she has an extremely hot figure despite wearing a strange pajama.\nPlaying as a monster is because she lose a bet to Ren who has a weired aesthetic taste.",
+        "ja": "天王寺雅央（てんのうじ　まさお）\n生年月日：5月6日\n好きな食べ物：ポテトチップス\n       レンの大家さんであり、ゲームのパートナーでもあります。姓は天王寺ですが、レンにその出自は知られていません。雅央は巨大なアパートと銭湯を管理しています。レンとは昔からの知り合いで、二人はよく一緒にゲームをしています。そのため、ライバルでもあり、仲間でもあります。雅央はあまり外出しないため、奇妙なパジャマを着ている姿しか見たことがない人が多いです。しかし、レンによると、雅央のスタイルは素晴らしいそうです。\n        ゲームの中で怪物の姿になっているのは、レンの変わった趣味です。",
+        "zh-TW": "天王寺雅央\n生日：5月6日\n喜歡的食物：袋裝薯片\n戀的房東兼遊戲拍檔，雖然姓天王寺，但是戀也不知曉她的身世。雅央掌管一棟巨大公寓和一座浴場。戀和雅央很早之前就認識，兩人常常一起玩遊戲，既是對手又是夥伴。雅央不怎麼出門，很多人亦只看過她穿奇怪睡衣的樣子，但據說身材非常了得。\n 之所以變成遊戲裡怪獸的樣子，純粹是因為戀的惡趣味以及打賭輸了。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "氛围组的中枢神经，协调各个部门合理运作！",
+        "en": "The core of Ambient Enliveners! Coordinating the smooth operation of all departments!",
+        "ja": "雰囲気組の中枢神経、色んな部門の連携を管理している。",
+        "zh-TW": "氛圍組的中樞神經，協調各個部門合理運作！",
+        "kr": ""
+    },
+    {
+        "zh-CN": "加强活动气氛的机器人！越是吵吵闹闹越好！",
+        "en": "A robot that enlivens the atmosphere! Noise makes it nice!",
+        "ja": "節の気分を強く主張するロボット、やりすぎくらい騒がしい方が好ましい。",
+        "zh-TW": "加強活動氣氛的機器人！越是吵吵鬧鬧越好！",
+        "kr": ""
+    },
+    {
+        "zh-CN": "噼里啪啦的不停的放爆竹，很有过节的气氛！",
+        "en": "Crackling firecrackers for that festive vibe!",
+        "ja": "パンパンパンと音が続く爆竹、春節の風物詩とされる。",
+        "zh-TW": "霹裏啪啦的不停的放爆竹，很有過節的氣氛！",
+        "kr": ""
+    },
+    {
+        "zh-CN": "头顶有一颗大宝珠，说不定可以给你带来好运？",
+        "en": "There's a large orb on its head, maybe it'll bring you good luck?",
+        "ja": "頭上にあるでかい宝玉で君に幸運をもたらすかもしれない。",
+        "zh-TW": "頭頂有壹顆大寶珠，說不定可以給妳帶來好運？",
+        "kr": ""
+    },
+    {
+        "zh-CN": "天王寺雅央\n 生日：5月6日\n 喜欢的食物：袋装薯片\n  光礼大学是蓝海晴的母校，大学的魔法学院久负盛名。其实这里与三神教也颇有渊源，三神教给光礼大学无偿捐赠过很多古老的魔法卷轴以及材料，因此三神教也算是魔法学院的赞助者之一。\n 雅央在某个时间段会被家族派去参加学院的一些“扫除”工作。虽然她每次都不情不愿的，但也是她特殊体质少数能派的上用场的时候。",
+        "en": "Tennoji Masao \n\nBirthday: May 6th \nFavorite food: Bagged potato chips \nGuangli University is HaiQing's alma mater, and its Magic Academy is renowned. In fact, this place has deep connections with the Mikami. The Mikami has donated many ancient magic scrolls and materials to Guangli University free of charge, making the Mikami one of the sponsors of the Magic Academy. \n\nAt certain times, Masao is sent by her family to participate in some \"cleaning\" work at the Academy.\nAlthough she is always reluctant, these are the rare occasions when her special constitution can be put to good use.",
+        "ja": "天王寺雅央\n誕生日：5月6日\n好きな食べ物：ポテトチップス\n光礼大学（こうれいだいがく）はカイセイの母校であり、その魔法学院は長い歴史で知られている。実は光礼大学は三神教（みかみきょう）とも深い関わりがあり、三神教は古い魔法巻物や材料を無償で寄贈してきた。このため、三神教は魔法学院のスポンサーの一つと言える。\n\n雅央はある時期になると、家族から学院の『掃除』を押し付けられる。毎回不満そうではあるが、彼女の特殊体質が活かされる数少ない機会でもある。",
+        "zh-TW": "天王寺雅央\n生日：5月6日\n喜歡的食物：袋裝薯片\n光禮大學是藍海晴的母校，大學的魔法學院久負盛名。其實這裏與三神教也頗有淵源，三神教給光禮大學無償捐贈過很多古老的魔法卷軸以及材料，因此三神教也算是魔法學院的贊助者之壹。\n雅央在某個時間段會被家族派去參加學院的壹些“掃除”工作。雖然她每次都不情不願的，但也是她特殊體質少數能派的上用場的時候。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "天王寺雅央\n 生日：5月6日\n 喜欢的食物：袋装薯片\n  光礼大学是蓝海晴的母校，大学的魔法学院久负盛名。其实这里与三神教也颇有渊源，三神教给光礼大学无偿捐赠过很多古老的魔法卷轴以及材料，因此三神教也算是魔法学院的赞助者之一。\n 雅央在某个时间段会被家族派去参加学院的一些“扫除”工作。虽然她每次都不情不愿的，但也是她特殊体质少数能派的上用场的时候。",
+        "en": "Tennoji Masao \n\nBirthday: May 6th \nFavorite food: Bagged potato chips \nGuangli University is HaiQing's alma mater, and its Magic Academy is renowned. In fact, this place has deep connections with the Mikami. The Mikami has donated many ancient magic scrolls and materials to Guangli University free of charge, making the Mikami one of the sponsors of the Magic Academy.\nAt certain times, Masao is sent by her family to participate in some \"cleaning\" work at the Academy.\nAlthough she is always reluctant, these are the rare occasions when her special constitution can be put to good use.",
+        "ja": "天王寺雅央\n誕生日：5月6日\n好きな食べ物：ポテトチップス\n光礼大学（こうれいだいがく）はカイセイの母校であり、その魔法学院は長い歴史で知られている。実は光礼大学は三神教（みかみきょう）とも深い関わりがあり、三神教は古い魔法巻物や材料を無償で寄贈してきた。このため、三神教は魔法学院のスポンサーの一つと言える。\n\n雅央はある時期になると、家族から学院の『掃除』を押し付けられる。毎回不満そうではあるが、彼女の特殊体質が活かされる数少ない機会でもある。",
+        "zh-TW": "天王寺雅央\n生日：5月6日\n喜歡的食物：袋裝薯片\n光禮大學是藍海晴的母校，大學的魔法學院久負盛名。其實這裏與三神教也頗有淵源，三神教給光禮大學無償捐贈過很多古老的魔法卷軸以及材料，因此三神教也算是魔法學院的贊助者之壹。\n雅央在某個時間段會被家族派去參加學院的壹些“掃除”工作。雖然她每次都不情不願的，但也是她特殊體質少數能派的上用場的時候。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "虽然是果冻制成的，但盔甲和大斧头可是实实在在的真家伙。",
+        "en": "Though made of jelly, the armor and battle axe are very much the real deal.",
+        "ja": "体はゼリー製とはいえ、鎧と大斧は紛れもない本物",
+        "zh-TW": "雖然是果凍制成的，但盔甲和大斧頭可是實實在在的真家夥。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "随时都保护着召唤者的安全，忠实的护卫！",
+        "en": "Always protecting the summoner's safety, a loyal guardian!",
+        "ja": "常に召喚主を守護する、忠実なる護衛！",
+        "zh-TW": "隨時都保護著召喚者的安全，忠實的護衛！",
+        "kr": ""
+    },
+    {
+        "zh-CN": "别看他走路晃悠悠的，吃它一发魔法可不是闹着玩的。",
+        "en": "Don't be fooled by its wobbly walk—taking a hit from its magic is no joke.",
+        "ja": "ふらふら歩きに見えるが、その魔法攻撃は本気でヤバい",
+        "zh-TW": "別看他走路晃悠悠的，吃它壹發魔法可不是鬧著玩的。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "生气的时候会咕嘟咕嘟冒泡，那可是开水！",
+        "en": "When angry, it bubbles and gurgles—that's boiling water!",
+        "ja": "機嫌が悪くなるとブクブク泡を吹く…あれは沸騰した湯気だ！",
+        "zh-TW": "生氣的時候會咕都咕都冒泡，那可是開水！",
+        "kr": ""
+    },
+    {
+        "zh-CN": "放的时间太长了以至于里面的饮品都变质了！",
+        "en": "Left sitting for too long, the beverage inside has completely spoiled!",
+        "ja": "時間が経ちすぎで、中身が変質している…",
+        "zh-TW": "放的時間太長了以至于裏面的飲品都變質了！",
+        "kr": ""
+    },
+    {
+        "zh-CN": "啥都是白捡来的，包括这个奇怪的潜水盔！",
+        "en": "Everything was picked up for free, including this weird diving helmet!",
+        "ja": "何もかもただで手に入ったんだよ、この変な潜水ヘルメットまで！",
+        "zh-TW": "啥都是白撿來的，包括這個奇怪的潛水盔！",
+        "kr": ""
+    },
+    {
+        "zh-CN": "天川真梦梓\n龙崎美咲分家家主的女儿，从小就受到家族的熏陶，立志成为一名可以独当一面的女性。但毕竟年龄尚小，有些时候的急躁也让自己做出过一些出格的行为。为人小心谨慎，做事一丝不苟。小姑是她最亲密的人，但是最近不知为何总是躲着小姑，像是有什么心里事。",
+        "en": "Amakawa Mamushi\nAs the daughter of the head of Misaki Ryugasaki's branch family, Mamushi was raised under the strict traditions of her household and aspires to become a strong, independent woman.\nHowever, she is still young, so her impatience can sometimes lead to unexpected behaviour.She’s cautious by nature and meticulous in everything she does.\nHer closest friend is her aunt, Souri, whom she trusts deeply—but lately, for some reason, she's been avoiding Souri, as if burying something deep in her heart.",
+        "ja": "天川真夢梓（あまかわまむし）\n龍ヶ崎分家当主の娘。幼い頃から家柄の薫陶を受け、一人前の女性になることを志している。しかし、まだ年若いため、焦りから時々行き過ぎた行動を取ってしまうことも。性格は慎重で、何事にも几帳面。\n\n以前は叔母が最も親しい存在だったが、最近はなぜか距離を置くようになり、複雑な思いを抱えている様子だ……",
+        "zh-TW": "天川真夢梓\n龍崎美咲分家家主的女兒，從小就受到家族的熏陶，立志成爲壹名可以獨當壹面的女性。但畢竟年齡尚小，有些時候的急躁也讓自己做出過壹些出格的行爲。爲人小心謹慎，做事壹絲不苟。小姑是她最親密的人，但是最近不知爲何總是躲著小姑，像是有什麽心裏事。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "天川苍鲤\n龙崎美咲分家家主的妹妹，真梦梓的小姑，是真正意义上看着真梦梓长大的人。一直都很喜欢这个小侄女。为人大大咧咧，一点也没有继承天川家族那种古板的性格。苍鲤本人对家族的事情管理的不是很多，自从大学毕业开了个小酒吧之后就没怎么管理过家事。不过知道侄女成为分家法定的继承人之后也是给予了很多的帮助。",
+        "en": "Amakawa Souri\nThe younger sister of the head of Misaki Ryugasaki's branch family and Mamushi's aunt. Souri was the one who truly raised Mamushi, so she has always held great affection for her niece.\nUnlike the traditionally strict demeanour of the Amakawa family, Souri is carefree and laid-back. She’s never been overly involved in family matters—after graduating college and opening a certain small bar, she’s largely stayed out of household affairs.\nStill, when Mamushi was named the heir to the branch family, Souri offered her full support without hesitation.",
+        "ja": "天川蒼鯉（あまかわそうり）\n龍ヶ崎分家当主の妹で、真夢梓の叔母にあたる。文字通り、真夢梓が成長する姿を見守ってきた人物で、昔からこの姪を大変可愛がっている。\n\n性格はおおらかで、天川家の堅苦しい気質はほとんど受け継いでいない。大学卒業後に小さなバーを開いて以来、家業にはほとんど関わってこなかったが、姪が分家の法定相続人となったことを知り、さりげなくサポートをしている。",
+        "zh-TW": "天川蒼鯉\n龍崎美咲分家家主的妹妹，真夢梓的小姑，是真正意義上看著真夢梓長大的人。壹直都很喜歡這個小侄女。爲人大大咧咧，壹點也沒有繼承天川家族那種古板的性格。蒼鯉本人對家族的事情管理的不是很多，自從大學畢業開了個小酒吧之後就沒怎麽管理過家事。不過知道侄女成爲分家法定的繼承人之後也是給予了很多的幫助。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "其实是个工作人员客串的消防员。",
+        "en": "Just a staff cameo of a firefighter",
+        "ja": "この消防士実はスタッフがゲスト出演しています。",
+        "zh-TW": "其實是個工作人員客串的消防員。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "其实是就是个群众演员。",
+        "en": "Just an extra actor.",
+        "ja": "実際はただの端役です。",
+        "zh-TW": "其實是就是個群衆演員。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "朋友的表哥的舅舅的外甥的女朋友。",
+        "en": "Friend's cousin's uncle's nephew's girlfriend.",
+        "ja": "友達のいとこのおじさんの甥の彼女。",
+        "zh-TW": "朋友的表哥的舅舅的外甥的女朋友。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "只是指挥秩序的大哥。",
+        "en": "Just a big brother in charge of order.",
+        "ja": "秩序維持係のお兄ちゃん",
+        "zh-TW": "只是指揮秩序的大哥。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "指挥秩序大哥的老弟。",
+        "en": "Just the little brother of the ordering guy",
+        "ja": "秩序維持係のお兄ちゃんの舎弟",
+        "zh-TW": "指揮秩序大哥的老弟。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "天川真梦梓\n龙崎美咲分家家主的女儿，从小就受到家族的熏陶，立志成为一名可以独当一面的女性。但毕竟年龄尚小，有些时候的急躁也让自己做出过一些出格的行为。为人小心谨慎，做事一丝不苟。小姑是她最亲密的人，但是最近不知为何总是躲着小姑，像是有什么心里事。",
+        "en": "Amakawa Mamushi\nAs the daughter of the head of Misaki Ryugasaki's branch family, Mamushi was raised under the strict traditions of her household and aspires to become a strong, independent woman.\nHowever, she is still young, so her impatience can sometimes lead to unexpected behaviour.She’s cautious by nature and meticulous in everything she does.\nHer closest friend is her aunt, Souri, whom she trusts deeply—but lately, for some reason, she's been avoiding Souri, as if burying something deep in her heart.",
+        "ja": "天川真夢梓（あまかわまむし）\n龍ヶ崎分家当主の娘。幼い頃から家柄の薫陶を受け、一人前の女性になることを志している。しかし、まだ年若いため、焦りから時々行き過ぎた行動を取ってしまうことも。性格は慎重で、何事にも几帳面。\n\n以前は叔母が最も親しい存在だったが、最近はなぜか距離を置くようになり、複雑な思いを抱えている様子だ……",
+        "zh-TW": "天川真夢梓\n龍崎美咲分家家主的女兒，從小就受到家族的熏陶，立志成爲壹名可以獨當壹面的女性。但畢竟年齡尚小，有些時候的急躁也讓自己做出過壹些出格的行爲。爲人小心謹慎，做事壹絲不苟。小姑是她最親密的人，但是最近不知爲何總是躲著小姑，像是有什麽心裏事。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "天川苍鲤\n龙崎美咲分家家主的妹妹，真梦梓的小姑，是真正意义上看着真梦梓长大的人。一直都很喜欢这个小侄女。为人大大咧咧，一点也没有继承天川家族那种古板的性格。苍鲤本人对家族的事情管理的不是很多，自从大学毕业开了个小酒吧之后就没怎么管理过家事。不过知道侄女成为分家法定的继承人之后也是给予了很多的帮助。",
+        "en": "Amakawa Souri\nThe younger sister of the head of Misaki Ryugasaki's branch family and Mamushi's aunt. Souri was the one who truly raised Mamushi, so she has always held great affection for her niece.\nUnlike the traditionally strict demeanour of the Amakawa family, Souri is carefree and laid-back. She’s never been overly involved in family matters—after graduating college and opening a certain small bar, she’s largely stayed out of household affairs.\nStill, when Mamushi was named the heir to the branch family, Souri offered her full support without hesitation.",
+        "ja": "天川蒼鯉（あまかわそうり）\n龍ヶ崎分家当主の妹で、真夢梓の叔母にあたる。文字通り、真夢梓が成長する姿を見守ってきた人物で、昔からこの姪を大変可愛がっている。\n\n性格はおおらかで、天川家の堅苦しい気質はほとんど受け継いでいない。大学卒業後に小さなバーを開いて以来、家業にはほとんど関わってこなかったが、姪が分家の法定相続人となったことを知り、さりげなくサポートをしている。",
+        "zh-TW": "天川蒼鯉\n龍崎美咲分家家主的妹妹，真夢梓的小姑，是真正意義上看著真夢梓長大的人。壹直都很喜歡這個小侄女。爲人大大咧咧，壹點也沒有繼承天川家族那種古板的性格。蒼鯉本人對家族的事情管理的不是很多，自從大學畢業開了個小酒吧之後就沒怎麽管理過家事。不過知道侄女成爲分家法定的繼承人之後也是給予了很多的幫助。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "1.小偷会偷取经过角色的星币，最多4枚。\n2.小偷偷取的星币会累计在身上，当被玩家击倒的时候全部的星币都会给到击倒小偷的玩家。\n3.小偷刷新时自身携带5枚星币。\n4.小偷不会主动攻击，但是玩家可以攻击小偷，并且小偷被攻击后不会反击。",
+        "en": "1. The thief steals up to 4 coins when passing by.\n2. The player who KO the thief will get all coins stolen by the latter.\n3. The thief holds 5 coins when appearing.\n4. The thief does not attack or counter attack others, but can be attacked.",
+        "ja": "1.盗賊は通りすがりのプレイヤーのスターコインを最大4枚盗みます\n2.盗まれたスターコインは盗賊が持ち、盗賊を倒したプレイヤーはそれを全部取り戻せます。\n3.盗賊が最初から5枚のスターコインを持ちます。\n4.盗賊はプレイヤーを攻撃しませんが、プレイヤーが盗賊を攻撃できます。そして盗賊を攻撃しても反撃を招きません。",
+        "zh-TW": "1.小偷會偷取經過角色的星幣，最多4枚。\n2.小​​偷偷取的星幣會累計在身上，當角色擊倒小​​偷的時候，可獲得小​​偷身上所有星幣。\n3.小偷出現時會攜帶5枚星幣在身上。\n4.小偷不會主動攻擊，但角色可以攻擊小偷，且小偷被攻擊後不會反擊。",
+        "kr": "1. 지나가는 플레이어의 스타 코인을 최대 4개 훔친다.\n2. 훔친 스타 코인은 도둑이 가지고 있으며, 도둑을 쓰러뜨린 플레이어는 그것을 모두 되찾을 수 있다.\n3. 도둑은 처음부터 5개의 스타 코인을 가지고 등장한다.\n4. 도둑은 플레이어를 공격하지 않지만, 플레이어는 도둑을 공격할 수 있다. 도둑은 공격당해도 반격하지 않는다."
+    },
+    {
+        "zh-CN": "1.海盗鲨鱼被角色攻击不会反击。\n2.海盗鲨鱼会主动追击玩家。",
+        "en": "1. Shark Pirate will not counterattack when attacked by players.\n2. Shark Pirate will chase and attack players.",
+        "ja": "1.海賊サメは反撃スキルを所持しない。\n2.海賊サメはプレイヤーを追いかけて攻撃します。",
+        "zh-TW": "1.海盜鲨魚被角色攻擊不會反擊。\n2.海盜鲨魚會主動追擊玩家。",
+        "kr": "1. 공격을 받아도 반격하지 않는다.\n2. 플레이어를 쫓아가서 공격한다."
+    },
+    {
+        "zh-CN": "1.地图存在嘎呜的情况下，当玩家达到2星便会使得嘎呜在本轮结束后刷新到场上。\n2.嘎呜会主动追击玩家，但需要满足三点条件。既玩家必须达到2星，血量不能低于2点，且当前回合结束时星币大于30枚。\n3.嘎呜可以被攻击，被攻击的嘎呜不会使用闪避，但会反击。嘎呜的任何攻击都不会直接击倒玩家。嘎呜在追击的时候可以原地转向并且永久+1的移动速度。",
+        "en": "1. Gawu appears after the round when a player gets 2 stars, if the map is inhabited by Gawu.\n2. Only under the following conditions will Gawu pursue a player: 1. The player has 2 stars. 2. Player HP is not below 2. 3. Player coin is over 30.\n3. Gawu can be attacked. It does not evade, but counterattack. Gawu's attack will never KO players. Gawu is able to turn around immediately and get speed +1 permanently when pursuing players.",
+        "ja": "1.キャラが2スターを獲得したターンの後、ガウが登場します。\n2.ガウがキャラを追いかけるのは、以下の条件の下だけです：1. キャラが2スターを持っている。2. キャラのHP≥2。3. キャラの所持コインが30以上。\n3.ガウは攻撃されることができます。それは回避せず、しかし反撃します。ガウの攻撃でキャラがKOされることはありません。ガウはキャラを追いかける際、即座に向きを変え、そして永久的に+1移動力を得ることができます。",
+        "zh-TW": "1.地圖存在嘎嗚的情況下，當有角色獲得2星後，便會使嘎嗚在該輪結束後，現身到場上。\n 2.嘎嗚會主動追擊角色，但要滿足三點條件。角色必須已獲得2星，其血量不低於2點，且當前回合結束時，持有星幣多於30枚。\n 3.嘎嗚可以被攻擊，被攻擊的嘎嗚不會使用閃避，但會反擊。嘎嗚的任何攻擊都不會直接擊倒角色。嘎嗚在追擊的時候可以原地轉向並且永久+1移動速度。",
+        "kr": "1. 캐릭터가 2스타를 획득한 턴이 끝나면, 가우가 등장.\n2. 가우가 캐릭터를 쫓는 조건은 다음과 같다 : 캐릭터가 2스타를 보유중. 캐릭터의 HP가 2 이상. 캐릭터의 소지 코인이 30개 이상.\n3. 가우는 공격받을 수 있으며, 회피하지는 않지만 반격한다. 가우의 공격으로 캐릭터가 KO되지 않는다. 캐릭터를 쫓을 때 즉시 방향을 바꾸고, 영구적으로 이동력 +1을 얻을 수 있다."
+    },
+    {
+        "zh-CN": "1.游戏开始海盗嘎呜会刷新在场上，以休眠的方式，不会移动不会主动攻击。\n2.海盗嘎呜会因为进度条的推进而苏醒，苏醒后会主动追击玩家并攻击。\n3.完成进度任务可以削弱嘎呜的防御。",
+        "en": "1. At the start of the game, King Gawu will appear in a dormant state, not moving or attacking.\n2. King Gawu will awaken as the Progress Bar advances, then she will start chasing and attacking players.\n3. Completing progress-related tasks might weaken Gawu's DEF.",
+        "ja": "1.ゲーム開始時、海賊王ガオーはフィールドに出現し、休眠状態で移動せず、自ら攻撃しません。\n2.進行バーの進行により、海賊王ガオーは目覚め、目覚めた後はプレイヤーを追いかけて攻撃します。\n3.ミッションをクリアすることで、海賊王ガオーの防御を弱めることができます。",
+        "zh-TW": "1.遊戲開始海盜嘎嗚會刷新在場上，以休眠的方式，不會移動不會主動攻擊。\n2.海盜嘎嗚會因爲進度條的推進而蘇醒，蘇醒後會主動追擊玩家並攻擊。\n3.完成進度任務可以削弱嘎嗚的防禦。",
+        "kr": "1. 게임 시작 시, 해적왕 가우는 필드에 휴면 상태로 나타나 대기하며, 스스로 공격하거나 이동하지 않는다.\n2. 진행 바가 채워지면 해적왕 가우가 깨어나 플레이어를 쫓아 공격하기 시작한다.\n3. 미션을 완료하면 해적왕 가우의 방어력이 약해질 수 있다."
+    },
+    {
+        "zh-CN": "1.海盗精锐会因为进度条的推进刷新在场上。\n2.海盗精锐会主动攻击并且会反击。\n3.海盗精锐会周期性的使用技能召唤海盗鲨鱼。",
+        "en": "1. Elite Pirates will appear as the Progress Bar advances.\n2. Elite Pirates will chase, attacks and counterattack players.\n3. Elite Pirates will periodically use skills to summon Shark Pirate.",
+        "ja": "1.海賊精鋭は進捗バーの推進と共に登場する。\n2.海賊精鋭ははプレイヤーを追いかけて攻撃します、攻撃受けた後の反撃もします。\n3.海賊精鋭はスキルを使って海賊サメを召喚する。",
+        "zh-TW": "1.海盜精銳會因爲進度條的推進刷新在場上。\n2.海盜精銳會主動攻擊並且會反擊。\n3.海盜精銳會周期性的使用技能召喚海盜鲨魚。",
+        "kr": "1. 정예 해적은 진행 바가 채워짐에 따라 등장한다.\n2. 정예 해적은 플레이어를 쫓아가 공격하고, 공격을 받으면 반격한다.\n3. 정예 해적은 스킬을 사용해 상어 해적을 소환한다."
+    },
+    {
+        "zh-CN": "1.无法反击。",
+        "en": "1.Cannot counterattack.",
+        "ja": "1. 反撃できません。",
+        "zh-TW": "1.無法反擊。",
+        "kr": "1. 반격할 수 없다."
+    },
+    {
+        "zh-CN": "1.不会主动攻击。\n2.被攻击会反击。",
+        "en": "1.Cannot initiate attack.\n2.Will counterattack.",
+        "ja": "1.自ら攻撃を仕掛けません。\n2.攻撃を受けた後は反撃する。",
+        "zh-TW": "1.不會主動攻擊。\n2.被攻擊會反擊。",
+        "kr": "1. 스스로 공격하지 않는다.\n2. 공격을 받으면 반격한다."
+    },
+    {
+        "zh-CN": "1.无法反击。",
+        "en": "1.Cannot counterattack.",
+        "ja": "1. 反撃できません。",
+        "zh-TW": "1.無法反擊。",
+        "kr": "1. 반격할 수 없다."
+    },
+    {
+        "zh-CN": "1.不会主动攻击。\n2.被攻击会反击。",
+        "en": "1.Cannot initiate attack.\n2.Will counterattack.",
+        "ja": "1.自ら攻撃を仕掛けません。\n2.攻撃を受けた後は反撃する。",
+        "zh-TW": "1.不會主動攻擊。\n2.被攻擊會反擊。",
+        "kr": "1. 스스로 공격하지 않는다.\n2. 공격을 받으면 반격한다."
+    },
+    {
+        "zh-CN": "1.游戏开始时刷新在场上。\n2.可以反击。",
+        "en": "1.Appear on the map at the start of the game.\n2.Will counterattack.",
+        "ja": "1.ゲーム開始時マップに出現する。\n2.攻撃を受けた後は反撃する。",
+        "zh-TW": "1.遊戲開始時刷新在場上。\n2.可以反擊。",
+        "kr": "1. 게임 시작 시 맵에 등장한다.\n2. 공격을 받으면 반격한다."
+    },
+    {
+        "zh-CN": "1.游戏开始一段时间后刷新在场上。\n2.会主动攻击且被攻击会反击。\n3.与指挥平台共享生命值。",
+        "en": "1.Spawns after some time in the game.\n2.Will attack and counterattack.\n3.Shares HP with Ground Control.",
+        "ja": "1.ゲーム進行に応じて登場します。\n２.フィールドにいるプレイヤーを追いかけます。\n３.攻撃を受けた後は反撃する。\n４.指揮センターとHP共有します。",
+        "zh-TW": "1.遊戲開始壹段時間後刷新在場上。\n2.會主動攻擊且被攻擊會反擊。\n3.與指揮平台共享生命值。",
+        "kr": "1. 게임 진행에 따라 등장한다.\n2. 필드에 있는 플레이어를 쫓아간다.\n3. 공격을 받으면 반격한다.\n4. 「지상 관제」와 HP를 공유한다."
+    },
+    {
+        "zh-CN": "1.游戏开始一段时间后同嘎呜一同出场。\n2.不会触发战斗，但可以被技能和卡牌攻击。\n3.与舞狮嘎呜共享生命值。",
+        "en": "1.Spawns with Gawu.\n2.Won’t engage in combat but can be attacked by skills and cards.\n3.Shares HP with Lion Gawu.",
+        "ja": "1.獅子舞いガオーと一緒に登場する。\n２.戦闘による攻撃不可、スキルやカードでの攻撃は有効です。\n3.獅子舞いガオーとHP共有します。",
+        "zh-TW": "1.遊戲開始壹段時間後同嘎嗚壹同出場。\n2.不會觸發戰鬥，但可以被技能和卡牌攻擊。\n3.與舞獅嘎嗚共享生命值。",
+        "kr": "1. 「사자탈 가우」와 함께 등장한다.\n2. 전투 공격은 불가능, 스킬이나 카드를 사용한 공격은 유효함.\n3. 「사자탈 가우」와 HP를 공유한다."
+    },
+    {
+        "zh-CN": "1.会主动攻击。\n2.可以反击。",
+        "en": "1.Will attack.\n2.Will counterattack.",
+        "ja": "１.フィールドにいるプレイヤーを追いかけます。\n２.攻撃を受けた後は反撃する。",
+        "zh-TW": "1.會主動攻擊。\n2.可以反擊。",
+        "kr": "1. 필드에 있는 플레이어를 쫓아간다.\n2. 공격을 받으면 반격한다."
+    },
+    {
+        "zh-CN": "1.不会主动攻击。\n2.无法反击。",
+        "en": "1.Won't attack.\n2.Cannot counterattack.",
+        "ja": "1.自ら攻撃を仕掛けません。\n２.攻撃を受けた後、反撃出来ません。",
+        "zh-TW": "1.不會主動攻擊。\n2.無法反擊。",
+        "kr": "1. 스스로 공격하지 않는다.\n2. 공격을 받아도 반격하지 않는다."
+    },
+    {
+        "zh-CN": "1.不会触发战斗。\n2.会随地图事件刷新。",
+        "en": "1. Won't trigger combat.\n2. Spawns with map events.",
+        "ja": "１、自から戦闘を起こさない。\n２、マップイベントの進捗に応じて登場。",
+        "zh-TW": "1.不會觸發戰鬥。\n2.會隨地圖事件刷新。",
+        "kr": "1. 스스로 전투를 발생시키지 않는다.\n2. 맵 이벤트의 진행에 따라 등장한다."
+    },
+    {
+        "zh-CN": "会主动攻击且被攻击会反击。",
+        "en": "Will attack and counterattack.",
+        "ja": "1.フィールドにいるプレイヤーを追いかけます。\n2.攻撃を受けた後は反撃する。",
+        "zh-TW": "會主動攻擊且被攻擊會反擊。",
+        "kr": "1. 필드에 있는 플레이어를 쫓아간다.\n2. 공격을 받으면 반격한다."
+    },
+    {
+        "zh-CN": "会主动攻击且被攻击会反击。",
+        "en": "Will attack and counterattack.",
+        "ja": "1.フィールドにいるプレイヤーを追いかけます。\n2.攻撃を受けた後は反撃する。",
+        "zh-TW": "會主動攻擊且被攻擊會反擊。",
+        "kr": "1. 필드에 있는 플레이어를 쫓아간다.\n2. 공격을 받으면 반격한다."
+    },
+    {
+        "zh-CN": "会主动攻击且被攻击会反击。",
+        "en": "Will attack and counterattack.",
+        "ja": "1.フィールドにいるプレイヤーを追いかけます。\n2.攻撃を受けた後は反撃する。",
+        "zh-TW": "會主動攻擊且被攻擊會反擊。",
+        "kr": "1. 필드에 있는 플레이어를 쫓아간다.\n2. 공격을 받으면 반격한다."
+    },
+    {
+        "zh-CN": "会主动攻击且被攻击会反击。",
+        "en": "Will attack and counterattack.",
+        "ja": "1.フィールドにいるプレイヤーを追いかけます。\n2.攻撃を受けた後は反撃する。",
+        "zh-TW": "會主動攻擊且被攻擊會反擊。",
+        "kr": "1. 필드에 있는 플레이어를 쫓아간다.\n2. 공격을 받으면 반격한다."
+    },
+    {
+        "zh-CN": "1.无法反击。",
+        "en": "1.Cannot counterattack.",
+        "ja": "1. 反撃できません。",
+        "zh-TW": "1.無法反擊。",
+        "kr": "1. 반격할 수 없다."
+    },
+    {
+        "zh-CN": "1.会主动攻击。\n2.无法反击。",
+        "en": "1.Will attack.\n2.Cannot counterattack.",
+        "ja": "１.フィールドにいるプレイヤーを追いかけます。\n２.攻撃を受けた後、反撃出来ません。",
+        "zh-TW": "1.會主動攻擊。\n2.無法反擊。",
+        "kr": "1. 필드에 있는 플레이어를 쫓아간다. \n2. 공격을 받아도 반격할 수 없다. "
+    },
+    {
+        "zh-CN": "1.会主动攻击。\n2.无法反击。",
+        "en": "1.Will attack.\n2.Cannot counterattack.",
+        "ja": "１.フィールドにいるプレイヤーを追いかけます。\n２.攻撃を受けた後、反撃出来ません。",
+        "zh-TW": "1.會主動攻擊。\n2.無法反擊。",
+        "kr": "1. 필드에 있는 플레이어를 쫓아간다. \n2. 공격을 받아도 반격할 수 없다. "
+    },
+    {
+        "zh-CN": "1.会主动攻击。\n2.无法反击。",
+        "en": "1.Will attack.\n2.Cannot counterattack.",
+        "ja": "１.フィールドにいるプレイヤーを追いかけます。\n２.攻撃を受けた後、反撃出来ません。",
+        "zh-TW": "1.會主動攻擊。\n2.無法反擊。",
+        "kr": "1. 필드에 있는 플레이어를 쫓아간다. \n2. 공격을 받아도 반격할 수 없다. "
+    },
+    {
+        "zh-CN": "1.会主动攻击。\n2.可以反击。",
+        "en": "1.Will attack.\n2.Will counterattack.",
+        "ja": "１.フィールドにいるプレイヤーを追いかけます。\n２.攻撃を受けた後は反撃する。",
+        "zh-TW": "1.會主動攻擊。\n2.可以反擊。",
+        "kr": "1. 필드에 있는 플레이어를 쫓아간다. \n2. 공격을 받아도 반격할 수 없다. "
+    },
+    {
+        "zh-CN": "1.会主动攻击。\n2.可以反击。",
+        "en": "1.Will attack.\n2.Will counterattack.",
+        "ja": "１.フィールドにいるプレイヤーを追いかけます。\n２.攻撃を受けた後は反撃する。",
+        "zh-TW": "1.會主動攻擊。\n2.可以反擊。",
+        "kr": "1. 필드에 있는 플레이어를 쫓아간다. \n2. 공격을 받아도 반격할 수 없다. "
+    },
+    {
+        "zh-CN": "1.会主动攻击。\n2.无法反击。",
+        "en": "1.Will attack.\n2.Cannot counterattack.",
+        "ja": "１.フィールドにいるプレイヤーを追いかけます。\n２.攻撃を受けた後、反撃出来ません。",
+        "zh-TW": "1.會主動攻擊。\n2.無法反擊。",
+        "kr": "1. 필드에 있는 플레이어를 쫓아간다. \n2. 공격을 받아도 반격할 수 없다. "
+    },
+    {
+        "zh-CN": "会主动攻击且被攻击会反击。",
+        "en": "Will attack and counterattack.",
+        "ja": "1.フィールドにいるプレイヤーを追いかけます。\n2.攻撃を受けた後は反撃する。",
+        "zh-TW": "會主動攻擊且被攻擊會反擊。",
+        "kr": "1. 필드에 있는 플레이어를 쫓아간다.\n2. 공격을 받으면 반격한다."
+    },
+    {
+        "zh-CN": "1.会主动攻击。\n2.可以反击。",
+        "en": "1.Will attack.\n2.Will counterattack.",
+        "ja": "１.フィールドにいるプレイヤーを追いかけます。\n２.攻撃を受ける時回避行動を行う、その後は反撃する。",
+        "zh-TW": "1.會主動攻擊。\n2.可以反擊。",
+        "kr": "1. 필드에 있는 플레이어를 쫓아간다.\n2. 공격을 받으면 회피 후 반격한다."
+    },
+    {
+        "zh-CN": "1.无法反击。",
+        "en": "1.Cannot counterattack.",
+        "ja": "１.攻撃を受けた後、反撃出来ません。",
+        "zh-TW": "1.無法反擊。",
+        "kr": "1. 공격을 받아도 반격하지 않는다."
+    },
+    {
+        "zh-CN": "1.不会主动攻击。\n2.可以反击。",
+        "en": "1.Won't attack.\n2.Will counterattack.",
+        "ja": "１.自ら攻撃を仕掛けません。\n２.攻撃を受けた後は反撃する。",
+        "zh-TW": "1.不會主動攻擊。\n2.可以反擊。",
+        "kr": "1. 스스로 공격을 시도하지 않는다.\n2. 공격을 받으면 반격한다."
+    },
+    {
+        "zh-CN": "1.不会被攻击",
+        "en": "Cannot be attacked.",
+        "ja": "1.戦闘無効効果を持つ。",
+        "zh-TW": "1.不會被攻擊",
+        "kr": "1. 전투 무효 효과 보유."
+    },
+    {
+        "zh-CN": "1.会主动攻击。\n2.不会被攻击",
+        "en": "1. Will actively attack.\n2. Cannot be attacked.",
+        "ja": "１.主動的に攻撃を行う。\n2.戦闘無効効果を持つ。",
+        "zh-TW": "1.會主動攻擊。\n2.不會被攻擊",
+        "kr": "1. 능동적으로 공격한다.\n2. 전투 무효 효과 보유."
+    },
+    {
+        "zh-CN": "我就是商业之主~帕露南！感受到金钱的力量了吗！",
+        "en": "I am the Lord of Commerce, Parunan! Feel the power of money!",
+        "ja": "ウチは商売の達人、パルナンや！銭は力やで！",
+        "zh-TW": "我就是商業之主~帕露南！感受到金錢的力量了嗎！",
+        "kr": ""
+    },
+    {
+        "zh-CN": "唉？什么什么！你找我要解决麻烦的事件吗？看我的吧！",
+        "en": "Huh? What’s that? You want me to solve a troublesome case? Just watch me!",
+        "ja": "なになに！？わたしに事件を解決してほしいって？とくとご覧あれ！",
+        "zh-TW": "唉？什麽什麽！妳找我要解決麻煩的事件嗎？看我的吧！",
+        "kr": ""
+    },
+    {
+        "zh-CN": "不不不…不要这样突然看着我…我会害羞的…别..又不不理我了啊..",
+        "en": "N-no, no… don’t stare at me like that all of a sudden… I’m shy… Hey, don’t ignore me now…",
+        "ja": "そ、そ、そんなに見ないでください…恥ずかしいです…き、聞こえてますか？",
+        "zh-TW": "不不不…不要這樣突然看著我…我會害羞的…別..又不不理我了啊..",
+        "kr": ""
+    },
+    {
+        "zh-CN": "你好，我是忍者小町desu。\n呦！我是影！我家姑娘之后拜托你了，你要好好照顾她唉疼疼疼我说小町你别扯我啊！",
+        "en": "Hello, I’m ninja Komachi desu.\nYo! I’m Kage! Please take good care of my girl. Ow, ow, ow! Komachi, stop pulling me!",
+        "ja": "ドーモ、忍者の小町デス（小町）\n俺は影だ！うちの娘をよろしくな。あいたたた！引っ張るなって小町！（影）",
+        "zh-TW": "妳好，我是忍者小釘desu。\n呦！我是影！我家姑娘之後拜托妳了，妳要好好照顧她唉疼疼疼我說小釘妳別扯我啊！",
+        "kr": ""
+    },
+    {
+        "zh-CN": "请指示吧！只要是领导吩咐的我一定照办！不管是上刀山还是下火海！",
+        "en": "Give me your orders! Whatever the boss commands, I’ll carry it out! Through fire or water!",
+        "ja": "さぁ何なりとお申し付けを！たとえ火の中水の中！",
+        "zh-TW": "請指示吧！只要是領導吩咐的我壹定照辦！不管是上刀山還是下火海！",
+        "kr": ""
+    },
+    {
+        "zh-CN": "Ohi~honey~我们相遇一定是缘分，让我给你带来不一样的体验吧~",
+        "en": "Hi~ honey~ Meeting here must be fate. Let me give you a one-of-a-kind experience~",
+        "ja": "ハニハニー！ここで会ったのも何かの縁（えん）、縁（えにし）っしょ！えにーしょーたーいむ☆",
+        "zh-TW": "Ohi~honey~我們相遇壹定是緣分，讓我給妳帶來不壹樣的體驗吧~",
+        "kr": ""
+    },
+    {
+        "zh-CN": "你好~我叫恋，虽然年龄还很小，不过我可是个游戏大师哦~这是我的小宠物鼠鼠~请多指教",
+        "en": "Hi~ I’m Ren! Though I’m young, I’m a pro gamer! This is my pet Shiyu. Nice to meet you~",
+        "ja": "ハーイ！恋だよ、こう見えてゲームマスターなのー！この子はペットのジュジュ！",
+        "zh-TW": "妳好~我叫戀，雖然年齡還很小，不過我可是個遊戲大師哦~這是我的小寵物鼠鼠~請多指教",
+        "kr": ""
+    },
+    {
+        "zh-CN": "hello~米米呦~虽然是游戏的看板，但是我也只是打工人喔。",
+        "en": "Hello~ I’m Mimi. I’m the Kanban Musume, but really just a part-timer.",
+        "ja": "ご機嫌よう、ミミですわ。一応看板娘をやってますけど、アルバイトに過ぎませんの。",
+        "zh-TW": "hello~米米呦~雖然是遊戲的看板，但是我也只是打工人喔。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "哔哔哔…",
+        "en": "Beep beep beep…",
+        "ja": "ピピピー",
+        "zh-TW": "哔哔哔…",
+        "kr": ""
+    },
+    {
+        "zh-CN": "虽然我是个胖子yo，但是我有一颗纤细的心，请多指教yo！",
+        "en": "I may be a chubby panda, yo, but my heart is delicate and sentimental. Nice to meet you!",
+        "ja": "俺ぽってりぽっちゃりパンダなンダ！けど心は繊細センチメンタル。",
+        "zh-TW": "雖然我是個胖子yo，但是我有壹顆纖細的心，請多指教yo！",
+        "kr": ""
+    },
+    {
+        "zh-CN": "希望我怎么对待你？嗯？要窒息了？是抱得太紧了吗~",
+        "en": "How do you want me to treat you? Hm? Can’t breathe? Am I hugging you too tight~?",
+        "ja": "どういう風にしてほしいの？ん？息が止まりそう？抱きしめすぎちゃったかな…",
+        "zh-TW": "希望我怎麽對待妳？嗯？要窒息了？是抱得太緊了嗎~",
+        "kr": ""
+    },
+    {
+        "zh-CN": "隆兴饭店的生意也要多多照顾啊！我可是未来的继承人呢！请多关照！",
+        "en": "Take good care of Longxing Hotel’s business too! I’m the future heir, so please support me!",
+        "ja": "わたしは龍興飯店飯店の後継者です！応援よろしくネ！",
+        "zh-TW": "隆興飯店的生意也要多多照顧啊！我可是未來的繼承人呢！請多關照！",
+        "kr": ""
+    },
+    {
+        "zh-CN": "我将揭示出你既定的命运。当然~我也可以帮你改变命运~",
+        "en": "I will reveal your destined fate. Of course, I can help you change it too.",
+        "ja": "あなたの運命を占います…もちろん、\nそれを変えるお手伝いも、ね。",
+        "zh-TW": "我將揭示出妳既定的命運。當然~我也可以幫妳改變命運~",
+        "kr": ""
+    },
+    {
+        "zh-CN": "不管什么时候，只要你需要我，我随叫随到！",
+        "en": "Anytime you need me, I’m just a call away!",
+        "ja": "いつでも行こう\n私の剣の腕を\n買ってくれるなら。",
+        "zh-TW": "不管什麽時候，只要妳需要我，我隨叫隨到！",
+        "kr": ""
+    },
+    {
+        "zh-CN": "哦？新的下属么？看你表现了，侍奉我的代价可是很高的。",
+        "en": "Oh? A new subordinate? I’ll be watching your performance closely. Serving me is a privilege.",
+        "ja": "新しい下働きか？ふん…働きぶりを見極めてやろう、わたしに仕えることを光栄に思うが良い。",
+        "zh-TW": "哦？新的下屬麽？看妳表現了，侍奉我的代價可是很高的。",
+        "kr": ""
+    },
+    {
+        "zh-CN": "我是家政机器人茉莉！别看我是个女孩子，我可是很会干活的！",
+        "en": "I’m Jasmine, the Robot Maid! Don’t let my cute looks fool you, I’m very capable!",
+        "ja": "メイドロイドの茉莉ですぅ！可愛い見た目でお仕事は完璧！",
+        "zh-TW": "我是家政機器人茉莉！別看我是個女孩子，我可是很會幹活的！",
+        "kr": ""
+    },
+    {
+        "zh-CN": "哦？新来的？可别扯我帮派的后腿！不然拉你去喂狗！",
+        "en": "Oh? New here? Don’t hold back our gang, or I’ll feed you to the dogs!",
+        "ja": "あ？見ない顔だな…チッ、足手まといにはなるなよ？猟犬の餌になりたくはねぇだろ、なぁ？",
+        "zh-TW": "哦？新來的？可別扯我幫派的後腿！不然拉妳去喂狗！",
+        "kr": ""
+    },
+    {
+        "zh-CN": "你就是我的新队友？敢拖我后腿的话我可不会放过你！",
+        "en": "You’re my new teammate? If you drag me down, I won’t forgive you!",
+        "ja": "あなたが私のパートナー？足を引っ張ったら承知しませんよ！",
+        "zh-TW": "妳就是我的新隊友？敢拖我後腿的話我可不會放過妳！",
+        "kr": ""
+    },
+    {
+        "zh-CN": "哦？新人桑？那么首先想请你记住作为黑客的变装术和隐藏IP地址喔~",
+        "en": "Oh? Newbie? First, learn disguise techniques and IP masking as a hacker~",
+        "ja": "お？新入りさん？じゃあ手始めにハッカーとしての変装とIPマスキングを覚えてほしいの…うふふ。",
+        "zh-TW": "哦？新人桑？那麽首先想請妳記住作爲黑客的變裝術和隱藏IP地址喔~",
+        "kr": ""
+    },
+    {
+        "zh-CN": "你..你好..我是新人调查员凛..那个...虽然我还是个新手，不过请放心，我一定会认真的去完成任务的！呃...可能....",
+        "en": "H-hi… I’m rookie investigator Rin… I’m still new, but I’ll do my best to complete the mission! U-um… maybe…",
+        "ja": "はじめまして…リンと申します！新米の調査官ですけど任務は必ず全う…！できたらいいな…",
+        "zh-TW": "妳..妳好..我是新人調查員凜..那個...雖然我還是個新手，不過請放心，我壹定會認真的去完成任務的！唉...可能....",
+        "kr": ""
+    },
+    {
+        "zh-CN": "嗯？你也是来玩的？我话说在前头，我可不会手下留情啊！",
+        "en": "Hm? You’re here to play too? Just so you know, I won’t go easy on you!",
+        "ja": "ふーん、アナタもこのゲームやるんすか？言っとくけど手加減なんかしないっすよ！",
+        "zh-TW": "嗯？妳也是來玩的？我話說在前頭，我可不會手下留情啊！",
+        "kr": ""
+    },
+    {
+        "zh-CN": "你好，我是姬梦朝我是隆兴饭店的实习跟班，虽然没有姐姐那么优秀，但是我还是会努力去辅佐你的工作的！请多关照咯~",
+        "en": "Hi, I’m Meng. I’m an intern at Longxing Hotel. Not as capable as my sister Feng, but I’ll work hard to support you!",
+        "ja": "チャオです。龍興飯店のインターンをしています。姉のフェンほど優秀ではありませんが一生懸命働きます。",
+        "zh-TW": "妳好，我是姬夢朝我是隆興飯店的實習跟班，雖然沒有姐姐那麽優秀，但是我還是會努力去輔佐妳的工作的！請多關照咯~",
+        "kr": ""
+    },
+    {
+        "zh-CN": "哦~有新的教众吗？你好，我是照，别看我这样，我可是真正的三神教教主哦~你见过我那三个笨蛋徒弟了吗？",
+        "en": "Oh~ A new follower, huh? Hello, I’m Teru — the real Hierarchy of Mikami. Don’t be fooled by my looks! Have you met my three clueless disciples yet?",
+        "ja": "三神の教主、照でございます。わたくしたちの元であなたの期待するものが見つかると良いですね。",
+        "zh-TW": "哦~有新的教衆嗎？妳好，我是照，別看我這樣，我可是真正的三神教教主哦~妳見過我那三個笨蛋徒弟了嗎？",
+        "kr": ""
+    }
+]

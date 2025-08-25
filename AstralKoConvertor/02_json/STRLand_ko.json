@@ -1,0 +1,408 @@
+[
+    {
+        "zh-CN": "停留",
+        "en": "Stay",
+        "ja": "滞在する",
+        "zh-TW": "停留",
+        "kr": "머물다"
+    },
+    {
+        "zh-CN": "[size=20](获取下一星还差{needGold=10}星币)[/size]",
+        "en": "[size=20](For Next Star{needGold=10}Coins)[/size]",
+        "ja": "[size=20](あと{needGold=10}コインが必要)[/size]",
+        "zh-TW": "[size=20](獲取下壹星還差{needGold=10}星幣)[/size]",
+        "kr": "[size=20](다음 별까지 {needGold=10} 코인)[/size]"
+    },
+    {
+        "zh-CN": "[size=20](交付{gift=0}个礼物)[/size]",
+        "en": "[size=20](Give{gift=0}Gifts)[/size]",
+        "ja": "[size=20](ギフト{gift=0}個納品)[/size]",
+        "zh-TW": "[size=20](交付{gift=0}個禮物)[/size]",
+        "kr": "[size=20](선물 {gift=0}개 주기)[/size]"
+    },
+    {
+        "zh-CN": "[size=20](获得{0}个礼物)[/size]",
+        "en": "[size=20](Get{0}Gift)[/size]",
+        "ja": "[size=20](ギフト{0}個獲得)[/size]",
+        "zh-TW": "[size=20](獲得{0}個禮物)[/size]",
+        "kr": "[size=20](선물 {0}개 획득)[/size]"
+    },
+    {
+        "zh-CN": "[size=20](归还{0}个礼物)[/size]",
+        "en": "[size=20](Return{0}Gift)[/size]",
+        "ja": "[size=20](ギフト{0}個帰還)[/size]",
+        "zh-TW": "[size=20](歸還{0}個禮物)[/size]",
+        "kr": "[size=20](선물 {0}개 반환)[/size]"
+    },
+    {
+        "zh-CN": "救助",
+        "en": "Rescue",
+        "ja": "助ける",
+        "zh-TW": "救助",
+        "kr": "구조"
+    },
+    {
+        "zh-CN": "[size=20](可继续移动)[/size]",
+        "en": "[size=20](Continue Moving)[/size]",
+        "ja": "[size=20](移動継続)[/size]",
+        "zh-TW": "[size=20](可繼續移動)[/size]",
+        "kr": "[size=20](계속이동)[/size]"
+    },
+    {
+        "zh-CN": "[size=20](星星已达上限)[/size]",
+        "en": "[size=20](Stars reach to maximum)[/size]",
+        "ja": "[size=20](スター数MAX)[/size]",
+        "zh-TW": "[size=20](星星已達上限)[/size]",
+        "kr": "[size=20](별 MAX 도달)[/size]"
+    },
+    {
+        "zh-CN": "起始点",
+        "en": "Start Point",
+        "ja": "スタートポイント",
+        "zh-TW": "起始點",
+        "kr": "시작 지점"
+    },
+    {
+        "zh-CN": "保障点",
+        "en": "Check Point",
+        "ja": "セーフティポイント",
+        "zh-TW": "保障點",
+        "kr": "체크포인트"
+    },
+    {
+        "zh-CN": "传送门",
+        "en": "Portal",
+        "ja": "転送陣",
+        "zh-TW": "傳送門",
+        "kr": "포탈"
+    },
+    {
+        "zh-CN": "突击门",
+        "en": "Assault",
+        "ja": "突撃ゲート",
+        "zh-TW": "突擊門",
+        "kr": "돌격게이트"
+    },
+    {
+        "zh-CN": "悬赏",
+        "en": "80005",
+        "ja": "80005",
+        "zh-TW": "懸賞",
+        "kr": "80005"
+    },
+    {
+        "zh-CN": "占卜",
+        "en": "Divination",
+        "ja": "占い",
+        "zh-TW": "占卜",
+        "kr": "점"
+    },
+    {
+        "zh-CN": "商店",
+        "en": "Shop",
+        "ja": "ショップ",
+        "zh-TW": "商店",
+        "kr": "상점"
+    },
+    {
+        "zh-CN": "全员事件",
+        "en": "Event",
+        "ja": "全員イベント",
+        "zh-TW": "全員事件",
+        "kr": "이벤트"
+    },
+    {
+        "zh-CN": "彩票",
+        "en": "Lottery",
+        "ja": "宝くじ",
+        "zh-TW": "彩票",
+        "kr": "복권"
+    },
+    {
+        "zh-CN": "猜猜乐",
+        "en": "Guessing",
+        "ja": "クイズ",
+        "zh-TW": "猜猜樂",
+        "kr": "퀴즈"
+    },
+    {
+        "zh-CN": "炮台",
+        "en": "Cannon",
+        "ja": "砲台",
+        "zh-TW": "砲台",
+        "kr": "대포"
+    },
+    {
+        "zh-CN": "疾行",
+        "en": "Haste",
+        "ja": "疾走",
+        "zh-TW": "疾行",
+        "kr": "질주"
+    },
+    {
+        "zh-CN": "医院",
+        "en": "Hospital",
+        "ja": "病院",
+        "zh-TW": "醫院",
+        "kr": "병원"
+    },
+    {
+        "zh-CN": "卡牌奖励",
+        "en": "Card Bounce",
+        "ja": "カード報酬",
+        "zh-TW": "卡牌獎勵",
+        "kr": "카드 보상"
+    },
+    {
+        "zh-CN": "天降横财",
+        "en": "Windfall Hits",
+        "ja": "金儲け",
+        "zh-TW": "天降橫財",
+        "kr": "횡재"
+    },
+    {
+        "zh-CN": "个人命运",
+        "en": "Fortune",
+        "ja": "運命",
+        "zh-TW": "個人命運",
+        "kr": "운명"
+    },
+    {
+        "zh-CN": "天降横祸",
+        "en": "Sudden Calamity",
+        "ja": "災厄",
+        "zh-TW": "天降橫禍",
+        "kr": "재앙"
+    },
+    {
+        "zh-CN": "跳跃",
+        "en": "Jump",
+        "ja": "ジャンプ",
+        "zh-TW": "跳躍",
+        "kr": "점프"
+    },
+    {
+        "zh-CN": "怪物",
+        "en": "Monster",
+        "ja": "モンスター",
+        "zh-TW": "怪物",
+        "kr": "몬스터"
+    },
+    {
+        "zh-CN": "恢复",
+        "en": "Recover",
+        "ja": "リカバリー",
+        "zh-TW": "恢復",
+        "kr": "회복"
+    },
+    {
+        "zh-CN": "怪物突击门",
+        "en": "Monster assault gate",
+        "ja": "モンスター突撃ゲート",
+        "zh-TW": "怪物突擊門",
+        "kr": "몬스터 돌격 게이트"
+    },
+    {
+        "zh-CN": "商店",
+        "en": "Shop",
+        "ja": "ショップ",
+        "zh-TW": "商店",
+        "kr": "상점"
+    },
+    {
+        "zh-CN": "礼物",
+        "en": "Gift",
+        "ja": "ギフト",
+        "zh-TW": "禮物",
+        "kr": "기프트"
+    },
+    {
+        "zh-CN": "筹码商店",
+        "en": "Chip Shop",
+        "ja": "強化チップショップ",
+        "zh-TW": "籌碼商店",
+        "kr": "칩 강화샵"
+    },
+    {
+        "zh-CN": "机关控制台",
+        "en": "Panel Control Mechanism",
+        "ja": "パネルコントロールボタン",
+        "zh-TW": "機關控制台",
+        "kr": "패널 컨트롤 버튼"
+    },
+    {
+        "zh-CN": "停留在起始点回复2点生命，星币达标自动获得一颗星星",
+        "en": "Heal 2 HP when staying on Start Point.\nGain 1 star with enough coins.",
+        "ja": "スタートポイントに滞在するとＨＰ+2、コインが要求値に達すればスターを１つ獲得します。",
+        "zh-TW": "停留在起始點回復2點生命，星幣達標自動獲得一顆星",
+        "kr": "시작 지점에 머무르는 경우 HP +2, 코인 조건을 충족하면 별 1개 획득."
+    },
+    {
+        "zh-CN": "停留在保障点回复2点生命，星币达标自动获得一颗星星",
+        "en": "Heal 2 HP when staying on Check Point.\nGain 1 star with enough coins.",
+        "ja": "セーフティポイントに滞在するとＨＰ+2、コインが要求値に達すればスターを１つ獲得します。",
+        "zh-TW": "停留在保障點回復2點生命，星幣達標自動獲得一顆星星",
+        "kr": "체크포인트에 머무르는 경우 HP +2, 코인 조건을 충족하면 별 1개 획득."
+    },
+    {
+        "zh-CN": "随机传送到其他传送门",
+        "en": "Randomly warp to other Portals.",
+        "ja": "ランダムに他の転移陣へ転送される",
+        "zh-TW": "隨機傳送到其他傳送門",
+        "kr": "랜덤한 다른 포탈로 순간이동."
+    },
+    {
+        "zh-CN": "可以选择是否对敌对玩家进行突击战斗",
+        "en": "Select a player to battle.",
+        "ja": "敵プレイヤーに対して突撃するか選択可能",
+        "zh-TW": "可以選擇是否對敵對角色進行突擊戰鬥",
+        "kr": "상대를 지정해 이동 후 전투를 할지 선택."
+    },
+    {
+        "zh-CN": "角色被【悬赏】，击倒该角色可以获得【赏金】。",
+        "en": "Claim the bounty by KO the player who has a bounty on his head.",
+        "ja": "指名手配された、スタンさせると賞金が貰える",
+        "zh-TW": "角色被【懸賞】，擊倒該角色可獲得【賞金】。",
+        "kr": "지명수배된 캐릭터를 처치해 현상금을 획득."
+    },
+    {
+        "zh-CN": "玩家选择效果，系统判定目标",
+        "en": "Player chooses the effect. \nRandomly chooses the target.",
+        "ja": "プレイヤーは効果を選び、システムが対象を選ぶ",
+        "zh-TW": "角色選擇效果，系統判定目標",
+        "kr": "효과를 선택, 랜덤 캐릭터에게 해당 효과를 적용."
+    },
+    {
+        "zh-CN": "路过或者踩到此地块可以购买卡牌",
+        "en": "Buy cards when stay on or pass by this panel.",
+        "ja": "通過あるいは滞在した場合、そのマスからカードを購入可能",
+        "zh-TW": "經過或踩到此地塊可以購買卡牌",
+        "kr": "이 칸을 지나가거나 도착했을 때 카드를 구매할 수 있음."
+    },
+    {
+        "zh-CN": "系统随机触发全员事件",
+        "en": "Randomly trigger the event for all players.",
+        "ja": "全員ランダムイベント発動",
+        "zh-TW": "系統隨機觸發全員事件",
+        "kr": "전원 적용되는 이벤트 발생"
+    },
+    {
+        "zh-CN": "自选1-12内不可重复的数字，开奖后清空",
+        "en": "Choose a number from 1-12.\nClear the number after the draw.",
+        "ja": "1から12の間で重複しない数字を選び、抽選後はリセットします。",
+        "zh-TW": "自選1-12內不可重複的數字，開獎後清空",
+        "kr": "1에서 12 사이의 중복되지 않는 숫자를 선택, 추첨 후 리셋."
+    },
+    {
+        "zh-CN": "押注后每个角色猜奇偶数，获得胜利的人分得奖金。",
+        "en": "After making bets on the parity of the roll,\nthe victor receives all bets.",
+        "ja": "掛け金後、各キャラクターは奇数か偶数を予想、勝者が賞金を分け取ります。",
+        "zh-TW": "押注後每個角色猜奇偶數，獲得勝利的人分得獎金。",
+        "kr": "각 캐릭터는 베팅 후 홀 또는 짝을 선택, 승자가 상금을 나눠가짐."
+    },
+    {
+        "zh-CN": "可指定一名敌对角色，对其造成2点伤害。",
+        "en": "Select a player, deal 2 direct damges.",
+        "ja": "敵のキャラクターを一人指名し、2ダメージを与える（ブロック不可）",
+        "zh-TW": "可指定一名敵對角色，對其造成2點傷害。",
+        "kr": "상대를 하나 지정해 2의 피해를 입힘."
+    },
+    {
+        "zh-CN": "可以投点再次进行移动",
+        "en": "Reroll to move again.",
+        "ja": "ダイスを振ってもう一度移動します",
+        "zh-TW": "可以再擲骰移動",
+        "kr": "다시 주사위를 굴려 이동."
+    },
+    {
+        "zh-CN": "判定生病则住院并且恢复2点生命。在此格免疫一切伤害。",
+        "en": "Heal 2 HP and stay in hospital.\nImmune to all damage when stay on this panel.",
+        "ja": "病気になった場合、病院に入院しHP+2、そのマスではすべてのダメージを回避",
+        "zh-TW": "判定生病則住院並且恢復2點生命。 在此格免疫一切傷害。",
+        "kr": "병원에서 체력을 회복, HP +2.\n이 패널에서는 모든 피해를 회피한다."
+    },
+    {
+        "zh-CN": "获得2张卡牌",
+        "en": "Gain 2 cards.",
+        "ja": "2枚のカードを得る",
+        "zh-TW": "獲得2張卡牌",
+        "kr": "카드 2장 획득."
+    },
+    {
+        "zh-CN": "获得随机数量的星币",
+        "en": "Gain random coins.",
+        "ja": "ランダムなコインを得る",
+        "zh-TW": "獲得隨機數量的星幣",
+        "kr": "랜덤한 수의 코인 획득."
+    },
+    {
+        "zh-CN": "触发自己角色的随机事件",
+        "en": "Trigger the random event for yourself.",
+        "ja": "キャラクターのランダムイベントに触発",
+        "zh-TW": "觸發自己角色的隨機事件",
+        "kr": "자신에게 랜덤한 이벤트가 발생."
+    },
+    {
+        "zh-CN": "天降横祸",
+        "en": "Take 2 damages.",
+        "ja": "2ダメージを受ける",
+        "zh-TW": "受到2點傷害",
+        "kr": "2의 피해를 받음."
+    },
+    {
+        "zh-CN": "跳跃",
+        "en": "Teleport to the corresponding Jump panel",
+        "ja": "対応のジャンプマスを転移する",
+        "zh-TW": "傳送至對應的跳躍格",
+        "kr": "대응하는 점프 패널로 순간이동"
+    },
+    {
+        "zh-CN": "怪物",
+        "en": "Spawn a monster",
+        "ja": "モンスターが出現します",
+        "zh-TW": "刷新一隻怪物",
+        "kr": "몬스터가 출현함."
+    },
+    {
+        "zh-CN": "恢复",
+        "en": "Recover 2 HP",
+        "ja": "hp+2",
+        "zh-TW": "恢復2點生命",
+        "kr": "HP+2"
+    },
+    {
+        "zh-CN": "怪物突击门",
+        "en": "You can choose whether to start a battle with a monster",
+        "ja": "任意モンスターの元にワープし、戦闘を仕掛ける事ができます",
+        "zh-TW": "可以選擇是否對一隻怪物進行突擊戰鬥",
+        "kr": "임의의 몬스터 위치로 순간이동하여 전투를 시작."
+    },
+    {
+        "zh-CN": "路过或者踩到此地块可以购买卡牌，也可通过此地块将星币转移给其他角色。",
+        "en": "Passing by or landing on this tile allows you to buy cards or transfer coins to other characters.",
+        "ja": "このマスを通過する時にカードの購入や、スターコインを仲間に渡す事ができます。",
+        "zh-TW": "路過或者踩到此地塊可以購買卡牌，也可通過此地塊將星幣轉移給其他角色。",
+        "kr": "이 패널을 통과할 때 카드를 구입하거나 코인을 아군에게 송금할 수 있음."
+    },
+    {
+        "zh-CN": "踩到或在此地块停留可以获得或归还一个礼物",
+        "en": "Get or return a gift when stay \non this panel",
+        "ja": "ギフトマスに滞在する時にギフトを納品、獲得できる",
+        "zh-TW": "踩到或在此地塊停留可以獲得或歸還壹個禮物",
+        "kr": "이 패널에 머무는 경우, 선물을 받거나 반환 가능."
+    },
+    {
+        "zh-CN": "可以在此格购买额外的筹码",
+        "en": "Can buy chips on this panel",
+        "ja": "ここでチップの購入ができます",
+        "zh-TW": "可以在此格購買額外的籌碼",
+        "kr": "이곳에서 칩을 구매."
+    },
+    {
+        "zh-CN": "操控场景的机关",
+        "en": "Scene Control Mechanism",
+        "ja": "シーンを操作することができるギミック",
+        "zh-TW": "操控場景的機關",
+        "kr": "장면을 조작할 수 있는 장치"
+    }
+]

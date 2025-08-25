@@ -1,0 +1,1171 @@
+[
+    {
+        "zh-CN": "攻击(中)",
+        "en": "ATK UP (M)",
+        "ja": "攻撃（中）",
+        "zh-TW": "攻擊(中)",
+        "kr": "공격 (중)"
+    },
+    {
+        "zh-CN": "防御(中)",
+        "en": "DEF UP (M)",
+        "ja": "ガード（中）",
+        "zh-TW": "防禦(中)",
+        "kr": "방어 (중)"
+    },
+    {
+        "zh-CN": "攻击(大)",
+        "en": "ATK UP (L)",
+        "ja": "攻撃（大）",
+        "zh-TW": "攻擊(大)",
+        "kr": "공격 (대)"
+    },
+    {
+        "zh-CN": "防御(大)",
+        "en": "DEF UP (L)",
+        "ja": "ガード（大）",
+        "zh-TW": "防禦(大)",
+        "kr": "방어 (대)"
+    },
+    {
+        "zh-CN": "攻击(特大)",
+        "en": "ATK UP (G)",
+        "ja": "攻撃（特大）",
+        "zh-TW": "攻擊(特大)",
+        "kr": "공격 (특대)"
+    },
+    {
+        "zh-CN": "防御(特大)",
+        "en": "DEF UP (G)",
+        "ja": "ガード（特大）",
+        "zh-TW": "防禦(特大)",
+        "kr": "방어 (특대)"
+    },
+    {
+        "zh-CN": "名刀：嘎呜切",
+        "en": "Legendary Sword: Gawu Cut",
+        "ja": "名刀：ガオー切り",
+        "zh-TW": "名刀：嘎呜切",
+        "kr": "명검: 가우 베기"
+    },
+    {
+        "zh-CN": "暗影突袭",
+        "en": "Shadow Attack",
+        "ja": "シャドウアタック",
+        "zh-TW": "暗影突襲",
+        "kr": "섀도우 어택"
+    },
+    {
+        "zh-CN": "蓄力",
+        "en": "Charge",
+        "ja": "チャージ",
+        "zh-TW": "蓄力",
+        "kr": "충전"
+    },
+    {
+        "zh-CN": "全力攻击",
+        "en": "Powerful Attack",
+        "ja": "会心の一撃",
+        "zh-TW": "全力攻擊",
+        "kr": "회심의일격"
+    },
+    {
+        "zh-CN": "毒牙",
+        "en": "Poison Fang",
+        "ja": "毒牙",
+        "zh-TW": "독牙",
+        "kr": "독니"
+    },
+    {
+        "zh-CN": "激光",
+        "en": "Laser Beam",
+        "ja": "レーザー",
+        "zh-TW": "激光",
+        "kr": "레이저빔"
+    },
+    {
+        "zh-CN": "巧克力蛋糕",
+        "en": "Chocolate Cake",
+        "ja": "チョコレートケーキ",
+        "zh-TW": "巧克力蛋糕",
+        "kr": "초콜릿 케이크"
+    },
+    {
+        "zh-CN": "保护屏障",
+        "en": "Barrier",
+        "ja": "バリア ",
+        "zh-TW": "保護屏障",
+        "kr": "보호막"
+    },
+    {
+        "zh-CN": "钓鱼执法",
+        "en": "Entrapment",
+        "ja": "罠を仕掛ける",
+        "zh-TW": "釣魚執法",
+        "kr": "함정 설치"
+    },
+    {
+        "zh-CN": "遥控骰子",
+        "en": "Smart Dice",
+        "ja": "リモコンダイス",
+        "zh-TW": "遙控骰子",
+        "kr": "리모컨 주사위"
+    },
+    {
+        "zh-CN": "以毒攻毒",
+        "en": "Fight Fire with Fire",
+        "ja": "毒で毒を制する",
+        "zh-TW": "以毒攻毒",
+        "kr": "이독제독"
+    },
+    {
+        "zh-CN": "灵魂链接",
+        "en": "Soul Link",
+        "ja": "ソウルリンク",
+        "zh-TW": "靈魂連結",
+        "kr": "소울 링크"
+    },
+    {
+        "zh-CN": "狂暴",
+        "en": "Berserk",
+        "ja": "狂暴",
+        "zh-TW": "狂暴",
+        "kr": "광폭"
+    },
+    {
+        "zh-CN": "自爆",
+        "en": "Self-Explosion",
+        "ja": "自爆",
+        "zh-TW": "自爆",
+        "kr": "자폭"
+    },
+    {
+        "zh-CN": "路障",
+        "en": "Barricade",
+        "ja": "ロードブロック",
+        "zh-TW": "路障",
+        "kr": "바리케이드"
+    },
+    {
+        "zh-CN": "方向抉择",
+        "en": "Redirection",
+        "ja": "方向選択",
+        "zh-TW": "方向抉擇",
+        "kr": "방향선택"
+    },
+    {
+        "zh-CN": "皮筋弹弓",
+        "en": "Slingshot",
+        "ja": "スリングショット",
+        "zh-TW": "Y型彈弓",
+        "kr": "새총"
+    },
+    {
+        "zh-CN": "板砖",
+        "en": "Brick",
+        "ja": "ブリック",
+        "zh-TW": "板磚",
+        "kr": "벽돌"
+    },
+    {
+        "zh-CN": "汉堡",
+        "en": "Hamburger",
+        "ja": "ハンバーガー",
+        "zh-TW": "漢堡",
+        "kr": "햄버거"
+    },
+    {
+        "zh-CN": "以牙还牙",
+        "en": "Eye for an Eye",
+        "ja": "目には目を",
+        "zh-TW": "以牙還牙",
+        "kr": "눈에는 눈"
+    },
+    {
+        "zh-CN": "错误的目标",
+        "en": "Random Select",
+        "ja": "誤った目標",
+        "zh-TW": "錯誤的目標",
+        "kr": "잘못된목표"
+    },
+    {
+        "zh-CN": "爆破专家",
+        "en": "Demolition",
+        "ja": "爆破専門家",
+        "zh-TW": "爆破專家",
+        "kr": "함정전문가"
+    },
+    {
+        "zh-CN": "过期便当",
+        "en": "Expired Bento",
+        "ja": "腐った弁当",
+        "zh-TW": "過期便當",
+        "kr": "상한도시락"
+    },
+    {
+        "zh-CN": "丧心病狂",
+        "en": "All or Nothing",
+        "ja": "狂気を抱く",
+        "zh-TW": "喪心病狂",
+        "kr": "모아니면도"
+    },
+    {
+        "zh-CN": "传递炸弹",
+        "en": "Time Bomb",
+        "ja": "ボムパス",
+        "zh-TW": "傳遞炸彈",
+        "kr": "시한폭탄"
+    },
+    {
+        "zh-CN": "抢夺",
+        "en": "Snatch",
+        "ja": "奪取",
+        "zh-TW": "搶奪",
+        "kr": "약탈"
+    },
+    {
+        "zh-CN": "拾荒",
+        "en": "Scavenging",
+        "ja": "ゴミ拾い",
+        "zh-TW": "拾荒",
+        "kr": "동전줍기"
+    },
+    {
+        "zh-CN": "随机传送门",
+        "en": "Random Portal",
+        "ja": "ランダムテレポーター",
+        "zh-TW": "隨機傳送門",
+        "kr": "랜덤 포탈"
+    },
+    {
+        "zh-CN": "雪球攻击",
+        "en": "Snowball Attack",
+        "ja": "雪玉",
+        "zh-TW": "雪球攻擊",
+        "kr": "눈공"
+    },
+    {
+        "zh-CN": "定向加速",
+        "en": "Directed Boost",
+        "ja": "サンタブースト",
+        "zh-TW": "定向加速",
+        "kr": "산타 부스트"
+    },
+    {
+        "zh-CN": "符卡-福",
+        "en": "Talisman Card - Fortune",
+        "ja": "符カード-福",
+        "zh-TW": "符卡-福",
+        "kr": "부적 - 행운"
+    },
+    {
+        "zh-CN": "符卡-祸",
+        "en": "Talisman Card - Misfortune",
+        "ja": "符カード-禍",
+        "zh-TW": "符卡-禍",
+        "kr": "부적 - 불행"
+    },
+    {
+        "zh-CN": "符卡-祸",
+        "en": "Talisman Card - Misfortune",
+        "ja": "符カード-禍",
+        "zh-TW": "符卡-禍",
+        "kr": "부적 - 불행"
+    },
+    {
+        "zh-CN": "活体书页",
+        "en": "Living Book",
+        "ja": "ライフ・ブック",
+        "zh-TW": "活體書頁",
+        "kr": "살아있는 책"
+    },
+    {
+        "zh-CN": "轨道炮",
+        "en": "Railgun",
+        "ja": "軌道レールキャノン",
+        "zh-TW": "軌道炮",
+        "kr": "레일건"
+    },
+    {
+        "zh-CN": "你有我有",
+        "en": "What you have, I have.",
+        "ja": "あなたもどうぞ？",
+        "zh-TW": "你有我有",
+        "kr": "너 하나, 나 하나"
+    },
+    {
+        "zh-CN": "加急加快",
+        "en": "Hurry Hurry",
+        "ja": "早すぎるおんな",
+        "zh-TW": "加急加快",
+        "kr": "빨리 빨리"
+    },
+    {
+        "zh-CN": "王之力",
+        "en": "King's Power",
+        "ja": "王の力",
+        "zh-TW": "王之力",
+        "kr": "왕의힘"
+    },
+    {
+        "zh-CN": "岿然不动",
+        "en": "Immovable",
+        "ja": "不動明王",
+        "zh-TW": "巋然不動",
+        "kr": "부동명왕"
+    },
+    {
+        "zh-CN": "奢华大餐",
+        "en": "Luxurious Feast",
+        "ja": "華奢な奢り",
+        "zh-TW": "奢華大餐",
+        "kr": "화려한대접"
+    },
+    {
+        "zh-CN": "定向爆破",
+        "en": "Blast",
+        "ja": "定方向発破",
+        "zh-TW": "定向爆破",
+        "kr": "폭발"
+    },
+    {
+        "zh-CN": "支援",
+        "en": "Support",
+        "ja": "支援",
+        "zh-TW": "支援",
+        "kr": "지원"
+    },
+    {
+        "zh-CN": "高升炮",
+        "en": "Firecrackers",
+        "ja": "爆竹",
+        "zh-TW": "爆竹",
+        "kr": "폭죽"
+    },
+    {
+        "zh-CN": "是他干的",
+        "en": "It's His Fault!",
+        "ja": "この人です",
+        "zh-TW": "是他幹的",
+        "kr": "이사람이야"
+    },
+    {
+        "zh-CN": "对怪激光",
+        "en": "Anit-Monster Laser",
+        "ja": "対モンスター用レーザー",
+        "zh-TW": "對怪鐳射",
+        "kr": "몬스터용 레이저"
+    },
+    {
+        "zh-CN": "对怪板砖",
+        "en": "Anit-Monster Brick",
+        "ja": "対モンスター用ブリック",
+        "zh-TW": "對怪板磚",
+        "kr": "몬스터용 벽돌"
+    },
+    {
+        "zh-CN": "CARD-001",
+        "en": "CARD-001",
+        "ja": "CARD-001",
+        "zh-TW": "CARD-001",
+        "kr": "CARD-001"
+    },
+    {
+        "zh-CN": "CARD-004",
+        "en": "CARD-004",
+        "ja": "CARD-004",
+        "zh-TW": "CARD-004",
+        "kr": "CARD-004"
+    },
+    {
+        "zh-CN": "CARD-002",
+        "en": "CARD-002",
+        "ja": "CARD-002",
+        "zh-TW": "CARD-002",
+        "kr": "CARD-002"
+    },
+    {
+        "zh-CN": "CARD-005",
+        "en": "CARD-005",
+        "ja": "CARD-005",
+        "zh-TW": "CARD-005",
+        "kr": "CARD-005"
+    },
+    {
+        "zh-CN": "CARD-003",
+        "en": "CARD-003",
+        "ja": "CARD-003",
+        "zh-TW": "CARD-003",
+        "kr": "CARD-003"
+    },
+    {
+        "zh-CN": "CARD-006",
+        "en": "CARD-006",
+        "ja": "CARD-006",
+        "zh-TW": "CARD-006",
+        "kr": "CARD-006"
+    },
+    {
+        "zh-CN": "CARD-007",
+        "en": "CARD-007",
+        "ja": "CARD-007",
+        "zh-TW": "CARD-007",
+        "kr": "CARD-007"
+    },
+    {
+        "zh-CN": "CARD-010",
+        "en": "CARD-010",
+        "ja": "CARD-010",
+        "zh-TW": "CARD-010",
+        "kr": "CARD-010"
+    },
+    {
+        "zh-CN": "CARD-025",
+        "en": "CARD-025",
+        "ja": "CARD-025",
+        "zh-TW": "CARD-025",
+        "kr": "CARD-025"
+    },
+    {
+        "zh-CN": "CARD-012",
+        "en": "CARD-012",
+        "ja": "CARD-012",
+        "zh-TW": "CARD-012",
+        "kr": "CARD-012"
+    },
+    {
+        "zh-CN": "CARD-018",
+        "en": "CARD-018",
+        "ja": "CARD-018",
+        "zh-TW": "CARD-018",
+        "kr": "CARD-018"
+    },
+    {
+        "zh-CN": "CARD-019",
+        "en": "CARD-019",
+        "ja": "CARD-019",
+        "zh-TW": "CARD-019",
+        "kr": "CARD-019"
+    },
+    {
+        "zh-CN": "CARD-022",
+        "en": "CARD-022",
+        "ja": "CARD-022",
+        "zh-TW": "CARD-022",
+        "kr": "CARD-022"
+    },
+    {
+        "zh-CN": "CARD-015",
+        "en": "CARD-015",
+        "ja": "CARD-015",
+        "zh-TW": "CARD-015",
+        "kr": "CARD-015"
+    },
+    {
+        "zh-CN": "CARD-017",
+        "en": "CARD-017",
+        "ja": "CARD-017",
+        "zh-TW": "CARD-017",
+        "kr": "CARD-017"
+    },
+    {
+        "zh-CN": "CARD-014",
+        "en": "CARD-014",
+        "ja": "CARD-014",
+        "zh-TW": "CARD-014",
+        "kr": "CARD-014"
+    },
+    {
+        "zh-CN": "CARD-026",
+        "en": "CARD-026",
+        "ja": "CARD-026",
+        "zh-TW": "CARD-026",
+        "kr": "CARD-026"
+    },
+    {
+        "zh-CN": "CARD-008",
+        "en": "CARD-008",
+        "ja": "CARD-008",
+        "zh-TW": "CARD-008",
+        "kr": "CARD-008"
+    },
+    {
+        "zh-CN": "CARD-009",
+        "en": "CARD-009",
+        "ja": "CARD-009",
+        "zh-TW": "CARD-009",
+        "kr": "CARD-009"
+    },
+    {
+        "zh-CN": "CARD-011",
+        "en": "CARD-011",
+        "ja": "CARD-011",
+        "zh-TW": "CARD-011",
+        "kr": "CARD-011"
+    },
+    {
+        "zh-CN": "CARD-023",
+        "en": "CARD-023",
+        "ja": "CARD-023",
+        "zh-TW": "CARD-023",
+        "kr": "CARD-023"
+    },
+    {
+        "zh-CN": "CARD-024",
+        "en": "CARD-024",
+        "ja": "CARD-024",
+        "zh-TW": "CARD-024",
+        "kr": "CARD-024"
+    },
+    {
+        "zh-CN": "CARD-013",
+        "en": "CARD-013",
+        "ja": "CARD-013",
+        "zh-TW": "CARD-013",
+        "kr": "CARD-013"
+    },
+    {
+        "zh-CN": "CARD-016",
+        "en": "CARD-016",
+        "ja": "CARD-016",
+        "zh-TW": "CARD-016",
+        "kr": "CARD-016"
+    },
+    {
+        "zh-CN": "CARD-021",
+        "en": "CARD-021",
+        "ja": "CARD-021",
+        "zh-TW": "CARD-021",
+        "kr": "CARD-021"
+    },
+    {
+        "zh-CN": "CARD-020",
+        "en": "CARD-020",
+        "ja": "CARD-020",
+        "zh-TW": "CARD-020",
+        "kr": "CARD-020"
+    },
+    {
+        "zh-CN": "战斗中攻击方可用。\n攻击力上升1~3。",
+        "en": "ATK +1~3.\n(Only for attacker)",
+        "ja": "このバトル中、攻撃値＋1～3される。\n(バトル中のみ)",
+        "zh-TW": "戰鬥中攻擊方可用。\n攻擊力上升1~3。",
+        "kr": "공격력 +1 ~ 3\n(공격 전용)"
+    },
+    {
+        "zh-CN": "战斗中防御方可用。\n防御力上升1~3。",
+        "en": "DEF +1~3.\n(Only for defender)",
+        "ja": "このバトル中、ガード値＋1～3される。\n(バトル中のみ)",
+        "zh-TW": "戰鬥中防禦方可用。\n防禦力上升1~3。",
+        "kr": "방어력 +1 ~ 3\n(방어 전용)"
+    },
+    {
+        "zh-CN": "战斗中攻击方可用。\n攻击力上升1~6。",
+        "en": "ATK +1~6.\n(Only for attacker)",
+        "ja": "このバトル中、攻撃値＋1～6される。\n(バトル中のみ)",
+        "zh-TW": "戰鬥中攻擊方可用。\n攻擊力上升1~6。",
+        "kr": "공격력 +1 ~ 6\n(공격 전용)"
+    },
+    {
+        "zh-CN": "战斗中防御方可用。\n防御力上升1~6。",
+        "en": "DEF +1~6.\n(Only for defender)",
+        "ja": "このバトル中、ガード値＋1～6される。\n(バトル中のみ)",
+        "zh-TW": "戰鬥中防禦方可用。\n防禦力上升1~6。",
+        "kr": "방어력 +1 ~ 6\n(방어 전용)"
+    },
+    {
+        "zh-CN": "战斗中攻击方可用。\n攻击力上升1~10。",
+        "en": "ATK +1~10.\n(Only for attacker)",
+        "ja": "このバトル中、攻撃値＋1～10される。\n(バトル中のみ)",
+        "zh-TW": "戰鬥中攻擊方可用。\n攻擊力上升1~10。",
+        "kr": "공격력 +1 ~ 10\n(공격 전용)"
+    },
+    {
+        "zh-CN": "战斗中防御方可用。\n防御力上升1~10。",
+        "en": "DEF +1~10.\n(Only for defender)",
+        "ja": "このバトル中、ガード値＋1～10される。\n(バトル中のみ)",
+        "zh-TW": "戰鬥中防禦方可用。\n防禦力上升1~10。",
+        "kr": "방어력 +1 ~ 10\n(방어 전용)"
+    },
+    {
+        "zh-CN": "战斗中攻击方可用。\n攻击力上升1~20。",
+        "en": "ATK +1~20.\n(Only for attacker)",
+        "ja": "戦闘中、攻撃力＋1~20。",
+        "zh-TW": "戰鬥中攻擊方可用。\n攻擊力上升1~20。",
+        "kr": "공격력 +1~20\n(공격 전용)"
+    },
+    {
+        "zh-CN": "战斗中攻击方可用。\n攻击力上升3，无法被反击。",
+        "en": "ATK +3. Immune to counterattack.\n(Only for attacker)",
+        "ja": "戦闘中、攻撃力＋3、反撃無効効果を得る（1回）。",
+        "zh-TW": "戰鬥中攻擊方可用。\n攻擊力上升3，無法被反擊。",
+        "kr": "공격력 +3, 반격할 수 없음.\n(공격 전용)"
+    },
+    {
+        "zh-CN": "攻击力+5，添加一张全力攻击到手牌中。",
+        "en": "ATK +5，add a Powerful Attack to your hand.",
+        "ja": "攻撃力+5、会心の一撃を一枚手札に加える。",
+        "zh-TW": "攻擊力+5，添加壹張全力攻擊到手牌中。",
+        "kr": "공격력+5, 손패에 '회심의 일격' 한 장 추가."
+    },
+    {
+        "zh-CN": "攻击力+6，本次战斗的最终攻击力+50%。",
+        "en": "ATK +6, Final ATK +50% for this battle.",
+        "ja": "攻撃力+6、この戦闘の最終攻撃力+５０％",
+        "zh-TW": "攻擊力+6，本次戰鬥的最終攻擊力+50%。",
+        "kr": "공격력+6, 이번 전투의 최종 공격력 +50%"
+    },
+    {
+        "zh-CN": "移除目标2层【金鳞】，本次攻击无法被反击。",
+        "en": "Remove 2 stacks of 【Golden Scales】 from target, then target cannot counterattack.",
+        "ja": "目標の【金鱗】スタック-2、反撃無効効果を得る。（1回）",
+        "zh-TW": "移除目標2層【金鱗】，本次攻擊無法被反擊。",
+        "kr": "대상의 【금빛 비늘】 중첩 -2, 이 공격은 반격당하지 않음."
+    },
+    {
+        "zh-CN": "指定{range=6}格内的敌对角色，造成3点伤害。",
+        "en": "Deal 3 damage to an opponent within {range=6} panels.",
+        "ja": "{range=6}マス以内の敵キャラクターを指定して、3ダメージを与えます。",
+        "zh-TW": "指定{range=6}格內的敵對角色，造成3點傷害。",
+        "kr": "{range=6}칸 이내의 상대를 지정하여 3의 피해를 입힘."
+    },
+    {
+        "zh-CN": "恢复自己角色2点生命。",
+        "en": "Heal 2 HP.",
+        "ja": "HP+2。",
+        "zh-TW": "恢復自己角色2點生命。",
+        "kr": "HP +2"
+    },
+    {
+        "zh-CN": "被效果牌指定时可以使用，无效该效果。",
+        "en": "Nullify the effect card targeting on you.",
+        "ja": "効果カードが指定された時に使用でき、その効果を無効化します。",
+        "zh-TW": "被效果牌指定時可以使用，無效該效果。",
+        "kr": "효과 카드의 대상이 되었을 때 사용, 해당 효과를 무효화."
+    },
+    {
+        "zh-CN": "指定{range=3}格内的地块放置，\n踩上的角色支付给放置者5星币。",
+        "en": "Set a trap within {range=3} panels, and get 5 coins from the player activating the trap.",
+        "ja": "{range=3}マス以内に指定し、トラップを配置します。トラップに引っかかったキャラクターは、配置者に5コインを支払います。",
+        "zh-TW": "指定{range=3}格內的地塊放置，\n踩上的角色支付給放置者5星幣。",
+        "kr": "{range=3}칸 이내에 트랩을 설치. 해당 트랩을 밟은 캐릭터는 설치한 캐릭터에게 5코인을 지불."
+    },
+    {
+        "zh-CN": "下次的移动点可选择1-6内任意数字。",
+        "en": "Determine the number of your next dice for move.",
+        "ja": "次の移動時、1-6の数を自由に選択できます。",
+        "zh-TW": "下次的移動點可選擇1-6內任意數字。",
+        "kr": "다음 이동 시, 주사위 숫자를 선택할 수 있음."
+    },
+    {
+        "zh-CN": "自己角色立刻失去2点生命。\n每回合回复3点生命。持续2回合。",
+        "en": "Take 2 damages.\nThen heal 3 HP each turn.\nLasts 2 turns.",
+        "ja": "自分のキャラクターはすぐに2ＨＰが失われ、毎ターン3ＨＰ回復します。\n2ターンの間持続します。",
+        "zh-TW": "自己角色立刻失去2點生命。\n每回合回復3點生命。 持續2回合。",
+        "kr": "사용자는 즉시 자신의 HP -2, 매 턴 자신의 HP +3.\n2턴 지속."
+    },
+    {
+        "zh-CN": "指定两个角色相连。\n当其中一个角色受到伤害时另一个角色承受同等伤害。\n持续3回合。",
+        "en": "Link 2 target players.\nWhen a player takes damage, the other takes equal damage. Lasts 3 turns.",
+        "ja": "二人のキャラクターを連結します。一方がダメージを受けると、もう一方も同じダメージを受けます。\n3ターン続きます。",
+        "zh-TW": "指定兩個角色連接。\n當其中一個角色受到傷害時，另一個角色承受同等傷害。\n持續3回合。",
+        "kr": "두 캐릭터를 지정해 연결. 한쪽이 피해를 받으면 다른 한쪽도 동일한 피해를 받음.\n3턴 지속."
+    },
+    {
+        "zh-CN": "指定{range=10}格内的角色使用。\n攻击力+3，受到伤害+1，持续2回合。",
+        "en": "Apply to a target player within {range=10} panels.\nATK +3 , Damage taken +1.\nLasts 2 Turns.",
+        "ja": "{range=10}マス以内のキャラクターに使用します。攻撃力+3、受けるダメージ+1\n2ターンの間持続します。",
+        "zh-TW": "指定{range=10}格內的角色使用。\n攻擊力+3，受到傷害+1，持續2回合。",
+        "kr": "{range=10}칸 이내의 캐릭터를 지정, 공격력+3, 받는 피해+1 효과를 부여.\n2턴 지속."
+    },
+    {
+        "zh-CN": "对自己角色造成3伤害。\n对周围5格内的敌对角色造成5伤害。",
+        "en": "Take 3 damages.\nDeal 5 damages to opponents within 5 panels.",
+        "ja": "自分のキャラクターに3ダメージを与え、5マス以内の敵キャラクターに5ダメージを与えます。",
+        "zh-TW": "對自己角色造成3傷害。\n對周圍5格內的敵對角色造成5傷害。",
+        "kr": "자신에게 3의 피해를 입히고, 5칸 이내의 모든 상대에게 5의 피해를 입힘."
+    },
+    {
+        "zh-CN": "指定{range=10}格内的地块放置，经过的角色会停止移动。",
+        "en": "Set a barricade within {range=10} panels.\nPlayers will stop on the barricade panel.",
+        "ja": "{range=10}マス以内に指定し、ロードブロックを配置します。通過するプレイヤーは停止します。",
+        "zh-TW": "指定{range=10}格內的地塊放置，經過的角色會停止移動。",
+        "kr": "{range=10}칸 이내의 위치를 지정하여 바리케이드를 설치. 그걸 지나가는 캐릭터는 그 자리에 정지"
+    },
+    {
+        "zh-CN": "自由选择移动方向。",
+        "en": "Select move direction.",
+        "ja": "移動方向を自由に選べます。",
+        "zh-TW": "自由選擇移動方向。",
+        "kr": "이동 방향을 자유롭게 선택."
+    },
+    {
+        "zh-CN": "指定{range=10}格内的敌对角色，造成2点伤害。",
+        "en": "Deal 2 damages to an opponent within {range=10} panels.",
+        "ja": "{range=10}マス以内の敵キャラクターを指定し、2ダメージを与えます。",
+        "zh-TW": "指定{range=10}格內的敵對角色，造成2點傷害。",
+        "kr": "{range=10}칸 이내의 상대를 지정하여 2의 피해를 입힘."
+    },
+    {
+        "zh-CN": "指定{range=3}格内的敌对角色，造成5点伤害。",
+        "en": "Deal 5 damages to an opponent within {range=3} panels.",
+        "ja": "{range=3}マス以内の敵キャラクターを指定し、5ダメージを与えます。",
+        "zh-TW": "指定{range=3}格內的敵對角色，造成5點傷害。",
+        "kr": "{range=3}칸 이내의 상대를 지정하여 5의 피해를 입힘."
+    },
+    {
+        "zh-CN": "恢复自己角色4点生命值。",
+        "en": "Heal 4 HP.",
+        "ja": "HP+4。",
+        "zh-TW": "恢復自己角色4點生命值。",
+        "kr": "HP +4"
+    },
+    {
+        "zh-CN": "被效果牌指定时可以使用，反弹该效果。",
+        "en": "Reflect the effect card targeting on you.",
+        "ja": "効果カードが指定した場合に使用でき、その効果を反射します。",
+        "zh-TW": "被效果牌指定時可以使用，反彈該效果。",
+        "kr": "효과 카드의 대상이 되었을 때 사용, 해당 효과를 반사함."
+    },
+    {
+        "zh-CN": "被效果牌指定时可以使用，\n将效果随机转移给其他敌对角色。",
+        "en": "Reflect the effect card targeting on you to another opponent.",
+        "ja": "効果カードが自分を指定した場合に使用でき、その効果を他の敵キャラクターにランダムに移します。",
+        "zh-TW": "被效果牌指定時可以使用，\n將效果隨機轉移給其他敵對角色。",
+        "kr": "자신이 효과 카드의 대상이 되었을 때 사용, 해당 효과를 랜덤한 다른 상대에게 넘김."
+    },
+    {
+        "zh-CN": "指定{range=3}格内的地块放置，\n踩上的角色受到3点伤害。",
+        "en": "Use the card within {range=3} panels.\nDeal 3 damages to the player activating the panel.",
+        "ja": "{range=3}マス以内に指定し、トラップを設置します。トラップに踏み込んだキャラクターは3ダメージを受けます。",
+        "zh-TW": "指定{range=3}格內的地塊放置，\n踩上的角色受到3點傷害。",
+        "kr": "{range=3}칸 이내에 트랩을 설치. 해당 트랩을 밟은 캐릭터는 3의 피해를 받음."
+    },
+    {
+        "zh-CN": "指定{range=6}格内的角色使用，\n每回合造成2点伤害，\n结束后在角色脚下放置掉落物。",
+        "en": "Deal 2 damage to a player within {range=6} panels, and take a dump underfoot.",
+        "ja": "{range=6}マス以内のキャラクターに使い、毎ターン2ダメージを与えます。終了後、キャラクターの足元にアイテムが落ちます。",
+        "zh-TW": "指定{range=6}格內的角色使用，\n每回合造成2點傷害，\n結束後在角色腳下放置掉落物。",
+        "kr": "{range=6}칸 이내의 캐릭터를 지정, 매 턴마다 2의 피해를 입힘. 효과 종료 후 해당 캐릭터의 위치에 아이템이 생성됨."
+    },
+    {
+        "zh-CN": "对自己角色使用，攻击力+5。\n下次战斗时敌对角色无法选择闪避。\n如果没有击倒敌对角色，则自己昏迷。",
+        "en": "ATK +5. During the next battle, your opponent cannot evade.\nIf you don't KO your opponent, you will suffer STUN.",
+        "ja": "自分のキャラクターに使い、攻撃力＋5。次の戦闘では敵キャラクターが回避不能。もし倒せない場合、自分が気絶します。",
+        "zh-TW": "對自己角色使用，攻擊力+5。\n下次戰鬥時敵對角色無法選擇閃避。\n如果沒有擊倒敵對角色，則自行昏迷。",
+        "kr": "자신에게 사용, 자신의 공격력+5. 다음 전투에서 상대는 회피할 수 없음. 만약 상대를 쓰러뜨리지 못하면 자신은 기절함."
+    },
+    {
+        "zh-CN": "给下一位行动的角色放置炸弹。\n回合开始时进行判定，\n1点：受到99点伤害。\n2-6点：传递给下一位角色。",
+        "en": "Place a bomb for the next player. \nAt the start of the round, when the roll is \n1: Receive 99 damage. \n2-6: Pass it to the next player.",
+        "ja": "次の行動でのキャラクターに爆弾を設置。ターン開始時、ダイスを投げる：\n1ポイント：99ダメージを受ける。\n2-6ポイント：次のキャラに渡す。",
+        "zh-TW": "給下一位行動的角色放置炸彈。\n回合開始時進行判定，\n1點：受到99點傷害。\n2-6點：傳遞給下一位角色。",
+        "kr": "다음 차례의 캐릭터에게 폭탄을 설치. 턴 시작 시 주사위를 굴려 아래 효과를 적용:\n1: 99의 피해를 받음.\n2~6: 폭탄을 다음 차례의 캐릭터에게 넘김."
+    },
+    {
+        "zh-CN": "指定一名敌方角色，夺取5星币。",
+        "en": "Gain 5 coins from a target player.",
+        "ja": "他のキャラクターを指定し、5コインを取ります。",
+        "zh-TW": "指定一名敵方角色，奪取5星幣。",
+        "kr": "다른 캐릭터를 지정하여 5코인을 빼앗음."
+    },
+    {
+        "zh-CN": "吸收3格内地块上掉落的星币。",
+        "en": "Collect the coins dropped within 3 panels.",
+        "ja": "3マス以内の地面に落ちているコインを吸収します。",
+        "zh-TW": "吸收3格內地塊掉落的星幣。",
+        "kr": "3칸 이내에 떨어져 있는 코인을 획득함."
+    },
+    {
+        "zh-CN": "使用后使角色随机传送到【传送】地块上。",
+        "en": "Use to be teleported to a random PORTAL panel.",
+        "ja": "使用後自身はランダムな【転送陣】マスにワープします。",
+        "zh-TW": "使用後使角色隨機傳送到【傳送】地塊上。",
+        "kr": "사용 후 무작위 【포탈】 칸으로 순간이동함."
+    },
+    {
+        "zh-CN": "指定{range=9}格内一个玩家，造成1点伤害，且对方下次移动速度-4。",
+        "en": "Target a character within in {range=9} panels, deal 1 damage and -4 movement for the next turn.",
+        "ja": "{range=9}マス以内のプレイヤーを指定し、1ダメージ、次の移動時移動力-4。",
+        "zh-TW": "指定{range=9}格內壹個玩家，造成1點傷害，且對方下次移動速度-4。",
+        "kr": "{range=9}칸 이내의 캐릭터를 지정해 1 피해, 대상의 다음 이동 시 이동거리 -4"
+    },
+    {
+        "zh-CN": "移动+3，可自由选择方向。",
+        "en": "Movement +3, can choose move direction.",
+        "ja": "移動力+3、方向を自由に選べます。",
+        "zh-TW": "移動+3，可自由選擇方向。",
+        "kr": "이동거리 +3, 방향을 자유롭게 선택"
+    },
+    {
+        "zh-CN": "选择一名角色，恢复对方2Hp，本回合出牌数+1。",
+        "en": "Gain+1 card play count this turn; Choose a character to restore 2 HP.",
+        "ja": "キャラクターを一人指定し、そのHPを２回復する。自分にカード使用数+1",
+        "zh-TW": "選擇壹名角色，恢複對方2Hp，本回合出牌數+1。",
+        "kr": "캐릭터 하나를 지정해 HP 2 회복, 자신에게 카드 사용 횟수 +1 효과를 부여."
+    },
+    {
+        "zh-CN": "指定{range=10}格内一个玩家，对其造成1点伤害，回合结束若本卡在手牌中，使自己受到1点伤害。",
+        "en": "Target a player within {range=10} panels, deal 1 damage; if this card remains in your hand at the end of the turn, take 1 damage.",
+        "ja": "{range=10}マス以内のキャラクターを指定し、１ダメージ、ターン終了時に手札に【符カード-禍】がある場合、自身のＨＰ-1。",
+        "zh-TW": "指定{range=10}格內壹個玩家，對其造成1點傷害，回合結束若本卡在手牌中，使自己受到1點傷害。",
+        "kr": "{range=10}칸 이내의 캐릭터를 지정, 1의 피해를 줌. 턴 종료 시 손패에 【부적 - 불행】이 남아있다면, 자신은 1의 피해를 받음."
+    },
+    {
+        "zh-CN": "指定{range=10}格内一只怪物，对其造成1点伤害，回合结束若本卡在手牌中，使自己受到1点伤害。",
+        "en": "Target a monster within {range=10} panels, deal 1 damage; if this card remains in your hand at the end of the turn, take 1 damage.",
+        "ja": "{range=10}マス以内のモンスターを指定し、１ダメージ、ターン終了時に手札に【符カード-禍】がある場合、自身のＨＰ-1。",
+        "zh-TW": "指定{range=10}格內壹只怪物，對其造成1點傷害，回合結束若本卡在手牌中，使自己受到1點傷害。",
+        "kr": "{range=10}칸 이내의 몬스터를 지정, 1의 피해를 줌. 턴 종료 시 손패에 【부적 - 불행】이 남아있다면, 자신은 1의 피해를 받음"
+    },
+    {
+        "zh-CN": "指定{range=5}格范围内的1名角色造成2点伤害，并施加1层【标记】。无法被反制牌反制。",
+        "en": "Deal 2 damage to a target character within {range=5} panels and apply 1 stack of 【Mark】. Cannot be countered by counter cards.",
+        "ja": "{range=5}マス以内のキャラクター1体に2ダメージを与え、【マーク】を1つ付与する。この効果は無効化できない。",
+        "zh-TW": "指定{range=5}格範圍內的1名角色造成2點傷害，並施加1層【標記】。無法被反制牌反制。",
+        "kr": "{range=5}칸 이내의 캐릭터 하나를 지정, 2의 피해를 주고 【마크】 1스택을 부여함. 이 효과는 무효화할 수 없음."
+    },
+    {
+        "zh-CN": "指定{range=5}格范围内1个怪物造成{damage=2}点伤害，并施加1层【标记】。若目标的【标记】层数大于等于3，本回合出牌数+1",
+        "en": "Deal {damage=2} damage to a target monster within {range=5} panels and apply 1 stack of 【Mark】. If the target has 3 or more stacks of 【Mark】, gain +1 play count this turn.",
+        "ja": "{range=5}マス以内のモンスター1体に{damage=2}ダメージを与え、【マーク】を1つ付与する。そのモンスターに【マーク】が3つ以上ある場合、このターン中、カード使用回数+1。",
+        "zh-TW": "指定{range=5}格範圍內1個怪物造成{damage=2}點傷害，並施加1層【標記】。若目標的【標記】層數大于等于3，本回合出牌數+1",
+        "kr": "{range=5}칸 이내의 몬스터 하나를 지정, {damage=2}의 피해를 주고 【마크】 1스택을 부여함. 대상에게 부여된 【마크】가 3스택 이상일 경우, 이번 턴의 카드 사용 횟수+1."
+    },
+    {
+        "zh-CN": "指定{range=5}格内一个怪物，对其造成6点伤害。",
+        "en": "Deal 6 damages to a monster within {range=5} panels.",
+        "ja": "{range=5}マス以内のモンスターを指定し、６ダメージ。",
+        "zh-TW": "指定{range=5}格內一個怪物，對其造成6點傷害。",
+        "kr": "{range=5}칸 이내의 몬스터를 지정하여 6의 피해를 줌."
+    },
+    {
+        "zh-CN": "选择一名友方角色，你和这名角色各获得一张卡牌。",
+        "en": "Choose an ally\nYou and that ally each receive a card.",
+        "ja": "味方キャラを指定し、そのキャラと一緒にカード1枚を得る。",
+        "zh-TW": "選擇一名友方角色，你和這名角色各獲得一張卡牌。",
+        "kr": "아군 캐릭터 하나를 지정, 대상과 함께 카드 1장을 획득함."
+    },
+    {
+        "zh-CN": "选择一名友方角色，其移动时投掷2枚骰子，生效一次。",
+        "en": "Choose an ally \nWhen the ally move, roll 2 dice once.",
+        "ja": "味方キャラを指定し、その次の行動時にダイスを2個振る。",
+        "zh-TW": "選擇一名友方角色，其移動時投擲2枚骰子，生效一次。",
+        "kr": "아군 캐릭터 하나를 지정, 대상은 주사위를 2개 굴림"
+    },
+    {
+        "zh-CN": "受到4点伤害，攻击力+5，持续3回合。",
+        "en": "HP-4, gain +5 ATK, lasting for 3 turns.",
+        "ja": "HP-4、攻撃力+5、3ターン継続。",
+        "zh-TW": "受到4點傷害，攻擊力+5，持續3回合。",
+        "kr": "HP -4, 공격력 +5.\n3턴 지속."
+    },
+    {
+        "zh-CN": "增加6点防御力，持续2回合。",
+        "en": "Gain +6 DEF, lasting for 2 turns",
+        "ja": "防御力+6、2ターン継続。",
+        "zh-TW": "增加6點防禦力，持續2回合。",
+        "kr": "방어력 +6.\n2턴 지속."
+    },
+    {
+        "zh-CN": "选择一名友方角色，该角色身边3格范围内的所有角色恢复3Hp。",
+        "en": "Choose an ally\nAll characters within 3 panels of that ally recover 3 HP.",
+        "ja": "味方キャラを指定し、その3マス以内の範囲いる全てのキャラｈｐ＋3。",
+        "zh-TW": "選擇一名友方角色，該角色身邊3格範圍內的所有角色恢復3Hp。",
+        "kr": "아군 캐릭터 하나를 지정. 대상의 3칸 이내에 있는 모든 캐릭터의 HP +3."
+    },
+    {
+        "zh-CN": "选择{range=6}格内的一个怪物，对目标及附近2格内的所有怪物造成4点伤害。",
+        "en": "Select a monster within {range=6} panels, deal 4 damage to the target and all monsters within 2 panels of it.",
+        "ja": "{range=6}マス以内のモンスターを指定し、目標モンスターの2マス範囲内の全てのモンスターに4ダメージ。",
+        "zh-TW": "選擇{range=6}格內的壹個怪物，對目標及附近2格內的所有怪物造成4點傷害。",
+        "kr": "{range=6}칸 이내의 몬스터 하나를 지정. 대상의 2칸 범위 내에 있는 모든 몬스터에게 4의 피해를 줌."
+    },
+    {
+        "zh-CN": "选择一名角色，传送到他当前的位置。",
+        "en": "Select one character, teleport to their current panel.",
+        "ja": "キャラクターを一名指定し、そのキャラクターの所在位置にワープする。",
+        "zh-TW": "選擇壹名角色，傳送到他當前的位置。",
+        "kr": "캐릭터 하나를 지정, 대상의 위치로 순간이동함."
+    },
+    {
+        "zh-CN": "指定{range=10}格内一个怪物，对其造成3点伤害，移除对方<img src='ui://xuaw6o8jkva0ay' width='140' height='140'/> <img src='ui://xuaw6o8jkva0az' width='140' height='140'/>且本轮对方无法反击。",
+        "en": "Target a monster within {range=10} panels, deal 3 damage, remove its <img src='ui://xuaw6o8jkva0ay' width='140' height='140'/> <img src='ui://xuaw6o8jkva0az' width='140' height='140'/>, and prevent counterattacks this round.",
+        "ja": "{range=10}マス以内モンスターを指定し、３ダメージ、<img src='ui://xuaw6o8jkva0ay' width='140' height='140'/> <img src='ui://xuaw6o8jkva0az' width='140' height='140'/>状態を解除し、ラウンド終了まで反撃封印を与える。",
+        "zh-TW": "指定{range=10}格內壹個怪物，對其造成3點傷害，移除對方<img src='ui://xuaw6o8jkva0ay' width='140' height='140'/> <img src='ui://xuaw6o8jkva0az' width='140' height='140'/>且本輪對方無法反擊。",
+        "kr": "{range=10}칸 이내의 몬스터 하나를 지정해 3의 피해를 주고, <img src='ui://xuaw6o8jkva0ay' width='140' height='140'/> <img src='ui://xuaw6o8jkva0az' width='140' height='140'/> 상태를 해제, 이번 라운드 동안 반격을 봉인함"
+    },
+    {
+        "zh-CN": "选择一名其他角色，对其造成2点伤害并施加【问题学生】，随后自己获得3星币。回合结束时若本卡在手牌中，则自己受到2点伤害。",
+        "en": "Choose another character, deal 2 damage to them and apply 【Problem students】. Then, gain 3 Star Coins.\nAt the end of your turn, if this card is still in your hand, take 2 damage.",
+        "ja": "キャラクターを一名指定し、2ダメージを与え、【問題生徒】を付与、その後、自身のスターコイン+3。ターン終了時に手札にこのカードが消費されなかった場合、自身が２ダメージを受ける。",
+        "zh-TW": "选择一其他名角色，对其造成2点伤害并施加【問題學生】，随后自己获得3星币。回合结束时若本卡在手牌中，使自己受到2点伤害。",
+        "kr": "다른 캐릭터 하나를 지정해 2의 피해를 주고 【문제 학생】 을 부여. 이후 자신은 스타 코인을 3개 획득함. 턴 종료 시 이 카드가 손패에 남아 있다면 자신은 2의 피해를 받음."
+    },
+    {
+        "zh-CN": "指定{range=6}格内一个怪物，对其造成3点伤害。",
+        "en": "Deal 3 damages to a monster within {range=6} panels.",
+        "ja": "{range=6}マス以内のモンスターを指定し、３ダメージ。",
+        "zh-TW": "指定{range=6}格內一個怪物，對其造成3點傷害。",
+        "kr": "{range=6}칸 이내의 몬스터를 지정해 3의 피해를 입힘."
+    },
+    {
+        "zh-CN": "指定{range=3}格内一个怪物，对其造成5点伤害。",
+        "en": "Deal 5 damages to a monster within {range=3} panels.",
+        "ja": "{range=3}マス以内のモンスターを指定し、５ダメージ。",
+        "zh-TW": "指定{range=3}格內一個怪物，對其造成5點傷害。",
+        "kr": "{range=3}칸 이내의 몬스터를 지정해 6의 피해를 입힘."
+    },
+    {
+        "zh-CN": "一切的恐惧源于火力不足",
+        "en": "All fear stems from insufficient firepower.",
+        "ja": "強くなればなるほど怖くない",
+        "zh-TW": "一切的恐懼源自於火力不足",
+        "kr": "모든 두려움은 화력부족 때문"
+    },
+    {
+        "zh-CN": "闪亮登场！",
+        "en": "KIRA~",
+        "ja": "キラ☆",
+        "zh-TW": "閃亮登場！",
+        "kr": "키랏☆"
+    },
+    {
+        "zh-CN": "芭芭拉小魔仙！",
+        "en": "Mode Change!",
+        "ja": "汝のあるべき姿に戻れ。クロウカード!",
+        "zh-TW": "霹靂卡普哇普哇",
+        "kr": "모드 체인지!"
+    },
+    {
+        "zh-CN": "魔法！",
+        "en": "Magical~",
+        "ja": "ミラクル☆",
+        "zh-TW": "魔法！",
+        "kr": "미라클☆"
+    },
+    {
+        "zh-CN": "你不肯信教又不肯去死",
+        "en": "Be pious or die",
+        "ja": "服従でも降伏でもないなら？",
+        "zh-TW": "這比魔杖好用多了",
+        "kr": "복종도 항복도 아니라면?"
+    },
+    {
+        "zh-CN": "穿的越少，防御越高",
+        "en": "With less clothing, comes more defense",
+        "ja": "まるだしこそ守備高い",
+        "zh-TW": "穿的越少，防禦越高",
+        "kr": "노출도가 곧 방어력"
+    },
+    {
+        "zh-CN": "激光笔？呲一下…",
+        "en": "Biu biu biu...",
+        "ja": "え？ レーザーポインター？ ジップ…",
+        "zh-TW": "Biu biu biu⋯",
+        "kr": "엣? 레이저 포인터? 지잉..."
+    },
+    {
+        "zh-CN": "喜欢甜点的都是好人",
+        "en": "Dessert lovers cannot be evil",
+        "ja": "チョコレート好きな人はいい人！",
+        "zh-TW": "喜歡甜點的都是好人",
+        "kr": "초코 좋아하는 사람은 좋은 사람!"
+    },
+    {
+        "zh-CN": "木大木大木大！",
+        "en": "ORAORAORAORA!",
+        "ja": "無駄無駄無駄無駄！",
+        "zh-TW": "無駄無駄無駄！",
+        "kr": "무다무다무다무다!"
+    },
+    {
+        "zh-CN": "钩咸饵直！嗯？",
+        "en": "Obviously there is no trap...",
+        "ja": "飞んで火に入る夏の虫…ん？",
+        "zh-TW": "太公釣魚！ 嗯？",
+        "kr": "태공의 낚싯바늘은 미끼를 달지 않고, 낚시를 하지 않는다! 응?"
+    },
+    {
+        "zh-CN": "我们可以使用事先准备好的特殊骰子，我还和你确认过！",
+        "en": "Well we agreed I can use a special dice",
+        "ja": "用意したサイコロを使うことができる、確認済みじゃない？",
+        "zh-TW": "我們可以使用事先準備好的特殊骰子，我還跟你確認過！",
+        "kr": "우린 미리 준비한 특별한 주사위를 사용할 수 있잖아! 나도 확인했거든!"
+    },
+    {
+        "zh-CN": "我们这里没有解酒药，你倒是去医院啊！",
+        "en": "We don't have a cure for you. Go to the hospital!",
+        "ja": "解毒剤はないから病院に行ってくれ！",
+        "zh-TW": "我們這裡沒有解酒藥，你倒是去醫院啊！",
+        "kr": "여기에 해독제는 없어, 병원에 가야지!"
+    },
+    {
+        "zh-CN": "开发时最多BUG的卡牌",
+        "en": "The most bugged card in the game",
+        "ja": "開発中に最もバグの多いカード",
+        "zh-TW": "開發時最多BUG的卡牌",
+        "kr": "개발할 때 가장 버그가 많았던 카드"
+    },
+    {
+        "zh-CN": "WRRRRRRRRRRY！",
+        "en": "WRRRRRRRRRRY！",
+        "ja": "WRRRRRRRRRRY！",
+        "zh-TW": "WRRRRRRRRRRY！",
+        "kr": "WRRRRRRRRRRY!"
+    },
+    {
+        "zh-CN": "这谁顶得住啊！",
+        "en": "You Crazy?!!",
+        "ja": "もう我慢できない",
+        "zh-TW": "這誰頂得住啊！",
+        "kr": "이걸 누가 막아!"
+    },
+    {
+        "zh-CN": "和陷阱用来当连招",
+        "en": "STOP!",
+        "ja": "通行禁止",
+        "zh-TW": "配搭陷阱來用當連招",
+        "kr": "함정과 함께 연계기로 사용하기"
+    },
+    {
+        "zh-CN": "对不起让一让",
+        "en": "Pass me pls!",
+        "ja": "すみません、ちょっと！",
+        "zh-TW": "對不起讓一讓",
+        "kr": "죄송합니다, 잠시만요"
+    },
+    {
+        "zh-CN": "打你家玻璃",
+        "en": "Hey Bro! Take this!",
+        "ja": "スリングショット、発射！",
+        "zh-TW": "首先，這叫手腕火箭",
+        "kr": "네 집 유리창을 깨주지"
+    },
+    {
+        "zh-CN": "好听就是好头",
+        "en": "The brick quality is not bad",
+        "ja": "クリスプな声でしょう？",
+        "zh-TW": "鐵頭功是吧",
+        "kr": "듣기 좋다는 건 좋은 머리라는 뜻이야"
+    },
+    {
+        "zh-CN": "分量越来越少..",
+        "en": "It's getting smaller and smaller...",
+        "ja": "より小さく、より高く……",
+        "zh-TW": "分量越來越少..",
+        "kr": "양이 점점 줄어들고 있어.."
+    },
+    {
+        "zh-CN": "这游戏有手坑的！",
+        "en": "Eat your own ***",
+        "ja": "リバウンド！",
+        "zh-TW": "這遊戲有手坑的！",
+        "kr": "이 게임에 손패 함정이 있다고!"
+    },
+    {
+        "zh-CN": "你找打你的人去啊！",
+        "en": "No..Not me.",
+        "ja": "人違い、攻撃者を探すべきだ",
+        "zh-TW": "你找打你的人去啊！",
+        "kr": "너를 공격한 사람을 찾아야지!"
+    },
+    {
+        "zh-CN": "鼠鼠我啊最喜欢…",
+        "en": "Explosion is an art.",
+        "ja": "一番お気に入りのは爆弾を仕掛けること⭐",
+        "zh-TW": "鼠鼠我啊最喜歡…",
+        "kr": "저 쥐는 말이지, 폭발을 가장 좋아한다구..."
+    },
+    {
+        "zh-CN": "才过期24小时而已啊..",
+        "en": "It's only been expired for 24 hours..",
+        "ja": "賞味期限が切れたばかりのに……",
+        "zh-TW": "才過期24小時而已啊..",
+        "kr": "고작 24시간밖에 안 지났다고.."
+    },
+    {
+        "zh-CN": "彻底-疯狂！",
+        "en": "There is only one person to survive",
+        "ja": "狂気を出せ！",
+        "zh-TW": "徹底-瘋狂！",
+        "kr": "완전히-미쳤군!"
+    },
+    {
+        "zh-CN": "看看是哪个倒霉蛋",
+        "en": "Let's see who the unfortunate soul is.",
+        "ja": "誰なのか見せてくれ！",
+        "zh-TW": "看看是哪個倒楣蛋",
+        "kr": "누가 그 불운한 사람인지 보자"
+    },
+    {
+        "zh-CN": "你的就是我的",
+        "en": "What's yours is mine!",
+        "ja": "持ってきてくれ！",
+        "zh-TW": "你的就是我的",
+        "kr": "네 것은 내 것이야"
+    },
+    {
+        "zh-CN": "运气不错",
+        "en": "Lucky!",
+        "ja": "ラッキー☆~",
+        "zh-TW": "運氣不錯",
+        "kr": "운 좋네"
+    },
+    {
+        "zh-CN": "→↑↓↓→",
+        "en": "→↑↓↓→",
+        "ja": "→↑↓↓→",
+        "zh-TW": "→↑↓↓→",
+        "kr": "→↑↓↓→"
+    },
+    {
+        "zh-CN": "侠盗风范！",
+        "en": "Rogue's Style!",
+        "ja": "一緒にやりましょう♪",
+        "zh-TW": "俠盜風範！",
+        "kr": "도둑의 품격!"
+    },
+    {
+        "zh-CN": "再快点！",
+        "en": "Faster!",
+        "ja": "早すぎる時の～♪",
+        "zh-TW": "再快點！",
+        "kr": "더 빨리!"
+    },
+    {
+        "zh-CN": "啊啊啊啊我的王之力啊！！",
+        "en": "Aaaah, my King's Power!",
+        "ja": "俺の....王の力があぁぁぁ!!!!",
+        "zh-TW": "啊啊啊啊我的王之力啊！！",
+        "kr": "아아아아 내 왕의 힘이!!"
+    },
+    {
+        "zh-CN": "不动如山",
+        "en": "Imperturbable",
+        "ja": "動かざること山のごとし",
+        "zh-TW": "不動如山",
+        "kr": "부동의 산"
+    },
+    {
+        "zh-CN": "人多吃饭香",
+        "en": "Food tastes better with friends",
+        "ja": "みんなと食べると美味い！",
+        "zh-TW": "人多吃飯香",
+        "kr": "여럿이 먹으면 더 맛있지"
+    },
+    {
+        "zh-CN": "对怪专用",
+        "en": "Anit-Monster only",
+        "ja": "モンスターのみ",
+        "zh-TW": "對怪專用",
+        "kr": "몬스터 전용"
+    },
+    {
+        "zh-CN": "对怪专用",
+        "en": "Anit-Monster only",
+        "ja": "モンスターのみ",
+        "zh-TW": "對怪專用",
+        "kr": "몬스터 전용"
+    }
+]

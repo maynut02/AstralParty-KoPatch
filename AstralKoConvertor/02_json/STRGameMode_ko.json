@@ -1,0 +1,114 @@
+[
+    {
+        "zh-CN": "标准对战",
+        "en": "STANDARD",
+        "ja": "ノーマル",
+        "zh-TW": "標準",
+        "kr": "일반"
+    },
+    {
+        "zh-CN": "新手",
+        "en": "NOVICE",
+        "ja": "初心者",
+        "zh-TW": "新手",
+        "kr": "초보자"
+    },
+    {
+        "zh-CN": "激战模式",
+        "en": "INTENSE BATTLE",
+        "ja": "激戦",
+        "zh-TW": "激戰模式",
+        "kr": "격전"
+    },
+    {
+        "zh-CN": "合作挑战",
+        "en": "PVE",
+        "ja": "協力チャレンジ",
+        "zh-TW": "合作挑戰",
+        "kr": "협동 챌린지"
+    },
+    {
+        "zh-CN": "个人关卡PVP",
+        "en": "个人关卡PVP",
+        "ja": "个人关卡PVP",
+        "zh-TW": "个人关卡PVP",
+        "kr": "개인도전PVP"
+    },
+    {
+        "zh-CN": "个人关卡PVE",
+        "en": "个人关卡PVE",
+        "ja": "个人关卡PVE",
+        "zh-TW": "个人关卡PVE",
+        "kr": "개인도전PVE"
+    },
+    {
+        "zh-CN": "礼物大作战",
+        "en": "Gift Battle",
+        "ja": "プレゼント大作戦",
+        "zh-TW": "禮物大作戰",
+        "kr": "선물 대작전"
+    },
+    {
+        "zh-CN": "标准对战练习",
+        "en": "Standard Practice",
+        "ja": "ノーマルモードの練習",
+        "zh-TW": "標準對戰練習",
+        "kr": "일반 대전 연습"
+    },
+    {
+        "zh-CN": "合作挑战练习",
+        "en": "PVE Practice",
+        "ja": "協力チャレンジの練習",
+        "zh-TW": "合作挑戰練習",
+        "kr": "협동 챌린지 연습"
+    },
+    {
+        "zh-CN": "激动人心超酣畅【激战模式】登场！所有角色更短技能冷却！更多的手牌上限！回合内更多的卡牌使用上限！战斗中更多的cost点数！真正意义上的“战斗！爽！”。\n更多有意思的机能请加入【激战模式】体验吧！",
+        "en": "Thrilling \"Intense Battle\" debuts! All characters have shorter Skill Cooldowns and higher Hand Card Limit! Players can play more cards per turn! There's even more Costs available during combat! A true sense of \"Exhilarating Battle”.\nFor more interesting content, join the \"Intense Battle\" to experience it!",
+        "ja": "「激戦モード」登場！全キャラクターにスキルクール時間短縮！カード使用数追加+1、手札所持上限増加！、戦闘中コスト増加！、本当の意味で激戦！無敵！最強!!!もっと面白い体験を是非「激戦モード」で！",
+        "zh-TW": "激動人心超酣暢【激戰模式】登場！所有角色更短技能冷卻！更多的手牌上限！回合內更多的卡牌使用上限！戰鬥中更多的cost點數！真正意義上的\"戰鬥！爽！”。\n更多有意思的機能請加入【激戰模式】體驗吧！",
+        "kr": "스릴 넘치는 【격전 모드】 등장! 모든 캐릭터의 스킬 쿨타임이 더 짧아집니다! 더 많은 손패 상한! 더 많은 카드 사용 상한! 더 많은 코스트! 진정한 의미의 “격렬한 전투”를 느껴보세요. 지금 당장 격전 모드로!"
+    },
+    {
+        "zh-CN": "·持有 <img src='ui://xuaw6o8jmmmw3x' width='50' height='50'/>15/30/50 可回到起始点/保障点获得<img src='ui://xuaw6o8jgfn1ao' width='50' height='50'/>\n·以获得三颗 <img src='ui://xuaw6o8jgfn1ao' width='50' height='50'/>为目的而努力吧！",
+        "en": "·Holding <img src='ui://xuaw6o8jmmmw3x' width='50' height='50'/>15/30/50 allows you to reach the start point/check point to obtain <img src='ui://xuaw6o8jgfn1ao' width='50' height='50'/>\n·Target to obtain three<img src='ui://xuaw6o8jgfn1ao' width='50' height='50'/>!",
+        "ja": "· <img src='ui://xuaw6o8jmmmw3x' width='50' height='50'/>15/30/50 を所持した状態でスタートポイント/セーフティポイントに止まると<img src='ui://xuaw6o8jgfn1ao' width='50' height='50'/>を獲得できる。\\n· <img src='ui://xuaw6o8jgfn1ao' width='50' height='50'/>三つを目指して頑張りましょう！",
+        "zh-TW": "·持有 <img src='ui://xuaw6o8jmmmw3x' width='50' height='50'/>15/30/50 可回到起始點/保障點獲得<img src='ui://xuaw6o8jgfn1ao' width='50' height='50'/>\n·以獲得三顆 <img src='ui://xuaw6o8jgfn1ao' width='50' height='50'/>爲目的而努力吧！",
+        "kr": "· <img src='ui://xuaw6o8jmmmw3x' width='50' height='50'/>15/30/50을 보유한 상태에서 시작 지점/체크포인트로 돌아오면 <img src='ui://xuaw6o8jgfn1ao' width='50' height='50'/>을 얻을 수 있습니다.\n· <img src='ui://xuaw6o8jgfn1ao' width='50' height='50'/> 3개를 얻는 것을 목표로 노력하세요!"
+    },
+    {
+        "zh-CN": "·捣蛋鬼：收集礼物并在起始点交付足够数量的礼物来获得胜利！\n·礼物守卫：击倒全部的捣蛋鬼，或在一定回合内阻止捣蛋鬼们取得礼物！",
+        "en": "Tricker: Collect gifts and deliver the required number of gifts at the start point to win!\nGuardian: Knock down all the trickers, or prevent them from getting gifts within a certain number of turns!",
+        "ja": "イタズラっ子：特定のマスでギフトを獲得し、スタートポイントに戻って納品し、十分な数のギフトを取得すれば勝利です。\\nガーディアン：全てのイタズラっ子をスタンさせる、或いは一定のラウンド内でイタズラっ子たちのギフト獲得を邪魔する。",
+        "zh-TW": "·搗蛋鬼：收集禮物並在起始點交付足夠數量的禮物來獲得勝利！\n·禮物守衛：擊倒全部的搗蛋鬼，或在壹定回合內阻止搗蛋鬼們取得禮物！",
+        "kr": "·장난꾸러기: 선물을 모아서 시작 지점에 충분한 양의 선물을 전달하면 승리합니다!\n·선물 수호자: 모든 장난꾸러기를 쓰러뜨리거나, 일정 턴 내에 장난꾸러기들이 선물을 얻지 못하게 막으세요!"
+    },
+    {
+        "zh-CN": "玩家对抗，争夺胜利",
+        "en": "Player vs. Player to claim victory",
+        "ja": "PVPルールで競い合う！",
+        "zh-TW": "玩家對抗，爭奪勝利",
+        "kr": "PVP 승리를 쟁취하라!"
+    },
+    {
+        "zh-CN": "节奏超快的娱乐对战",
+        "en": "A fast-paced PVP Mode.",
+        "ja": "リズムがより激しいアスパ体験",
+        "zh-TW": "節奏超快的娛樂對戰",
+        "kr": "빠른 속도의 PVP 모드"
+    },
+    {
+        "zh-CN": "玩家合作，共克难关",
+        "en": "Players cooperate to overcome challenges.",
+        "ja": "チームメイトと共に迫りくる挑戦を撃破！",
+        "zh-TW": "玩家合作，共克難關",
+        "kr": "플레이어와 협력하여 난관을 극복하라"
+    },
+    {
+        "zh-CN": "争夺礼物吧！",
+        "en": "Compete for Gifts!",
+        "ja": "ギフトの為に争おう！",
+        "zh-TW": "爭奪禮物吧！",
+        "kr": "선물을 쟁탈해라!"
+    }
+]
