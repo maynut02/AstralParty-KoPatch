@@ -1,0 +1,52 @@
+name: Create Release Package
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Prepare release folder
+        run: |
+          RELEASE_FOLDER="AstralParty-KoPatch-${{ github.ref_name }}"
+          mkdir $RELEASE_FOLDER
+          mv astralparty_Data $RELEASE_FOLDER/
+
+      - name: Create zip archive
+        run: |
+          RELEASE_NAME="AstralParty-KoPatch-${{ github.ref_name }}"
+          zip -r "${RELEASE_NAME}.zip" $RELEASE_NAME
+
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: Release ${{ github.ref_name }}
+          body: |
+            ## 적용 방법
+            1. 다운로드한 AstralParty-KoPatch.zip 파일의 압축을 해제합니다.
+            2. 압축 해제 후 나온 astralparty_Data 폴더를 복사합니다.
+            3. Steam 라이브러리에서 Astral Party 우클릭 > 관리 > 로컬 파일 탐색을 통해 게임 설치 폴더로 이동합니다.
+              (또는 직접 폴더로 이동 - C:\Program Files (x86)\Steam\steamapps\common\Astral Party)
+            4. 설치 폴더에 복사한 astralparty_Data 폴더를 붙여넣기하여 파일을 덮어씁니다.
+          draft: false
+          prerelease: false
+
+      - name: Upload Release Asset
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./AstralParty-KoPatch-${{ github.ref_name }}.zip
+          asset_name: AstralParty-KoPatch-${{ github.ref_name }}.zip
+          asset_content_type: application/zip
