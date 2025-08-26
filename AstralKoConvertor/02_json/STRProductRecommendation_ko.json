@@ -53,7 +53,7 @@
         "en": "[color=#FFFFFF]Monthly Pass [/color] [color=#FF1668]86% OFF[/color]",
         "ja": "[color=#FFFFFF]スターマンスリーパス [/color][color=#FF1668]86% OFF[/color]",
         "zh-TW": "[color=#FFFFFF]月卡-星月票 [/color] [color=#FF1668]86% OFF[/color]",
-        "kr": "[color=#FFFFFF]월간 패스[/color] [color=#FF1668]86% 할인[/color]"
+        "kr": "[color=#FFFFFF]월정액[/color] [color=#FF1668]86% 할인[/color]"
     },
     {
         "zh-CN": "时尚达人-帕露南",
@@ -102,7 +102,7 @@
         "en": "Last Summer Pass",
         "ja": "清涼サマーミッションパス",
         "zh-TW": "清涼夏季通行證",
-        "kr": "시원한 여름 시즌 패스"
+        "kr": "시원한 여름 패스"
     },
     {
         "zh-CN": "超值礼物等待你获取！",
@@ -116,7 +116,7 @@
         "en": "Cool Summer Pass",
         "ja": "清涼サマーミッションパス",
         "zh-TW": "清涼夏日通行證",
-        "kr": "시원한 여름 시즌 패스"
+        "kr": "시원한 여름 패스"
     },
     {
         "zh-CN": "战斗女仆-美咲",
@@ -137,7 +137,7 @@
         "en": "Festival Dress Pass",
         "ja": "パーティードレスパス",
         "zh-TW": "祭典禮服通行證",
-        "kr": "축제 의상 시즌 패스"
+        "kr": "축제 의상 패스"
     },
     {
         "zh-CN": "超天酱&糖糖",
@@ -158,7 +158,7 @@
         "en": "Festive Dress Pass",
         "ja": "メリークリスマスパス",
         "zh-TW": "節日盛裝通行證",
-        "kr": "축제 의상 시즌 패스"
+        "kr": "축제 의상 패스"
     },
     {
         "zh-CN": "忍者为何？-小町",

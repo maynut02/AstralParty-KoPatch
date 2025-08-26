@@ -1,0 +1,1101 @@
+[
+    {
+        "zh-CN": "累计胜利场次",
+        "en": "Total wins",
+        "ja": "累計勝利数ボーナス",
+        "zh-TW": "累計勝利場次",
+        "kr": "누적 승리 횟수"
+    },
+    {
+        "zh-CN": "本日登录",
+        "en": "Login Today",
+        "ja": "ログインボーナス",
+        "zh-TW": "本日登錄",
+        "kr": "로그인 보너스"
+    },
+    {
+        "zh-CN": "累计参与场次",
+        "en": "Total games played",
+        "ja": "対局ボーナス",
+        "zh-TW": "累計參與場次",
+        "kr": "누적 플레이"
+    },
+    {
+        "zh-CN": "累计参与天数",
+        "en": "Total days played",
+        "ja": "参加日数ボーナス",
+        "zh-TW": "累計參與天數",
+        "kr": "누적 플레이 일수"
+    },
+    {
+        "zh-CN": "太刀使胜利次数",
+        "en": "Wins using Katana Master",
+        "ja": "太刀使い勝利数",
+        "zh-TW": "太刀使勝利次數",
+        "kr": "검성 승리 횟수"
+    },
+    {
+        "zh-CN": "累计击倒小偷",
+        "en": "KO the Thief",
+        "ja": "盗賊を撃破せよ",
+        "zh-TW": "累計擊倒小偷",
+        "kr": "도둑 처치"
+    },
+    {
+        "zh-CN": "樱花小镇累计游玩次数",
+        "en": "Games played in Sakura Townlet",
+        "ja": "マップ【桜の町】で遊びましょう",
+        "zh-TW": "櫻花小鎮累計遊玩次數",
+        "kr": "【벚꽃 마을】 맵 플레이"
+    },
+    {
+        "zh-CN": "十字路口站累计游玩次数",
+        "en": "Games played in Crossroads",
+        "ja": "マップ【四つ辻】で遊びましょう",
+        "zh-TW": "十字路口站累計遊玩次數",
+        "kr": "【교차로】 맵 플레이"
+    },
+    {
+        "zh-CN": "激战模式游玩次数",
+        "en": "Games played in Intense Battle",
+        "ja": "激戦モードに参加しよう",
+        "zh-TW": "激戰模式遊玩次數",
+        "kr": "격전 모드 플레이"
+    },
+    {
+        "zh-CN": "商店购买任意商品",
+        "en": "Purchase any item from the store",
+        "ja": "ショップで任意商品を購入しよう",
+        "zh-TW": "商店購買任意商品",
+        "kr": "상점에서 임의의 상품 구매"
+    },
+    {
+        "zh-CN": "累计胜利≥1次",
+        "en": "Total Wins≥1",
+        "ja": "累積勝利数≥1",
+        "zh-TW": "累計勝利≥1次",
+        "kr": "누적 3회 승리"
+    },
+    {
+        "zh-CN": "累计胜利≥2次",
+        "en": "Total Wins≥2",
+        "ja": "累積勝利数≥2",
+        "zh-TW": "累計勝利≥2次",
+        "kr": "누적 3회 승리"
+    },
+    {
+        "zh-CN": "累计胜利≥3次",
+        "en": "Total Wins≥3",
+        "ja": "累積勝利数≥3",
+        "zh-TW": "累計勝利≥3次",
+        "kr": "누적 3회 승리"
+    },
+    {
+        "zh-CN": "累计登录天数≥{0}天",
+        "en": "Total login days ≥{0}",
+        "ja": "累計{0}日ログインしよう",
+        "zh-TW": "累計登錄天數≥{0}天",
+        "kr": "누적 {0}일 로그인"
+    },
+    {
+        "zh-CN": "累计参与派对≥{0}次",
+        "en": "Total games played ≥{0}",
+        "ja": "{0}回対局をしよう",
+        "zh-TW": "累計參與派對≥{0}次",
+        "kr": "누적 {0}회 플레이"
+    },
+    {
+        "zh-CN": "累计参与派对，累计≥{0}天",
+        "en": "Total days played ≥{0}",
+        "ja": "累計{0}日間対局をしよう",
+        "zh-TW": "累計參與派對，累計≥{0}天",
+        "kr": "누적 {0}일 플레이"
+    },
+    {
+        "zh-CN": "累计使用{1}胜利≥{0}次",
+        "en": "Use {1} to play game≥{0}",
+        "ja": "{1}で{0}回勝利しよう",
+        "zh-TW": "累計使用{1}勝利≥{0}次",
+        "kr": "{1} 사용해 {0}회 승리"
+    },
+    {
+        "zh-CN": "累计击倒小偷≥{0}次",
+        "en": "KO the thief ≥{0} times",
+        "ja": "盗賊を累計{0}回倒しましょう",
+        "zh-TW": "累計擊倒小偷≥{0}次",
+        "kr": "도적 {0}회 처치"
+    },
+    {
+        "zh-CN": "累计参与{1}≥{0}次",
+        "en": "Games played in {1} ≥{0} times",
+        "ja": "マップ「{1}」を{0}回参加しよう",
+        "zh-TW": "累計參與{1}≥{0}次",
+        "kr": "{1} 누적 플레이 {0}회"
+    },
+    {
+        "zh-CN": "累计参与{1}≥{0}次",
+        "en": "Games played in {1} ≥{0} times",
+        "ja": "マップ「{1}」を{0}回参加しよう",
+        "zh-TW": "累計參與{1}≥{0}次",
+        "kr": "{1} 누적 플레이 {0}회"
+    },
+    {
+        "zh-CN": "商店内购买≥{0}次任意商品",
+        "en": "Items purchased from the store≥{0}",
+        "ja": "ショップで任意商品を{0}回購入する",
+        "zh-TW": "商店內購買≥{0}次任意商品",
+        "kr": "상점에서 임의의 상품 {0}회 구매"
+    },
+    {
+        "zh-CN": "清凉夏日通行证",
+        "en": "Last Summer Pass",
+        "ja": "清涼サマーミッションパス",
+        "zh-TW": "清涼夏季通行證",
+        "kr": "시원한 여름 패스"
+    },
+    {
+        "zh-CN": "清凉夏日通行证升级版",
+        "en": "Last Summer Pass Premier",
+        "ja": "清涼サマープレミアムミッションパス",
+        "zh-TW": "清涼夏季通行證升級版",
+        "kr": "시원한 여름 패스 Premier"
+    },
+    {
+        "zh-CN": "清凉夏日通行证",
+        "en": "Cool Summer Pass",
+        "ja": "清涼サマーミッションパス",
+        "zh-TW": "清涼夏日通行證",
+        "kr": "시원한 여름 패스"
+    },
+    {
+        "zh-CN": "清凉夏日通行证升级版",
+        "en": "Cool Summer Pass Upgraded",
+        "ja": "清涼サマープレミアムミッションパス",
+        "zh-TW": "清涼夏日通行證升級版",
+        "kr": "시원한 여름 패스 Upgraded"
+    },
+    {
+        "zh-CN": "祭典礼服通行证",
+        "en": "Festival Dress Pass",
+        "ja": "パーティードレスパス",
+        "zh-TW": "祭典禮服通行證",
+        "kr": "축제 의상 패스"
+    },
+    {
+        "zh-CN": "祭典礼服通行证升级版",
+        "en": "Festival Dress Pass Premier",
+        "ja": "パーティードレスプレミアムミッションパス",
+        "zh-TW": "祭典禮服通行證升級版",
+        "kr": "축제 의상 패스 Premier"
+    },
+    {
+        "zh-CN": "节日盛装通行证",
+        "en": "Festive Dress Pass",
+        "ja": "メリークリスマスパス",
+        "zh-TW": "節日盛裝通行證",
+        "kr": "축제 의상 패스"
+    },
+    {
+        "zh-CN": "节日盛装通行证升级版",
+        "en": "Festive Dress Pass Upgraded",
+        "ja": "プレミアムメリークリスマスパス",
+        "zh-TW": "節日盛裝通行證升級版",
+        "kr": "축제 의상 패스 Upgraded"
+    },
+    {
+        "zh-CN": "甜蜜陷阱通行证",
+        "en": "Sweet Trap Pass",
+        "ja": "ハニートラップパス",
+        "zh-TW": "甜蜜陷阱通行證",
+        "kr": "달콤한 함정 패스"
+    },
+    {
+        "zh-CN": "甜蜜陷阱通行证升级版",
+        "en": "Sweet Trap Pass Upgraded",
+        "ja": "プレミアムハニートラップパス",
+        "zh-TW": "甜蜜陷阱通行證升級版",
+        "kr": "달콤한 함정 패스 Upgraded"
+    },
+    {
+        "zh-CN": "转角之期通行证",
+        "en": "Fated crossroads battle pass",
+        "ja": "街角の約束パス",
+        "zh-TW": "轉角之期通行證",
+        "kr": "교차로 패스"
+    },
+    {
+        "zh-CN": "转角之期通行证升级版",
+        "en": "Fated crossroads battle pass Premium",
+        "ja": "街角の約束パスプレミアム",
+        "zh-TW": "轉角之期通行證升級版",
+        "kr": "교차로 패스 Premium"
+    },
+    {
+        "zh-CN": "滨边时光通行证",
+        "en": "Shoreline Memories Pass",
+        "ja": "浜辺の日々パス",
+        "zh-TW": "濱邊時光通行證",
+        "kr": "해변 추억 패스"
+    },
+    {
+        "zh-CN": "滨边时光通行证升级版",
+        "en": "Shoreline Memories Pass Premium",
+        "ja": "浜辺の日々パスプレミアム",
+        "zh-TW": "濱邊時光通行證升級版",
+        "kr": "해변의 추억 패스 Premium\n"
+    },
+    {
+        "zh-CN": "泳池派对通行证",
+        "en": "Pool Party Pass",
+        "ja": "プールパーティーパス",
+        "zh-TW": "泳池派對通行證",
+        "kr": "수영장 파티 패스"
+    },
+    {
+        "zh-CN": "泳池派对通行证升级版",
+        "en": "Pool Party Pass Premium",
+        "ja": "プールパーティーパスプレミアム",
+        "zh-TW": "泳池派對通行證升級版",
+        "kr": "수영장 파티 패스 Premium"
+    },
+    {
+        "zh-CN": "清凉盛夏-芬妮",
+        "en": "Cool Summer - Fanny",
+        "ja": "清涼サマー：ファニィ",
+        "zh-TW": "清涼盛夏-芬妮",
+        "kr": "시원한 여름 - 펜"
+    },
+    {
+        "zh-CN": "名片-清凉盛夏",
+        "en": "Profile Card - Cool Summer",
+        "ja": "名刺：清涼サマー",
+        "zh-TW": "名片-清涼盛夏",
+        "kr": "명함-시원한 여름"
+    },
+    {
+        "zh-CN": "x600",
+        "en": "x600",
+        "ja": "x600",
+        "zh-TW": "x600",
+        "kr": "x600"
+    },
+    {
+        "zh-CN": "x5",
+        "en": "x5",
+        "ja": "x5",
+        "zh-TW": "x5",
+        "kr": "x5"
+    },
+    {
+        "zh-CN": "x1300",
+        "en": "x1300",
+        "ja": "x1300",
+        "zh-TW": "x1300",
+        "kr": "x1300"
+    },
+    {
+        "zh-CN": "x10",
+        "en": "x10",
+        "ja": "x10",
+        "zh-TW": "x10",
+        "kr": "x10"
+    },
+    {
+        "zh-CN": "x5",
+        "en": "x5",
+        "ja": "x5",
+        "zh-TW": "x5",
+        "kr": "x5"
+    },
+    {
+        "zh-CN": "x3",
+        "en": "x3",
+        "ja": "x3",
+        "zh-TW": "x3",
+        "kr": "x3"
+    },
+    {
+        "zh-CN": "头像",
+        "en": "Avatar",
+        "ja": "アバター",
+        "zh-TW": "頭像",
+        "kr": "아바타"
+    },
+    {
+        "zh-CN": "表情",
+        "en": "Emoji",
+        "ja": "スタンプ",
+        "zh-TW": "表情",
+        "kr": "이모티콘"
+    },
+    {
+        "zh-CN": "表情",
+        "en": "Emoji",
+        "ja": "スタンプ",
+        "zh-TW": "表情",
+        "kr": "이모티콘"
+    },
+    {
+        "zh-CN": "卡牌",
+        "en": "Card",
+        "ja": "カード",
+        "zh-TW": "卡牌",
+        "kr": "카드"
+    },
+    {
+        "zh-CN": "包含全部奖励",
+        "en": "Includes all rewards",
+        "ja": "全ての報酬含む",
+        "zh-TW": "包含全部獎勵",
+        "kr": "모든 보상 포함"
+    },
+    {
+        "zh-CN": "名片-清凉盛夏（动态）",
+        "en": "Profile Card - Cool Summer（Animated）",
+        "ja": "名刺：清涼サマー（ダイナミック）",
+        "zh-TW": "名片-清涼盛夏（動態）",
+        "kr": "명함 - 시원한 여름 (Animated)"
+    },
+    {
+        "zh-CN": "更多！",
+        "en": "More！",
+        "ja": "増量！",
+        "zh-TW": " 更多！",
+        "kr": "추가!"
+    },
+    {
+        "zh-CN": "立升20级！",
+        "en": "20 Lv Up",
+        "ja": "レベル20まで解放する",
+        "zh-TW": "立升20級！",
+        "kr": "20레벨 증가!"
+    },
+    {
+        "zh-CN": "表情（动态）",
+        "en": "Emoji (Animated)",
+        "ja": "スタンプ（ダイナミック）",
+        "zh-TW": "表情（動態）",
+        "kr": "이모티콘 (에니메이션)"
+    },
+    {
+        "zh-CN": "特殊卡牌",
+        "en": "Special card",
+        "ja": "スペシャルカード",
+        "zh-TW": "特殊卡牌",
+        "kr": "스페셜 카드"
+    },
+    {
+        "zh-CN": "600 星盘",
+        "en": "600 Star Discs",
+        "ja": "星盤×600",
+        "zh-TW": "600 星盤",
+        "kr": "600 Disc"
+    },
+    {
+        "zh-CN": "5 抽奖券",
+        "en": "5 Gacha Cassette",
+        "ja": "抽選券×５",
+        "zh-TW": "5 抽獎券",
+        "kr": "뽑기권 x5"
+    },
+    {
+        "zh-CN": "1300 星币",
+        "en": "1300 Star Coins",
+        "ja": "スターコイン×1300",
+        "zh-TW": "1300 星幣",
+        "kr": "1300 스타 코인"
+    },
+    {
+        "zh-CN": "10 蓝色随机礼物箱",
+        "en": "10 Random Blue Gifts Select Boxes",
+        "ja": "青色ランダムギフトボックス×10",
+        "zh-TW": "10 藍色隨機禮物箱",
+        "kr": "푸른색 랜덤 선물상자 x10"
+    },
+    {
+        "zh-CN": "5 紫色礼物自选箱",
+        "en": "5 Random Purple Gifts Select Boxes",
+        "ja": "紫色ギフトセレクトボックス×５",
+        "zh-TW": "x5 紫色禮物自選箱",
+        "kr": "보라색 선택 선물상자 x5"
+    },
+    {
+        "zh-CN": "3 蓝色材料自选箱",
+        "en": "3 Random Blue Materials Select Boxes",
+        "ja": "青色素材セレクトボックス×３",
+        "zh-TW": "x3 藍色材料自選箱",
+        "kr": "푸른색 랜덤 재료상자 x3"
+    },
+    {
+        "zh-CN": "头像-清凉鼠",
+        "en": "Avatar - Cool Summer",
+        "ja": "アバター：清涼シュシュ",
+        "zh-TW": "頭像-清涼盛夏",
+        "kr": "아바타 - 시원한 여름"
+    },
+    {
+        "zh-CN": "古怪神探表情9",
+        "en": "Emoji- Quirky Detective 9",
+        "ja": "スタンプ：風変わりな探偵9",
+        "zh-TW": "古怪神探表情9",
+        "kr": "이모티콘 - 괴짜 탐정 9"
+    },
+    {
+        "zh-CN": "古怪神探表情11",
+        "en": "Emoji- Quirky Detective 11",
+        "ja": "スタンプ：風変わりな探偵11",
+        "zh-TW": "古怪神探表情11",
+        "kr": "이모티콘 - 괴짜 탐정 11"
+    },
+    {
+        "zh-CN": "卡牌-沙滩精灵",
+        "en": "Card - Sandbeach Elf",
+        "ja": "カード：ビーチエルフ",
+        "zh-TW": "卡牌-沙灘精靈",
+        "kr": "카드 - 해변의 엘프"
+    },
+    {
+        "zh-CN": "1200 星盘",
+        "en": "1200 Star Discs",
+        "ja": "星盤×1200",
+        "zh-TW": "1200 星盤",
+        "kr": "1200 Disc"
+    },
+    {
+        "zh-CN": "2600 星币",
+        "en": "2600 Star Coins",
+        "ja": "スターコイン×2600",
+        "zh-TW": "2600 星幣",
+        "kr": "2600 Disc"
+    },
+    {
+        "zh-CN": "卡牌-金色海岸（动态）",
+        "en": "Card - Golden Coast（Animated）",
+        "ja": "カード：金色の海岸(ダイナミック)",
+        "zh-TW": "卡牌-黃金海岸（動態）",
+        "kr": "명함 - 금빛 해안 (Animated)"
+    },
+    {
+        "zh-CN": "名片-清凉盛夏（动态）",
+        "en": "Profile Card - Cool Summer",
+        "ja": "名刺：清涼サマー(ダイナミック)",
+        "zh-TW": "名片-清涼盛夏（動態）",
+        "kr": "명함 - 시원한 여름 (Animated)"
+    },
+    {
+        "zh-CN": "古怪神探表情10（动态）",
+        "en": "Emoji- Quirky Detective 10 (Animated)",
+        "ja": "スタンプ：風変わりな探偵10（ダイナミック）",
+        "zh-TW": "古怪神探表情10（動態）",
+        "kr": "이모티콘 - 괴짜 탐정 10 (Animated)"
+    },
+    {
+        "zh-CN": "古怪神探表情12（动态）",
+        "en": "Emoji- Quirky Detective 12 (Animated)",
+        "ja": "スタンプ：風変わりな探偵12（ダイナミック）",
+        "zh-TW": "古怪神探表情12（動態）",
+        "kr": "이모티콘 - 괴짜 탐정 12 (Animated)"
+    },
+    {
+        "zh-CN": "立升20级！",
+        "en": "Boost 20 Levels!",
+        "ja": "レベル20まで解放する",
+        "zh-TW": "立升20級！",
+        "kr": "20레벨 해금!"
+    },
+    {
+        "zh-CN": "悸动沙滩-阿兰娜",
+        "en": "Throbbing Beach-Alana",
+        "ja": "白浜のトキメキ-アランナ",
+        "zh-TW": "悸動沙灘-阿蘭娜",
+        "kr": "설레는 해변 - 알라나"
+    },
+    {
+        "zh-CN": "x800",
+        "en": "x800",
+        "ja": "x800",
+        "zh-TW": "x800",
+        "kr": "x800"
+    },
+    {
+        "zh-CN": "x8",
+        "en": "x8",
+        "ja": "x8",
+        "zh-TW": "x8",
+        "kr": "x8"
+    },
+    {
+        "zh-CN": "名片-悸动沙滩（动态）",
+        "en": "Profile Card - Throbbing Beach (Animated)",
+        "ja": "名刺：白浜のトキメキ(ダイナミック)",
+        "zh-TW": "名片-悸動沙灘（動態）",
+        "kr": "명함 - 설레는 해변 (Animated)"
+    },
+    {
+        "zh-CN": "悸动沙滩-阿兰娜",
+        "en": "Throbbing Beach-Alana",
+        "ja": "白浜のトキメキ：アランナ",
+        "zh-TW": "悸動沙灘-阿蘭娜",
+        "kr": "설레는 해변 - 알라나"
+    },
+    {
+        "zh-CN": "名片-悸动沙滩",
+        "en": "Profile Card - Throbbing Beach",
+        "ja": "名刺：白浜のトキメキ",
+        "zh-TW": "名片-悸動沙灘",
+        "kr": "명함 - 설레는 해변"
+    },
+    {
+        "zh-CN": "800 星币",
+        "en": "800 Star Coins",
+        "ja": "スターコイン×800",
+        "zh-TW": "800 星幣",
+        "kr": "800 스타 코인"
+    },
+    {
+        "zh-CN": "8 初级战斗宝典",
+        "en": "8 Basic Combat Manual",
+        "ja": "8 バトルノート初級編",
+        "zh-TW": "8 初級戰鬥寶典",
+        "kr": "8 초급 전투 매뉴얼"
+    },
+    {
+        "zh-CN": "头像-悸动鼠",
+        "en": "Avatar - Throbbing Mouse",
+        "ja": "アバター：トキメキジュジュ",
+        "zh-TW": "頭像-悸動鼠",
+        "kr": "아바타 - 두근두근 슈슈"
+    },
+    {
+        "zh-CN": "社恐修女表情9",
+        "en": "Emoji - Shy Nun 9",
+        "ja": "スタンプ：ぼっちシスター9",
+        "zh-TW": "社恐修女表情9",
+        "kr": "이모티콘 - 수줍은 수녀 9"
+    },
+    {
+        "zh-CN": "社恐修女表情11",
+        "en": "Emoji - Shy Nun 11",
+        "ja": "スタンプ：ぼっちシスター11",
+        "zh-TW": "社恐修女表情11",
+        "kr": "이모티콘 - 수줍은 수녀 11"
+    },
+    {
+        "zh-CN": "卡牌-羞涩",
+        "en": "Card - Shy",
+        "ja": "カード：トキメキ",
+        "zh-TW": "卡牌-羞澀",
+        "kr": "카드 - 수줍은"
+    },
+    {
+        "zh-CN": "1600 星币",
+        "en": "1600 Star Coins",
+        "ja": "スターコイン×1600",
+        "zh-TW": "1600 星幣",
+        "kr": "1600 스타 코인"
+    },
+    {
+        "zh-CN": "16 初级战斗宝典",
+        "en": "16 Basic Combat Manual",
+        "ja": "16 バトルノート初級編",
+        "zh-TW": "16 初級戰鬥寶典",
+        "kr": "16 초급 전투 매뉴얼"
+    },
+    {
+        "zh-CN": "卡牌-悸动之心（动态）",
+        "en": "Card - Throbbing Heart (Animated)",
+        "ja": "カード：トキメキ(ダイナミック)",
+        "zh-TW": "卡牌-悸動之心（動態）",
+        "kr": "카드 - 수줍은 (Animated)"
+    },
+    {
+        "zh-CN": "名片-悸动沙滩（动态）",
+        "en": "Profile Card - Throbbing Beach (Animated)",
+        "ja": "名刺：白浜のトキメキ(ダイナミック)",
+        "zh-TW": "名片-悸動沙灘（動態）",
+        "kr": "명함 - 두근두근 해변 (Animated)"
+    },
+    {
+        "zh-CN": "社恐修女表情10（动态）",
+        "en": "Emoji - Shy Nun 10 (Animated)",
+        "ja": "スタンプ：ぼっちシスター10(ダイナミック)",
+        "zh-TW": "社恐修女表情10（動態）",
+        "kr": "이모티콘 - 수줍은 수녀 10 (Animated)"
+    },
+    {
+        "zh-CN": "社恐修女表情12（动态）",
+        "en": "Emoji - Shy Nun 12 (Animated)",
+        "ja": "スタンプ：ぼっちシスター12(ダイナミック)",
+        "zh-TW": "社恐修女表情12（動態）",
+        "kr": "이모티콘 - 수줍은 수녀 12 (Animated)"
+    },
+    {
+        "zh-CN": "祭典礼服-娜蒂斯",
+        "en": "Festival Dress - Nardis",
+        "ja": "パーティードレス‐ナーディス",
+        "zh-TW": "祭典禮服-娜蒂斯",
+        "kr": "축제 의상 - 나르디스"
+    },
+    {
+        "zh-CN": "名片-祭典礼服",
+        "en": "Profile Card - Festival Dress",
+        "ja": "名刺：パーティードレス",
+        "zh-TW": "名片-祭典禮服",
+        "kr": "명함 - 축제 의상"
+    },
+    {
+        "zh-CN": "名片-祭典礼服（动态）",
+        "en": "Profile Card - Festival Dress(Animated)",
+        "ja": "名刺：パーティードレス（ダイナミック）",
+        "zh-TW": "名片-祭典禮服（動態）",
+        "kr": "명함 - 축제 의상 (Animated)"
+    },
+    {
+        "zh-CN": "头像-祭典礼服",
+        "en": "Avatar - Festival Dress",
+        "ja": "アバター-パーティードレス",
+        "zh-TW": "頭像-祭典禮服",
+        "kr": "아바타 - 축제 의상"
+    },
+    {
+        "zh-CN": "绿洲女王表情9",
+        "en": "Emoji - Oasis Queen 9",
+        "ja": "オアシスクイーンスタンプ9",
+        "zh-TW": "綠洲女王表情9",
+        "kr": "이모티콘 - 오아시스 퀸 9"
+    },
+    {
+        "zh-CN": "绿洲女王表情11",
+        "en": "Emoji - Oasis Queen 11",
+        "ja": "オアシスクイーンスタンプ11",
+        "zh-TW": "綠洲女王表情11",
+        "kr": "이모티콘 - 오아시스 퀸 11"
+    },
+    {
+        "zh-CN": "卡牌-女王凝视",
+        "en": "Card - Queen's Gaze",
+        "ja": "カード‐クイーンの凝視",
+        "zh-TW": "卡牌-女王凝視",
+        "kr": "카드 - 여왕의 시선"
+    },
+    {
+        "zh-CN": "卡牌-庄严女王（动态）",
+        "en": "Card - Majestic Queen",
+        "ja": "カード‐マジェスティクイーン",
+        "zh-TW": "卡牌-莊嚴女王（動態）",
+        "kr": "카드 - 절대 여왕"
+    },
+    {
+        "zh-CN": "名片-祭典礼服（动态）",
+        "en": "Profile Card - Festival Dress(Animated)",
+        "ja": "名刺：パーティードレス（ダイナミック）",
+        "zh-TW": "名片-祭典禮服（動態）",
+        "kr": "명함 - 축제 의상 (Animated)"
+    },
+    {
+        "zh-CN": "绿洲女王表情10（动态）",
+        "en": "Emoji - Oasis Queen 10(Animated)",
+        "ja": "オアシスクイーンスタンプ10(アニメーション)",
+        "zh-TW": "綠洲女王表情10（動態）",
+        "kr": "이모티콘 - 오아시스 퀸 10 (Animated)"
+    },
+    {
+        "zh-CN": "绿洲女王表情12（动态）",
+        "en": "Emoji - Oasis Queen 12(Animated)",
+        "ja": "オアシスクイーンスタンプ12(アニメーション)",
+        "zh-TW": "綠洲女王表情12（動態）",
+        "kr": "이모티콘 - 오아시스 퀸 12 (Animated)"
+    },
+    {
+        "zh-CN": "节日盛装-茉莉",
+        "en": "Festival Dress-Jasmine",
+        "ja": "メリークリスマス-ジャスミン",
+        "zh-TW": "節日盛裝-茉莉",
+        "kr": "축제 의상 - 재스민"
+    },
+    {
+        "zh-CN": "名片-节日盛装",
+        "en": "Profile Card - Festival Dress",
+        "ja": "名刺：メリークリスマス",
+        "zh-TW": "名片-節日盛裝",
+        "kr": "명함 - 축제 의상"
+    },
+    {
+        "zh-CN": "名片-节日盛装（动态）",
+        "en": "Profile Card - Festival Dress (Animated)",
+        "ja": "名刺：メリークリスマス（ダイナミック）",
+        "zh-TW": "名片-節日盛裝（動態）",
+        "kr": "명함 - 축제 의상 (Animated)"
+    },
+    {
+        "zh-CN": "头像-节日盛装",
+        "en": "Avatar - Festival Dress",
+        "ja": "アバター‐メリークリスマス",
+        "zh-TW": "頭像-節日盛裝",
+        "kr": "아바타 - 축제 의상"
+    },
+    {
+        "zh-CN": "家政机器人表情9",
+        "en": "Emoji - Robot Maid 9",
+        "ja": "スタンプ:ロボメイド9",
+        "zh-TW": "家政機器人表情9",
+        "kr": "Emoji - 로봇 메이드 9"
+    },
+    {
+        "zh-CN": "家政机器人表情11",
+        "en": "Emoji - Robot Maid 11",
+        "ja": "スタンプ:ロボメイド11",
+        "zh-TW": "家政機器人表情11",
+        "kr": "Emoji - 로봇 메이드 11"
+    },
+    {
+        "zh-CN": "卡牌-装扮机器人",
+        "en": "Card - Dress Up Robot",
+        "ja": "カード：お飾りロボ",
+        "zh-TW": "卡牌-裝扮機器人",
+        "kr": "카드 - 분장 로봇"
+    },
+    {
+        "zh-CN": "卡牌-搞怪装饰（动态）",
+        "en": "Card - Funny Decorations （Animated）",
+        "ja": "カード：ユーモアロボ（ダイナミック）",
+        "zh-TW": "卡牌-搞怪裝飾（動態）",
+        "kr": "카드 - 유머 로봇 (Animated)"
+    },
+    {
+        "zh-CN": "名片-节日盛装（动态）",
+        "en": "Profile Card - Festival Dress (Animated)",
+        "ja": "名刺：メリークリスマス（ダイナミック）",
+        "zh-TW": "名片-節日盛裝（動態）",
+        "kr": "명함 - 축제 의상 (Animated)"
+    },
+    {
+        "zh-CN": "家政机器人表情10（动态）",
+        "en": "Emoji - Robot Maid 10 （Animated）",
+        "ja": "スタンプ:ロボメイド10（ダイナミック）",
+        "zh-TW": "家政機器人表情10（動態）",
+        "kr": "이모티콘 - 로봇 메이드 10 (Animated)"
+    },
+    {
+        "zh-CN": "家政机器人表情12（动态）",
+        "en": "Emoji - Robot Maid 12 （Animated）",
+        "ja": "スタンプ:ロボメイド12（ダイナミック）",
+        "zh-TW": "家政機器人表情12（動態）",
+        "kr": "이모티콘 - 로봇 메이드 12 (Animated)"
+    },
+    {
+        "zh-CN": "甜蜜陷阱-璐璐",
+        "en": "Sweet Trap - Lulu",
+        "ja": "ハニートラップ‐ルル",
+        "zh-TW": "甜蜜陷阱-璐璐",
+        "kr": "달콤한 함정 - 루루"
+    },
+    {
+        "zh-CN": "名片-甜蜜陷阱",
+        "en": "Profile Card - Sweet Trap",
+        "ja": "名刺：ハニートラップ",
+        "zh-TW": "名片-甜蜜陷阱",
+        "kr": "명함 - 달콤한 함정"
+    },
+    {
+        "zh-CN": "名片-甜蜜陷阱（动态）",
+        "en": "Profile Card - Sweet Trap (Animated)",
+        "ja": "名刺：ハニートラップ（ダイナミック）",
+        "zh-TW": "名片-甜蜜陷阱（動態）",
+        "kr": "명함 - 달콤한 함정 (Animated)"
+    },
+    {
+        "zh-CN": "甜蜜陷阱-露露",
+        "en": "Sweet Trap - Lulu",
+        "ja": "ハニートラップ-ルル",
+        "zh-TW": "甜蜜陷阱-露露",
+        "kr": "달콤한 함정 - 루루"
+    },
+    {
+        "zh-CN": "头像-甜蜜陷阱",
+        "en": "Avatar - Sweet Trap",
+        "ja": "アバター‐ハニートラップ",
+        "zh-TW": "頭像-甜蜜陷阱",
+        "kr": "아바타 - 달콤한 함정"
+    },
+    {
+        "zh-CN": "史莱姆表情9",
+        "en": "Emoji - Slime 9",
+        "ja": "スタンプ:スライムガール9",
+        "zh-TW": "史萊姆表情9",
+        "kr": "이모티콘 - 슬라임 걸 9"
+    },
+    {
+        "zh-CN": "史莱姆表情11",
+        "en": "Emoji - Slime 11",
+        "ja": "スタンプ:スライムガール11",
+        "zh-TW": "史萊姆表情11",
+        "kr": "이모티콘 - 슬라임 걸 11"
+    },
+    {
+        "zh-CN": "卡牌-细细品尝",
+        "en": "Card - Savoring Sweetness",
+        "ja": "カード：ゆっくりと堪能する",
+        "zh-TW": "卡牌-細細品嘗",
+        "kr": "카드 - 달콤함 만끽하기"
+    },
+    {
+        "zh-CN": "卡牌-甜蜜回忆（动态）",
+        "en": "Card - Sweet Memories (Animated)",
+        "ja": "カード：スイートモーメント",
+        "zh-TW": "卡牌-甜蜜回憶（動態）",
+        "kr": "카드-달콤한추억(Animated)"
+    },
+    {
+        "zh-CN": "名片-甜蜜陷阱（动态）",
+        "en": "Profile Card - Sweet Trap (Animated)",
+        "ja": "名刺：ハニートラップ（ダイナミック）",
+        "zh-TW": "名片-甜蜜陷阱（動態）",
+        "kr": "명함 - 달콤한 함정 (Animated)"
+    },
+    {
+        "zh-CN": "史莱姆表情10（动态）",
+        "en": "Emoji - Slime 10 (Animated)",
+        "ja": "スタンプ:スライムガール10（ダイナミック）",
+        "zh-TW": "史萊姆表情10（動態）",
+        "kr": "이모티콘 - 슬라임 걸 10 (Animated)"
+    },
+    {
+        "zh-CN": "史莱姆表情12（动态）",
+        "en": "Emoji - Slime 12 (Animated)",
+        "ja": "スタンプ:スライムガール12（ダイナミック）",
+        "zh-TW": "史萊姆表情12（動態）",
+        "kr": "이모티콘 - 슬라임 걸 12 (Animated)"
+    },
+    {
+        "zh-CN": "转角之期-星魅琉华",
+        "en": "Fated crossroads- Star Luka",
+        "ja": "街角の約束-ルカ",
+        "zh-TW": "轉角之期-星魅琉華",
+        "kr": "운명교차로-루카"
+    },
+    {
+        "zh-CN": "名片-转角之期",
+        "en": "Proflie card- Fated crossroads",
+        "ja": "街角の約束",
+        "zh-TW": "名片-轉角之期",
+        "kr": "운명교차로"
+    },
+    {
+        "zh-CN": "名片-转角之期（动态）",
+        "en": "Proflie card- Fated crossroads (Animated)",
+        "ja": "街角の約束（ダイナミック）",
+        "zh-TW": "名片-轉角之期（動態）",
+        "kr": "명함 - 운명의 교차로 (Animated)"
+    },
+    {
+        "zh-CN": "头像-转角之期",
+        "en": "Avatar - Fated crossroads",
+        "ja": "街角の約束",
+        "zh-TW": "頭像-轉角之期",
+        "kr": "운명교차로"
+    },
+    {
+        "zh-CN": "午夜闪光表情10",
+        "en": "Emoji - Midnight Flash 10",
+        "ja": "真夜中の閃光10",
+        "zh-TW": "午夜閃光表情10",
+        "kr": "심야의 섬광 10"
+    },
+    {
+        "zh-CN": "午夜闪光表情12",
+        "en": "Emoji - Midnight Flash 12",
+        "ja": "真夜中の閃光12",
+        "zh-TW": "午夜閃光表情12",
+        "kr": "심야의 섬광 12"
+    },
+    {
+        "zh-CN": "卡牌-出发",
+        "en": "Cards - Departure",
+        "ja": "カード‐出発",
+        "zh-TW": "卡牌-出發",
+        "kr": "카드 - 출발"
+    },
+    {
+        "zh-CN": "卡牌-裙角飞扬（动态）",
+        "en": "Card - Blowing in the Wind (Animated)",
+        "ja": "カード‐風に吹かれて（ダイナミック）",
+        "zh-TW": "卡牌-裙角飛揚（動態）",
+        "kr": "카드 - 바람을 가르며 (Animated)"
+    },
+    {
+        "zh-CN": "名片-转角之期（动态）",
+        "en": "Proflie card- Fated crossroads (Animated)",
+        "ja": "街角の約束（ダイナミック）",
+        "zh-TW": "名片-轉角之期（動態）",
+        "kr": "명함 - 운명의 교차로 (Animated)"
+    },
+    {
+        "zh-CN": "午夜闪光表情11（动态）",
+        "en": "Emoji - Midnight Flash 11 (Animated)",
+        "ja": "真夜中の閃光11（ダイナミック）",
+        "zh-TW": "午夜閃光表情11（動態）",
+        "kr": "Emoji - 심야의 섬광 11 (Animated)"
+    },
+    {
+        "zh-CN": "午夜闪光表情13（动态）",
+        "en": "Emoji - Midnight Flash 13 (Animated)",
+        "ja": "真夜中の閃光13（ダイナミック）",
+        "zh-TW": "午夜閃光表情13（動態）",
+        "kr": "Emoji - 심야의 섬광 12(Animated)"
+    },
+    {
+        "zh-CN": "滨边时光-姬梦朝",
+        "en": "Shoreline Memories – Yume",
+        "ja": "浜辺の日々-ユメ",
+        "zh-TW": "濱邊時光-姬夢朝",
+        "kr": "해변의추억-유메"
+    },
+    {
+        "zh-CN": "名片-滨边时光",
+        "en": "Proflie card- Shoreline Memories",
+        "ja": "浜辺の日々",
+        "zh-TW": "名片-濱邊時光",
+        "kr": "해변의추억"
+    },
+    {
+        "zh-CN": "名片-滨边时光（动态）",
+        "en": "Proflie card- Shoreline Memories(Animated)",
+        "ja": "浜辺の日々（ダイナミック）",
+        "zh-TW": "名片-濱邊時光（動態）",
+        "kr": "명함 - 해변의 추억 (Animated)"
+    },
+    {
+        "zh-CN": "头像-海滨鼠",
+        "en": "Avatar - Beach Shiyu",
+        "ja": "浜辺のジュジュ",
+        "zh-TW": "頭像-海濱鼠",
+        "kr": "해변의 슈슈"
+    },
+    {
+        "zh-CN": "风水师表情9",
+        "en": "Emoji - Fengshui Master 9",
+        "ja": "風水師9",
+        "zh-TW": "風水師表情9",
+        "kr": "풍수사9"
+    },
+    {
+        "zh-CN": "风水师表情11",
+        "en": "Emoji - Fengshui Master 11",
+        "ja": "風水師11",
+        "zh-TW": "風水師表情11",
+        "kr": "풍수사11"
+    },
+    {
+        "zh-CN": "卡牌-脱钩警告",
+        "en": "Card - Hook Escape Warning",
+        "ja": "カード‐外れ注意",
+        "zh-TW": "卡牌-脫鈎警告",
+        "kr": "카드 - 분리 경고"
+    },
+    {
+        "zh-CN": "卡牌-钓鱼大师（动态）",
+        "en": "Card - Fishing Master (Animated)",
+        "ja": "カード‐釣りの名人（ダイナミック）",
+        "zh-TW": "卡牌-釣魚大師（動態）",
+        "kr": "카드 - 낚시 마스터 (Animated)"
+    },
+    {
+        "zh-CN": "名片-滨边时光（动态）",
+        "en": "Proflie card- Shoreline Memories(Animated)",
+        "ja": "浜辺の日々（ダイナミック）",
+        "zh-TW": "名片-濱邊時光（動態）",
+        "kr": "명함 - 해변의 추억 (Animated)"
+    },
+    {
+        "zh-CN": "风水师表情10（动态）",
+        "en": "Emoji - Fengshui Master 10(Animated)",
+        "ja": "風水師10（ダイナミック）",
+        "zh-TW": "風水師表情10（動態）",
+        "kr": "Emoji - 풍수사 10 (Animated)"
+    },
+    {
+        "zh-CN": "风水师表情12（动态）",
+        "en": "Emoji - Fengshui Master 12(Animated)",
+        "ja": "風水師12（ダイナミック）",
+        "zh-TW": "風水師表情12（動態）",
+        "kr": "Emoji - 풍수사 12 (Animated)"
+    },
+    {
+        "zh-CN": "泳池派对-恋",
+        "en": "Pool Party - Ren",
+        "ja": "プールパーティー-レン",
+        "zh-TW": "泳池派對-戀",
+        "kr": "수영장 파티 - 렌"
+    },
+    {
+        "zh-CN": "名片-泳池派对",
+        "en": "Profile Card - Pool Party",
+        "ja": "プールパーティー",
+        "zh-TW": "名片-泳池派對",
+        "kr": "명함- 수영장 파티"
+    },
+    {
+        "zh-CN": "名片-泳池派对（动态）",
+        "en": "Profile Card - Pool Party (Animated)",
+        "ja": "プールパーティー（ダイナミック）",
+        "zh-TW": "名片-泳池派對（動態）",
+        "kr": "명함 - 수영장 파티 (Animated)"
+    },
+    {
+        "zh-CN": "头像-泳池鼠",
+        "en": "Avatar - Pool Shiyu",
+        "ja": "プールジュジュ",
+        "zh-TW": "頭像-泳池鼠",
+        "kr": "수영장의 슈슈"
+    },
+    {
+        "zh-CN": "游戏大师表情12",
+        "en": "Emoji- Pro Gamer 12",
+        "ja": "ゲームマスター12",
+        "zh-TW": "遊戲大師表情12",
+        "kr": "게임 마스터 12"
+    },
+    {
+        "zh-CN": "游戏大师表情14",
+        "en": "Emoji- Pro Gamer 14",
+        "ja": "ゲームマスター14",
+        "zh-TW": "遊戲大師表情14",
+        "kr": "게임 마스터 14"
+    },
+    {
+        "zh-CN": "卡牌-泳池戏水",
+        "en": "Card - Pool Splash",
+        "ja": "水遊び",
+        "zh-TW": "卡牌-泳池戲水",
+        "kr": "물장난"
+    },
+    {
+        "zh-CN": "卡牌-闪耀派对（动态）",
+        "en": "Card - Shining Party(Animated)",
+        "ja": "シャイニングパーティー（ダイナミック）",
+        "zh-TW": "卡牌-閃耀派對（動態）",
+        "kr": "카드 - 빛나는 파티 (Animated)"
+    },
+    {
+        "zh-CN": "名片-泳池派对（动态）",
+        "en": "Proflie card - Pool Party(Animated)",
+        "ja": "プールパーティー（ダイナミック）",
+        "zh-TW": "名片-泳池派對（動態）",
+        "kr": "명함 - 수영장 파티 (Animated)"
+    },
+    {
+        "zh-CN": "游戏大师表情13（动态）",
+        "en": "Emoji- Pro Gamer 13(Animated)",
+        "ja": "ゲームマスター（ダイナミック）",
+        "zh-TW": "遊戲大師表情13（動態）",
+        "kr": "이모티콘 - 게임 마스터 13 (Animated)"
+    },
+    {
+        "zh-CN": "游戏大师表情15（动态）",
+        "en": "Emoji- Pro Gamer 15(Animated)",
+        "ja": "ゲームマスター（ダイナミック）",
+        "zh-TW": "遊戲大師表情15（動態）",
+        "kr": "이모티콘 - 게임 마스터 15 (Animated)"
+    }
+]
