@@ -914,7 +914,7 @@
         "en": "Deal 5 damages to a monster within {range=3} panels.",
         "ja": "{range=3}マス以内のモンスターを指定し、５ダメージ。",
         "zh-TW": "指定{range=3}格內一個怪物，對其造成5點傷害。",
-        "kr": "{range=3}칸 이내의 몬스터를 지정해 6의 피해를 입힘."
+        "kr": "{range=3}칸 이내의 몬스터를 지정해 5의 피해를 입힘."
     },
     {
         "zh-CN": "一切的恐惧源于火力不足",
