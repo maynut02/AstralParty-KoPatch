@@ -1,0 +1,674 @@
+[
+    {
+        "zh-CN": "【标记】",
+        "en": "【Mark】",
+        "ja": "【マーク】",
+        "zh-TW": "【標記】"
+    },
+    {
+        "zh-CN": "宿命回响",
+        "en": "Fate Echo",
+        "ja": "フェイト・エコー",
+        "zh-TW": "宿命迴響"
+    },
+    {
+        "zh-CN": "虚弱印记",
+        "en": "Weakness Mark",
+        "ja": "フェイト・エコー",
+        "zh-TW": "虛弱印記"
+    },
+    {
+        "zh-CN": "高升炮",
+        "en": "Firecrackers",
+        "ja": "爆竹",
+        "zh-TW": "爆竹"
+    },
+    {
+        "zh-CN": "脆弱中枢",
+        "en": "Fragile Core",
+        "ja": "脆弱なコア",
+        "zh-TW": "脆弱中樞"
+    },
+    {
+        "zh-CN": "炒热气氛",
+        "en": "Liven up the atmosphere",
+        "ja": "盛り上がって行くぞ",
+        "zh-TW": "炒熱氣氛"
+    },
+    {
+        "zh-CN": "指示",
+        "en": "Indicate",
+        "ja": "指示",
+        "zh-TW": "指示"
+    },
+    {
+        "zh-CN": "海王祝福",
+        "en": "Blessing of the Ocean Lord",
+        "ja": "海王の祝福",
+        "zh-TW": "海王祝福"
+    },
+    {
+        "zh-CN": "逆鳞",
+        "en": "Reverse Scale",
+        "ja": "逆鱗",
+        "zh-TW": "逆鱗"
+    },
+    {
+        "zh-CN": "金鳞",
+        "en": "Golden Scale",
+        "ja": "金鱗",
+        "zh-TW": "金鱗"
+    },
+    {
+        "zh-CN": "湖沼之王",
+        "en": "Swamp King",
+        "ja": "湖の主",
+        "zh-TW": "湖沼之王"
+    },
+    {
+        "zh-CN": "悬赏",
+        "en": "10000",
+        "ja": "10000",
+        "zh-TW": "10000"
+    },
+    {
+        "zh-CN": "欲戴王冠，必承其重",
+        "en": "Heavy Is The Head That Wears The Crown",
+        "ja": "王冠をかぶろうとする者はその重さに耐えよ",
+        "zh-TW": "欲戴王冠，必承其重"
+    },
+    {
+        "zh-CN": "【治愈】\n回合开始时恢复治愈层数的生命值，回合结束时层数减半",
+        "en": "【Heal】\nRestore HP based on healing stacks at the start of the turn, then halve stacks at the end",
+        "ja": "【ヒール】\nターン開始時にヒールスタック数と同じ数のHPを回復、ターン終了時にヒールスタック数が半減",
+        "zh-TW": "【治愈】\n回合開始時恢複治愈層數的生命值，回合結束時層數減半"
+    },
+    {
+        "zh-CN": "【星光】\n等量增加轮次奖励时获得的星币数",
+        "en": "【Starlight】\nIncrease star coins from round rewards by an equal amount",
+        "ja": "【スターライト】\nラウンドボーナス獲得時、スターライトのスタック数と同じ数のスターコインを貰える",
+        "zh-TW": "【星光】\n等量增加輪次獎勵時獲得的星幣數"
+    },
+    {
+        "zh-CN": "被标记目标受到伤害+1",
+        "en": "Targeted character take +1 damage",
+        "ja": "ターゲットの被ダメージ＋１",
+        "zh-TW": "被標記目標受到傷害+1"
+    },
+    {
+        "zh-CN": "【练习模式强化】\n攻击+2，防御+2",
+        "en": "【Practice Mode Enhance】\nATK+2 , DEF+2",
+        "ja": "【練習モード強化】\n攻撃力+2、防御力+2",
+        "zh-TW": "【練習模式強化】\n攻擊+2，防禦+2"
+    },
+    {
+        "zh-CN": "反击",
+        "en": "Counterattack",
+        "ja": "反撃",
+        "zh-TW": "反撃"
+    },
+    {
+        "zh-CN": "攻击+3",
+        "en": "ATK +3",
+        "ja": "ATK+3",
+        "zh-TW": "攻擊+3"
+    },
+    {
+        "zh-CN": "效果牌数量",
+        "en": "Effect Cards",
+        "ja": "効果カード",
+        "zh-TW": "效果牌數量"
+    },
+    {
+        "zh-CN": "骰点充能",
+        "en": "Dice Charge",
+        "ja": "ダイスチャージ",
+        "zh-TW": "股點充能"
+    },
+    {
+        "zh-CN": "累计获得卡牌数",
+        "en": "Total Cards Acquired",
+        "ja": "累計カート獲得数",
+        "zh-TW": "累計獲得卡牌數"
+    },
+    {
+        "zh-CN": "激战模式修正：攻击-1，防御-1",
+        "en": "Intense Mode Adjustment: ATK-1, DEF-1",
+        "ja": "激戦モード補正：攻撃力+1、防御力-1",
+        "zh-TW": "激戰模式修正：攻擊-1，防禦-1"
+    },
+    {
+        "zh-CN": "移动点数-2",
+        "en": "Movement -2",
+        "ja": "移動ポイント-2",
+        "zh-TW": "移動點數-2"
+    },
+    {
+        "zh-CN": "移动点数-3",
+        "en": "Movement -3",
+        "ja": "移動ポイント-3",
+        "zh-TW": "移動點數-3"
+    },
+    {
+        "zh-CN": "每回合恢复1HP值",
+        "en": "Recover 1 HP every turn",
+        "ja": "毎ターンhp+１を付与",
+        "zh-TW": "每回合恢複1點生命值"
+    },
+    {
+        "zh-CN": "攻击+4",
+        "en": "ATK +4",
+        "ja": "ATK+4",
+        "zh-TW": "攻擊+4"
+    },
+    {
+        "zh-CN": "攻击+3",
+        "en": "ATK +3",
+        "ja": "ATK+3",
+        "zh-TW": "攻擊+3"
+    },
+    {
+        "zh-CN": "【养精蓄锐】\n攻击+2，防御+2",
+        "en": "Energy Conservation：\nATK+2，DEF+2",
+        "ja": "エネルギー保存\nATK+2，DEF+2",
+        "zh-TW": "【養精蓄銳】\n攻擊+2，防禦+2"
+    },
+    {
+        "zh-CN": "受到伤害+1若该角色在被标记期间被击倒则蓝海晴获得4星币；若期间内未被击倒则该角色恢复4HP",
+        "en": "Damage taken +1During the turns, if the player's HP declines to 0, HaiQing gets 4  coins If not, the player recovers 4 HP",
+        "ja": "受けるダメージ+1そのターン中にキャラのHPが0になった場合、カイセイは4枚のコインを得ます\nそうでない場合、キャラは4HPを回復します",
+        "zh-TW": "標記一個角色[color=#4386F4]2[/color]回合，該角色受到的傷害[color=#FF4646]+1[/color]\n  若標記角色在效果期間內死亡則藍海晴獲得[color=#FFB346]6[/color]星幣；否則該角色恢複[color=#94FF46]4[/color]點生命"
+    },
+    {
+        "zh-CN": "下次受伤到的伤害+1若被击倒则蓝海晴获得3星币",
+        "en": "Next damage taken +1 If knocked out, HaiQing gains 3 coins",
+        "ja": "次受けるダメージ＋１、気絶された場合カイセイが３コインを得る",
+        "zh-TW": "下次受傷到的傷害+1若被擊倒則藍海晴獲得3星幣"
+    },
+    {
+        "zh-CN": "1、2层剑气为角色增加1点攻击力，第3层剑气为角色增加3点攻击力",
+        "en": "ATK +1 for the 1st and 2nd Sword Gust, ATK +3 for the 3rd",
+        "ja": "一つ目と二つ目の剣気では攻撃力が1ずつ増加し、3つ目では攻撃力が3増加します",
+        "zh-TW": "1、2層劍氣為角色增加1點攻擊力，第3層劍氣為角色增加3點攻擊力"
+    },
+    {
+        "zh-CN": "累计移动点数",
+        "en": "Total Movement Points",
+        "ja": "累計移動ステップ数",
+        "zh-TW": "累計移動點數"
+    },
+    {
+        "zh-CN": "被动技能-卡牌计数",
+        "en": "被动技能-卡牌计数",
+        "ja": "被动技能-卡牌计数",
+        "zh-TW": "被动技能-卡牌计数"
+    },
+    {
+        "zh-CN": "伤害强化次数",
+        "en": "Number of damage enhancements",
+        "ja": "ダメージ強化回数",
+        "zh-TW": "傷害強化次數"
+    },
+    {
+        "zh-CN": "溢出的治疗转换为星币",
+        "en": "Excess HP converts to star coins",
+        "ja": "余分の治療量をスターコインに変換",
+        "zh-TW": "溢出的治療轉換爲星幣"
+    },
+    {
+        "zh-CN": "溢出的治疗转换为攻击",
+        "en": "Excess HP converts to ATK",
+        "ja": "余分の治療量を攻撃力に変換",
+        "zh-TW": "溢出的治療轉換爲攻擊"
+    },
+    {
+        "zh-CN": "照-降神",
+        "en": "Teru-Divine Invocation",
+        "ja": "テル-憑依",
+        "zh-TW": "照-降神"
+    },
+    {
+        "zh-CN": "照-降神",
+        "en": "Teru-Divine Invocation",
+        "ja": "テル-憑依",
+        "zh-TW": "照-降神"
+    },
+    {
+        "zh-CN": "狐火",
+        "en": "Fox Fire",
+        "ja": "狐火",
+        "zh-TW": "狐火"
+    },
+    {
+        "zh-CN": "狐火，每层增加1点追击攻击力",
+        "en": "Fox Fire, +1 ATK per stack when pursing.",
+        "ja": "狐火-1つにつき、追加攻撃の攻撃力+1。",
+        "zh-TW": "狐火，每層增加1點追擊攻擊力"
+    },
+    {
+        "zh-CN": "【粉丝】\n攻击超天酱时，攻击力下降1点",
+        "en": "Fan:\n-1 ATK when attacking KAngel",
+        "ja": "「ファン」\n超てんちゃんを攻撃する際、防御力-1",
+        "zh-TW": "【粉絲】\n攻擊超天醬時，攻擊力下降1點"
+    },
+    {
+        "zh-CN": "【爱】\n每层提供1点攻击力提升，但降低自身1点防御",
+        "en": "Love:\n+1 ATK, -1 DEF for every stack",
+        "ja": "「愛」\n「愛」の各層は攻撃力+1、防御力-1",
+        "zh-TW": "【愛】\n每層提供1點攻擊力提升，但降低自身1點防禦"
+    },
+    {
+        "zh-CN": "【中毒】\n每回合失去1HP",
+        "en": "Poison：\nHP -1 each turn",
+        "ja": "「中毒」\n毎ターン1ダメージを与えます",
+        "zh-TW": "【中毒】\n每回合失去1HP"
+    },
+    {
+        "zh-CN": "【诅咒】\n防御-2",
+        "en": "Cursed：\nDEF-2",
+        "ja": "「呪い」\n防御力-2",
+        "zh-TW": "【詛咒】\n防禦-2"
+    },
+    {
+        "zh-CN": "每次攻击命中，增加自身2点攻击力。",
+        "en": "ATK+2 each time an attack hits.",
+        "ja": "攻撃を命中するたびに、攻撃力+2。",
+        "zh-TW": "每次攻擊命中，增加自身2點攻擊力。"
+    },
+    {
+        "zh-CN": "每次受到伤害，本轮受到伤害+1。",
+        "en": "Each time you take damage, the damage taken this round increases by 1.",
+        "ja": "ダメージを受けるたびに、このラウンド内での受けるダメージ+1。",
+        "zh-TW": "每次受到傷害，本輪受到傷害+1。"
+    },
+    {
+        "zh-CN": "攻击力+1，防御力+1。",
+        "en": "ATK+1 , DEF+1",
+        "ja": "攻撃力+1、防御力+1",
+        "zh-TW": "攻擊力+1，防禦力+1。"
+    },
+    {
+        "zh-CN": "场上其他角色每打出3张【是他干的】，雅央永久增加1点攻击力并召唤一个果冻护卫。",
+        "en": "For every 3 【It's His Fault!】played by characters, Masao permanently gains 1 attack power and summons a Jelly Guard.",
+        "ja": "場にいるキャラクターは【この人です】を3枚使うたびに、雅央の攻撃力+1、更にゼリーガーディアン1体召喚する",
+        "zh-TW": "場上其他角色每打出3張【是他幹的】，雅央永久增加1點攻擊力並召喚壹個果凍護衛。"
+    },
+    {
+        "zh-CN": "攻击力+1，防御力+1。",
+        "en": "ATK+1 , DEF+1",
+        "ja": "攻撃力+1、防御力+1",
+        "zh-TW": "攻擊力+1，防禦力+1。"
+    },
+    {
+        "zh-CN": "每层增加2点攻击并减少2点受到伤害，回合结束时清除。",
+        "en": "Each stack +2 ATK and reduces damage taken by 2.\nLast to the end of turn.",
+        "ja": "1スタックにつき、攻撃力+2、被ダメージ-2、ターン終了時にスタック全部消費する。",
+        "zh-TW": "每層增加2點攻擊並減少2點受到傷害，回合結束時清除。"
+    },
+    {
+        "zh-CN": "每层增加1点攻击与防御。",
+        "en": "Each stack +1 ATK and +1 DEF.",
+        "ja": "1スタックにつき、攻撃力+１、防御力+1",
+        "zh-TW": "每层增加1点攻击与防御。"
+    },
+    {
+        "zh-CN": "玩家每捡起一个葫芦，增加1点攻击力。",
+        "en": "The player gains +1 ATK for each gourd gained.",
+        "ja": "ひょうたんを獲得するたびに、攻撃力+１。",
+        "zh-TW": "玩家每撿起一個葫蘆，增加1點攻擊力。"
+    },
+    {
+        "zh-CN": "每回合恢复3HP",
+        "en": "3HP each turn",
+        "ja": "毎ターン3Ｈp回復します",
+        "zh-TW": "每回合恢複3點生命"
+    },
+    {
+        "zh-CN": "指定两个角色相连\n当其中一个角色受到伤害时另一个角色承受同等伤害\n持续3回合",
+        "en": "Link 2 target players\nWhen a player takes damage, the other takes equal damage Lasts 3 turns",
+        "ja": "二人のキャラクターを連結します一方がダメージを受けると、もう一方も同じダメージを受けます",
+        "zh-TW": "指定兩個角色相連\n  當其中一個角色受到傷害時另一個角色承受同等傷害\n  持續3回合"
+    },
+    {
+        "zh-CN": "攻击+3，受伤+1",
+        "en": "ATK +3 , Damage taken +1",
+        "ja": "攻撃力+3、受けるダメージ+1",
+        "zh-TW": "攻擊+3，受傷+1"
+    },
+    {
+        "zh-CN": "每回合失去2HP",
+        "en": "HP -2 each turn",
+        "ja": "毎ターン2ダメージを与えます",
+        "zh-TW": "每回合失去2點生命"
+    },
+    {
+        "zh-CN": "对自己角色使用，攻击力+5\n下次战斗时敌对角色无法选择闪避\n如果没有击倒敌对角色，则自己昏迷",
+        "en": "ATK +5 During the next battle, your opponent cannot evade\n If you don't KO your opponent, you will suffer STUN",
+        "ja": "自分のキャラクターに使い、攻撃力＋5次の戦闘では敵キャラクターが回避不能もし倒せない場合、自分が気絶します",
+        "zh-TW": "對自己角色使用，攻擊力+5\n  下次戰鬥時敵對角色無法選擇閃避\n  如果沒有擊倒敵對角色，則自己昏迷"
+    },
+    {
+        "zh-CN": "攻击+5",
+        "en": "ATK +5",
+        "ja": "攻撃力+5",
+        "zh-TW": "攻擊+5"
+    },
+    {
+        "zh-CN": "防御+6",
+        "en": "DEF+6",
+        "ja": "防御力+6",
+        "zh-TW": "防禦力+6"
+    },
+    {
+        "zh-CN": "移动点数-4",
+        "en": "Movement -4",
+        "ja": "移動ポイント-4",
+        "zh-TW": "移動點數-4"
+    },
+    {
+        "zh-CN": "无法反击",
+        "en": "Cannot counterattack.",
+        "ja": "反撃できません。",
+        "zh-TW": "無法反擊"
+    },
+    {
+        "zh-CN": "【问题学生】\n正在被追击",
+        "en": "【Problem students】\n is being pursued",
+        "ja": "【問題生徒】は追撃される…",
+        "zh-TW": "【問題學生】\n正在被追擊"
+    },
+    {
+        "zh-CN": "移动双骰子",
+        "en": "Use 2 dices for the next move",
+        "ja": "プレイヤーは次の移動時にダイスを2個投げます",
+        "zh-TW": "移動雙骰子"
+    },
+    {
+        "zh-CN": "每回合失去1HP",
+        "en": "HP -1 each turn",
+        "ja": "毎ターン1ダメージを与えます",
+        "zh-TW": "每回合失去1點生命"
+    },
+    {
+        "zh-CN": "所有玩家下次移动会掉落等同于移动步数的星币",
+        "en": "Lose coins equal to the next turn's move steps For all players",
+        "ja": "全キャラクターが次のターンに、移動ステップ数と同じ数のコインを落とします",
+        "zh-TW": "所有角色下次移動會掉落等同於移動步數的星幣"
+    },
+    {
+        "zh-CN": "攻击+5",
+        "en": "ATK+5",
+        "ja": "攻撃力+5",
+        "zh-TW": "攻擊+5"
+    },
+    {
+        "zh-CN": "受伤-2",
+        "en": "Damage taken -2",
+        "ja": "受けるダメージ-2",
+        "zh-TW": "受傷-2"
+    },
+    {
+        "zh-CN": "受伤+2",
+        "en": "Damage taken +2",
+        "ja": "受けるダメージ+2",
+        "zh-TW": "受傷+2"
+    },
+    {
+        "zh-CN": "攻击力+1",
+        "en": "ATK+1",
+        "ja": "攻撃力+1",
+        "zh-TW": "攻擊+1"
+    },
+    {
+        "zh-CN": "攻击力+2",
+        "en": "ATK+2",
+        "ja": "攻撃力+2",
+        "zh-TW": "攻擊+2"
+    },
+    {
+        "zh-CN": "攻击力+5",
+        "en": "ATK+5",
+        "ja": "攻撃力+5",
+        "zh-TW": "攻擊+5"
+    },
+    {
+        "zh-CN": "移动速度+1",
+        "en": "Movement+1",
+        "ja": "移動力+1",
+        "zh-TW": "移動點數+1"
+    },
+    {
+        "zh-CN": "移动速度+2",
+        "en": "Movement+2",
+        "ja": "移動力+2",
+        "zh-TW": "移動點數+2"
+    },
+    {
+        "zh-CN": "移动速度+4",
+        "en": "Movement+4",
+        "ja": "移動力+4",
+        "zh-TW": "移動點數+4"
+    },
+    {
+        "zh-CN": "最大生命值+1",
+        "en": "MAX HP +1",
+        "ja": "最大HP+1",
+        "zh-TW": "最大体力+1"
+    },
+    {
+        "zh-CN": "最大生命值+2",
+        "en": "MAX HP +2",
+        "ja": "最大HP+2",
+        "zh-TW": "最大体力+2"
+    },
+    {
+        "zh-CN": "最大生命值+4",
+        "en": "MAX HP +4",
+        "ja": "最大HP+4",
+        "zh-TW": "最大体力+4"
+    },
+    {
+        "zh-CN": "上回合未受到伤害，攻击力+3",
+        "en": "No damage was taken in the previous turn, ATK +3",
+        "ja": "前のターンでダメージを受けなかった場合、攻撃力+3",
+        "zh-TW": "若上回合沒有受到傷害，則攻擊力+3"
+    },
+    {
+        "zh-CN": "上回合未受到伤害，攻击力+6",
+        "en": "No damage was taken in the previous turn, ATK +6",
+        "ja": "前のターンでダメージを受けなかった場合、攻撃力+6",
+        "zh-TW": "若上回合沒有受到傷害，則攻擊力+6"
+    },
+    {
+        "zh-CN": "击倒怪物时，恢复2Hp",
+        "en": "KO monster, HP +2",
+        "ja": "モンスターを倒した時にHP+２",
+        "zh-TW": "擊倒怪物時，恢復2Hp"
+    },
+    {
+        "zh-CN": "击倒怪物时，恢复4Hp",
+        "en": "KO monster, HP +3",
+        "ja": "モンスターを倒した時にHP+3",
+        "zh-TW": "擊倒怪物時，恢復4Hp"
+    },
+    {
+        "zh-CN": "击倒怪物时，恢复5Hp并获得5星币",
+        "en": "KO monster, HP+3, coins +3",
+        "ja": "モンスターを倒した時、HP+3、コイン＋3",
+        "zh-TW": "擊倒怪物時，恢復5Hp並獲得5星幣"
+    },
+    {
+        "zh-CN": "个人轮次奖励星币数量+3",
+        "en": "Personal turn coins +2",
+        "ja": "ターンボーナスコイン+2",
+        "zh-TW": "個人輪次獎勵星幣數量+3"
+    },
+    {
+        "zh-CN": "个人轮次奖励星币数量+6",
+        "en": "Personal turn coins +4",
+        "ja": "ターンボーナスコイン+4",
+        "zh-TW": "個人輪次獎勵星幣數量+6"
+    },
+    {
+        "zh-CN": "所有玩家，轮次奖励星币+6",
+        "en": "All players, turn bonus coins +6",
+        "ja": "全プレイヤーにターンボーナスコイン+6",
+        "zh-TW": "所有玩家，輪次獎勵星幣+6"
+    },
+    {
+        "zh-CN": "防御力+1",
+        "en": "DEF +1",
+        "ja": "防御力+1",
+        "zh-TW": "防禦力+1"
+    },
+    {
+        "zh-CN": "防御力+2",
+        "en": "DEF +2",
+        "ja": "防御力+2",
+        "zh-TW": "防禦力+2"
+    },
+    {
+        "zh-CN": "防御力+3",
+        "en": "DEF +3",
+        "ja": "防御力+3",
+        "zh-TW": "防禦力+3"
+    },
+    {
+        "zh-CN": "回合结束时，恢复1Hp",
+        "en": "Recover 1 HP at the end of the turn",
+        "ja": "ターン終了時にHP+1",
+        "zh-TW": "回合結束時，恢復1Hp"
+    },
+    {
+        "zh-CN": "回合结束时，恢复5Hp",
+        "en": "Recover 5 HP at the end of the turn",
+        "ja": "ターン終了時にHP+5",
+        "zh-TW": "回合結束時，恢復5Hp"
+    },
+    {
+        "zh-CN": "生命值低于50%时，攻击力+3",
+        "en": "When HP is below 50%, ATK +3",
+        "ja": "HPが半分以下時、攻撃力＋3",
+        "zh-TW": "生命值低於50%時，攻擊力+3"
+    },
+    {
+        "zh-CN": "生命值低于50%时，攻击力+8",
+        "en": "When HP is below 50%, ATK +8",
+        "ja": "HPが半分以下時、攻撃力+8",
+        "zh-TW": "生命值低於50%時，攻擊力+8"
+    },
+    {
+        "zh-CN": "技能冷却-1",
+        "en": "CT-1",
+        "ja": "CT-1",
+        "zh-TW": "技能冷卻-1"
+    },
+    {
+        "zh-CN": "轮次奖励卡牌数量+2",
+        "en": "Turn bonus cards +2",
+        "ja": "ターンボーナスカード数+2",
+        "zh-TW": "輪次獎勵卡牌數量+2"
+    },
+    {
+        "zh-CN": "每获得一张卡牌，恢复1Hp",
+        "en": "Gain 1 HP for each card acquired",
+        "ja": "カードを1枚入手するごとにHP+1",
+        "zh-TW": "每獲得一張卡牌，恢復1Hp"
+    },
+    {
+        "zh-CN": "出牌数量+1",
+        "en": "Card play count +1",
+        "ja": "カード使用数+1",
+        "zh-TW": "出牌數量+1"
+    },
+    {
+        "zh-CN": "每使用3张效果牌，回手最后一张",
+        "en": "Every 3 cards played, return the last one",
+        "ja": "カード3枚使うごとに、3枚目に使ったカードを手札に加える",
+        "zh-TW": "每使用3張效果牌，回手最後一張"
+    },
+    {
+        "zh-CN": "每使用3张效果牌，恢复3Hp",
+        "en": "Recover 3 HP every 3 Effect Cards played",
+        "ja": "効果カードを3枚使うごとに、HP+3",
+        "zh-TW": "每使用3張效果牌，恢復3Hp"
+    },
+    {
+        "zh-CN": "回合结束时，若自己手牌小于5，则抽取一张卡牌",
+        "en": "At the end of the turn, if you have fewer than 5 cards, draw 1 card",
+        "ja": "ターン終了時、手札数が５以下の場合、カード1枚を得る",
+        "zh-TW": "回合結束時，若自己手牌小於5，則抽取一張卡牌"
+    },
+    {
+        "zh-CN": "使用效果牌对怪物造成伤害后，对目标施加（下次受到伤害+5）",
+        "en": "After dealing damage to a monster with an Effect Card, inflict \"Next damage received +5\" on the target",
+        "ja": "効果カードでモンスターにダメージを与えた後、そのモンスターに次受けるダメージ+5を付与",
+        "zh-TW": "使用效果牌對怪物造成傷害后，對目標施加（下次受到傷害+5）"
+    },
+    {
+        "zh-CN": "受到伤害+5",
+        "en": "Damage received +5",
+        "ja": "受けるダメージ+5",
+        "zh-TW": "受傷+5"
+    },
+    {
+        "zh-CN": "每次获得星币，恢复1Hp",
+        "en": "Gain 1 HP for each coin obtained",
+        "ja": "コインを獲得するごとに、HP+1",
+        "zh-TW": "每次獲得星幣，恢復1Hp"
+    },
+    {
+        "zh-CN": "回合结束时，附近4格范围的友方角色恢复3Hp",
+        "en": "At the end of the turn, allied characters within 4 spaces recover 3 HP",
+        "ja": "ターン終了時、4マス以内のキャラHP+3",
+        "zh-TW": "回合結束時，附近4格範圍的友方角色恢復3Hp"
+    },
+    {
+        "zh-CN": "每使用2张效果牌，获得+3星币",
+        "en": "coins +3 every 2 Cards played",
+        "ja": "効果カードを2枚使うごとに、3枚のコインを得ます",
+        "zh-TW": "每使用2張效果牌，獲得+3星幣"
+    },
+    {
+        "zh-CN": "每累计8点移动点数，获得1星光",
+        "en": "Gain 1 Starlight for every 8 movements accumulated",
+        "ja": "ダイスの累計出目が８になるたび、スターライトスタック＋１",
+        "zh-TW": "每累計8點移動點數，獲得1星光"
+    },
+    {
+        "zh-CN": "诅咒之剑-击倒数量",
+        "en": "Cursed Sword - Kos",
+        "ja": "呪いの剣-倒した数",
+        "zh-TW": "詛咒之劍-擊倒數量"
+    },
+    {
+        "zh-CN": "大船锚-攻击加成",
+        "en": "Heavy Anchor - Attack Bonus",
+        "ja": "ギガントアンカー-攻撃力増加",
+        "zh-TW": "大船錨-攻擊加成"
+    },
+    {
+        "zh-CN": "累计移动点数",
+        "en": "Total Movement Points",
+        "ja": "累計移動ステップ数",
+        "zh-TW": "累計移動點數"
+    },
+    {
+        "zh-CN": "每层增加2点攻击并减少2点受到伤害，回合开始时清除。",
+        "en": "Each stack +2 ATK and reduces damage taken by 2.\nLast to the start of turn.",
+        "ja": "1スタックにつき、攻撃力+2、被ダメージ-2",
+        "zh-TW": "每層增加2點攻擊並減少2點受到傷害，回合開始時清除。"
+    },
+    {
+        "zh-CN": "攻击+1",
+        "en": "ATK +1",
+        "ja": "攻撃力+1",
+        "zh-TW": "攻擊+1"
+    },
+    {
+        "zh-CN": "移动点数+2",
+        "en": "Movement +2",
+        "ja": "移動ポイント+2",
+        "zh-TW": "移動點數+2"
+    }
+]

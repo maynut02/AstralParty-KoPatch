@@ -1,0 +1,282 @@
+[
+    {
+        "zh-CN": "好运",
+        "en": "Good Luck",
+        "ja": "好運",
+        "zh-TW": "好運",
+        "kr": "행운"
+    },
+    {
+        "zh-CN": "霉运",
+        "en": "Bad Luck",
+        "ja": "不運",
+        "zh-TW": "衰運",
+        "kr": "불운"
+    },
+    {
+        "zh-CN": "鸿运当头",
+        "en": "Fortune",
+        "ja": "强運",
+        "zh-TW": "鴻運當頭",
+        "kr": "대박"
+    },
+    {
+        "zh-CN": "大难临头",
+        "en": "Misfortune",
+        "ja": "災難",
+        "zh-TW": "大難臨頭",
+        "kr": "재난"
+    },
+    {
+        "zh-CN": "DESTINY-002",
+        "en": "DESTINY-002",
+        "ja": "DESTINY-002",
+        "zh-TW": "DESTINY-002",
+        "kr": ""
+    },
+    {
+        "zh-CN": "DESTINY-007",
+        "en": "DESTINY-007",
+        "ja": "DESTINY-007",
+        "zh-TW": "DESTINY-007",
+        "kr": ""
+    },
+    {
+        "zh-CN": "DESTINY-004",
+        "en": "DESTINY-004",
+        "ja": "DESTINY-004",
+        "zh-TW": "DESTINY-004",
+        "kr": ""
+    },
+    {
+        "zh-CN": "DESTINY-010",
+        "en": "DESTINY-010",
+        "ja": "DESTINY-010",
+        "zh-TW": "DESTINY-010",
+        "kr": ""
+    },
+    {
+        "zh-CN": "DESTINY-006",
+        "en": "DESTINY-006",
+        "ja": "DESTINY-006",
+        "zh-TW": "DESTINY-006",
+        "kr": ""
+    },
+    {
+        "zh-CN": "DESTINY-012",
+        "en": "DESTINY-012",
+        "ja": "DESTINY-012",
+        "zh-TW": "DESTINY-012",
+        "kr": ""
+    },
+    {
+        "zh-CN": "DESTINY-001",
+        "en": "DESTINY-001",
+        "ja": "DESTINY-001",
+        "zh-TW": "DESTINY-001",
+        "kr": ""
+    },
+    {
+        "zh-CN": "DESTINY-005",
+        "en": "DESTINY-005",
+        "ja": "DESTINY-005",
+        "zh-TW": "DESTINY-005",
+        "kr": ""
+    },
+    {
+        "zh-CN": "DESTINY-008",
+        "en": "DESTINY-008",
+        "ja": "DESTINY-008",
+        "zh-TW": "DESTINY-008",
+        "kr": ""
+    },
+    {
+        "zh-CN": "DESTINY-011",
+        "en": "DESTINY-011",
+        "ja": "DESTINY-011",
+        "zh-TW": "DESTINY-011",
+        "kr": ""
+    },
+    {
+        "zh-CN": "DESTINY-003",
+        "en": "DESTINY-003",
+        "ja": "DESTINY-003",
+        "zh-TW": "DESTINY-003",
+        "kr": ""
+    },
+    {
+        "zh-CN": "DESTINY-009",
+        "en": "DESTINY-009",
+        "ja": "DESTINY-009",
+        "zh-TW": "DESTINY-009",
+        "kr": ""
+    },
+    {
+        "zh-CN": "一觉睡到自然醒，回复2点生命",
+        "en": "Heal 2 HP.",
+        "ja": "よく眠れました、2HPを回復します。",
+        "zh-TW": "一覺睡到自然醒，回復2點生命",
+        "kr": "숙면을 취했다, HP +2."
+    },
+    {
+        "zh-CN": "脚踝磨伤，受到2点伤害。",
+        "en": "Take 2 Damages.",
+        "ja": "くるぶしが怪我し、2ダメージを受けます。",
+        "zh-TW": "腳踝磨傷，受到2點傷害。",
+        "kr": "발목을 다쳤다, HP -2."
+    },
+    {
+        "zh-CN": "带着物品刚好防身，下次受到伤害-2。",
+        "en": " -2 Damage taken for next time",
+        "ja": "お守り！次に受けるダメージ-2。",
+        "zh-TW": "帶著物品剛好防身，下次受到傷害-2。",
+        "kr": "부적이다! 다음에 받는 피해 -2"
+    },
+    {
+        "zh-CN": "最近抵抗力很弱，下次受到伤害+2.",
+        "en": " +2 Damage taken for next time",
+        "ja": "風邪をひきました！受けるダメージ+2。",
+        "zh-TW": "最近抵抗力很弱，下次受到傷害+2.",
+        "kr": "감기에 걸렸다! 다음에 받는 피해 +2"
+    },
+    {
+        "zh-CN": "你的股票暴涨，星币翻倍！",
+        "en": "Coins doubled.",
+        "ja": "株価が上がりました！コインが倍になります！",
+        "zh-TW": "你的股票暴漲，星幣翻倍！",
+        "kr": "주식이 떡상했다! 보유 코인 2배 증가."
+    },
+    {
+        "zh-CN": "外星人袭击地球遇到你，损失一半星币",
+        "en": "Lose half coins.",
+        "ja": "エイリアンの地球侵攻により、コインの半分を失います！",
+        "zh-TW": "外星人襲擊地球遇到你，損失一半星幣",
+        "kr": "외계인의 지구 침공으로 인해, 보유 코인 2배 감소."
+    },
+    {
+        "zh-CN": "成为商店幸运嘉宾，抽1张卡。",
+        "en": "Gain 1 card.",
+        "ja": "ラッキーゲストとなり、1枚のカードを入手します。",
+        "zh-TW": "成為商店幸運嘉賓，抽1張卡。",
+        "kr": "행운의 손님이 되어, 카드 1장 획득."
+    },
+    {
+        "zh-CN": "你中了头奖，抽3张卡。",
+        "en": "Gain 3 cards",
+        "ja": "宝くじに当選し、3枚のカードを入手します。",
+        "zh-TW": "你中了頭獎，抽3張卡。",
+        "kr": "복권에 당첨되어, 카드 3장 획득."
+    },
+    {
+        "zh-CN": "接受游戏惩罚，丢掉1张牌。",
+        "en": "Randomly discard 1 card.",
+        "ja": "罰ゲームにより、ランダムに1枚のカードを失います。",
+        "zh-TW": "接受遊戲懲罰，丟掉1張牌。",
+        "kr": "벌칙으로 인해, 랜덤 카드 1장을 잃음."
+    },
+    {
+        "zh-CN": "台风吹到你家里，丢掉3张牌。",
+        "en": "Randomly discard 3 cards.",
+        "ja": "台風が来て、ランダムに3枚のカードを失います。",
+        "zh-TW": "颱風吹到你家裡，丟掉3張牌。",
+        "kr": "태풍으로 인해, 랜덤 카드 3장을 잃음."
+    },
+    {
+        "zh-CN": "捡到钱包，获得5星币。",
+        "en": "Gain 5 coins.",
+        "ja": "お金を拾って、5コインを得ます。",
+        "zh-TW": "撿到錢包，獲得5星幣。",
+        "kr": "돈을 주워서, 5코인 획득."
+    },
+    {
+        "zh-CN": "钱包掉了，掉落5星币到地上。",
+        "en": "Lose 5 coins.",
+        "ja": "財布をなくして、5コインが失われます。",
+        "zh-TW": "錢包掉了，掉5星幣到地上。",
+        "kr": "지갑을 잃어버려서, 5코인 잃음."
+    },
+    {
+        "zh-CN": "神清气爽！",
+        "en": "Refreshing and clear-headed!",
+        "ja": "すっきりした~",
+        "zh-TW": "神清氣爽！",
+        "kr": "개운해~"
+    },
+    {
+        "zh-CN": "这破鞋！",
+        "en": "Damn the F**king shoes!",
+        "ja": "このクソ靴！",
+        "zh-TW": "這破鞋！",
+        "kr": "이런 신발!"
+    },
+    {
+        "zh-CN": "大难不死",
+        "en": "Survive against all odds.",
+        "ja": "逃げられた",
+        "zh-TW": "大難不死",
+        "kr": "도망치자!"
+    },
+    {
+        "zh-CN": "不是笨蛋不感冒么？",
+        "en": "Even idiots aren't supposed to catch a cold, right?",
+        "ja": "ばかはかぜに引かないじゃないのかよ",
+        "zh-TW": "不是笨蛋不感冒？",
+        "kr": "바보는 감기에 안 걸린다던데..."
+    },
+    {
+        "zh-CN": "牛儿街之王",
+        "en": "The wolf of the wall street.",
+        "ja": "ウォール街の王様",
+        "zh-TW": "牛兒街之王",
+        "kr": "월가의 왕"
+    },
+    {
+        "zh-CN": "外星人为啥要我星币？",
+        "en": "Why allens....?",
+        "ja": "何で宇宙人は俺のコインに？",
+        "zh-TW": "外星人為啥要我星幣？",
+        "kr": "왜 왜계인이 내 코인을...?"
+    },
+    {
+        "zh-CN": "运气不错",
+        "en": "Lucky guy.",
+        "ja": "絶好調",
+        "zh-TW": "運氣不錯",
+        "kr": "절호조"
+    },
+    {
+        "zh-CN": "今晚吃鸡！",
+        "en": "Winner Winner Chicken Dinner.",
+        "ja": "大当たりだ！",
+        "zh-TW": "今晚吃雞！",
+        "kr": "이겼닭!"
+    },
+    {
+        "zh-CN": "啊？",
+        "en": "Bruh？",
+        "ja": "え？",
+        "zh-TW": "啊？",
+        "kr": "에?"
+    },
+    {
+        "zh-CN": "大风吹兮牌飞扬！",
+        "en": "Cyclone！",
+        "ja": "カードが吹っ飛んだ",
+        "zh-TW": "大風吹兮牌飛揚！",
+        "kr": "태풍이야!"
+    },
+    {
+        "zh-CN": "这谁的？",
+        "en": "Who's wallet?",
+        "ja": "いったい誰のものなのか",
+        "zh-TW": "這誰的？",
+        "kr": "누구의 지갑이지?"
+    },
+    {
+        "zh-CN": "啧..钱包呢..",
+        "en": "Where's my wallet?",
+        "ja": "え？財布は？",
+        "zh-TW": "嘖..錢包呢.. ",
+        "kr": "내 지갑은?"
+    }
+]

@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON - Hex 변환기</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+            background-color: #f4f7f9;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        .header {
+            max-width: 800px;
+            margin: 0 auto 20px auto;
+            text-align: center;
+        }
+        h1 {
+            color: #1a73e8;
+            margin-bottom: 20px;
+        }
+        #fileInput {
+            display: block;
+            margin-bottom: 20px;
+        }
+        #saveButton {
+            background-color: #1a73e8;
+            color: white;
+            border: none;
+            padding: 10px 18px;
+            border-radius: 8px;
+            font-size: 14px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            position: fixed;
+            top: 20px;
+            right: 20px;
+        }
+        #saveButton:hover {
+            background-color: #1558b8;
+        }
+        #output-container {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        .converter-item {
+            background-color: #ffffff;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+            width: 100%;
+            max-width: 800px;
+            margin: 0 auto;
+            box-sizing: border-box;
+        }
+        .meta-info {
+            background-color: #f8f9fa;
+            padding: 10px 15px;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            border: 1px solid #dee2e6;
+            font-size: 15px;
+        }
+        .input-group {
+            margin-top: 20px;
+        }
+        textarea {
+            width: 100%;
+            padding: 12px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            font-size: 16px;
+            font-family: inherit;
+            box-sizing: border-box;
+            transition: border-color 0.3s;
+            resize: vertical;
+            min-height: 50px;
+            line-height: 1.6;
+        }
+        textarea:focus {
+            outline: none;
+            border-color: #1a73e8;
+        }
+        .output {
+            background-color: #e9ecef;
+            padding: 12px;
+            border-radius: 8px;
+            font-family: "SF Mono", "Consolas", "Monaco", monospace;
+            word-break: break-all;
+            min-height: 22px;
+            font-size: 15px;
+            line-height: 1.5;
+        }
+        .output.error {
+            color: #d93025;
+        }
+        .info {
+            text-align: right;
+            font-size: 14px;
+            color: #666;
+            height: 20px;
+            margin-top: 5px;
+        }
+        .overflow-msg {
+            color: #d93025;
+            font-weight: bold;
+            margin-left: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <input type="file" id="fileInput" accept=".json">
+        <button id="saveButton">JSON으로 저장</button>
+    </div>
+    <div id="output-container"></div>
+
+    <script>
+        let originalJsonData = [];
+        let originalFileName = 'updated_data.json';
+
+        document.getElementById('fileInput').addEventListener('change', handleFileSelect);
+        document.getElementById('saveButton').addEventListener('click', saveDataToJson);
+
+        function handleFileSelect(event) {
+            const file = event.target.files[0];
+            if (!file) return;
+
+            originalFileName = file.name;
+            const reader = new FileReader();
+
+            reader.onload = (e) => {
+                try {
+                    originalJsonData = JSON.parse(e.target.result);
+                    generateUIFromJSON(originalJsonData);
+                } catch (error) {
+                    alert(`JSON 파싱 오류: ${error.message}`);
+                }
+            };
+            reader.readAsText(file);
+        }
+
+        function generateUIFromJSON(jsonData) {
+            const container = document.getElementById('output-container');
+            container.innerHTML = '';
+
+            jsonData.forEach((entry, index) => {
+                const jaText = (entry.ja || '').replace(/\\n/g, '\n');
+                const krText = entry.kr || '';
+                const enText = entry.en || '';
+                const zhText = entry['zh-CN'] || '';
+
+                const itemDiv = document.createElement('div');
+                itemDiv.className = 'converter-item';
+                itemDiv.dataset.index = index; // 각 아이템의 원본 인덱스를 저장
+
+                itemDiv.innerHTML = `
+                    <div class="meta-info">
+                        ${zhText}<br>
+                        ${enText}
+                    </div>
+                    <div class="input-group">
+                        <textarea id="ja-input-${index}" rows="2" placeholder="JA 텍스트...">${jaText}</textarea>
+                        <div class="info">
+                            <span id="ja-length-${index}">길이: 0</span>
+                        </div>
+                        <div class="output" id="ja-output-${index}"></div>
+                    </div>
+                    <div class="input-group">
+                        <textarea id="kr-input-${index}" rows="2" placeholder="KR 텍스트...">${krText}</textarea>
+                        <div class="info">
+                            <span id="kr-length-${index}">길이: 0</span>
+                            <span id="kr-overflow-${index}" class="overflow-msg"></span>
+                        </div>
+                        <div class="output" id="kr-output-${index}"></div>
+                    </div>
+                `;
+                container.appendChild(itemDiv);
+
+                const jaInput = document.getElementById(`ja-input-${index}`);
+                const krInput = document.getElementById(`kr-input-${index}`);
+                
+                const updateHandler = () => updateConverterPair(index);
+                
+                jaInput.addEventListener('input', updateHandler);
+                krInput.addEventListener('input', updateHandler);
+                
+                updateHandler(); // 초기값으로 한 번 실행
+            });
+        }
+        
+        const textEncoder = new TextEncoder();
+        function textToUtf8Hex(text) {
+            const bytes = textEncoder.encode(text);
+            return Array.from(bytes)
+                .map(b => b.toString(16).padStart(2, '0'))
+                .join('')
+                .toUpperCase();
+        }
+
+        function updateConverterPair(index) {
+            const jaInput = document.getElementById(`ja-input-${index}`);
+            const jaOutput = document.getElementById(`ja-output-${index}`);
+            const jaLength = document.getElementById(`ja-length-${index}`);
+            
+            const krInput = document.getElementById(`kr-input-${index}`);
+            const krOutput = document.getElementById(`kr-output-${index}`);
+            const krLength = document.getElementById(`kr-length-${index}`);
+            const krOverflow = document.getElementById(`kr-overflow-${index}`);
+
+            const jaText = jaInput.value;
+            const jaHex = textToUtf8Hex(jaText);
+            const jaByteLength = jaHex.length / 2;
+            jaOutput.textContent = jaHex;
+            jaLength.textContent = `길이: ${jaByteLength}`;
+
+            const krText = krInput.value;
+            let krHex = textToUtf8Hex(krText);
+            const krByteLength = krHex.length / 2;
+            
+            krOutput.classList.remove('error');
+            krOverflow.textContent = '';
+
+            if (jaByteLength > 0 && jaByteLength < krByteLength) {
+                const diff = krByteLength - jaByteLength;
+                krOutput.classList.add('error');
+                krOverflow.textContent = `(+${diff} byte 초과)`;
+                krOutput.textContent = krHex;
+            } else if (jaByteLength > krByteLength) {
+                const paddedHex = krHex.padEnd(jaByteLength * 2, '0');
+                krOutput.textContent = paddedHex;
+            } else {
+                krOutput.textContent = krHex;
+            }
+            krLength.textContent = `길이: ${krByteLength}`;
+        }
+
+        function saveDataToJson() {
+            if (originalJsonData.length === 0) {
+                alert("먼저 JSON 파일을 불러오세요.");
+                return;
+            }
+
+            const updatedData = originalJsonData.map((item, index) => {
+                const jaInput = document.getElementById(`ja-input-${index}`);
+                const krInput = document.getElementById(`kr-input-${index}`);
+
+                // 화면에 렌더링된 아이템만 업데이트
+                if (jaInput && krInput) {
+                    const newJaText = jaInput.value.replace(/\n/g, '\\n'); // 줄바꿈을 '\\n' 문자열로 복원
+                    const newKrText = krInput.value;
+                    return { ...item, ja: newJaText, kr: newKrText };
+                }
+                return item; // 렌더링되지 않은 아이템은 원본 유지
+            });
+
+            const jsonString = JSON.stringify(updatedData, null, 4); // 예쁘게 포맷팅
+            const blob = new Blob([jsonString], { type: "application/json" });
+            const url = URL.createObjectURL(blob);
+
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `${originalFileName}`;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        }
+    </script>
+</body>
+</html>

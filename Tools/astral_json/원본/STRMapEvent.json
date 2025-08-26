@@ -1,0 +1,638 @@
+[
+    {
+        "zh-CN": "小怪兽登陆",
+        "en": "Monster Attack",
+        "ja": "モンスター進撃",
+        "zh-TW": "小怪獸登陸"
+    },
+    {
+        "zh-CN": "浣熊出没",
+        "en": "Racoon Appears",
+        "ja": "アライグマ出没",
+        "zh-TW": "浣熊出沒"
+    },
+    {
+        "zh-CN": "列车通过",
+        "en": "Nonstop Train",
+        "ja": "列車通過",
+        "zh-TW": "列車通過"
+    },
+    {
+        "zh-CN": "祭典团串",
+        "en": "Festival Dango",
+        "ja": "お祭りだんご串",
+        "zh-TW": "祭典糰子"
+    },
+    {
+        "zh-CN": "全境封锁",
+        "en": "Total Lockdown",
+        "ja": "ディビジョン",
+        "zh-TW": "全境封鎖"
+    },
+    {
+        "zh-CN": "休眠终止",
+        "en": "Hibernation ended",
+        "ja": "休眠終止",
+        "zh-TW": "休眠終止"
+    },
+    {
+        "zh-CN": "大逃鲨",
+        "en": "Shark Royale",
+        "ja": "シャーク・ロワイヤル",
+        "zh-TW": "大逃鯊"
+    },
+    {
+        "zh-CN": "恐怖追击",
+        "en": "Scary Chasing",
+        "ja": "スキャリーチェイシング",
+        "zh-TW": "恐怖追擊"
+    },
+    {
+        "zh-CN": "鲨手降临",
+        "en": "Shark Invasion",
+        "ja": "シャーク・襲来",
+        "zh-TW": "鯊手降臨"
+    },
+    {
+        "zh-CN": "鲨手降临",
+        "en": "Shark Invasion",
+        "ja": "シャーク・襲来",
+        "zh-TW": "鯊手降臨"
+    },
+    {
+        "zh-CN": "鲨手降临",
+        "en": "Shark Invasion",
+        "ja": "シャーク・襲来",
+        "zh-TW": "鯊手降臨"
+    },
+    {
+        "zh-CN": "恐怖追击",
+        "en": "Scary Chasing",
+        "ja": "スキャリーチェイシング",
+        "zh-TW": "恐怖追擊"
+    },
+    {
+        "zh-CN": "鲨鱼反攻",
+        "en": "Shark Counterattack　",
+        "ja": "シャーク・反撃",
+        "zh-TW": "鲨魚反攻"
+    },
+    {
+        "zh-CN": "大逃鲨",
+        "en": "Shark Royale",
+        "ja": "シャーク・ロワイヤル",
+        "zh-TW": "大逃鯊"
+    },
+    {
+        "zh-CN": "鲨鱼反攻",
+        "en": "Shark Counterattack　",
+        "ja": "シャーク・反撃",
+        "zh-TW": "鲨魚反攻"
+    },
+    {
+        "zh-CN": "鲨手降临",
+        "en": "Shark Invasion",
+        "ja": "シャーク・襲来",
+        "zh-TW": "鯊手降臨"
+    },
+    {
+        "zh-CN": "天王寺登场",
+        "en": "Masao Debut",
+        "ja": "天王寺登場",
+        "zh-TW": "天王寺登場"
+    },
+    {
+        "zh-CN": "灵体入侵",
+        "en": "Spirit Invasion",
+        "ja": "スピリットインベージョン",
+        "zh-TW": "靈體入侵"
+    },
+    {
+        "zh-CN": "精英出场",
+        "en": "Elite showed up",
+        "ja": "エリート顕現",
+        "zh-TW": "精英出場"
+    },
+    {
+        "zh-CN": "强化精英出场",
+        "en": "Enhanced Elite showed up",
+        "ja": "エンハンストエリート顕現",
+        "zh-TW": "強化精英出場"
+    },
+    {
+        "zh-CN": "人人为我！",
+        "en": "Everyone for me!",
+        "ja": "オール・フォー・ワン",
+        "zh-TW": "人人爲我！"
+    },
+    {
+        "zh-CN": "人人为我！",
+        "en": "Everyone for me!",
+        "ja": "オール・フォー・ワン",
+        "zh-TW": "人人爲我！"
+    },
+    {
+        "zh-CN": "来我身边！",
+        "en": "Come to me!",
+        "ja": "我が元へ来い",
+        "zh-TW": "來我身邊！"
+    },
+    {
+        "zh-CN": "来我身边！",
+        "en": "Come to me!",
+        "ja": "我が元へ来い",
+        "zh-TW": "來我身邊！"
+    },
+    {
+        "zh-CN": "精英出场",
+        "en": "Elite showed up",
+        "ja": "エリート顕現",
+        "zh-TW": "精英出場"
+    },
+    {
+        "zh-CN": "最终冲刺",
+        "en": "Final Sprint",
+        "ja": "ファイナルスプリント",
+        "zh-TW": "最終沖刺"
+    },
+    {
+        "zh-CN": "准备就绪",
+        "en": "Ready",
+        "ja": "準備万全",
+        "zh-TW": "准備就緒"
+    },
+    {
+        "zh-CN": "好戏开场",
+        "en": "The Show Begins",
+        "ja": "節の幕開け",
+        "zh-TW": "好戲開場"
+    },
+    {
+        "zh-CN": "热闹非凡",
+        "en": "Bustling Festivities",
+        "ja": "盛り上がって行こう！",
+        "zh-TW": "熱鬧非凡"
+    },
+    {
+        "zh-CN": "热闹非凡",
+        "en": "Bustling Festivities",
+        "ja": "盛り上がって行こう！",
+        "zh-TW": "熱鬧非凡"
+    },
+    {
+        "zh-CN": "锣鼓喧天",
+        "en": "Drums and Gongs",
+        "ja": "鉦声轟轟",
+        "zh-TW": "鑼鼓喧天"
+    },
+    {
+        "zh-CN": "锣鼓喧天",
+        "en": "Drums and Gongs",
+        "ja": "鉦声轟轟",
+        "zh-TW": "鑼鼓喧天"
+    },
+    {
+        "zh-CN": "蛇龙降临",
+        "en": "Snake Dragon's Descent",
+        "ja": "蛇龍降臨",
+        "zh-TW": "蛇龍降臨"
+    },
+    {
+        "zh-CN": "学院戒严！",
+        "en": "Academy Lockdown!",
+        "ja": "学院戒厳",
+        "zh-TW": "學院戒嚴！"
+    },
+    {
+        "zh-CN": "严阵以待",
+        "en": "To Arms!",
+        "ja": "迎撃態勢！",
+        "zh-TW": "嚴陣以待"
+    },
+    {
+        "zh-CN": "明胶追击",
+        "en": "Jelly Pursuit",
+        "ja": "ゼリー追撃",
+        "zh-TW": "明膠追擊"
+    },
+    {
+        "zh-CN": "原罪现身",
+        "en": "Sin Appears",
+        "ja": "原罪顕現",
+        "zh-TW": "原罪現身"
+    },
+    {
+        "zh-CN": "检举揭发",
+        "en": "Criminal Reported",
+        "ja": "チクリあい",
+        "zh-TW": "檢舉揭發"
+    },
+    {
+        "zh-CN": "茶话会",
+        "en": "Tea Party",
+        "ja": "ティーパーティー",
+        "zh-TW": "茶話會"
+    },
+    {
+        "zh-CN": "水上乐园",
+        "en": "Water Park",
+        "ja": "ウォーターパーク",
+        "zh-TW": "水上樂園"
+    },
+    {
+        "zh-CN": "真梦梓出击！",
+        "en": "Mamushi Strikes!",
+        "ja": "真夢梓出撃！",
+        "zh-TW": "真夢梓出擊！"
+    },
+    {
+        "zh-CN": "苍鲤登场！",
+        "en": "Souri Debut！",
+        "ja": "蒼鯉登場！",
+        "zh-TW": "蒼鯉登場！"
+    },
+    {
+        "zh-CN": "独木难支",
+        "en": "Outnumbered",
+        "ja": "独木、支え難し",
+        "zh-TW": "獨木難支"
+    },
+    {
+        "zh-CN": "酩酊丑态",
+        "en": "Drunken Disgrace",
+        "ja": "酔い潰れ",
+        "zh-TW": "酩酊醜態"
+    },
+    {
+        "zh-CN": "蟹之狂欢",
+        "en": "Crab Carnival",
+        "ja": "カニカーニバル",
+        "zh-TW": "蟹之狂歡"
+    },
+    {
+        "zh-CN": "葫芦",
+        "en": "Gourd",
+        "ja": "ひょうたん",
+        "zh-TW": "葫蘆"
+    },
+    {
+        "zh-CN": "爆辣团子",
+        "en": "Spicy Dango",
+        "ja": "激辛だんご",
+        "zh-TW": "爆辣糰子"
+    },
+    {
+        "zh-CN": "幸运团子",
+        "en": "Lucky Dango",
+        "ja": "幸運だんご",
+        "zh-TW": "幸運糰子"
+    },
+    {
+        "zh-CN": "滋补团子",
+        "en": "Nutritious Dango",
+        "ja": "滋養だんご",
+        "zh-TW": "滋補糰子"
+    },
+    {
+        "zh-CN": "暴躁团子",
+        "en": "Fiery Dango",
+        "ja": "苛立ちだんご",
+        "zh-TW": "暴躁糰子"
+    },
+    {
+        "zh-CN": "疾风团子",
+        "en": "Wind Dango",
+        "ja": "疾風だんご",
+        "zh-TW": "疾風糰子"
+    },
+    {
+        "zh-CN": "小怪兽登场，领先的玩家要小心咯~",
+        "en": "Monster Gawu appears! Be careful!",
+        "ja": "モンスター登場！リードしているキャラは気をつけてね〜",
+        "zh-TW": "小怪獸登場，領先的角色要小心囉~"
+    },
+    {
+        "zh-CN": "浣熊出没，请大家捂紧钱包。浣熊会偷取路过角色的星币，击倒浣熊可以拿回星币。",
+        "en": "Racoon spotted! Watch every of your penny! If you got stolen, beat the Racoon to take back what is yours.",
+        "ja": "アライグマを発見！財布に注意！盗まれたら、アライグマを倒して自分のコインを取り返そう。",
+        "zh-TW": "浣熊出沒，請大家看緊錢包。 浣熊會偷取路過角色的星幣，而擊倒浣熊可以拿回星幣。"
+    },
+    {
+        "zh-CN": "小心列车。下个轮次开始时列车将对所有行进路线上的角色造成5点伤害。",
+        "en": "Careful. Starting from the next round, the train will cause 5 damage to anyone in its way.",
+        "ja": "列車が通過します、ご注意ください。次のランド開始時に列車の行動線路上のキャラ全員に5ダメージ。",
+        "zh-TW": "小心列車。 下個回合開始時，列車將對所有在其行進路線上的角色造成X點傷害。"
+    },
+    {
+        "zh-CN": "祭典准备会发免费食物咯！",
+        "en": "Free food to be offered during the festival!",
+        "ja": "お祭りで無料でだんごを食べれますよ！",
+        "zh-TW": "祭典準備會發放免費食物囉！"
+    },
+    {
+        "zh-CN": "卡牌“路障”的出现概率大幅提高！",
+        "en": "\"Barricade\" card appears more frequently!",
+        "ja": "カード「ロードブロック」の出現率が大幅に上昇！",
+        "zh-TW": "卡牌“路障”的出現概率大幅提高！"
+    },
+    {
+        "zh-CN": "获得3张卡牌。",
+        "en": "Gain 3 cards.",
+        "ja": "カード3枚獲得する。",
+        "zh-TW": "獲得3張卡牌。"
+    },
+    {
+        "zh-CN": "太辣了！需要紧急就医，被传送到医院格。",
+        "en": "So spicy! Transfer to the hospital for treatment.",
+        "ja": "辛スギんだけど!!病院に転送されます。",
+        "zh-TW": "太辣了！ 需要緊急就醫，被傳送到醫院格。"
+    },
+    {
+        "zh-CN": "怎么这么硌牙？唉？里面包了星币？！获得5枚星币",
+        "en": "My tooth hurts! Eh, there are coins inside! Get 5 coin.",
+        "ja": "かった…え！？スターコイン！？ラッキー～♪＋5コイン。",
+        "zh-TW": "怎麼這麼硌牙？ 唉？ 麵包裡包了星幣？ ！ 獲得5枚星幣"
+    },
+    {
+        "zh-CN": "这一口下去大补啊！回复3点生命。",
+        "en": "This should be very good for health! Recover 3 HP.",
+        "ja": "あ～沁みる～♪HP3回復。",
+        "zh-TW": "這一口下去大補啊！ 回復3點生命。"
+    },
+    {
+        "zh-CN": "吃的我拳头都硬了！+1攻击力，最多叠加3次，持续到下次攻击。",
+        "en": "What I eat makes me stronger! ATK +1 for the next attack, 3 stacks at most.",
+        "ja": "なんがイライラしてきた！次回の戦闘終了までに、攻撃力＋１（＋３まで重複する）。",
+        "zh-TW": "吃的我拳頭都硬了！+1攻擊力，最多疊加三次，持續到下次攻擊。"
+    },
+    {
+        "zh-CN": "健步如飞有没有？！下次移动点+2。",
+        "en": "Watch me run like I have wings! Next movement +2.",
+        "ja": "エ？…足が軽い⁉次の行動時に移動距離＋２。",
+        "zh-TW": "健步如飛有沒有？！下次移動點+2。"
+    },
+    {
+        "zh-CN": "海盗王嘎呜刷新在场上。",
+        "en": "Gawu is here!! Gawu has spawned on the map.",
+        "ja": "ガオーが来ました～♪海賊王ガオーが登場します。",
+        "zh-TW": "海盜王嘎呜刷新在場上。"
+    },
+    {
+        "zh-CN": "地图上随机刷新四只鲨鱼强盗",
+        "en": "Randomly spawn 4 shark bandits on the map.",
+        "ja": "マップ上に海賊サメ４体出現！",
+        "zh-TW": "地圖上隨機刷新四隻鯊魚強盜"
+    },
+    {
+        "zh-CN": "海盗王嘎呜开始移动，随机追击玩家。",
+        "en": "Gawu starts moving, targeting random players.",
+        "ja": "海賊王ガオーが動き出す、ランダムなプレイヤーをターゲットにします。",
+        "zh-TW": "海盜王嘎呜開始移動，隨機追擊玩家。"
+    },
+    {
+        "zh-CN": "地图上随机刷新两只鲨鱼首领。",
+        "en": "Randomly spawn 2 shark bosses on the map.",
+        "ja": "マップ上に海賊精鋭2体出現！",
+        "zh-TW": "地圖上隨機刷新兩隻鯊魚首領。"
+    },
+    {
+        "zh-CN": "地图上随机刷新两只鲨鱼首领，所有怪物攻击力+1、防御力+1。",
+        "en": "Randomly spawn 2 shark bosses on the map.All monsters have +1 Attack and +1 Defense.",
+        "ja": "マップ上に海賊精鋭2体出現！全モンスターに攻撃力+1、防御力+1付与。",
+        "zh-TW": "地圖上隨機刷新兩隻鯊魚首領，所有怪物攻擊力+1、防禦力+1。"
+    },
+    {
+        "zh-CN": "地图上随机刷新两只鲨鱼首领，所有怪物攻击力+1、防御力+1。",
+        "en": "Randomly spawn 2 shark bosses on the map.All monsters have +1 Attack and +1 Defense.",
+        "ja": "マップ上に海賊精鋭2体出現！全モンスターに攻撃力+1、防御力+1付与。",
+        "zh-TW": "地圖上隨機刷新兩隻鯊魚首領，所有怪物攻擊力+1、防禦力+1。"
+    },
+    {
+        "zh-CN": "海盗王嘎呜开始移动，所有怪物攻击力+1。",
+        "en": "Gawu starts moving,All monsters have +1 Attack.",
+        "ja": "ガオーが来ました～♪海賊王ガオーが登場します。全モンスターに攻撃力+1付与。",
+        "zh-TW": "海盜王嘎嗚開始移動，所有怪物攻擊力+1。"
+    },
+    {
+        "zh-CN": "地图上随机刷新四只鲨鱼强盗，所有怪物防御力+1。",
+        "en": "Randomly spawn 4 shark bandits on the map.All monsters+1 Defense.",
+        "ja": "マップ上に海賊サメ４体出現！全モンスターに防御力+1付与。",
+        "zh-TW": "地圖上隨機刷新四只鲨魚強盜，所有怪物防禦力+1。"
+    },
+    {
+        "zh-CN": "地图上随机刷新一只海王鲨,四只鲨鱼强盗。",
+        "en": "Randomly spawn 1 King Shark and 4 Shark Bandits on the map.",
+        "ja": "マップ上にサメタラシ1体と海賊サメ4体出現！",
+        "zh-TW": "地圖上隨機刷新1只海王鲨,4只鲨魚強盜。"
+    },
+    {
+        "zh-CN": "地图上随机刷新两只鲨鱼首领,一只海王鲨。所有的怪物攻击力+1，防御力+2。",
+        "en": "Randomly spawn 2 Shark Leaders and 1 King Shark on the map. All monsters gain +1 ATK and +2 DEF.",
+        "ja": "マップ上にサメ精鋭２体とサメタラシ１体出現！全モンスターに攻撃力+1、防御力+2",
+        "zh-TW": "地圖上隨機刷新兩只鲨魚首領,1只海王鲨。所有的怪物攻擊力+1，防禦力+2。"
+    },
+    {
+        "zh-CN": "地图上随机刷新两只鲨鱼首领,一只海王鲨。所有的怪物攻击力+1，防御力+1。",
+        "en": "Randomly spawn 2 Shark Leaders and 1 King Shark on the map. All monsters gain +1 ATK and +1 DEF.",
+        "ja": "マップ上にサメ精鋭２体とサメタラシ１体出現！全モンスターに攻撃力+1、防御力+1",
+        "zh-TW": "地圖上隨機刷新兩只鲨魚首領,1只海王鲨。所有的怪物攻擊力+1，防禦力+1。"
+    },
+    {
+        "zh-CN": "天王寺登场，并刷新出两个冰冷蓝灵。",
+        "en": "Masao debut, spawning 2 Frozen Blue Spirits.",
+        "ja": "天王寺登場！氷刻青霊を二体召喚する",
+        "zh-TW": "天王寺登場，並刷新出兩個冰冷藍靈。"
+    },
+    {
+        "zh-CN": "刷出2个冰冷蓝灵，1个狂躁红灵。BOSS开始行动。",
+        "en": "Spawning 2 Frozen Blue Spirits and 1 Fever Red Spirits.BOSS starts moving",
+        "ja": "氷刻青霊2体、凶暴赤霊1体を召喚する，そしてボスが動き出す\n",
+        "zh-TW": "刷出2個冰冷藍靈，1個狂躁紅靈。BOSS開始行動。"
+    },
+    {
+        "zh-CN": "地图上刷新出刀剑灵体和长戟灵体各一个。",
+        "en": "Spawning a Sword Spirit and a Spear Spirit.",
+        "ja": "マップ上に刀剣霊と長戟霊を召喚する\n",
+        "zh-TW": "地圖上刷新出刀劍靈體和長戟靈體各壹個。"
+    },
+    {
+        "zh-CN": "地图上刷新出刀剑灵体和长戟灵体各一个，所有的怪物攻击力+1，防御力+1。",
+        "en": "Spawning a Sword Spirit and a Spear Spirit. All minions gain +1/+1.",
+        "ja": "マップ上に刀剣霊と長戟霊を召喚する、全モンスター攻撃力+1、防御力+1\n",
+        "zh-TW": "地圖上刷新出刀劍靈體和長戟靈體各壹個，所有的怪物攻擊力+1，防禦力+1。"
+    },
+    {
+        "zh-CN": "摧毁场上所有长戟灵体和刀剑灵体，每摧毁一个为雅央恢复15%的生命并永久防御力+1，攻击力+1。随后所有的怪物攻击力+1，防御力+1。",
+        "en": "Destroy all Sword and Spear Spirits, Masao recover 15% health and permanently gain +1/+1 for each spirit destroyed, then all minions gain +1/+1.",
+        "ja": "この場にいる全ての刀剣霊と長戟霊を破壊する、刀剣霊と長戟霊を1体壊すごとに雅央のHP+15％、防御力+1、攻撃力+1。その後全てのモンスターに攻撃力+1、防御力+1。",
+        "zh-TW": "摧毀場上所有長戟靈體和刀劍靈體，每摧毀壹個爲雅央恢複15%的生命並永久防禦力+1，攻擊力+1。隨後所有的怪物攻擊力+1，防禦力+1。"
+    },
+    {
+        "zh-CN": "摧毁场上所有长戟灵体和刀剑灵体，每摧毁一个为雅央恢复15%的生命并永久防御力+1，攻击力+1。随后所有的怪物攻击力+2，防御力+2。",
+        "en": "Destroy all Sword and Spear Spirits, Masao recover 15% health and permanently gain +1/+1 for each spirit destroyed, then all minions gain +2/+2.",
+        "ja": "この場にいる全ての刀剣霊と長戟霊を破壊する、刀剣霊と長戟霊を1体壊すごとに雅央のHP+15％、防御力+1、攻撃力+1。その後全てのモンスターに攻撃力+2、防御力+2。",
+        "zh-TW": "摧毀場上所有長戟靈體和刀劍靈體，每摧毀壹個爲雅央恢複15%的生命並永久防禦力+1，攻擊力+1。隨後所有的怪物攻擊力+2，防禦力+2。"
+    },
+    {
+        "zh-CN": "地图上刷新出刀剑灵体和长戟灵体各一个，所有的怪物攻击力+1，防御力+1。",
+        "en": "Spawning a Sword Spirit and a Spear Spirit, all minions gain +1/+1.",
+        "ja": "マップ上に刀剣霊と長戟霊を召喚する、全てのモンスターに攻撃力+1、防御力+1",
+        "zh-TW": "地圖上刷新出刀劍靈體和長戟靈體各壹個，所有的怪物攻擊力+1，防禦力+1。"
+    },
+    {
+        "zh-CN": "地图上刷新出2个刀剑灵体和1个长戟灵体，所有的怪物攻击力+1，防御力+1。",
+        "en": "Spawning 2 Sword Spirits and a Spear Spirit, all minions gain +1/+1.",
+        "ja": "マップ上に刀剣霊2体と長戟霊1体を召喚する、全てのモンスターに攻撃力+1、防御力+1",
+        "zh-TW": "地圖上刷新出2個刀劍靈體和1個長戟靈體，所有的怪物攻擊力+1，防禦力+1。"
+    },
+    {
+        "zh-CN": "地图上刷新出刀剑灵体和长戟灵体各一个。",
+        "en": "Spawning a Sword Spirit and a Spear Spirit.",
+        "ja": "マップ上に刀剣霊と長戟霊を召喚する",
+        "zh-TW": "地圖上刷新出刀劍靈體和長戟靈體各壹個。"
+    },
+    {
+        "zh-CN": "天王寺登场。",
+        "en": "Masao debut.",
+        "ja": "天王寺登場！",
+        "zh-TW": "天王寺登場。"
+    },
+    {
+        "zh-CN": "地图上刷新出1个刀剑灵体。",
+        "en": "Spawning a Sword Spirit.",
+        "ja": "マップ上に刀剣霊を召喚する",
+        "zh-TW": "地圖上刷新出1個刀劍靈體。"
+    },
+    {
+        "zh-CN": "礼物格效果翻倍，礼物守卫获得强化！",
+        "en": "Gift panel effect is doubled, Gift Guardians are strengthened!",
+        "ja": "ギフトマスの効果が2倍になり、ギフトガーディアンが強化されます！",
+        "zh-TW": "禮物格效果翻倍，禮物守衛獲得強化！"
+    },
+    {
+        "zh-CN": "刷新1个氛围机器人和3个爆竹呱呱。",
+        "en": "Spawning 1 Atmosphere Robot and 3 Firecracker Frogs.",
+        "ja": "雰囲気系ロボ1体と爆竹ゲロゲロ3体登場。",
+        "zh-TW": "刷新1個氛圍機器人和3個爆竹瓜瓜。"
+    },
+    {
+        "zh-CN": "舞狮嘎呜和指挥平台出场。",
+        "en": "Spawning Lion Dance Gawu and Command Platform.",
+        "ja": "獅子舞いガオーと指揮センターの登場。",
+        "zh-TW": "舞獅嘎嗚和指揮平台出場。"
+    },
+    {
+        "zh-CN": "刷新3个爆竹呱呱，所有的怪物攻击力+1，防御力+1。",
+        "en": "Spawning 3 Firecracker Frogs.All monsters gain +1/+1.",
+        "ja": "爆竹ゲロゲロ3体登場、全モンスターに攻撃力+1、防御力+1。",
+        "zh-TW": "刷新3個爆竹瓜瓜，所有的怪物攻擊力+1，防禦力+1。"
+    },
+    {
+        "zh-CN": "刷新3个爆竹呱呱，所有的怪物攻击力+1，防御力+1。",
+        "en": "Spawning 3 Firecracker Frogs. All monsters gain +1/+1.",
+        "ja": "爆竹ゲロゲロ3体登場、全モンスターに攻撃力+1、防御力+1。",
+        "zh-TW": "刷新3個爆竹瓜瓜，所有的怪物攻擊力+1，防禦力+1。"
+    },
+    {
+        "zh-CN": "刷新1个氛围机器人和1个机械蛇龙，所有的怪物攻击力+1，防御力+1。",
+        "en": "Spawning 1 Atmosphere Robot and 1 Mechanical Snake Dragon. All monsters gain +1/+1.",
+        "ja": "雰囲気系ロボ１体と機械蛇龍１体登場、全モンスターに攻撃力+1、防御力+1",
+        "zh-TW": "刷新1個氛圍機器人和1個機械蛇龍，所有的怪物攻擊力+1，防禦力+1。"
+    },
+    {
+        "zh-CN": "刷新2个氛围机器人和1个机械蛇龙，所有的怪物攻击力+1，防御力+1。",
+        "en": "Spawning 2 Atmosphere Robots and 1 Mechanical Snake Dragon. All monsters gain +1/+1.",
+        "ja": "雰囲気系ロボ2体と機械蛇龍1体登場、全モンスターに攻撃力+1、防御力+1",
+        "zh-TW": "刷新2個氛圍機器人和1個機械蛇龍，所有的怪物攻擊力+1，防禦力+1。"
+    },
+    {
+        "zh-CN": "刷新1个氛围机器人和2个机械蛇龙，所有的怪物攻击力+1，防御力+1。",
+        "en": "Spawning 1 Atmosphere Robot and 2 Mechanical Snake Dragons. All monsters gain +1/+1.",
+        "ja": "雰囲気系ロボ１体と機械蛇龍２体登場、全モンスターに攻撃力+1、防御力+1",
+        "zh-TW": "刷新1個氛圍機器人和2個機械蛇龍，所有的怪物攻擊力+1，防禦力+1。"
+    },
+    {
+        "zh-CN": "刷新1个果冻战士，3个魔法茶壶。",
+        "en": "Spawn 1 Jelly Fighter, 3 Magic Teapots.",
+        "ja": "マップ上にゼリーファイター1体と魔法のティーポット3体出現！",
+        "zh-TW": "刷新1個果凍戰士，3個魔法茶壺。"
+    },
+    {
+        "zh-CN": "刷新1个果冻战士，2个果冻护卫。",
+        "en": "Spawn 1 Jelly Fighter, 2 Jelly Guards.",
+        "ja": "マップ上にゼリーファイター1体とゼリーガーディアン2体出現！",
+        "zh-TW": "刷新1個果凍戰士，2個果凍護衛。"
+    },
+    {
+        "zh-CN": "刷新1个果冻巫师，1个果冻护卫。所有的怪物攻击力+1，防御力+1。",
+        "en": "Spawn 1 Jelly Wizards，1 Jelly Guards.All monsters gain +1/+1.",
+        "ja": "マップ上にゼリーウィザード1体とゼリーガーディアン１体出現、全モンスターに攻撃力+1、防御力+1。",
+        "zh-TW": "刷新1個果凍巫師，1個果凍護衛。所有的怪物攻擊力+1，防禦力+1。"
+    },
+    {
+        "zh-CN": "天王寺登场。",
+        "en": "Masao debut.",
+        "ja": "天王寺登場！",
+        "zh-TW": "天王寺登場。"
+    },
+    {
+        "zh-CN": "学院安全官登场，所有玩家获得一张【是他干的】。",
+        "en": "The Security Officer arrives at the scene of the crime.\nEvery player draws 1 【It's Their Fault】 card.",
+        "ja": "学院戒厳官登場、全てのプレーヤーはカード「この人です」を1枚得る",
+        "zh-TW": "學院安全官登場，所有玩家獲得壹張【是他幹的】。"
+    },
+    {
+        "zh-CN": "刷新2个果冻护卫，2个果冻巫师。所有的怪物攻击力+1，防御力+2。",
+        "en": "Spawn 2 Jelly Guards，2 Jelly Wizards.All monsters have +1 Attack and +2 Defense.",
+        "ja": "マップ上にゼリーガーディアン2体とゼリーウィザード2体出現、その後全てのモンスターに攻撃力+1、防御力+2。",
+        "zh-TW": "刷新2個果凍護衛，2個果凍巫師。所有的怪物攻擊力+1，防禦力+2。."
+    },
+    {
+        "zh-CN": "刷新1个果冻巫师，1个魔法茶壶。所有的怪物攻击力+1，防御力+1。",
+        "en": "Spawn 1 Jelly Wizards，1 Magic Teapots.All monsters gain +1/+1.",
+        "ja": "マップ上にゼリーウィザード1体と魔法のティーポット1体出現、その後全てのモンスターに攻撃力+1、防御力+1。",
+        "zh-TW": "刷新1個果凍巫師，1個魔法茶壺。所有的怪物攻擊力+1，防禦力+1。"
+    },
+    {
+        "zh-CN": "刷新2个果冻护卫，2个魔法茶壶。所有的怪物攻击力+1，防御力+1。",
+        "en": "Spawn 2 Jelly Guards，2 Magic Teapots.All monsters gain +1/+1.",
+        "ja": "マップ上にゼリーガーディアン2体と魔法のティーポット2体出現、その後全てのモンスターに攻撃力+1、防御力+1。",
+        "zh-TW": "刷新2個果凍護衛，2個魔法茶壺。所有的怪物攻擊力+1，防禦力+1。"
+    },
+    {
+        "zh-CN": "龙虾机关启动，刷新4个蟹布罗。",
+        "en": "Lobster Trap activated, spawn 4 Crab Soldiers.",
+        "ja": "カニトラップ起動、カニ兄ぃ４体出現！",
+        "zh-TW": "龍蝦機關啓動，刷新4個蟹布羅。"
+    },
+    {
+        "zh-CN": "真梦梓登场，刷新3个虾布罗，所有的怪物攻击力+1，防御力+1。",
+        "en": "Mamushi appears, spawn 3 Prawn Soldiers, all monsters gain +1 ATK and +1 DEF.",
+        "ja": "天川真夢梓登場！蝦兄ぃ3体出現！全モンスターに攻撃力+1、防御力＋１。",
+        "zh-TW": "真夢梓登場，刷新3個蝦布羅，所有的怪物攻擊力+1，防禦力+1。"
+    },
+    {
+        "zh-CN": "苍鲤登场，刷新2个金小鱼，所有的怪物攻击力+1，防御力+1。",
+        "en": "Souri appears, spawn 3 Golden Fish, all monsters gain +1 ATK and +1 DEF.",
+        "ja": "天川蒼鯉登場！金ちゃん2体出現！全モンスターに攻撃力+1、防御力＋１。",
+        "zh-TW": "蒼鯉登場，刷新2個金小魚，所有的怪物攻擊力+1，防禦力+1。"
+    },
+    {
+        "zh-CN": "刷新2个虾布罗，所有的怪物攻击力+1，防御力+1。",
+        "en": "Spawn 2 Prawn Soldiers, all monsters gain +1 ATK and +1 DEF.",
+        "ja": "蝦兄ぃ2体出現！全モンスターに攻撃力+1、防御力＋１。",
+        "zh-TW": "刷新2個蝦布羅，所有的怪物攻擊力+1，防禦力+1。"
+    },
+    {
+        "zh-CN": "刷新3个金小鱼，所有的怪物攻击力+1，防御力+1。",
+        "en": "Spawn 3 Golden Fish, all monsters gain +1 ATK and +1 DEF.",
+        "ja": "金ちゃん3体出現、全モンスターに攻撃力+1、防御力+1。",
+        "zh-TW": "刷新3個金小魚，所有的怪物攻擊力+1，防禦力+1。"
+    },
+    {
+        "zh-CN": "刷新3个蟹布罗，所有的怪物攻击力+1，防御力+1。",
+        "en": "Spawn 3 Crab Soldiers, all monsters gain +1 ATK and +1 DEF.",
+        "ja": "蟹兄ぃ3体出現、全モンスターに攻撃力+1、防御力+1。",
+        "zh-TW": "刷新3個蟹布羅，所有的怪物攻擊力+1，防禦力+1。"
+    }
+]

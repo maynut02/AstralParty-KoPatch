@@ -1,0 +1,653 @@
+[
+    {
+        "zh-CN": "羁绊加速活动",
+        "en": "Friendship Event!",
+        "ja": "羈絆加速イベント",
+        "zh-TW": "羈絆加速活動",
+        "kr": "인연 가속 이벤트"
+    },
+    {
+        "zh-CN": "获得宇宙徽章！",
+        "en": "Get Space Badge!",
+        "ja": "宇宙バッジがもらえます",
+        "zh-TW": "獲得宇宙徽章！",
+        "kr": "우주 배지를 획득하세요!"
+    },
+    {
+        "zh-CN": "4月1日限定武器抽奖！",
+        "en": "Limited Weapon for Fool's Day",
+        "ja": "4月1日限定武器ガチャ！",
+        "zh-TW": "4月1日限定武器抽獎！",
+        "kr": "만우절 한정 무기 뽑기!"
+    },
+    {
+        "zh-CN": "首次10连抽奖免费！",
+        "en": "First Roll x10 is Free!",
+        "ja": "初回10連無料！",
+        "zh-TW": "首次10連抽獎免費！",
+        "kr": "첫 10회뽑 무료!"
+    },
+    {
+        "zh-CN": "礼包特惠售卖中",
+        "en": "Giftpack on Sale",
+        "ja": "割引パッケージ販売中",
+        "zh-TW": "禮包特惠販賣中",
+        "kr": "특가 패키지 판매 중"
+    },
+    {
+        "zh-CN": "惩戒盗贼团！",
+        "en": "Chase the Thief!",
+        "ja": "盗賊団に成敗を！",
+        "zh-TW": "懲戒盜賊團！",
+        "kr": "도적단 응징!"
+    },
+    {
+        "zh-CN": "获得宇宙徽章！",
+        "en": "Get Space Badge!",
+        "ja": "宇宙バッジがもらえます",
+        "zh-TW": "獲得宇宙徽章",
+        "kr": "우주 배지를 획득하세요!"
+    },
+    {
+        "zh-CN": "命运少女UP！",
+        "en": "Destiny Girl",
+        "ja": "運命の少女UP！",
+        "zh-TW": "命運少女UP！",
+        "kr": "데스티니 걸 UP!"
+    },
+    {
+        "zh-CN": "更高概率获得新角色！",
+        "en": "Higher Chance to Get New Character!",
+        "ja": "新キャラ「カイセイ」を手に入れる確率がUPされます。",
+        "zh-TW": "更高機率獲得新角色！",
+        "kr": " 새로운 캐릭터 획득 확률 UP!"
+    },
+    {
+        "zh-CN": "星币狂欢活动",
+        "en": "Star Coin Rain",
+        "ja": "イベント「スターコイン狂歓」",
+        "zh-TW": "星幣狂歡活動",
+        "kr": "스타 코인 축제 이벤트"
+    },
+    {
+        "zh-CN": "参与游戏可获得大量星币！",
+        "en": "Get abundant star coins!",
+        "ja": "ゲームをプレイすることでスターコイン大量獲得！",
+        "zh-TW": "參與遊戲可獲得大量星幣！",
+        "kr": "게임에 참여해 대량의 스타 코인을 획득!"
+    },
+    {
+        "zh-CN": "星月票-现已开卖",
+        "en": "Monthly Pass Available Now",
+        "ja": "スターマンスリーパス、好評発売中",
+        "zh-TW": "星月票-現已開始販賣",
+        "kr": "월정액 - 지금 판매 중"
+    },
+    {
+        "zh-CN": "USD 2.99",
+        "en": "USD 2.99",
+        "ja": "USD 2.99",
+        "zh-TW": "新的持續收益道具",
+        "kr": "USD 2.99"
+    },
+    {
+        "zh-CN": "时尚达人-帕露南",
+        "en": "Fashion Icon - Parunan",
+        "ja": "ファッションプロ-パルナン",
+        "zh-TW": "時尚達人-帕露南",
+        "kr": "패션의 아이콘 - 파루난"
+    },
+    {
+        "zh-CN": "全新皮肤上架！",
+        "en": "New Skin Available Now",
+        "ja": "NEWスキン好評発売中！",
+        "zh-TW": "全新造型上架！",
+        "kr": "새로운 스킨 출시!"
+    },
+    {
+        "zh-CN": "太刀使UP！",
+        "en": "Katana Master Rate Up",
+        "ja": "太刀使いUP！",
+        "zh-TW": "太刀使UP！",
+        "kr": "검성 UP!"
+    },
+    {
+        "zh-CN": "更高概率获得新角色！",
+        "en": "Higher Chance to Get New Character!",
+        "ja": "新キャラ「ミサキ」を手に入れる確率がUPされます。",
+        "zh-TW": "更高機率獲得新角色！",
+        "kr": " 새로운 캐릭터 획득 확률 UP!"
+    },
+    {
+        "zh-CN": "宝箱怪-璐璐",
+        "en": "Mimic-Lulu",
+        "ja": "ミミックールル",
+        "zh-TW": "寶箱怪-璐璐",
+        "kr": "미믹 - 루루"
+    },
+    {
+        "zh-CN": "全新皮肤上架！",
+        "en": "New Skin Available Now",
+        "ja": "NEWスキン好評発売中！",
+        "zh-TW": "全新造型上架！",
+        "kr": "새로운 스킨 출시!"
+    },
+    {
+        "zh-CN": "史莱姆UP！",
+        "en": "Slime Girl",
+        "ja": "スライムガールUP！",
+        "zh-TW": "史萊姆UP！",
+        "kr": "슬라임 걸 UP!"
+    },
+    {
+        "zh-CN": "更高概率获得新角色！",
+        "en": "Higher Chance to Get New Character!",
+        "ja": "キャラ「ルル」を手に入れる確率がUPされます。",
+        "zh-TW": "更高機率獲得新角色！",
+        "kr": " 새로운 캐릭터 획득 확률 UP!"
+    },
+    {
+        "zh-CN": "激战☆无敌☆最强",
+        "en": "KO!Smash!Win!",
+        "ja": "激戦!無敵!最強!",
+        "zh-TW": "激戰！無敵！最強",
+        "kr": "격전!무적!최강!"
+    },
+    {
+        "zh-CN": "参与“激战模式”可获得奖励！",
+        "en": "Play Intense Battle to obtain rewards!",
+        "ja": "激戦モードを参加し報酬を貰える！",
+        "zh-TW": "參與“激戰模式”可獲得獎勵！",
+        "kr": "격전 모드에 참여해 보상을 획득!"
+    },
+    {
+        "zh-CN": "绿洲女王UP！",
+        "en": "Oasis Queen UP",
+        "ja": "オアシスクイーンUP！",
+        "zh-TW": "綠洲女王UP！",
+        "kr": "오아시스 퀸 UP!"
+    },
+    {
+        "zh-CN": "更高概率获得新角色！",
+        "en": "Higher Chance to Get New Character!",
+        "ja": "新キャラ「ナーディス 」を手に入れる確率がUPされます。",
+        "zh-TW": "更高機率獲得新角色！",
+        "kr": "새로운 캐릭터 획득 확률 UP!"
+    },
+    {
+        "zh-CN": "冰沙快递-米米",
+        "en": "Slushie Express - Mimi",
+        "ja": "スムージーエキスプレス-ミミ",
+        "zh-TW": "冰沙快遞-米米",
+        "kr": "슬러시 익스프레스 - 미미"
+    },
+    {
+        "zh-CN": "全新皮肤上架！",
+        "en": "New Skin Available Now",
+        "ja": "NEWスキン好評発売中！",
+        "zh-TW": "全新造型上架！",
+        "kr": "새로운 스킨 출시!"
+    },
+    {
+        "zh-CN": "清凉夏日通行证",
+        "en": "Cool Summer Pass",
+        "ja": "清涼サマーミッションパス",
+        "zh-TW": "清涼夏季通行證",
+        "kr": "시원한 여름 패스"
+    },
+    {
+        "zh-CN": "超值礼物等待你获取！",
+        "en": "More Valuable Gifts",
+        "ja": "スペシャル報酬を獲得可能！",
+        "zh-TW": "超值禮物等待你獲取！",
+        "kr": "스페셜 보상 획득 가능!"
+    },
+    {
+        "zh-CN": "家政机器人UP！",
+        "en": "Robot Maid Rate Up",
+        "ja": "ロボメイドUP！",
+        "zh-TW": "家政機器人UP！",
+        "kr": "로봇 메이드 UP!"
+    },
+    {
+        "zh-CN": "更高概率获得新角色！",
+        "en": "Higher Chance to Get New Character!",
+        "ja": "新キャラ「 ジャスミン 」を手に入れる確率がUPされます。",
+        "zh-TW": "更高機率獲得新角色！",
+        "kr": "새로운 캐릭터 획득 확률 UP!"
+    },
+    {
+        "zh-CN": "猩红辣妹UP！",
+        "en": "Red Hot Rate Up",
+        "ja": "クリムゾンギャルUP！",
+        "zh-TW": "猩紅辣妹UP！",
+        "kr": "진홍빛 갸루 UP!"
+    },
+    {
+        "zh-CN": "更高概率获得角色！",
+        "en": "Higher Chance to Get  Character!",
+        "ja": "キャラ「パパラ 」を手に入れる確率がUPされます。",
+        "zh-TW": "更高機率獲得角色！",
+        "kr": "캐릭터 획득 확률 UP!"
+    },
+    {
+        "zh-CN": "特殊礼物：黑金礼品卡",
+        "en": "Special Gift: Black Gold Gift Card",
+        "ja": "スペシャルギフト：「ブラックカード」",
+        "zh-TW": "特殊禮物：黑金禮品卡",
+        "kr": "특별 선물: 블랙골드 기프트 카드"
+    },
+    {
+        "zh-CN": "现在已上线发售！",
+        "en": "Now on Sale!",
+        "ja": "発売中！",
+        "zh-TW": "現在已上線發售！",
+        "kr": "판매중!"
+    },
+    {
+        "zh-CN": "合作挑战（试玩）",
+        "en": "PVE(Demo)",
+        "ja": "協力チャレンジ(オンラインテスト)",
+        "zh-TW": "合作挑戰（試玩）",
+        "kr": "협동 챌린지 (데모)"
+    },
+    {
+        "zh-CN": "游玩3场赢得奖励",
+        "en": "Play 3 games to earn rewards",
+        "ja": "試合３回完成しましょう",
+        "zh-TW": "遊玩3場贏得獎勵",
+        "kr": "3회 플레이시 보상 획득"
+    },
+    {
+        "zh-CN": "午夜闪光UP！",
+        "en": "Midnight Flash Up",
+        "ja": "真夜中の閃光UP！",
+        "zh-TW": "午夜閃光UP！",
+        "kr": "심야의 섬광 UP!"
+    },
+    {
+        "zh-CN": "社恐修女UP！",
+        "en": "Shy Nun Up",
+        "ja": "ぼっちシスターUP！",
+        "zh-TW": "社恐修女UP！",
+        "kr": "소심한 수녀 UP!"
+    },
+    {
+        "zh-CN": "清凉夏日通行证",
+        "en": "Cool Summer Pass",
+        "ja": "清涼サマーミッションパス",
+        "zh-TW": "清涼夏季通行證",
+        "kr": "시원한 여름 패스"
+    },
+    {
+        "zh-CN": "更高概率获得新角色！",
+        "en": "Higher Chance to Get New Character!",
+        "ja": "新キャラを手に入れる確率がUPされます。",
+        "zh-TW": "更高機率獲得新角色！",
+        "kr": "새로운 캐릭터 획득 확률 UP!"
+    },
+    {
+        "zh-CN": "旗袍娘UP！",
+        "en": "Cheongsam Girl Rate Up",
+        "ja": "ドレスガールUP！",
+        "zh-TW": "旗袍娘UP！",
+        "kr": "치파오 걸 UP!"
+    },
+    {
+        "zh-CN": "战斗女仆-美咲",
+        "en": "Maid-Warrior: Misaki",
+        "ja": "バトルメイド-ミサキ",
+        "zh-TW": "戰鬥女僕-美咲",
+        "kr": "전투 메이드 - 미사키"
+    },
+    {
+        "zh-CN": "战斗女仆-枫",
+        "en": "Maid-Warrior: Fen",
+        "ja": "バトルメイド-ヒメ",
+        "zh-TW": "戰鬥女僕-楓",
+        "kr": "전투 메이드 - 펜"
+    },
+    {
+        "zh-CN": "星趴狂欢周！",
+        "en": "Carnival Week!",
+        "ja": "カーニバルウィーク",
+        "zh-TW": "星趴狂歡周！",
+        "kr": "카니발 위크!"
+    },
+    {
+        "zh-CN": "完成任务获得丰厚奖励！",
+        "en": "Complete tasks to get rewards!",
+        "ja": "ミッションを達成して報酬がたくさん！",
+        "zh-TW": "完成任務獲得豐厚獎勵！",
+        "kr": "임무 완료시 푸짐한 보상을 획득!"
+    },
+    {
+        "zh-CN": "更高概率获得角色！",
+        "en": "Higher Chance to Get  Character!",
+        "ja": "キャラを手に入れる確率がUPされます。",
+        "zh-TW": "更高概率獲得角色！",
+        "kr": "캐릭터 획득 확률 UP!"
+    },
+    {
+        "zh-CN": "祭典礼服通行证",
+        "en": "Festival Dress Pass",
+        "ja": "パーティードレスパス",
+        "zh-TW": "祭典禮服通行證",
+        "kr": "축제 의상 패스"
+    },
+    {
+        "zh-CN": "网络魅影UP！",
+        "en": "Cyber Phantom Rate Up",
+        "ja": "ネットファントムUP！",
+        "zh-TW": "網絡魅影UP！",
+        "kr": "사이버 팬텀 UP!"
+    },
+    {
+        "zh-CN": "超天酱&糖糖",
+        "en": "KAngel&Ame-chan",
+        "ja": "超てんちゃん&あめちゃん",
+        "zh-TW": "超天醬&糖糖",
+        "kr": "초텐쨩&아메쨩"
+    },
+    {
+        "zh-CN": "联动角色购买！",
+        "en": "Character Purchase",
+        "ja": "コラボキャラ購入",
+        "zh-TW": "聯動角色購買",
+        "kr": "콜라보 캐릭 구매"
+    },
+    {
+        "zh-CN": "机械超人UP！",
+        "en": "Mech Hero UP!",
+        "ja": "メカ・ドミナンスUP！",
+        "zh-TW": "機械超人UP！",
+        "kr": "메카 히어로 UP!"
+    },
+    {
+        "zh-CN": "暗影忍者UP！",
+        "en": "Shadow Ninja UP!",
+        "ja": "暗躍する忍者UP！",
+        "zh-TW": "暗影忍者UP！",
+        "kr": "섀도우 닌자 UP!"
+    },
+    {
+        "zh-CN": "节日盛装通行证",
+        "en": "Festive Dress Pass",
+        "ja": "メリークリスマスパス",
+        "zh-TW": "節日盛裝通行證",
+        "kr": "축제 의상 패스"
+    },
+    {
+        "zh-CN": "忍者为何？-小町",
+        "en": "Why the ninja！? - Komachi",
+        "ja": "ニンジャナンデ！？-コマチ",
+        "zh-TW": "忍者爲何？-小町",
+        "kr": "닌자는 왜? - 코마치"
+    },
+    {
+        "zh-CN": "礼物大作战",
+        "en": "Gift Battle",
+        "ja": "プレゼント大作戦",
+        "zh-TW": "禮物大作戰",
+        "kr": "선물 대작전"
+    },
+    {
+        "zh-CN": "新年签到活动！",
+        "en": "New Year Daily Login Event!",
+        "ja": "年越しログインイベント",
+        "zh-TW": "新年簽到活動！",
+        "kr": "신년 출석 이벤트!"
+    },
+    {
+        "zh-CN": "风水师UP！",
+        "en": "Fengshui Master UP!",
+        "ja": "風水師UP！",
+        "zh-TW": "風水師UP！",
+        "kr": "풍수사 UP!"
+    },
+    {
+        "zh-CN": "雍容盛景-南希露",
+        "en": "Splendor Royale-Nancy Lu",
+        "ja": "雍容絶景-ナンシーロー",
+        "zh-TW": "雍容盛景-南希露",
+        "kr": "단아한 절경 - 낸시루"
+    },
+    {
+        "zh-CN": "新年限定皮肤",
+        "en": "New Year Exclusive",
+        "ja": "限定スキン",
+        "zh-TW": "新年限定造型",
+        "kr": "신년 스킨"
+    },
+    {
+        "zh-CN": "周年庆活动一！[size=25]2.21~3.7[/size]",
+        "en": "Anniversary Event I! [size=25]2.21~3.7[/size]",
+        "ja": "一周年イベントその1！[size=25]2.21~3.7[/size]",
+        "zh-TW": "周年慶活動壹！[size=25]2.21~3.7[/size]",
+        "kr": "1주년 기념 이벤트 1탄! [size=25]2.21~3.7[/size]"
+    },
+    {
+        "zh-CN": "参与游戏可获得大量抽奖券！",
+        "en": "Play to earn lots of Gacha Cassettes!",
+        "ja": "イベント参加で抽選券大量GET！",
+        "zh-TW": "參與遊戲可獲得大量抽獎券！",
+        "kr": "게임에 참여해 대량의 복권 GET!"
+    },
+    {
+        "zh-CN": "周年庆活动二！[size=25]3.7~3.21[/size]",
+        "en": "Anniversary Event II![size=25]3.7~3.21[/size]",
+        "ja": "一周年イベントその２！[size=25]3.7~3.21[/size]",
+        "zh-TW": "周年慶活動二！[size=25]3.7~3.21[/size]",
+        "kr": "1주년 기념 이벤트 2탄! [size=25]3.7~3.21[/size]"
+    },
+    {
+        "zh-CN": "参与游戏可获得大量礼物和徽章！",
+        "en": "Play to earn abundant gifts and badges! ",
+        "ja": "イベント参加でギフトとバッチ大量GET！",
+        "zh-TW": "參與遊戲可獲得大量禮物和徽章！",
+        "kr": "게임에 참여해 풍성한 선물과 배지 획득!"
+    },
+    {
+        "zh-CN": "甜蜜陷阱-通行证",
+        "en": "Sweet Trap",
+        "ja": "ハニートラップパス",
+        "zh-TW": "甜蜜陷阱-通行證",
+        "kr": "스윗 트랩 시즌 패스"
+    },
+    {
+        "zh-CN": "合作挑战 7日助力礼包",
+        "en": "Co-op Challenge 7-Day Support Pack",
+        "ja": "協力チャレンジ7日間助力パック",
+        "zh-TW": "合作挑戰 7日助力禮包",
+        "kr": "협동 챌린지 7일 지원 패키지"
+    },
+    {
+        "zh-CN": "2名角色直升 LV5！",
+        "en": "Instantly level up 2 characters to LV5!",
+        "ja": "キャラ二名を協力チャレンジレベル５までUP！",
+        "zh-TW": "2名角色直升 LV5！",
+        "kr": "즉시 캐릭터 2명을 LV5로 레벨업!"
+    },
+    {
+        "zh-CN": "皮肤限时折扣[size=25]2.21~3.7[/size]",
+        "en": "Limited Time Skin Sale[size=25]2.21~3.7[/size]",
+        "ja": "スキン限定割引[size=25]2.21~3.7[/size]",
+        "zh-TW": "造型限時折扣[size=25]2.21~3.7[/size]",
+        "kr": "스킨 한정 할인 [size=25]2.21~3.7[/size]"
+    },
+    {
+        "zh-CN": "50%OFF",
+        "en": "50% OFF",
+        "ja": "50%オフ",
+        "zh-TW": "50%OFF",
+        "kr": "50%할인"
+    },
+    {
+        "zh-CN": "兑换角色限时折扣[size=25]2.21~3.7[/size]",
+        "en": "Limited Time Character Exchange Discount[size=25]2.21~3.7[/size]",
+        "ja": "キャラクター交換限定割引[size=25]2.21~3.7[/size]",
+        "zh-TW": "兌換角色限時折扣[size=25]2.21~3.7[/size]",
+        "kr": "교환 캐릭터 한정 할인 [size=25]2.21~3.7[/size]"
+    },
+    {
+        "zh-CN": "第1、2期角色",
+        "en": "Season 1 & 2 Characters",
+        "ja": "第一期＆第二期キャラクター",
+        "zh-TW": "第1、2期角色",
+        "kr": "시즌 1&시즌 2 캐릭터"
+    },
+    {
+        "zh-CN": "新手礼包更新重置！",
+        "en": "Gift selection box reset!",
+        "ja": "新規パックリセット！",
+        "zh-TW": "新手禮包更新重置！",
+        "kr": "초보자 패키지 초기화!"
+    },
+    {
+        "zh-CN": "角色自选箱（第1和2期）！",
+        "en": "Character selection box(season 1&2)!",
+        "ja": "キャラクターセレクトボックス",
+        "zh-TW": "角色自選箱（第1和2期）！",
+        "kr": "캐릭터 선택 상자 (시즌1&시즌2)!"
+    },
+    {
+        "zh-CN": "新手邀请任务",
+        "en": "Invitation Task",
+        "ja": "友達招待ミッション",
+        "zh-TW": "新手邀請任務",
+        "kr": "신입 초대 임무"
+    },
+    {
+        "zh-CN": "七日测试活动",
+        "en": "Seven-Day Test Event",
+        "ja": "七日間テストイベント",
+        "zh-TW": "七日測試活動",
+        "kr": "7일 테스트 이벤트"
+    },
+    {
+        "zh-CN": "暗区少主UP！",
+        "en": "Syndicate Prince UP！",
+        "ja": "暗黒の若君UP！",
+        "zh-TW": "暗區少主UP！",
+        "kr": "암흑의 주인 UP!"
+    },
+    {
+        "zh-CN": "护卫队长-帕帕拉",
+        "en": "Guard Captain - Papala",
+        "ja": "護衛隊長-パパラ",
+        "zh-TW": "護衛隊長-帕帕拉",
+        "kr": "호위대장-파파라"
+    },
+    {
+        "zh-CN": "全新皮肤上架！",
+        "en": "New Skin Available Now",
+        "ja": "NEWスキン好評発売中！",
+        "zh-TW": "全新造型上架！",
+        "kr": "새로운 스킨 출시!"
+    },
+    {
+        "zh-CN": "转角之期通行证",
+        "en": "Fated crossroads battle pass",
+        "ja": "街角の約束パス",
+        "zh-TW": "轉角之期通行證",
+        "kr": "운명의 교차로"
+    },
+    {
+        "zh-CN": "复刻皮肤抽奖现已开放",
+        "en": "Rerun: Past skin Gacha Now availabe",
+        "ja": "復刻スキンガチャ開催中！",
+        "zh-TW": "複刻造型抽獎現已開放",
+        "kr": "복각 스킨 뽑기 지금 오픈"
+    },
+    {
+        "zh-CN": "冒失少女-阿兰娜",
+        "en": "Clumsy Girl - Alana",
+        "ja": "ドジっ子-アランナ",
+        "zh-TW": "冒失少女-阿蘭娜",
+        "kr": "덜렁이 - 알라나"
+    },
+    {
+        "zh-CN": "新人调查员",
+        "en": "Rookie investigator",
+        "ja": "新人捜査官",
+        "zh-TW": "新人調查員",
+        "kr": "신입수사관"
+    },
+    {
+        "zh-CN": "滨边时光-姬梦朝",
+        "en": "Shoreline Memories – Yume ",
+        "ja": "浜辺の日々-ユメ",
+        "zh-TW": "濱邊時光-姬夢朝",
+        "kr": "해변의추억-유메"
+    },
+    {
+        "zh-CN": "商业之主",
+        "en": "Lord of Commerce",
+        "ja": "やり手の商人",
+        "zh-TW": "商業之主",
+        "kr": "최고의 상인"
+    },
+    {
+        "zh-CN": "三神御主",
+        "en": "Hierarch of Mikami",
+        "ja": "三神教祖",
+        "zh-TW": "三神御主",
+        "kr": "삼신교주"
+    },
+    {
+        "zh-CN": "真龙御礼",
+        "en": "Dragon Blessing - Misaki",
+        "ja": "真龍御礼-ミサキ",
+        "zh-TW": "真龍禦禮",
+        "kr": "용의축복-미사키"
+    },
+    {
+        "zh-CN": "夏日限定皮肤",
+        "en": "Summer Exclusive",
+        "ja": "限定スキン",
+        "zh-TW": "夏日限定造型",
+        "kr": "한정 스킨"
+    },
+    {
+        "zh-CN": "泳池派对-恋",
+        "en": "Pool Party - Ren",
+        "ja": "プールパーティー-レン",
+        "zh-TW": "泳池派對-戀",
+        "kr": "수영장 파티 - 렌"
+    },
+    {
+        "zh-CN": "[size=30]清凉夏日系列礼包[/size]",
+        "en": "[size=25]Cool Summer Series Bundle[/size]",
+        "ja": "[size=25]清涼サマーシリーズパック[/size]",
+        "zh-TW": "[size=30]清涼夏日系列禮包[/size]",
+        "kr": "[size=30]시원한 여름 시리즈 패키지[/size]"
+    },
+    {
+        "zh-CN": "4款礼包皮肤超值优惠",
+        "en": "4 Skins in One Value Pack",
+        "ja": "スキン四個含む！超お得！",
+        "zh-TW": "4款禮包皮膚超值優惠",
+        "kr": "스킨 4종 특가 패키지"
+    },
+    {
+        "zh-CN": "冲浪海岸-茉莉",
+        "en": "Coastal Surfer - Jasmine",
+        "ja": "エンドレスサーフィン-ジャスミン",
+        "zh-TW": "沖浪海岸-茉莉",
+        "kr": "해변의 서퍼 - 재스민"
+    },
+    {
+        "zh-CN": "海湾假日-凛",
+        "en": "Harbour Holiday - Rin",
+        "ja": "浜辺のバカンス-リン",
+        "zh-TW": "海灣假日-凜",
+        "kr": "해변의 바캉스 - 린"
+    },
+    {
+        "zh-CN": "海滨救援-梅加斯",
+        "en": "Seaside Rescue - Megas",
+        "ja": "マリンレスキュー-メガス",
+        "zh-TW": "海濱救援-梅加斯",
+        "kr": "라이프가드 - 메가스"
+    }
+]

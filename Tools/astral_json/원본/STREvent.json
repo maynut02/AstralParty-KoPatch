@@ -1,0 +1,572 @@
+[
+    {
+        "zh-CN": "平均分配",
+        "en": "Redistribution",
+        "ja": "平均配分",
+        "zh-TW": "平均分配"
+    },
+    {
+        "zh-CN": "疾走",
+        "en": "Haste",
+        "ja": "疾走",
+        "zh-TW": "疾走"
+    },
+    {
+        "zh-CN": "慷慨解囊",
+        "en": "Philanthropy",
+        "ja": "援助",
+        "zh-TW": "慷慨解囊"
+    },
+    {
+        "zh-CN": "服务器BUG",
+        "en": "BUG",
+        "ja": "サーバーエラー",
+        "zh-TW": "伺服器BUG"
+    },
+    {
+        "zh-CN": "食品安全",
+        "en": "Food Safety",
+        "ja": "食品安全",
+        "zh-TW": "食品安全"
+    },
+    {
+        "zh-CN": "全民刮彩",
+        "en": "Lottery",
+        "ja": "宝くじ",
+        "zh-TW": "全民刮彩"
+    },
+    {
+        "zh-CN": "天使降临",
+        "en": "My Goddess",
+        "ja": "天使降臨",
+        "zh-TW": "天使降臨"
+    },
+    {
+        "zh-CN": "天崩地裂",
+        "en": "Deafening Noise",
+        "ja": "天崩地裂",
+        "zh-TW": "天崩地裂"
+    },
+    {
+        "zh-CN": "手牌抹X",
+        "en": "Card Destruction",
+        "ja": "手札抹殺",
+        "zh-TW": "手牌抹消"
+    },
+    {
+        "zh-CN": "商店大酬宾",
+        "en": "Big Sales",
+        "ja": "ショップ大特価",
+        "zh-TW": "商店大酬賓"
+    },
+    {
+        "zh-CN": "拥挤通道",
+        "en": "Crowd",
+        "ja": "混雑した通路",
+        "zh-TW": "擁擠通道"
+    },
+    {
+        "zh-CN": "天降之物",
+        "en": "Falling Gifts",
+        "ja": "天からの贈り物",
+        "zh-TW": "天降之物"
+    },
+    {
+        "zh-CN": "集中隔离",
+        "en": "Concentrated Isolation",
+        "ja": "隔離対策",
+        "zh-TW": "集中隔離"
+    },
+    {
+        "zh-CN": "导电危机",
+        "en": "Shock Hazard",
+        "ja": "感電危険",
+        "zh-TW": "導電危機"
+    },
+    {
+        "zh-CN": "雷区",
+        "en": "Overspending",
+        "ja": "雷区",
+        "zh-TW": "雷區"
+    },
+    {
+        "zh-CN": "口袋漏了",
+        "en": "Broken Pocket",
+        "ja": "ポケットに穴",
+        "zh-TW": "口袋漏了"
+    },
+    {
+        "zh-CN": "战斗，爽！",
+        "en": "It's War",
+        "ja": "さて、戦う！",
+        "zh-TW": "戰鬥，爽！"
+    },
+    {
+        "zh-CN": "人人平等",
+        "en": "Equality",
+        "ja": "人々の平等のために",
+        "zh-TW": "人人平等"
+    },
+    {
+        "zh-CN": "手牌转移",
+        "en": "Switcheroo",
+        "ja": "手札交換",
+        "zh-TW": "手牌轉移"
+    },
+    {
+        "zh-CN": "雷暴将至",
+        "en": "Thunderstorm approaching",
+        "ja": "熱雷",
+        "zh-TW": "雷暴將至"
+    },
+    {
+        "zh-CN": "红温警告",
+        "en": "High temperature warning",
+        "ja": "高温警告",
+        "zh-TW": "紅溫警告"
+    },
+    {
+        "zh-CN": "小浣熊繁殖季",
+        "en": "Raccoon breeding season",
+        "ja": "アライグマ繫殖期",
+        "zh-TW": "小浣熊繁殖季"
+    },
+    {
+        "zh-CN": "海盗偷袭",
+        "en": "Pirate raid",
+        "ja": "海賊襲撃",
+        "zh-TW": "海盜偷襲"
+    },
+    {
+        "zh-CN": "天降神兵",
+        "en": "Relief arrives",
+        "ja": "神兵天降",
+        "zh-TW": "天降神兵"
+    },
+    {
+        "zh-CN": "NEWS-001",
+        "en": "NEWS-001",
+        "ja": "NEWS-001",
+        "zh-TW": "NEWS-001"
+    },
+    {
+        "zh-CN": "NEWS-007",
+        "en": "NEWS-007",
+        "ja": "NEWS-007",
+        "zh-TW": "NEWS-007"
+    },
+    {
+        "zh-CN": "NEWS-005",
+        "en": "NEWS-005",
+        "ja": "NEWS-005",
+        "zh-TW": "NEWS-005"
+    },
+    {
+        "zh-CN": "NEWS-010",
+        "en": "NEWS-010",
+        "ja": "NEWS-010",
+        "zh-TW": "NEWS-010"
+    },
+    {
+        "zh-CN": "NEWS-011",
+        "en": "NEWS-011",
+        "ja": "NEWS-011",
+        "zh-TW": "NEWS-011"
+    },
+    {
+        "zh-CN": "NEWS-012",
+        "en": "NEWS-012",
+        "ja": "NEWS-012",
+        "zh-TW": "NEWS-012"
+    },
+    {
+        "zh-CN": "NEWS-013",
+        "en": "NEWS-013",
+        "ja": "NEWS-013",
+        "zh-TW": "NEWS-013"
+    },
+    {
+        "zh-CN": "NEWS-016",
+        "en": "NEWS-016",
+        "ja": "NEWS-016",
+        "zh-TW": "NEWS-016"
+    },
+    {
+        "zh-CN": "NEWS-017",
+        "en": "NEWS-017",
+        "ja": "NEWS-017",
+        "zh-TW": "NEWS-017"
+    },
+    {
+        "zh-CN": "NEWS-018",
+        "en": "NEWS-018",
+        "ja": "NEWS-018",
+        "zh-TW": "NEWS-018"
+    },
+    {
+        "zh-CN": "NEWS-002",
+        "en": "NEWS-002",
+        "ja": "NEWS-002",
+        "zh-TW": "NEWS-002"
+    },
+    {
+        "zh-CN": "NEWS-003",
+        "en": "NEWS-003",
+        "ja": "NEWS-003",
+        "zh-TW": "NEWS-003"
+    },
+    {
+        "zh-CN": "NEWS-004",
+        "en": "NEWS-004",
+        "ja": "NEWS-004",
+        "zh-TW": "NEWS-004"
+    },
+    {
+        "zh-CN": "NEWS-006",
+        "en": "NEWS-006",
+        "ja": "NEWS-006",
+        "zh-TW": "NEWS-006"
+    },
+    {
+        "zh-CN": "NEWS-008",
+        "en": "NEWS-008",
+        "ja": "NEWS-008",
+        "zh-TW": "NEWS-008"
+    },
+    {
+        "zh-CN": "NEWS-009",
+        "en": "NEWS-009",
+        "ja": "NEWS-009",
+        "zh-TW": "NEWS-009"
+    },
+    {
+        "zh-CN": "NEWS-014",
+        "en": "NEWS-014",
+        "ja": "NEWS-014",
+        "zh-TW": "NEWS-014"
+    },
+    {
+        "zh-CN": "NEWS-015",
+        "en": "NEWS-015",
+        "ja": "NEWS-015",
+        "zh-TW": "NEWS-015"
+    },
+    {
+        "zh-CN": "NEWS-019",
+        "en": "NEWS-019",
+        "ja": "NEWS-019",
+        "zh-TW": "NEWS-019"
+    },
+    {
+        "zh-CN": "NEWS-020",
+        "en": "NEWS-020",
+        "ja": "NEWS-020",
+        "zh-TW": "NEWS-020"
+    },
+    {
+        "zh-CN": "NEWS-021",
+        "en": "NEWS-021",
+        "ja": "NEWS-021",
+        "zh-TW": "NEWS-021"
+    },
+    {
+        "zh-CN": "最高星币的角色和最低星币的角色均分资产。",
+        "en": "Average the coins between the richest and the poorest players.",
+        "ja": "最もコインを持っているキャラクターと最も少ないキャラクターがコインを均等に分けます",
+        "zh-TW": "最高星幣的角色和最低星幣的角色均分資產。"
+    },
+    {
+        "zh-CN": "很急，所有角色下一次的移动骰出2个骰子。",
+        "en": "Use 2 dices for the next move",
+        "ja": "プレイヤーは次の移動時にダイスを2個投げます",
+        "zh-TW": "很急，所有角色下次移動時擲出2顆骰子。"
+    },
+    {
+        "zh-CN": "搞慈善，星币最多的角色失去5星币。",
+        "en": "Coins -5 for the player with the most coins",
+        "ja": "最もコインを持っているキャラクターは5枚のコインを失います",
+        "zh-TW": "星幣最多的角色失去5星幣。"
+    },
+    {
+        "zh-CN": "出现未知问题。",
+        "en": "Swap positions among 4 players",
+        "ja": "全キャラクターの位置が交換になります",
+        "zh-TW": "出現未知問題。"
+    },
+    {
+        "zh-CN": "外卖有问题，所有角色受到1点伤害。\n持续3回合。",
+        "en": "All players take 1 damage.\nLasts 3 turns.",
+        "ja": "全プレイヤーが1ポイントのダメージを受けます\n3ターン間続きます",
+        "zh-TW": "外賣有問題，所有角色受到1點傷害。\n持續3回合。"
+    },
+    {
+        "zh-CN": "所有人获得一次彩票选择机会",
+        "en": "All players get chances to join lottery.",
+        "ja": "全キャラクターが宝くじの選択権を1回得ます",
+        "zh-TW": "所有人獲得一次彩票選擇機會"
+    },
+    {
+        "zh-CN": "所有角色回复2点生命。",
+        "en": "All players heal 2 HP.",
+        "ja": "全キャラクターのHPが2ポイント回復します",
+        "zh-TW": "所有角色回復2點生命。"
+    },
+    {
+        "zh-CN": "噪音太大震耳欲聋，所有角色受到2点伤害。",
+        "en": "The party makes you deaf.\nAll players receive 2 damages.",
+        "ja": "全キャラクターが2ポイントのダメージを受けます",
+        "zh-TW": "噪音太大震耳欲聾，所有角色受到2點傷害。"
+    },
+    {
+        "zh-CN": "所有角色丢弃1张手牌。",
+        "en": "All players discard 1 card randomly.",
+        "ja": "全キャラクターがランダムに1枚のカードを失います",
+        "zh-TW": "所有角色丟棄1張手牌。"
+    },
+    {
+        "zh-CN": "商店大活动，刷出的卡牌数量+2。\n持续3轮次。",
+        "en": "The shop sells 2 more cards.\nLasts 3 turns.",
+        "ja": "ショップのカード補充数が+2\n3ターン間続きます",
+        "zh-TW": "清貨促銷，可供購買卡牌數量+2。\n持續3輪次。"
+    },
+    {
+        "zh-CN": "假期游客暴涨，所有角色传送到彼此相连的随机的4个格子上。",
+        "en": "All players get teleported onto random panels connected.",
+        "ja": "全キャラクターが互いに隣接するランダムなマスに転送されます",
+        "zh-TW": "假期遊客激增，所有角色傳送到彼此相連的隨機的4個格子上。"
+    },
+    {
+        "zh-CN": "天上掉下礼物，所有角色获得3星币和1张卡牌。",
+        "en": "All players gain 3 coins and 1 card.",
+        "ja": "全キャラクターが1枚のカードと3枚のコインを得ます",
+        "zh-TW": "天上掉下禮物，所有角色獲得3星幣和1張卡牌。"
+    },
+    {
+        "zh-CN": "传染病爆发，所有角色传送到医院格。",
+        "en": "All players warp to hospital panel.",
+        "ja": "全プレイヤーが病院マスへ転送されます",
+        "zh-TW": "傳染病爆發，所有角色傳送到醫院格。"
+    },
+    {
+        "zh-CN": "雷电警告，地图随机2个区域出现雷云。\n雷云会对星币有反应。",
+        "en": "Thunderclouds appear on random panels, and are responsive to coins.",
+        "ja": "雷雲がランダムにマップ上に出現し、コインに反応します",
+        "zh-TW": "雷暴警告，地圖隨機2個區域出現雷雲。\n雷雲會對星幣有反應。"
+    },
+    {
+        "zh-CN": "所有角色脚底放置一个陷阱，踩上的角色受到3点伤害。",
+        "en": "Put a trap on each player's current panel.",
+        "ja": "全キャラクターの現在位置にトラップを設置します",
+        "zh-TW": "所有角色腳底放置陷阱，踩上的角色受到3點傷害。"
+    },
+    {
+        "zh-CN": "所有角色下次移动会掉落等同于移动步数的星币。",
+        "en": "Lose coins equal to the move steps for all players' next turn.",
+        "ja": "全キャラクターが次のターンに、移動ステップ数と同じ数のコインを落とします",
+        "zh-TW": "所有角色下次移動會掉落等同於移動步數的星幣。"
+    },
+    {
+        "zh-CN": "所有角色获得1张牌：攻击(特大)",
+        "en": "Each player gets 1 ATK UP (G)",
+        "ja": "全員１枚攻撃（特大）を獲得する",
+        "zh-TW": "所有角色獲得1張牌：攻擊(特大)"
+    },
+    {
+        "zh-CN": "所有角色生命变成1点，下次受到的伤害-10。",
+        "en": "All players' HP drops to 1, and the next damage taken -10.",
+        "ja": "全てのキャラのHPを１にする、次の受けるダメージー１０",
+        "zh-TW": "所有角色生命變成1點，下次受到的傷害-10。"
+    },
+    {
+        "zh-CN": "获得上一行动顺位角色的手牌。",
+        "en": "Get cards from the player before you.",
+        "ja": "自分より1つ前に行動する相手と手札を入れ替える",
+        "zh-TW": "獲得上一行動順位角色的手牌。"
+    },
+    {
+        "zh-CN": "进度条+1，所有人获得一张卡牌",
+        "en": "Progress Bar +1, all players receive a card.",
+        "ja": "進捗バー+1、全員がカード1枚を得ます。",
+        "zh-TW": "進度條+1，所有人獲得一張卡牌"
+    },
+    {
+        "zh-CN": "所有角色的下次攻击力+5",
+        "en": "All players ATK +5 on \n their next attack.",
+        "ja": "プレイヤー全員に次の攻撃時に攻撃力+5を得る。",
+        "zh-TW": "所有角色的下次攻擊力+5"
+    },
+    {
+        "zh-CN": "随机地块生成2只小浣熊",
+        "en": "Randomly generate 2 raccoons on the map.",
+        "ja": "ランダムなマスにアライグマ2体出現！",
+        "zh-TW": "隨機地塊生成2隻小浣熊"
+    },
+    {
+        "zh-CN": "随机地块生成2只鲨鱼海盗",
+        "en": "Randomly generate 2 shark pirates on the map.",
+        "ja": "ランダムなマスにサメ海賊2体出現！",
+        "zh-TW": "隨機地塊生成2隻鯊魚海盜"
+    },
+    {
+        "zh-CN": "进度条-1",
+        "en": "Progress Bar -1",
+        "ja": "進捗バー-1",
+        "zh-TW": "進度條-1"
+    },
+    {
+        "zh-CN": "你的就是我的",
+        "en": "What's yours is mine",
+        "ja": "お前の物は俺の手に入れろ！",
+        "zh-TW": "你的就是我的"
+    },
+    {
+        "zh-CN": "当某个爵士乐响起",
+        "en": "Hurry up!",
+        "ja": "あるジャズがかかると…",
+        "zh-TW": "當某個爵士樂響起"
+    },
+    {
+        "zh-CN": "搞针对是吧",
+        "en": "OK.\nGood.",
+        "ja": "金持ちすぎ、狙われた",
+        "zh-TW": "搞針對是吧"
+    },
+    {
+        "zh-CN": "抓错人啦！",
+        "en": "You arrested wrong!",
+        "ja": "間違った人を逮捕したよ！",
+        "zh-TW": "抓錯人啦！"
+    },
+    {
+        "zh-CN": "我们运用了最新的土豆牌服务器。",
+        "en": "Made by potato.",
+        "ja": "サーバー異常",
+        "zh-TW": "我們運用了最新的馬鈴薯服務器。"
+    },
+    {
+        "zh-CN": "都是喷射战士了",
+        "en": "Graaap.",
+        "ja": "下痢になるよ",
+        "zh-TW": "一瀉千里"
+    },
+    {
+        "zh-CN": "中！",
+        "en": "Yes!Yes!Yes!",
+        "ja": "宝くじを当てさせて！",
+        "zh-TW": "中！"
+    },
+    {
+        "zh-CN": "你们不要再打啦！",
+        "en": "You guys stop fighting!",
+        "ja": "ケンカやめてください！",
+        "zh-TW": "你們不要再打囉！"
+    },
+    {
+        "zh-CN": "周末夜狂欢",
+        "en": "It's the night!",
+        "ja": "週末カーニバル夜",
+        "zh-TW": "週末夜狂歡"
+    },
+    {
+        "zh-CN": "这手牌太卡手了",
+        "en": "The card bites me!",
+        "ja": "手札があるプレイヤーは、その手札を全て捨てる。その後、それぞれ自身が捨てた枚数分デッキからドローする。",
+        "zh-TW": "這手牌太卡手了"
+    },
+    {
+        "zh-CN": "相信我可以带你们走向光荣的进化",
+        "en": "Let's embrace a glorious evolution",
+        "ja": "栄光の進化を抱きしめよう",
+        "zh-TW": "相信我可以帶你們走向光榮的進化"
+    },
+    {
+        "zh-CN": "好消息，好消息",
+        "en": "Good news! Good news!",
+        "ja": "朗報、朗報",
+        "zh-TW": "好消息，好消息"
+    },
+    {
+        "zh-CN": "春宵苦短，前进吧！",
+        "en": "See you soon!",
+        "ja": "夜は短し歩けよ！",
+        "zh-TW": "春宵苦短，前進吧！"
+    },
+    {
+        "zh-CN": "不会掉下来妹子的",
+        "en": "Of course, no girls.",
+        "ja": "女の子が落ちることはない",
+        "zh-TW": "仁慈的上帝，求你賜一個⋯⋯"
+    },
+    {
+        "zh-CN": "大郎，该吃药了",
+        "en": "Darling, it's time for medicine.",
+        "ja": "薬を飲む時間",
+        "zh-TW": "大郎，該吃藥了"
+    },
+    {
+        "zh-CN": "Waring,Lightning storm created.",
+        "en": "Warning! Lightning storm created.",
+        "ja": "警報、雷雨",
+        "zh-TW": "Waring,Lightning storm created"
+    },
+    {
+        "zh-CN": "不买立减100%，算了还是买吧",
+        "en": "... Let's buy it anyway.",
+        "ja": "消費者の罠に気をつけろ",
+        "zh-TW": "不買省100%，但⋯⋯還是買吧"
+    },
+    {
+        "zh-CN": "跑的太快容易扯着袋。",
+        "en": "Be careful to your bag.",
+        "ja": "速く走りすぎるのはよくない",
+        "zh-TW": "跑的太快容易扯著袋。"
+    },
+    {
+        "zh-CN": "这我不追着你打？",
+        "en": "Wanna run away?\nNot a chance!",
+        "ja": "逃げたいの？ そのチャンスはないよ！",
+        "zh-TW": "這我不追著你打？"
+    },
+    {
+        "zh-CN": "这下大家都一样了",
+        "en": "Now we are euqal.",
+        "ja": "これで皆同じだ！",
+        "zh-TW": "這下大家都一樣了"
+    },
+    {
+        "zh-CN": "我这么好的起手牌！",
+        "en": "I had a good hand!",
+        "ja": "こんな上振れある？",
+        "zh-TW": "我這麼好的起手牌！"
+    },
+    {
+        "zh-CN": "这云像要世界末日了！",
+        "en": ".These clouds look like the end of the world...",
+        "ja": "世界の終わりみたいな....",
+        "zh-TW": "這雲像要世界末日了！"
+    },
+    {
+        "zh-CN": "这么热的天停电？？",
+        "en": "Power outage in this heat!?",
+        "ja": "　こんな暑いのに停電！？",
+        "zh-TW": "這麼熱的天停電？？"
+    },
+    {
+        "zh-CN": "春天到了",
+        "en": "Spring",
+        "ja": "春が来た",
+        "zh-TW": "春天到了"
+    },
+    {
+        "zh-CN": "你是什么东西？",
+        "en": "Who are you!?",
+        "ja": "お前は一体何なんだ！",
+        "zh-TW": "你是什麼東西？"
+    },
+    {
+        "zh-CN": "我来救你们啦！",
+        "en": "I’m coming!",
+        "ja": "私が来た！",
+        "zh-TW": "我來救你們啦！"
+    }
+]

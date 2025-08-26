@@ -1,0 +1,170 @@
+[
+    {
+        "zh-CN": "短",
+        "en": "Short",
+        "ja": "短い",
+        "zh-TW": "短"
+    },
+    {
+        "zh-CN": "中",
+        "en": "Normal",
+        "ja": "普通",
+        "zh-TW": "中"
+    },
+    {
+        "zh-CN": "长",
+        "en": "Long",
+        "ja": "長い",
+        "zh-TW": "長"
+    },
+    {
+        "zh-CN": "普通",
+        "en": "Normal",
+        "ja": "普通",
+        "zh-TW": "普通"
+    },
+    {
+        "zh-CN": "快速",
+        "en": "Fast",
+        "ja": "x2",
+        "zh-TW": "快速"
+    },
+    {
+        "zh-CN": "普通",
+        "en": "Normal",
+        "ja": "普通",
+        "zh-TW": "普通"
+    },
+    {
+        "zh-CN": "困难",
+        "en": "Hard",
+        "ja": "困難",
+        "zh-TW": "困難"
+    },
+    {
+        "zh-CN": "噩梦",
+        "en": "Nightmare",
+        "ja": "悪夢",
+        "zh-TW": "噩夢"
+    },
+    {
+        "zh-CN": "疯狂",
+        "en": "Insane",
+        "ja": "狂気",
+        "zh-TW": "瘋狂"
+    },
+    {
+        "zh-CN": "极限",
+        "en": "Extreme",
+        "ja": "極限",
+        "zh-TW": "極限"
+    },
+    {
+        "zh-CN": "不跳过",
+        "en": "Don't Skip",
+        "ja": "OFF",
+        "zh-TW": "不跳過"
+    },
+    {
+        "zh-CN": "跳过",
+        "en": "Skip",
+        "ja": "ON",
+        "zh-TW": "跳過"
+    },
+    {
+        "zh-CN": "游玩地图",
+        "en": "Map",
+        "ja": "マップ",
+        "zh-TW": "遊玩地圖"
+    },
+    {
+        "zh-CN": "思考时间",
+        "en": "Time",
+        "ja": "思考時間",
+        "zh-TW": "思考時間"
+    },
+    {
+        "zh-CN": "升级所需星币",
+        "en": "Level Up",
+        "ja": "勝利条件",
+        "zh-TW": "升級所需星幣"
+    },
+    {
+        "zh-CN": "难度",
+        "en": "Difficulty",
+        "ja": "難易度",
+        "zh-TW": "難度"
+    },
+    {
+        "zh-CN": "游戏速度",
+        "en": "Game Speed",
+        "ja": "スピード",
+        "zh-TW": "遊戲速度"
+    },
+    {
+        "zh-CN": "跳过剧情",
+        "en": "Skip Story",
+        "ja": "ストーリースキップ",
+        "zh-TW": "跳過劇情"
+    },
+    {
+        "zh-CN": "学习规则吧",
+        "en": "Learn how to play",
+        "ja": "ルールを学べ！",
+        "zh-TW": "學習規則吧"
+    },
+    {
+        "zh-CN": "千里之行，始于足下",
+        "en": "A journey of a thousand miles begins with a single step.",
+        "ja": "千里の道も一歩から",
+        "zh-TW": "千里之行，始于足下"
+    },
+    {
+        "zh-CN": "想流点汗",
+        "en": "Looking to work up a sweat.",
+        "ja": "汗かきたい",
+        "zh-TW": "想流點汗"
+    },
+    {
+        "zh-CN": "建议合作挑战等级>1",
+        "en": "Recommand Co-Op LV>1",
+        "ja": "キャラの協力チャレンジレベル１以上の人におすすめ",
+        "zh-TW": "建議合作挑戰等級>1"
+    },
+    {
+        "zh-CN": "挑战自己的技术",
+        "en": "Push myself",
+        "ja": "己の技術を磨きたい",
+        "zh-TW": "挑戰自己的技術"
+    },
+    {
+        "zh-CN": "建议合作挑战等级>2",
+        "en": "Recommand Co-Op LV>2",
+        "ja": "キャラの協力チャレンジレベル２以上の人におすすめ",
+        "zh-TW": "建議合作挑戰等級>2"
+    },
+    {
+        "zh-CN": "我们是王牌小队",
+        "en": "More experts!?",
+        "ja": "まだこんな達人が！？",
+        "zh-TW": "我們是王牌小隊"
+    },
+    {
+        "zh-CN": "<img src='ui://xuaw6o8jns7xat' width='40' height='40'/>建议合作挑战等级>3",
+        "en": "<img src='ui://xuaw6o8jns7xat' width='40' height='40'/>Recommand Co-Op LV>3",
+        "ja": "<img src='ui://xuaw6o8jns7xat' width='40' height='40'/>キャラの協力チャレンジレベル３以上の人におすすめ",
+        "zh-TW": "<img src='ui://xuaw6o8jns7xat' width='40' height='40'/>建議合作挑戰等級>3"
+    },
+    {
+        "zh-CN": "努力地生存下去吧",
+        "en": "Try your best to survive!",
+        "ja": "努力して生きよう！",
+        "zh-TW": "努力地生存下去吧"
+    },
+    {
+        "zh-CN": "<img src='ui://xuaw6o8jns7xat' width='40' height='40'/>建议合作挑战等级>5",
+        "en": "<img src='ui://xuaw6o8jns7xat' width='40' height='40'/>Recommand Co-Op LV>5",
+        "ja": "<img src='ui://xuaw6o8jns7xat' width='40' height='40'/>キャラの協力チャレンジレベル5以上の人におすすめ",
+        "zh-TW": "<img src='ui://xuaw6o8jns7xat' width='40' height='40'/>建議合作挑戰等級>5"
+    }
+]

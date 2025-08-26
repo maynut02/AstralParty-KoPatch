@@ -1,0 +1,310 @@
+[
+    {
+        "zh-CN": "+星币",
+        "en": "+coin",
+        "ja": "コインを貰う",
+        "zh-TW": "+星幣",
+        "kr": "코인 획득"
+    },
+    {
+        "zh-CN": "-星币",
+        "en": "-coin",
+        "ja": "コインを失う",
+        "zh-TW": "-星幣",
+        "kr": "코인 잃음"
+    },
+    {
+        "zh-CN": "+生命",
+        "en": "+HP",
+        "ja": "HPを回復する",
+        "zh-TW": "+生命",
+        "kr": "HP 회복"
+    },
+    {
+        "zh-CN": "-生命",
+        "en": "-HP",
+        "ja": "HPを失う",
+        "zh-TW": "-生命",
+        "kr": "HP 감소"
+    },
+    {
+        "zh-CN": "+卡牌",
+        "en": "+card",
+        "ja": "カードを貰う",
+        "zh-TW": "+卡牌",
+        "kr": "카드 획득"
+    },
+    {
+        "zh-CN": "-卡牌",
+        "en": "-card",
+        "ja": "カードを失う",
+        "zh-TW": "-卡牌",
+        "kr": "카드 잃음"
+    },
+    {
+        "zh-CN": "获得5星币。",
+        "en": "Gain 5 coins",
+        "ja": "5コインを獲得",
+        "zh-TW": "獲得5星幣。",
+        "kr": "5코인 획득"
+    },
+    {
+        "zh-CN": "失去5星币。",
+        "en": "Lose 5 coins",
+        "ja": "5コインを失う",
+        "zh-TW": "失去5星幣。",
+        "kr": "5코인 잃음"
+    },
+    {
+        "zh-CN": "回复2生命。",
+        "en": "Heal 2 HP",
+        "ja": "2HPを回復",
+        "zh-TW": "回復2生命。",
+        "kr": "HP +2"
+    },
+    {
+        "zh-CN": "失去2生命。",
+        "en": "Take 2 damages",
+        "ja": "2ダメージを受ける",
+        "zh-TW": "失去2生命。",
+        "kr": "2의 피해를 받음"
+    },
+    {
+        "zh-CN": "获得1张牌。",
+        "en": "Gain 1 card",
+        "ja": "1枚のカードを獲得",
+        "zh-TW": "獲得1張牌。",
+        "kr": "카드 1장 획득"
+    },
+    {
+        "zh-CN": "丢失1张牌。",
+        "en": "Lose 1 card",
+        "ja": "1枚のカードを失う",
+        "zh-TW": "丟失1張牌。",
+        "kr": "카드 1장 잃음"
+    },
+    {
+        "zh-CN": "等级最高的人",
+        "en": "Most Star",
+        "ja": "レベルが最も高い人",
+        "zh-TW": "等級最高的人",
+        "kr": "가장 많은 별"
+    },
+    {
+        "zh-CN": "等级最低的人",
+        "en": "Least Star",
+        "ja": "レベルが最も低い人",
+        "zh-TW": "等級最低的人",
+        "kr": "가장 적은 별"
+    },
+    {
+        "zh-CN": "生命值最多的人",
+        "en": "Highest HP",
+        "ja": "HPが最も多い人",
+        "zh-TW": "生命值最多的人",
+        "kr": "가장 많은 HP"
+    },
+    {
+        "zh-CN": "生命值最少的人",
+        "en": "Lowest HP",
+        "ja": "HPが最も少ない人",
+        "zh-TW": "生命值最少的人",
+        "kr": "가장 적은 HP"
+    },
+    {
+        "zh-CN": "星币最多的人",
+        "en": "Most Coins",
+        "ja": "コインが最も多い人",
+        "zh-TW": "星幣最多的人",
+        "kr": "가장 많은 코인"
+    },
+    {
+        "zh-CN": "星币最少的人",
+        "en": "Least Coins",
+        "ja": "コインが最も少ない人",
+        "zh-TW": "星幣最少的人",
+        "kr": "가장 적은 코인"
+    },
+    {
+        "zh-CN": "手牌最多的人",
+        "en": "Most Cards",
+        "ja": "手札が最も多い人",
+        "zh-TW": "手牌最多的人",
+        "kr": "가장 많은 카드"
+    },
+    {
+        "zh-CN": "手牌最少的人",
+        "en": "Least Cards",
+        "ja": "手札が最も少ない人",
+        "zh-TW": "手牌最少的人",
+        "kr": "가장 적은 카드"
+    },
+    {
+        "zh-CN": "THE CHOSEN - 001",
+        "en": "THE CHOSEN - 001",
+        "ja": "THE CHOSEN - 001",
+        "zh-TW": "THE CHOSEN - 001",
+        "kr": ""
+    },
+    {
+        "zh-CN": "THE CHOSEN - 002",
+        "en": "THE CHOSEN - 002",
+        "ja": "THE CHOSEN - 002",
+        "zh-TW": "THE CHOSEN - 002",
+        "kr": ""
+    },
+    {
+        "zh-CN": "THE CHOSEN - 005",
+        "en": "THE CHOSEN - 005",
+        "ja": "THE CHOSEN - 005",
+        "zh-TW": "THE CHOSEN - 005",
+        "kr": ""
+    },
+    {
+        "zh-CN": "THE CHOSEN - 006",
+        "en": "THE CHOSEN - 006",
+        "ja": "THE CHOSEN - 006",
+        "zh-TW": "THE CHOSEN - 006",
+        "kr": ""
+    },
+    {
+        "zh-CN": "THE CHOSEN - 003",
+        "en": "THE CHOSEN - 003",
+        "ja": "THE CHOSEN - 003",
+        "zh-TW": "THE CHOSEN - 003",
+        "kr": ""
+    },
+    {
+        "zh-CN": "THE CHOSEN - 004",
+        "en": "THE CHOSEN - 004",
+        "ja": "THE CHOSEN - 004",
+        "zh-TW": "THE CHOSEN - 004",
+        "kr": ""
+    },
+    {
+        "zh-CN": "THE CHOSEN - 007",
+        "en": "THE CHOSEN - 007",
+        "ja": "THE CHOSEN - 007",
+        "zh-TW": "THE CHOSEN - 007",
+        "kr": ""
+    },
+    {
+        "zh-CN": "THE CHOSEN - 008",
+        "en": "THE CHOSEN - 008",
+        "ja": "THE CHOSEN - 008",
+        "zh-TW": "THE CHOSEN - 008",
+        "kr": ""
+    },
+    {
+        "zh-CN": "星数最高的玩家",
+        "en": "Most Star",
+        "ja": "レベルが最も高い人",
+        "zh-TW": "等級最高的角色",
+        "kr": "가장 많은 별"
+    },
+    {
+        "zh-CN": "星数最低的玩家",
+        "en": "Least Star",
+        "ja": "レベルが最も低い人",
+        "zh-TW": "等級最低的角色",
+        "kr": "가장 적은 별"
+    },
+    {
+        "zh-CN": "生命最高的玩家",
+        "en": "Highest HP",
+        "ja": "HPが最も多い人",
+        "zh-TW": "生命最高的角色",
+        "kr": "가장 많은 HP"
+    },
+    {
+        "zh-CN": "生命最低的玩家",
+        "en": "Lowest HP",
+        "ja": "HPが最も少ない人",
+        "zh-TW": "生命最低的角色",
+        "kr": ""
+    },
+    {
+        "zh-CN": "星币最多的玩家",
+        "en": "Most Coins",
+        "ja": "コインが最も多い人",
+        "zh-TW": "星幣最多的角色",
+        "kr": ""
+    },
+    {
+        "zh-CN": "星币最少的玩家",
+        "en": "Least Coins",
+        "ja": "コインが最も少ない人",
+        "zh-TW": "星幣最少的角色",
+        "kr": ""
+    },
+    {
+        "zh-CN": "手牌最多的玩家",
+        "en": "Most Cards",
+        "ja": "手札が最も多い人",
+        "zh-TW": "手牌最多的角色",
+        "kr": ""
+    },
+    {
+        "zh-CN": "手牌最少的玩家",
+        "en": "Least Cards",
+        "ja": "手札が最も少ない人",
+        "zh-TW": "手牌最少的角色",
+        "kr": ""
+    },
+    {
+        "zh-CN": "被选中的人啊，接受你的命运吧",
+        "en": "Chosen one, embrace your destiny.",
+        "ja": "選ばれた者よ、あなたの運命を受け入れなさい。",
+        "zh-TW": "被選中的人啊，接受你的命運吧",
+        "kr": "선택된 자여, 당신의 운명을 받아들여라."
+    },
+    {
+        "zh-CN": "被选中的人啊，接受你的命运吧",
+        "en": "Chosen one, embrace your destiny.",
+        "ja": "選ばれた者よ、あなたの運命を受け入れなさい。",
+        "zh-TW": "被選中的人啊，接受你的命運吧",
+        "kr": ""
+    },
+    {
+        "zh-CN": "被选中的人啊，接受你的命运吧",
+        "en": "Chosen one, embrace your destiny.",
+        "ja": "選ばれた者よ、あなたの運命を受け入れなさい。",
+        "zh-TW": "被選中的人啊，接受你的命運吧",
+        "kr": ""
+    },
+    {
+        "zh-CN": "被选中的人啊，接受你的命运吧",
+        "en": "Chosen one, embrace your destiny.",
+        "ja": "選ばれた者よ、あなたの運命を受け入れなさい。",
+        "zh-TW": "被選中的人啊，接受你的命運吧",
+        "kr": ""
+    },
+    {
+        "zh-CN": "被选中的人啊，接受你的命运吧",
+        "en": "Chosen one, embrace your destiny.",
+        "ja": "選ばれた者よ、あなたの運命を受け入れなさい。",
+        "zh-TW": "被選中的人啊，接受你的命運吧",
+        "kr": ""
+    },
+    {
+        "zh-CN": "被选中的人啊，接受你的命运吧",
+        "en": "Chosen one, embrace your destiny.",
+        "ja": "選ばれた者よ、あなたの運命を受け入れなさい。",
+        "zh-TW": "被選中的人啊，接受你的命運吧",
+        "kr": ""
+    },
+    {
+        "zh-CN": "被选中的人啊，接受你的命运吧",
+        "en": "Chosen one, embrace your destiny.",
+        "ja": "選ばれた者よ、あなたの運命を受け入れなさい。",
+        "zh-TW": "被選中的人啊，接受你的命運吧",
+        "kr": ""
+    },
+    {
+        "zh-CN": "被选中的人啊，接受你的命运吧",
+        "en": "Chosen one, embrace your destiny.",
+        "ja": "選ばれた者よ、あなたの運命を受け入れなさい。",
+        "zh-TW": "被選中的人啊，接受你的命運吧",
+        "kr": ""
+    }
+]

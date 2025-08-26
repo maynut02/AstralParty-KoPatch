@@ -1,0 +1,1815 @@
+[
+    {
+        "zh-CN": "网络购物",
+        "en": "Online Shopping",
+        "ja": "ネットショッピング",
+        "zh-TW": "線上購物",
+        "kr": "온라인 쇼핑"
+    },
+    {
+        "zh-CN": "麻烦制造者",
+        "en": "Trouble Maker",
+        "ja": "トラブル・メーカー",
+        "zh-TW": "麻煩製造者",
+        "kr": "트러블 메이커"
+    },
+    {
+        "zh-CN": "铁处女",
+        "en": "Iron Maiden",
+        "ja": "アイアン・メイデン",
+        "zh-TW": "鐵處女",
+        "kr": "아이언 메이든"
+    },
+    {
+        "zh-CN": "忍术连击",
+        "en": "Ninpo Combo",
+        "ja": "忍術連撃",
+        "zh-TW": "忍術連擊",
+        "kr": "인술콤보"
+    },
+    {
+        "zh-CN": "真的生气了",
+        "en": "You Burn Me Up",
+        "ja": "マジで怒ったぞ",
+        "zh-TW": "真的生氣了",
+        "kr": "진짜로 화났어"
+    },
+    {
+        "zh-CN": "嘬你一口",
+        "en": "Take a Sip",
+        "ja": "ひとくちだけ",
+        "zh-TW": "啜一口",
+        "kr": "한 모금만"
+    },
+    {
+        "zh-CN": "熊孩子特权",
+        "en": "Naughty Kid",
+        "ja": "子供の特権",
+        "zh-TW": "小屁孩特權",
+        "kr": "장난꾸러기"
+    },
+    {
+        "zh-CN": "熊孩子特权",
+        "en": "Naughty Kid",
+        "ja": "子供の特権",
+        "zh-TW": "小屁孩特權",
+        "kr": "장난꾸러기"
+    },
+    {
+        "zh-CN": "商品补货",
+        "en": "Replenishment",
+        "ja": "商品補充",
+        "zh-TW": "商品補貨",
+        "kr": "재고보충"
+    },
+    {
+        "zh-CN": "过来吧你",
+        "en": "Hook Over",
+        "ja": "引き寄せる",
+        "zh-TW": "過來吧你",
+        "kr": "빨아당기기"
+    },
+    {
+        "zh-CN": "过来吧你",
+        "en": "Hook Over",
+        "ja": "引き寄せる",
+        "zh-TW": "過來吧你",
+        "kr": "빨아당기기"
+    },
+    {
+        "zh-CN": "搞事情",
+        "en": "Conjured Health",
+        "ja": "厚い肌",
+        "zh-TW": "撩事鬥非",
+        "kr": "미번역"
+    },
+    {
+        "zh-CN": "大吃特吃",
+        "en": "Eat a lot",
+        "ja": "食べ放題",
+        "zh-TW": "大吃特吃",
+        "kr": "폭풍흡입"
+    },
+    {
+        "zh-CN": "猎手印记",
+        "en": "Hunter's Mark",
+        "ja": "ハンター・マーク",
+        "zh-TW": "獵人印記",
+        "kr": "사냥꾼의 징표"
+    },
+    {
+        "zh-CN": "附着粘液",
+        "en": "Adhesive Slime",
+        "ja": "粘着スライム",
+        "zh-TW": "附著黏液",
+        "kr": "점착 슬라임"
+    },
+    {
+        "zh-CN": "治愈粘液",
+        "en": "Healing Mucus",
+        "ja": "癒しの粘液",
+        "zh-TW": "治癒粘液",
+        "kr": "치유 점액"
+    },
+    {
+        "zh-CN": "运功",
+        "en": "Internal Energy Cultivation",
+        "ja": "気功修練",
+        "zh-TW": "運功",
+        "kr": "운기조식"
+    },
+    {
+        "zh-CN": "运功",
+        "en": "Internal Energy Cultivation",
+        "ja": "気功修練",
+        "zh-TW": "運功",
+        "kr": "운기조식"
+    },
+    {
+        "zh-CN": "宿命回响",
+        "en": "Fate Echo",
+        "ja": "フェイト・エコー",
+        "zh-TW": "宿命迴響",
+        "kr": "운명의 메아리"
+    },
+    {
+        "zh-CN": "虚弱印记",
+        "en": "Weakness Mark",
+        "ja": "フェイト・エコー",
+        "zh-TW": "虛弱印記",
+        "kr": "약점 표시"
+    },
+    {
+        "zh-CN": "樱花裂空斩",
+        "en": "Sakura Setsudan",
+        "ja": "桜裂空斬",
+        "zh-TW": "櫻花裂空斬",
+        "kr": "벚꽃베기"
+    },
+    {
+        "zh-CN": "樱花裂空斩",
+        "en": "Sakura Setsudan",
+        "ja": "桜裂空斬",
+        "zh-TW": "櫻花裂空斬",
+        "kr": "벚꽃베기"
+    },
+    {
+        "zh-CN": "女王特权",
+        "en": "Royal Authority",
+        "ja": "クィーン プリビレッジ",
+        "zh-TW": "女王特權",
+        "kr": "여왕의 특권"
+    },
+    {
+        "zh-CN": "能量过载",
+        "en": "Overdrive",
+        "ja": "オーバードライブ",
+        "zh-TW": "能量超載",
+        "kr": "오버드라이브"
+    },
+    {
+        "zh-CN": "强者怜悯",
+        "en": "Mercy of the Strong",
+        "ja": "強者の憐憫",
+        "zh-TW": "強者憐憫",
+        "kr": "강자의자비"
+    },
+    {
+        "zh-CN": "强者怜悯",
+        "en": "Mercy of the Strong",
+        "ja": "強者の憐憫",
+        "zh-TW": "強者憐憫",
+        "kr": "강자의자비"
+    },
+    {
+        "zh-CN": "无可阻挡",
+        "en": "Unstoppable",
+        "ja": "真夜の一閃",
+        "zh-TW": "無可阻擋",
+        "kr": "저지 불가"
+    },
+    {
+        "zh-CN": "无可阻挡",
+        "en": "Unstoppable",
+        "ja": "真夜の一閃",
+        "zh-TW": "無可阻擋",
+        "kr": "저지 불가"
+    },
+    {
+        "zh-CN": "远程侵入",
+        "en": "Remote Intrusion",
+        "ja": "ハッキング",
+        "zh-TW": "遠程侵入",
+        "kr": "원격 침입"
+    },
+    {
+        "zh-CN": "远程侵入",
+        "en": "Remote Intrusion",
+        "ja": "ハッキング",
+        "zh-TW": "遠程侵入",
+        "kr": "원격 침입"
+    },
+    {
+        "zh-CN": "活体书页",
+        "en": "Living Page",
+        "ja": "ライフ・ブック",
+        "zh-TW": "活體書頁",
+        "kr": "리빙 페이지"
+    },
+    {
+        "zh-CN": "活体书页",
+        "en": "Living Page",
+        "ja": "ライフ・ブック",
+        "zh-TW": "活體書頁",
+        "kr": "리빙 페이지"
+    },
+    {
+        "zh-CN": "轨道轰炸",
+        "en": "Orbital Bombardment",
+        "ja": "軌道エアバースト",
+        "zh-TW": "軌道轟炸",
+        "kr": "궤도 폭격"
+    },
+    {
+        "zh-CN": "轨道轰炸",
+        "en": "Orbital Bombardment",
+        "ja": "軌道エアバースト",
+        "zh-TW": "軌道轟炸",
+        "kr": "궤도 폭격"
+    },
+    {
+        "zh-CN": "白泽赐福",
+        "en": "Bai Ze's Blessing",
+        "ja": "白沢よ、福を与えよ",
+        "zh-TW": "白澤賜福",
+        "kr": "바이제의 축복"
+    },
+    {
+        "zh-CN": "白泽赐福",
+        "en": "Bai Ze's Blessing",
+        "ja": "白沢よ、福を与えよ",
+        "zh-TW": "白澤賜福",
+        "kr": "바이제의 축복"
+    },
+    {
+        "zh-CN": "降神",
+        "en": "Divine Invocation",
+        "ja": "三神憑依",
+        "zh-TW": "降神",
+        "kr": "신내림"
+    },
+    {
+        "zh-CN": "降神",
+        "en": "Divine Invocation",
+        "ja": "三神憑依",
+        "zh-TW": "降神",
+        "kr": "신내림"
+    },
+    {
+        "zh-CN": "网络天使",
+        "en": "Internet Angel",
+        "ja": "インターネットエンジェル",
+        "zh-TW": "網路天使",
+        "kr": "인터넷 엔젤"
+    },
+    {
+        "zh-CN": "感情过量摄入",
+        "en": "Overdose of Love",
+        "ja": "愛情の過剰摂取",
+        "zh-TW": "感情過量攝入",
+        "kr": "사랑 과다 복용"
+    },
+    {
+        "zh-CN": "吐息",
+        "en": "Breathe",
+        "ja": "ブレス",
+        "zh-TW": "吐息",
+        "kr": "브레스"
+    },
+    {
+        "zh-CN": "火枪打击",
+        "en": "Gun Fire",
+        "ja": "一斉砲撃",
+        "zh-TW": "火槍打擊",
+        "kr": "집중포격"
+    },
+    {
+        "zh-CN": "召唤鲨鱼",
+        "en": "Shark Summon",
+        "ja": "サメ召喚",
+        "zh-TW": "召喚鯊魚",
+        "kr": "상어소환"
+    },
+    {
+        "zh-CN": "毒性攻击",
+        "en": "Poison Attack",
+        "ja": "ポイズンアタック",
+        "zh-TW": "毒性攻擊",
+        "kr": "포이즌 어택"
+    },
+    {
+        "zh-CN": "灵体降临",
+        "en": "Falling Spirit",
+        "ja": "霊体降臨",
+        "zh-TW": "靈體降臨",
+        "kr": "영체강림"
+    },
+    {
+        "zh-CN": "过节就是要放烟花！",
+        "en": "Festivals are all about fireworks!",
+        "ja": "祭なら花火っしょ！",
+        "zh-TW": "過節就是要放煙花！",
+        "kr": "축제엔 불꽃놀이지!"
+    },
+    {
+        "zh-CN": "炒热气氛",
+        "en": "Liven up the atmosphere",
+        "ja": "盛り上がって行くぞ",
+        "zh-TW": "炒熱氣氛",
+        "kr": "분위기 띄우기"
+    },
+    {
+        "zh-CN": "不安全燃放",
+        "en": "Unsafe Fireworks",
+        "ja": "不安全な行動",
+        "zh-TW": "不安全燃放",
+        "kr": "위험한 놀이"
+    },
+    {
+        "zh-CN": "守护宝珠",
+        "en": "Guardian Orb",
+        "ja": "ガーディアンオーブ",
+        "zh-TW": "守護寶珠",
+        "kr": "가디언 오브"
+    },
+    {
+        "zh-CN": "指示",
+        "en": "Indicate",
+        "ja": "指示",
+        "zh-TW": "指示",
+        "kr": "지시"
+    },
+    {
+        "zh-CN": "下午茶时间",
+        "en": "Tea Time",
+        "ja": "ティータイム",
+        "zh-TW": "下午茶時間",
+        "kr": "티타임"
+    },
+    {
+        "zh-CN": "远程飞弹",
+        "en": "Remote Missile",
+        "ja": "魔法追尾弾",
+        "zh-TW": "遠程飛彈",
+        "kr": "마법미사일"
+    },
+    {
+        "zh-CN": "海王祝福",
+        "en": "Blessing of the Ocean Lord",
+        "ja": "海王の祝福",
+        "zh-TW": "海王祝福",
+        "kr": "왕의 축복"
+    },
+    {
+        "zh-CN": "连锁反应",
+        "en": "Chain Reaction",
+        "ja": "連鎖反応",
+        "zh-TW": "連鎖反應",
+        "kr": "연쇄반응"
+    },
+    {
+        "zh-CN": "召唤眷属",
+        "en": "Summon Follower",
+        "ja": "眷属召喚",
+        "zh-TW": "召喚眷屬",
+        "kr": "권속소환"
+    },
+    {
+        "zh-CN": "眷族支援",
+        "en": "Follower Support",
+        "ja": "眷属の支援",
+        "zh-TW": "眷族支援",
+        "kr": "권속의지원"
+    },
+    {
+        "zh-CN": "尖刺风暴",
+        "en": "Spike Storm",
+        "ja": "ストームスパイク",
+        "zh-TW": "尖刺風暴",
+        "kr": "스파이크 스톰"
+    },
+    {
+        "zh-CN": "蛟之吻",
+        "en": "Jiao's Kiss",
+        "ja": "蛟のキッス",
+        "zh-TW": "蛟之吻",
+        "kr": "교룡의키스"
+    },
+    {
+        "zh-CN": "葫芦佳酿",
+        "en": "Gourd Wine",
+        "ja": "ひょうたん酒",
+        "zh-TW": "葫蘆佳釀",
+        "kr": "호리병 술"
+    },
+    {
+        "zh-CN": "远程打开商店，购买卡牌。",
+        "en": "Opens a card shop anywhere, regardless of panels.",
+        "ja": "リモートでショップで、カードを購入する。",
+        "zh-TW": "遙距開啟商店，購買卡牌。",
+        "kr": "원격으로 상점을 오픈해 카드를 구매."
+    },
+    {
+        "zh-CN": "本回合停留后，额外触发一次事件。",
+        "en": "Trigger an additional event at the end of the turn",
+        "ja": "1ターン滞在する後、追加で[color=#4386F4]1[/color]回イベントを発生させます。",
+        "zh-TW": "本回合停留後，額外觸發一次事件。",
+        "kr": "이번 턴 종료 시 추가 이벤트 [color=#4386F4]1[/color]회 발생."
+    },
+    {
+        "zh-CN": "从2个随机事件中选择一个立刻发动。",
+        "en": "Choose 1 from 2 random events to activate.",
+        "ja": "2つのランダムイベントから1つを選んでそれを発動する。",
+        "zh-TW": "從2個隨機事件中選擇壹個立刻發動。",
+        "kr": "2개의 랜덤 이벤트 중 하나를 선택해 즉시 발동."
+    },
+    {
+        "zh-CN": "使用主动技能时免疫战斗和陷阱，持续[color=#4386F4]1[/color]回合；当前自身没有触发被动时使用后获得被动效果。",
+        "en": "Immune to traps, avoids combat for [color=#4386F4]1[/color] turn when using an active skill, and \nautomatically triggers the passive skill if it hasn’t been activated.",
+        "ja": "戦闘と罠に対する無効化効果を得る、自分からの攻撃発起が可能。（[color=#4386F4]1[/color]ターン継続）",
+        "zh-TW": "使用主動技能時免疫戰鬥和陷阱，持續[color=#4386F4]1[/color]回合；當前自身沒有觸發被動時使用後獲得被動效果。",
+        "kr": "전투와 함정에 면역. [color=#4386F4]1[/color]턴 지속. 패시브가 발동되지 않은 상태라면 즉시 패시브 발동."
+    },
+    {
+        "zh-CN": "当前行动回合效果牌出牌数量[color=#4386F4]+1[/color]。",
+        "en": "Can play [color=#4386F4]1[/color] more effect card this turn.",
+        "ja": "現在のターンでは、効果カードが[color=#4386F4]1[/color]枚追加で使用できる。",
+        "zh-TW": "當前行動回合效果牌出牌數[color=#4386F4]+1[/color]。",
+        "kr": "이번 턴에 효과 카드 [color=#4386F4]1[/color]장 더 사용 가능."
+    },
+    {
+        "zh-CN": "被动技能全取最大值增加，持续[color=#4386F4]1[/color]回合。",
+        "en": "Trigger maximum buff for passive skill for [color=#4386F4]1[/color] turn.",
+        "ja": "パッシブスキルの上限が最大になり\n[color=#4386F4]1[/color]ターンの間持続します。",
+        "zh-TW": "被動技能全取最大值增加，持續[color=#4386F4]1[/color]回合。",
+        "kr": "패시브 스킬의 효과가 최대치로 증가. [color=#4386F4]1[/color]턴 지속."
+    },
+    {
+        "zh-CN": "使用技能时，若当前生命值超过总血量的一半则扣[color=#FF4646]3[/color]点血。战斗造成伤害后，回复[color=#94FF46]50%[/color]伤害的生命，持续[color=#4386F4]1[/color]回合。",
+        "en": "When using skill, if current HP>[color=#94FF46]50%[/color] , then HP [color=#FF4646]-3[/color].\nHeal HP equal to the [color=#94FF46]50%[/color] damage you dealt.\nLasts [color=#4386F4]1[/color] turn.",
+        "ja": "スキル使用時のHPが半分以上の時、HP[color=#FF4646]-3[/color]、戦闘で与えたダメージの半分を回復します。（[color=#4386F4]1[/color]ターン継続）",
+        "zh-TW": "使用技能時，若當前生命值超過總血量的一半則扣[color=#FF4646]3[/color]點血。戰鬥造成傷害後恢復[color=#94FF46]50%[/color]戰鬥傷害的血量。持續[color=#4386F4]1[/color]輪。",
+        "kr": "현재 HP가 최대치의 절반을 초과하면 HP[color=#FF4646]-3[/color], 전투로 인한 피해량의 절반만큼 HP를 회복. [color=#4386F4]1[/color]턴 지속"
+    },
+    {
+        "zh-CN": "偷取[color=#4386F4]8[/color]格内指定的一名角色的随机一张牌；如果这张卡是效果牌则刷新鼠鼠护盾。",
+        "en": "Steal a random card from a player within [color=#4386F4]8[/color] panels; if it is an effect card, refresh the Shiyu-Shiyu shield.",
+        "ja": "ランダムで[color=#4386F4]8[/color]マス内の特定のキャラクターの1枚のカードを盗む；もしカードが効果カードなら、ジュジュシールドをリフレッシュする。",
+        "zh-TW": "偷取[color=#4386F4]8[/color]格內指定的一名角色的隨機一張牌；如果這張卡是效果牌則重置鼠鼠護盾。",
+        "kr": "[color=#4386F4]8[/color]칸 내 캐릭터를 지정해 랜덤 카드 1장을 훔침. 훔친 카드가 효과 카드일 경우, 슈슈 실드를 갱신."
+    },
+    {
+        "zh-CN": "指定一名角色获取一张卡牌并且同时获得一个鼠鼠护盾。鼠鼠护盾会使目标下次受到的伤害-3。",
+        "en": "Select a character to draw a card and gain a Shiyu-Shiyu Shield.\nShiyu-Shiyu Shield reduces the next damage taken by the target by 3.",
+        "ja": "キャラクターを指定し、カードを1枚引かせると同時にジュジュシールドを付与（※ジュジュシールド効果：次の受けるダメージ-3）。",
+        "zh-TW": "指定壹名角色獲取壹張卡牌並且同時獲得壹個鼠鼠護盾。鼠鼠護盾會使目標下次受到的傷害-3。",
+        "kr": "캐릭터를 지정해 카드 1장을 뽑게 하고, 슈슈 실드를 부여. (슈슈 실드: 다음 받는 피해 -3)"
+    },
+    {
+        "zh-CN": "丢弃全部手牌，然后从卡池中抽取原手牌数量[color=#4386F4]+1[/color]张卡牌。",
+        "en": "Discard all cards, and then draw the same amount of cards with [color=#4386F4]1[/color] extra draw.",
+        "ja": "全ての手札を捨て、元の手札数[color=#4386F4]+1[/color]のカードを引きます。",
+        "zh-TW": "丟棄全部手牌，然後抽取原手牌數量[color=#4386F4]+1[/color]張卡牌。",
+        "kr": "모든 카드를 버리고, 버린 카드 수[color=#4386F4]+1[/color]만큼 카드를 뽑음."
+    },
+    {
+        "zh-CN": "拉取[color=#4386F4]7[/color]格内的一个角色到自己所在格，造成[color=#FF4646]1[/color]点伤害，并使其移动速度[color=#94FF46]-2[/color]，持续[color=#4386F4]1[/color]回合。",
+        "en": "Pull a player within [color=#4386F4]7[/color] panels to your panel, dealing [color=#FF4646]1[/color] damage and movement [color=#94FF46]-2[/color] for 1 turn.",
+        "ja": "自分がいるマスに[color=#4386F4]7[/color]マス以内のキャラクターを引き寄せ、[color=#FF4646]1[/color]ダメージを与え、移動速度を[color=#94FF46]-2[/color]させ\n[color=#4386F4]1[/color]ターンの間持続します。",
+        "zh-TW": "將[color=#4386F4]7[/color]格內的一個角色拉到自己所在格，造成[color=#FF4646]1[/color]點傷害，並使其移動速度[color=#94FF46]- 2[/color]，持續[color=#4386F4]1[/color]回合。",
+        "kr": "[color=#4386F4]7[/color]칸 내 캐릭터를 자신의 위치로 끌어당겨 [color=#FF4646]1[/color]의 피해를 입히고, 대상의 이동 거리 [color=#94FF46]-2[/color]. [color=#4386F4]1[/color]턴 지속."
+    },
+    {
+        "zh-CN": "拉取[color=#4386F4]7[/color]格内的一个怪物到自己所在格，造成[color=#FF4646]5[/color]点伤害。",
+        "en": "Pull a monster within [color=#4386F4]7[/color] panels to your panel, dealing [color=#FF4646]5[/color] points of damage.",
+        "ja": "[color=#4386F4]7[/color]マス以内のモンスターを引き寄せ、[color=#FF4646]5[/color]ダメージ。",
+        "zh-TW": "拉取[color=#4386F4]7[/color]格內的壹個怪物到自己所在格，造成[color=#FF4646]5[/color]點傷害。",
+        "kr": "[color=#4386F4]7[/color]칸 내 몬스터를 끌어당겨 [color=#FF4646]5[/color]의 피해를 입힘."
+    },
+    {
+        "zh-CN": "获得[url=1:20009][/url]、[url=1:20015][/url]随机一张。",
+        "en": "Gain one [url=1:20009][/url] or [url=1:20015][/url].",
+        "ja": "[url=1:20009][/url]または[url=1:20015][/url]のどちらか一枚のカードを獲得します。",
+        "zh-TW": "隨機獲得一張[url=1:20009][/url]或[url=1:20015][/url]。",
+        "kr": "[url=1:20009][/url] 또는 [url=1:20015][/url] 카드 중 랜덤으로 하나를 획득."
+    },
+    {
+        "zh-CN": "获得[url=1:20002][/url]、[url=1:20014][/url]随机一张。",
+        "en": "Gain [url=1:20002][/url] or [url=1:20014][/url].",
+        "ja": "[url=1:20002][/url]または[url=1:20014][/url]のどちらかの一枚を獲得します。",
+        "zh-TW": "獲得[url=1:20002][/url]、[url=1:20014][/url]隨機一張。",
+        "kr": "[url=1:20002][/url] 또는 [url=1:20014][/url] 카드 중 랜덤으로 하나를 획득."
+    },
+    {
+        "zh-CN": "对一个其他玩家施加“悬赏”效果（可叠加）。",
+        "en": "Apply a \"Bounty\" effect to another player (stackable).",
+        "ja": "他のキャラに「賞金首」効果を適用する。（累積可）",
+        "zh-TW": "對一個其他角色施加「懸賞」效果（可疊加）。",
+        "kr": "다른 캐릭터에게 \"현상수배\" 효과를 부여. (중첩 가능)"
+    },
+    {
+        "zh-CN": "标记[color=#4386F4]10[/color]格内指定的1个其他角色，使之移动点[color=#94FF46]-3[/color]，持续[color=#4386F4]2[/color]回合（不叠加，重复则覆盖）。",
+        "en": "Select 1 player within [color=#4386F4]10[/color] panels, and make his movement [color=#94FF46]-3[/color].\nLasts for [color=#4386F4]2[/color] turns (no stack).",
+        "ja": "[color=#4386F4]10[/color]マス以内の敵キャラクターを指定し、移動ポイント[color=#94FF46]-3[/color]\n[color=#4386F4]2[/color]ターンの間持続します。（スタック不可）",
+        "zh-TW": "標記[color=#4386F4]10[/color]格內指定的1個其他角色，使其移動點[color=#94FF46]-3[/color]，持續[color=#4386F4]2[/color] 回合（不疊加，重複則覆蓋）。",
+        "kr": "[color=#4386F4]10[/color]칸 내 상대를 지정, 대상의 이동 거리 [color=#94FF46]-3[/color]. ([color=#4386F4]2[/color]턴 지속. (중첩 불가)"
+    },
+    {
+        "zh-CN": "选择10格内的一名友方角色，该角色获得3层【治愈】。",
+        "en": "Select an ally within [color=#4386F4]10[/color] panels, the target gains 3 stacks of 【Heal】.",
+        "ja": "10マス以内の味方キャラクターを指定し、【ヒール】スタック[color=#94FF46]+3[/color]\nを付与。",
+        "zh-TW": "標記[color=#4386F4]10[/color]格內指定的1名友方角色，該角色獲得3層【治愈】。",
+        "kr": "10칸 내 아군을 지정, 대상에게 【치유】 [color=#94FF46]3[/color]중첩 부여."
+    },
+    {
+        "zh-CN": "回复2Hp，如果养精蓄锐已触发，则本回合攻击力+3",
+        "en": "Heal [color=#94FF46]2[/color] HP.\nIf Energy Conservation is actived, [color=#FF4646]+3[/color] ATK for 1 turn.",
+        "ja": "HP+2、エネルギー保存が発動中の場合、このターンの間攻撃力[color=#FF4646]+3[/color]を得る。",
+        "zh-TW": "恢複[color=#94FF46]2[/color]Hp，如果養精蓄銳已觸發，則本回合攻擊力[color=#FF4646]+3[/color]。",
+        "kr": "HP +2, '에너지 보존'이 활성화된 경우 이번 턴 공격력 [color=#FF4646]+3[/color]."
+    },
+    {
+        "zh-CN": "回复2Hp，如果养精蓄锐已触发，则本回合攻击力+4",
+        "en": "Heal [color=#94FF46]2[/color] HP. If Energy Conservation is actived, [color=#FF4646]+4[/color] ATK for 1 turn.",
+        "ja": "HP+2、エネルギー保存が発動中の場合、このターンの間攻撃力[color=#FF4646]+4[/color]を得る。",
+        "zh-TW": "恢複[color=#94FF46]2[/color]Hp，如果養精蓄銳已觸發，則本回合攻擊力[color=#FF4646]+4[/color]。",
+        "kr": "HP +2, '에너지 보존'이 활성화된 경우 이번 턴 공격력 [color=#FF4646]+4[/color]."
+    },
+    {
+        "zh-CN": "标记一个角色[color=#4386F4]2[/color]回合，被标记的角色受到的伤害[color=#FF4646]+1[/color]。\n若该角色在被标记期间被击倒则蓝海晴获得[color=#FFB346]4[/color]星币；若期间内未被击倒则该角色回复[color=#94FF46]4[/color]点生命。",
+        "en": "Mark a player and his damage taken [color=#FF4646]+1[/color] for [color=#4386F4]2[/color] turns.\nDuring the turns, if the player's HP declines to 0, HaiQing gets [color=#FFB346]4[/color] coins.\nIf not, the player recovers [color=#94FF46]4[/color] HP.",
+        "ja": "キャラをマークし、受けるダメージを[color=#4386F4]2[/color]ターンの間に[color=#FF4646]+1[/color]。\nそのターン中にキャラのHPが0になった場合、カイセイは[color=#FFB346]4[/color]枚のコインを得ます。\nそうでない場合、キャラは[color=#94FF46]4[/color]HPを回復します。",
+        "zh-TW": "標記一個角色[color=#4386F4]2[/color]回合，該角色受到的傷害[color=#FF4646]+1[/color]。\n  若標記角色在效果期間內死亡則藍海晴獲得[color=#FFB346]6[/color]星幣；否則該角色回復[color=#94FF46]4[/color]點生命。",
+        "kr": "캐릭터를 지정해 표식을 부여, 대상의 받는 피해 [color=#FF4646]+1[/color]. [color=#4386F4]2[/color]턴 지속. 지속시간 내에 표식이 부여된 캐릭터가 쓰러지면 카이세이는 [color=#FFB346]4[/color] 코인을 획득, 그렇지 않은 경우 HP [color=#94FF46]+4[/color]."
+    },
+    {
+        "zh-CN": "标记一个怪物[color=#4386F4]2[/color]回合，被标记的怪物受到的伤害[color=#FF4646]+1[/color]。若标记期间击倒该怪物则蓝海晴获得3星币。",
+        "en": "Mark a monster, increase [color=#FF4646]+1[/color] damage for [color=#4386F4]2[/color] turns. If the monster is knocked out while the effect is active, HaiQing + [color=#FFB346]3[/color] coins.",
+        "ja": "モンスター1匹をマークし、その受けるダメージを[color=#4386F4]2[/color]ターンの間[color=#FF4646]+1[/color]します。\n効果中にそのモンスターが気絶した場合、カイセイはコイン[color=#FFB346]３[/color]枚を得ます。",
+        "zh-TW": "標記壹個怪物[color=#4386F4]2[/color]回合，被標記的怪物受到的傷害[color=#FF4646]+1[/color]。若標記期間擊倒該怪物則藍海晴獲得3星幣。",
+        "kr": "몬스터를 지정해 표식을 부여, 대상의 받는 피해 [color=#FF4646]+1[/color]. [color=#4386F4]2[/color]턴 지속. 지속시간 내에 표식이 부여된 몬스터가 쓰러지면 카이세이는 [color=#FFB346]4[/color] 코인을 획득."
+    },
+    {
+        "zh-CN": "指定[color=#4386F4]4[/color]格内的一名角色直接造成[color=#FF4646]2[/color]点伤害；造成伤害后获得[color=#4386F4]1[/color]层剑气，最多叠加[color=#4386F4]3[/color]层剑气。",
+        "en": "Deal [color=#FF4646]2[/color] damages to a player within [color=#4386F4]4[/color] panels, and get [color=#4386F4]1[/color] Sword Gust.\nGet [color=#4386F4]3[/color] Sword Gusts at most.",
+        "ja": "[color=#4386F4]4[/color]マス以内の相手を指定し、[color=#FF4646]2[/color]ダメージを与え、[color=#4386F4]1[/color]つの剣気を得ます。（最大[color=#4386F4]3スタック[/color]）",
+        "zh-TW": "指定[color=#4386F4]4[/color]格內的一名角色直接造成[color=#FF4646]2[/color]點傷害且增加自身[color=#4386F4]1[/color]層劍氣，最多疊加[color=#4386F4]3[/color]層劍氣。",
+        "kr": "[color=#4386F4]4[/color]칸 내 상대를 지정해 [color=#FF4646]2[/color]의 피해를 입히고, 검기 [color=#4386F4]1[/color]중첩 획득. 최대 [color=#4386F4]3[/color]중첩."
+    },
+    {
+        "zh-CN": "指定[color=#4386F4]4[/color]格内的一个怪物直接造成[color=#FF4646]2[/color]点伤害；造成伤害后获得[color=#4386F4]1[/color]层剑气，最多叠加[color=#4386F4]3[/color]层剑气。",
+        "en": "Target a monster within [color=#4386F4]4[/color] squares, deal [color=#FF4646]2[/color] damage, and receive [color=#4386F4]1[/color] Sword Gust (up to a maximum of [color=#4386F4]3 stacks[/color]) Sword Gust.",
+        "ja": "[color=#4386F4]4[/color]マス以内のモンスターを指定し、[color=#FF4646]2[/color]ダメージを与え、[color=#4386F4]1[/color]つの剣気を得ます。(最大[color=#4386F4]3スタック[/color])",
+        "zh-TW": "指定[color=#4386F4]4[/color]格內的壹個怪物直接造成[color=#FF4646]2[/color]點傷害；造成傷害後獲得[color=#4386F4]1[/color]層劍氣，最多疊加[color=#4386F4]3[/color]層劍氣。",
+        "kr": "[color=#4386F4]4[/color]칸 내 몬스터를 지정해 [color=#FF4646]2[/color]의 피해를 입히고, 검기 [color=#4386F4]1[/color]중첩 획득. 최대 [color=#4386F4]3[/color]중첩."
+    },
+    {
+        "zh-CN": "指定[color=#4386F4]6[/color]格内的一个怪物直接造成[color=#FF4646]2[/color]点伤害；造成伤害后获得[color=#4386F4]1[/color]层剑气，如果剑气已到达3层，则消耗2层剑气，获得1张[url=1:10007][/url]。",
+        "en": "Target a monster within [color=#4386F4]6[/color] panels and deal [color=#FF4646]2[/color] direct damage;\nafter dealing damage, gain [color=#4386F4]1[/color] stack of Sword Gusts. If Sword Gusts reaches 3 stacks, consume 2 stacks of Sword Gusts to gain 1 [url=1:10007][/url].",
+        "ja": "[color=#4386F4]6[/color]マス以内のモンスターを指定し、[color=#FF4646]2[/color]ダメージを与え、[color=#4386F4]1[/color]つの剣気を得ます(最大[color=#4386F4]3スタック[/color])。剣気スタックが3の場合、剣気スタックを2消費し、[url=1:10007][/url]を1枚獲得する。",
+        "zh-TW": "指定[color=#4386F4]6[/color]格內的壹個怪物直接造成[color=#FF4646]2[/color]點傷害；造成傷害後獲得[color=#4386F4]1[/color]層劍氣，如果劍氣已到達3層，則消耗2層劍氣，獲得1張[url=1:10007][/url]。",
+        "kr": "[color=#4386F4]6[/color]칸 내 몬스터를 지정해 [color=#FF4646]2[/color]의 피해를 입히고, 검기 [color=#4386F4]1[/color]중첩 획득. 최대 [color=#4386F4]3[/color]중첩. 검기 3중첩 도달 시, 2중첩을 소모해 [url=1:10007][/url] 1장을 획득."
+    },
+    {
+        "zh-CN": "获得[color=#4386F4]3[/color]张临时的手牌，回合结束时自动丢弃获得的临时手牌。",
+        "en": "Gain [color=#4386F4]3[/color] temporary cards in hand.\nTemporary cards will be discarded at the end of the turn.",
+        "ja": "一時的に[color=#4386F4]3[/color]枚の手札を得る、この手札をターン終了時に捨てる。",
+        "zh-TW": "獲得3張臨時的手牌，回合結束時自動丟棄獲得的臨時手牌。",
+        "kr": "임시 카드 [color=#4386F4]3[/color]장 획득. 임시 카드는 턴 종료시 사라짐."
+    },
+    {
+        "zh-CN": "使用技能后，防御力[color=#FF4646]-3[/color]，移动点数[color=#94FF46]+3[/color]，持续[color=#4386F4]1[/color]回合。",
+        "en": "When using skill, DEF[color=#FF4646]-3[/color], Movement Point[color=#94FF46]+3[/color].\nLasts 1 turn.",
+        "ja": "１ターンの間、防御力[color=#FF4646]-3[/color]、移動ステップ数[color=#94FF46]+3[/color]。",
+        "zh-TW": "使用技能後，防禦力[color=#FF4646]-3[/color]，移動點數[color=#94FF46]+3[/color]，持續[color=#4386F4]1[/color]回合。",
+        "kr": "방어력 [color=#FF4646]-3[/color], 이동 거리 [color=#94FF46]+3[/color]. [color=#4386F4]1[/color]턴."
+    },
+    {
+        "zh-CN": "选择1-3张卡牌给予一名角色，从给予的角色处抢夺本次给予牌数量*3的星币。",
+        "en": "Choose 1-3 cards to give to a character, then steal 3 times the number of given cards in Star Coins from the recipient.",
+        "ja": "キャラクターを指定し、1～3枚のカードを与え、与えた枚数×3の「スターコイン」をそのキャラから奪う。",
+        "zh-TW": "選擇1-3張卡牌給予壹名角色，從給予的角色處搶奪本次給予牌數量*3的星幣。",
+        "kr": "지정한 캐릭터에게 1~3장의 카드를 주고, 준 카드 수×3의 코인을 대상에게서 강탈."
+    },
+    {
+        "zh-CN": "选择1-3张卡牌给予一名角色，获得给予卡牌数量等量的星币。",
+        "en": "Choose 1-3 cards to give to a character, gain Star Coins equal to the number of cards given.",
+        "ja": "キャラクターを指定し、1～3枚のカードを与え、与えた枚数と同量の「スターコイン」を獲得。",
+        "zh-TW": "選擇1-3張卡牌給予壹名角色，獲得給予卡牌數量等量的星幣。",
+        "kr": "지정한 캐릭터에게 1~3장의 카드를 주고, 준 카드 수와 동일한 양의 코인을 획득."
+    },
+    {
+        "zh-CN": "使用后移动投点变为投[color=#94FF46]2[/color]枚[color=#4386F4]6[/color]面的骰子；移动时会对路过的角色/怪物造成距离该角色/怪物格数除[color=#FF4646]2[/color]的伤害。使用技能无法触发战斗。",
+        "en": "Movement will use two six-sided dice. Moving will deal damage to characters/monsters passed. The damage equal to \"half the number of panels between you and the character/monster\". Can not engage in battle after using this skill.",
+        "ja": "次の移動時に[color=#4386F4]6[/color]面ダイスを[color=#94FF46]2[/color]個振ります、移動時に経過するキャラ/モンスターに接触するまでの移動数の半分のダメージを与える。（スキル使用時に戦闘不可）",
+        "zh-TW": "使用後移動投點變爲投[color=#94FF46]2[/color]枚[color=#4386F4]6[/color]面的股子；移動時會對路過的角色/怪物造成距離該角色/怪物格數除[color=#FF4646]2[/color]的傷害。使用技能無法觸發戰鬥。",
+        "kr": "[color=#4386F4]6[/color]면 주사위 [color=#94FF46]2[/color]개를 굴려서 이동. 이동 시 지나가는 캐릭터/몬스터에게 '자신과 대상 사이 거리의 절반'만큼의 피해를 입힘. 스킬 사용 후 전투 진입 불가."
+    },
+    {
+        "zh-CN": "使用后移动投点变为投[color=#94FF46]2[/color]枚[color=#4386F4]6[/color]面的骰子；移动时会对路过的怪物造成[color=#FF4646]2+自身攻击力[/color]的伤害。使用技能无法触发战斗。",
+        "en": "Movement will use [color=#94FF46]2[/color] [color=#4386F4]6[/color]-sided dice.\nMoving will deal [color=#FF4646]2+ATK[/color] damage to monsters passed. \nCan not engage in battle after using this skill.",
+        "ja": "次の移動時に[color=#4386F4]6[/color]面ダイスを[color=#94FF46]2[/color]個振ります、移動時に経過するモンスターに[color=#FF4646]自身攻撃力+2のダメージ[/color]。（スキル使用時に戦闘不可）",
+        "zh-TW": "使用後移動投點變爲投[color=#94FF46]2[/color]枚[color=#4386F4]6[/color]面的股子；移動時會對路過的怪物造成[color=#FF4646]2+自身攻擊力[/color]的傷害。使用技能無法觸發戰鬥。",
+        "kr": "[color=#4386F4]6[/color]면 주사위 [color=#94FF46]2[/color]개를 굴려서 이동. 이동 시 지나가는 몬스터에게 [color=#FF4646]공격력 +2[/color]의 피해를 입힘. 스킬 사용 후 전투 진입 불가."
+    },
+    {
+        "zh-CN": "选择6格外的一名角色发起战斗，本次战斗将不会触发被动技能的弃牌效果。",
+        "en": "Initiate a battle with a character outside of 6 panels, this battle will not trigger the discard effect.",
+        "ja": "6マスより外のキャラクターを指定し、強制戦闘を仕掛ける、この戦闘によるバトルカード破棄は発生しません。",
+        "zh-TW": "選擇6格外的壹名角色發起戰鬥，本次戰鬥將不會觸發被動技能的棄牌效果。",
+        "kr": "6칸 밖의 캐릭터를 지정하여 강제 전투 시작. 이 전투에서는 패시브의 카드 버리기 효과 미발동."
+    },
+    {
+        "zh-CN": "选择一个怪物发起战斗，本次战斗将不会触发被动技能的弃牌效果。如果该怪物距离南希露超过3格，则本次战斗不会被反击。",
+        "en": "initiate a battle with a monster, this battle will not trigger the discard effect.\nIf the monster is beyond 3 panels, it will not counterattack in this battle.",
+        "ja": "モンスターを指定し、強制戦闘を仕掛ける、目標モンスターは3マス以外の場合、この戦闘は反撃されません。",
+        "zh-TW": "選擇壹個怪物發起戰鬥，本次戰鬥將不會觸發被動技能的棄牌效果。如果該怪物距離南希露超過3格，則本次戰鬥不會被反擊。",
+        "kr": "몬스터를 지정하여 강제 전투 시작. 대상이 3칸 밖에 있는 경우, 이 전투에서 반격당하지 않음."
+    },
+    {
+        "zh-CN": "获得1张[url=1:20030][/url]；所有效果牌的射程+3，持续1回合。",
+        "en": "Gain 1 [url=1:20030][/url];\nAll Effect Card Range [color=#4386F4]+3[/color], lasts 1 turn.",
+        "ja": "[url=1:20030][/url]を1枚得る、このターンの間、全ての効果カードの効果距離 [color=#4386F4]+3[/color]。",
+        "zh-TW": "獲得1張[url=1:20030][/url]；所有效果牌的射程[color=#4386F4]+3[/color]，持續1回合。",
+        "kr": "[url=1:20030][/url] 카드 1장 획득. 모든 효과 카드의 사거리 [color=#4386F4]+3[/color]. 1턴 지속."
+    },
+    {
+        "zh-CN": "获得1张[url=1:20031][/url]；所有效果牌的射程+3，持续1回合。",
+        "en": "Gain 1  [url=1:20031][/url]; All Effect Card Range [color=#4386F4]+3[/color], lasts 1 turn.",
+        "ja": "[url=1:20031][/url]を1枚得る、このターンの間、全ての効果カードの効果距離 [color=#4386F4]+3[/color]。",
+        "zh-TW": "獲得1張[url=1:20031][/url]；所有效果牌的射程[color=#4386F4]+3[/color]，持續1回合。",
+        "kr": "[url=1:20031][/url] 카드 1장 획득. 모든 효과 카드의 사거리 [color=#4386F4]+3[/color]. 1턴 지속."
+    },
+    {
+        "zh-CN": "丢弃所有卡牌，每丢弃2张，对其他随机角色造成1次2点伤害。",
+        "en": "Discard all cards.\nFor every 2 cards discarded, deal 2 damage to a random other character.",
+        "ja": "全ての手札を捨てる、カードを2枚捨てるごとに、ランダムなキャラクターに２ダメージ。",
+        "zh-TW": "丟棄所有卡牌，每丟棄2張，對其他隨機角色造成1次2點傷害。",
+        "kr": "모든 카드를 버림. 카드를 2장 버릴 때마다 랜덤 캐릭터에게 2의 피해를 입힘."
+    },
+    {
+        "zh-CN": "丢弃所有卡牌，每丢弃2张，对6格范围内的随机怪物施放1次3点伤害的【轨道轰炸】。丢弃的卡牌中每有3点费用，【轨道轰炸】便会增加1点伤害。",
+        "en": "Discard all cards.\nFor every 2 cards discarded, deal 3 damage to a random monster within 6 panels.\nFor every 3 cost worth of cards discarded, \"Orbital Bombardment\" gains 1 additional damage.",
+        "ja": "全ての手札を捨てる。カードを2枚捨てるごとに、6マス以内のランダムなモンスターに3ダメージを与える。さらに、捨てたカードにバトルカードが含まれている場合、そのバトルコストに応じて軌道エアバーストのダメージが強化される。\n·バトルコストが1の場合：ダメージ+1。\n·バトルコストが3増加するごとに：追加ダメージ+1。",
+        "zh-TW": "丟棄所有卡牌，每丟棄2張，對6格範圍內的隨機怪物施放1次3點傷害的【軌道轟炸】。丟棄的卡牌中每有3點費用，【軌道轟炸】便會增加1點傷害。",
+        "kr": "모든 카드를 버림. 카드를 2장 버릴 때마다 6칸 내 랜덤 몬스터에게 3의 피해를 입힘. 버린 카드에 배틀 카드가 포함되어 있는 경우 코스트 3당 1의 추가 피해를 입힘."
+    },
+    {
+        "zh-CN": "本回合自身受到的治疗如果溢出则转化为星币；获得一张[url=1:20027][/url]且将手牌中所有的[url=1:20028][/url]转化为[url=1:20027][/url]。",
+        "en": "Convert the excess HP you receive into Star Coins.\nGain 1 [url=1:20027][/url]  and convert all [url=1:20028][/url] in your hand into [url=1:20027][/url].",
+        "ja": "ＨＰ回復時にＨＰが満タンの場合、余分の治療量をスターコインに変換；【符カード-福】を1枚手札に加える、手札にある全ての【符カード-禍】を【符カード-福】に転換。",
+        "zh-TW": "本回合自身受到的治療如果溢出則轉化爲星幣；獲得壹張[url=1:20027][/url]且將手牌中所有的[url=1:20028][/url]轉化爲[url=1:20027][/url]。",
+        "kr": "이번 턴에 초과된 HP 회복량을 코인으로 전환. 또한 [url=1:20027][/url] 카드를 1장 획득, 손패의 모든 [url=1:20028][/url]을 [url=1:20027][/url] 카드로 전환."
+    },
+    {
+        "zh-CN": "对一名己方角色施放持续1回合的【白泽赐福】，期间目标受到的溢出治疗会转换为攻击力；获得一张[url=1:20027][/url]且将手牌中所有的[url=1:20029][/url]转化为[url=1:20027][/url]。",
+        "en": "Apply 【Bai Ze's Blessing】to a character. Convert any excess HP the target receives this turn into ATK. Gain 1 [url=1:20027][/url]and convert all [url=1:20029][/url] in your hand into [url=1:20027][/url].",
+        "ja": "白沢よ、福を与えよを使用時に、ターゲットに１ターンの間、余分の治療量を攻撃力に変換を与え；[url=1:20027][/url]を1枚手札に加える、手札にある全ての[url=1:20029][/url]を[url=1:20027][/url]に転換。",
+        "zh-TW": "對壹名己方角色施放持續1回合的【白澤賜福】，期間目標受到的溢出治療會轉換爲攻擊力；獲得壹張[url=1:20027][/url]且將手牌中所有的[url=1:20029][/url]轉化爲[url=1:20027][/url]。",
+        "kr": "【바이제의 축복】 사용 시, 대상에게 1턴간 초과 회복량을 공격력으로 변환하는 효과를 부여. [url=1:20027][/url] 카드를 1장 획득, 손패의 모든 [url=1:20029][/url]을 [url=1:20027][/url] 카드로 전환."
+    },
+    {
+        "zh-CN": "选择一名角色施加【降神】，照增加【降神】目标的攻击力与防御力。持续1回合。",
+        "en": "Choose a character to apply 【Divine Invocation】.\nTeru gains the ATK and DEF of the 【Divine Invocation】target.lasts 1 turn.",
+        "ja": "キャラ1名選んで「憑依」する、テルのステータスの上に「憑依」対象の攻撃力と防御力を上乗せする。１ターン継続。",
+        "zh-TW": "選擇壹名角色施加【降神】，照增加【降神】目標的攻擊力與防禦力。持續1回合。",
+        "kr": "캐릭터를 지정해 【신내림】을 부여. 테루의 능력치에 【신내림】 대상의 공격력과 방어력을 추가. 1턴 지속."
+    },
+    {
+        "zh-CN": "选择一名角色施加【降神】，照增加【降神】目标一半的攻击力与防御力。【降神】目标攻击后，照会消耗一层狐火并进行追击。持续一回合。",
+        "en": "Choose a character to apply 【Divine Invocation】. \nTeru gains half the ATK and DEF of the 【Divine Invocation】 target. After the 【Divine Invocation】 target attacks, Teru consumes 1 stack of Fox Fire and pursues.lasts 1 turn.",
+        "ja": "キャラ1名選んで「憑依」する、テルのステータスの上に「憑依」対象の攻撃力と防御力の半分を上乗せする。「憑依」された目標の攻撃時に、テルは狐火スタックを１つ消耗し、追加攻撃をします。１ターン継続。",
+        "zh-TW": "選擇壹名角色施加【降神】，照增加【降神】目標壹半的攻擊力與防禦力。【降神】目標攻擊後，照會消耗壹層狐火並進行追擊。持續壹回合。",
+        "kr": "캐릭터를 지정해 【신내림】을 부여. 테루의 능력치에 【신내림】 대상의 공격력과 방어력의 절반을 추가. 【신내림】 대상이 적을 공격한 후, 테루는 【호화】 1중첩을 소모하여 대상을 추격. 1턴 지속."
+    },
+    {
+        "zh-CN": "获得[color=#94FF46]2[/color] 星币，每使得一个角色或怪物成为【粉丝】，额外获得[color=#94FF46]1[/color] 星币（最多7星币）。如果【粉丝】数量大于等于[color=#94FF46]3[/color] 个，则还会额外回复[color=#94FF46]3[/color]Hp。",
+        "en": "Gain [color=#94FF46]2[/color] Coins.\nPlus [color=#94FF46]1[/color] for each 【Fan】 status character or monster (up to 7 coins).\nIf 【Fan】 status ≥[color=#94FF46]3[/color] , also heal [color=#94FF46]3[/color] HP.",
+        "ja": "コイン[color=#94FF46]2[/color]枚を得ます，場に「ファン」状態のモンスターとキャラにつき、[color=#94FF46]1[/color]枚のコインを追加で得ます（最大7コイン）。\n場に「ファン」状態のモンスターとキャラが[color=#94FF46]3[/color] 体以上の場合、[color=#94FF46]3[/color]HPを回復します。",
+        "zh-TW": "獲得[color=#94FF46]2[/color] 星幣，每使得壹個角色或怪物成爲【粉絲】，額外獲得[color=#94FF46]1[/color] 星幣（最多7星幣）。如果【粉絲】數量大于等于[color=#94FF46]3[/color] 個，則還會額外回複[color=#94FF46]3[/color]Hp。",
+        "kr": "[color=#94FF46]2[/color] 코인 획득. 필드에 【팬】 상태인 몬스터/캐릭터당 [color=#94FF46]1[/color] 코인을 추가로 획득(최대 7코인). 【팬】이 [color=#94FF46]3[/color]중첩 이상일 경우, HP [color=#94FF46]+3[/color]."
+    },
+    {
+        "zh-CN": "获得[color=#94FF46]1[/color] 星币，每使得一个怪物成为【粉丝】，额外获得[color=#94FF46]1[/color] 星币（最多7星币）。如果【粉丝】数量大于等于[color=#94FF46]3[/color] 个，则还会额外回复3Hp。",
+        "en": "Gain [color=#94FF46]1[/color] Coins. Plus [color=#94FF46]1[/color] for each 【Fan】 status monster (up to 7 coins). If【Fan】 status ≥[color=#94FF46]3[/color] , also heal [color=#94FF46]3[/color] HP.",
+        "ja": "コイン[color=#94FF46]1[/color]枚を得ます，場に「ファン」状態のモンスターにつき、[color=#94FF46]1[/color]枚のコインを追加で得ます（最大7コイン）。\n場に「ファン」状態のモンスターとキャラが[color=#94FF46]3[/color] 体以上の場合、[color=#94FF46]3[/color]HPを回復します。",
+        "zh-TW": "獲得[color=#94FF46]1[/color] 星幣，每使得壹個怪物成爲【粉絲】，額外獲得[color=#94FF46]1[/color] 星幣（最多7星幣）。如果【粉絲】數量大于等于[color=#94FF46]3[/color] 個，則還會額外回複[color=#94FF46]3[/color]Hp。",
+        "kr": "[color=#94FF46]1[/color] 코인 획득. 필드에 【팬】 상태인 몬스터/캐릭터당 [color=#94FF46]1[/color] 코인을 추가로 획득(최대 7코인). 【팬】이 [color=#94FF46]3[/color]중첩 이상일 경우, HP [color=#94FF46]+3[/color]."
+    },
+    {
+        "zh-CN": "本回合获得【爱】层数的移动加成，并回复当前【爱】层数等量的生命值。回合结束时扣除[color=#4386F4]4[/color]层【爱】状态。",
+        "en": "Heal HP equal to the 【Love】 stacks, then gain movements equal to the 【Love】 stacks.\nAt the turn's end, remove [color=#4386F4]4[/color] 【Love】stacks.",
+        "ja": "このターン、「愛」の層数に応じた移動ボーナスを得る、「愛」の層数と同量のHPを回復し、\nその後、[color=#4386F4]4[/color]層の、「愛」を減少させます。",
+        "zh-TW": "本回合獲得【愛】層數的移動加成,並回複當前【愛】層數等量的生命值。回合結束時，扣除[color=#4386F4]4[/color]層【愛】狀態。",
+        "kr": "이번 턴에 【사랑】 중첩만큼 이동 거리 증가, 【사랑】 중첩만큼 HP 회복. 턴 종료 시, 【사랑】 [color=#4386F4]4[/color]중첩 감소."
+    },
+    {
+        "zh-CN": "每[color=#4386F4]3[/color]回合对仇恨最多的角色造成[color=#FF4646]3[/color]点伤害  。",
+        "en": "For every [color=#4386F4]3[/color] turns, deal [color=#FF4646]3[/color] damages to the player with the highest hatred.",
+        "ja": "[color=#4386F4]3[/color]ターンごとに最も嫌われているキャラクターに[color=#FF4646]3[/color]ダメージを与えます。",
+        "zh-TW": "每[color=#4386F4]3[/color]回合對仇恨值最高的角色造成[color=#FF4646]3[/color]點傷害 。",
+        "kr": "[color=#4386F4]3[/color]턴마다 증오 수치가 가장 높은 캐릭터에게 [color=#FF4646]3[/color]의 피해를 입힘."
+    },
+    {
+        "zh-CN": "每[color=#4386F4]3[/color]回合对血量最多的角色造成[color=#FF4646]4[/color]点伤害  。",
+        "en": "Every [color=#4386F4]3[/color] turn, deal [color=#FF4646]4[/color] damages to the character with the most HP.",
+        "ja": "[color=#4386F4]3[/color]ターンごとに、hpが最も多いキャラに[color=#FF4646]4[/color]ダメージ。",
+        "zh-TW": "每[color=#4386F4]3[/color]回合對血量最多的角色造成[color=#FF4646]4[/color]點傷害 。",
+        "kr": "[color=#4386F4]3[/color]턴마다 HP가 가장 높은 캐릭터에게 [color=#FF4646]4[/color]의 피해를입힘"
+    },
+    {
+        "zh-CN": "每[color=#4386F4]3[/color]回合，在附近召唤一只鲨鱼海盗  。",
+        "en": "Every [color=#4386F4]3[/color] turn, summon 1 shark pirate nearby.",
+        "ja": "[color=#4386F4]3[/color]ターンごとに、海賊サメを１体召喚する。",
+        "zh-TW": "每[color=#4386F4]3[/color]回合，在附近召喚一隻鯊魚海盜 。",
+        "kr": "[color=#4386F4]3[/color]턴마다 상어 해적 하나를 소환."
+    },
+    {
+        "zh-CN": "对7格范围内最高生命值的角色发动攻击：造成[color=#FF4646]2[/color]点伤害，并附带中毒。（每回合失去[color=#FF4646]1[/color]Hp，持续[color=#4386F4]3[/color]回合）",
+        "en": "Deal [color=#FF4646]2[/color] Damage and Poison effect to the character with the most HP within 7 panels.\n(Poison: [color=#FF4646]-1[/color] HP per turn. Last for [color=#4386F4]3[/color] turns.)",
+        "ja": "7マス以内のHPが最も多いキャラクターに[color=#FF4646]2[/color]ダメージと中毒効果を与える。（毎ターンｈｐ[color=#FF4646]-1[/color]、[color=#4386F4]3[/color]ターン継続）",
+        "zh-TW": "對7格範圍內最高生命值的角色發動攻擊：造成[color=#FF4646]2[/color]點傷害，並附帶中毒。（每回合失去[color=#FF4646]1[/color]Hp，持續[color=#4386F4]3[/color]回合）",
+        "kr": "7칸 내 HP가 가장 많은 캐릭터에게 [color=#FF4646]2[/color]의 피해와 중독 효과를 부여. (중독: 매 턴 HP [color=#FF4646]-1[/color], [color=#4386F4]3[/color]턴 지속)"
+    },
+    {
+        "zh-CN": "随机召唤一只刀剑或长戟灵体。",
+        "en": "Randomly summon a Sword Spirit or Spear Spirit.",
+        "ja": "刀剣霊や长戟霊のどちらかを1体召喚する。",
+        "zh-TW": "隨機召喚壹只刀劍或長戟靈體。",
+        "kr": "검정령 또는 창정령 중 하나를 소환."
+    },
+    {
+        "zh-CN": "召唤一只爆竹呱呱。",
+        "en": "Summon a Cracker Croak",
+        "ja": "爆竹ゲロゲロを1体召喚。",
+        "zh-TW": "召喚壹只爆竹瓜瓜。",
+        "kr": "폭죽 개구리 하나를 소환."
+    },
+    {
+        "zh-CN": "附近4格内的所有怪物，增加1点攻击力与防御力。",
+        "en": "ATK+1 and DEF+1 for all monsters within 4 panels.",
+        "ja": "周囲4マス以内のモンスター全員に、攻撃力+1、防御力+1を付与。",
+        "zh-TW": "附近4格內的所有怪物，增加1點攻擊力與防禦力。",
+        "kr": "주변 4칸 내 모든 몬스터에게 공격력 +1, 방어력 +1을 부여."
+    },
+    {
+        "zh-CN": "对4格范围内血量最高的角色造成自身攻击力的伤害。",
+        "en": "Deal damage equal to your ATK to the player with the highest HP within 4 panels.",
+        "ja": "4マス以内のｈｐが一番多いキャラクターに自身攻撃力と同じ数のダメージを与える。",
+        "zh-TW": "對4格範圍內血量最高的角色造成自身攻擊力的傷害。",
+        "kr": "4칸 내 HP가 가장 많은 캐릭터에게 자신의 공격력과 같은 수치의 피해를 입힘."
+    },
+    {
+        "zh-CN": "使5格范围内的随机怪物防御力+9，直到下次受到伤害",
+        "en": "Give a random monster within 5 panels DEF+9 until it takes damage.",
+        "ja": "5マス以内のランダムなモンスターにダメージを受けるまで防御力+9を付与する。",
+        "zh-TW": "使5格範圍內的隨機怪物防禦力+9，直到下次受到傷害。",
+        "kr": "5칸 내의 랜덤 몬스터에게 방어력+9를 부여. 해당 효과는 피해를 입으면 해제."
+    },
+    {
+        "zh-CN": "距离雅央最近的角色获得1张[url=1:21010][/url]，如果生命值低于50%，则选择两名角色。",
+        "en": "The character closest to Masao gains a [url=1:21010][/url];\nIf Masao＜ 50% Maximum HP, she will select the two closest characters.",
+        "ja": "雅央に一番近いキャラクターが[url=1:21010][/url]を1枚得る、雅央のHPが５０％以下の場合、キャラクターを2体指定する。",
+        "zh-TW": "距離雅央最近的角色獲得1張[url=1:21010][/url]，如果生命值低于50%，則選擇兩名角色。",
+        "kr": "마사오와 가장 가까운 캐릭터가 [url=1:21010][/url] 카드 1장 획득. 마사오의 HP가 50% 미만일 경우, 획득 대상 하나 추가."
+    },
+    {
+        "zh-CN": "5格内存在魔法茶壶，则吸收茶壶，永久增加[color=#FF4646]1[/color]点攻击力和防御力。5格内不存在茶壶则召唤1个魔法茶壶。",
+        "en": "If a Magic Teapot exists within 5 panels, absorb it and permanently gain [color=#FF4646]1[/color] ATK and DEF. If no teapot exists within 5 panels, summon 1 Magic Teapot.",
+        "ja": "5マス以内に魔法のティーポットがある場合、その魔法のティーポットを吸収し、攻撃力と防御力[color=#FF4646]+1[/color]を得る、5マス以内に魔法のティーポットがいない場合、魔法のティーポットを1体召喚する。",
+        "zh-TW": "5格內存在魔法茶壺，則吸收茶壺，永久增加[color=#FF4646]1[/color]點攻擊力和防禦力。5格內不存在茶壺則召喚1個魔法茶壺。",
+        "kr": "5칸 내 마법의 찻주전자가 있으면 흡수하여 영구적으로 공격력과 방어력 [color=#FF4646]+1[/color]. 없으면 마법의 찻주전자 하나를 소환."
+    },
+    {
+        "zh-CN": "对5格范围外最高生命的角色造成[color=#FF4646]3[/color]点伤害。",
+        "en": "Deal [color=#FF4646]3[/color] damage to the character with the highest HP beyond 5 panels.",
+        "ja": "5マスより外の一番HPが多いキャラクターに[color=#FF4646]3[/color]ダメージを与える。",
+        "zh-TW": "對5格範圍外最高生命的角色造成[color=#FF4646]3[/color]點傷害。",
+        "kr": "5칸 밖의 HP가 가장 높은 캐릭터에게 [color=#FF4646]3[/color]의 피해를 입힘."
+    },
+    {
+        "zh-CN": "使1个未被强化的怪物攻击力[color=#FF4646]+1[/color]，防御力[color=#4386F4]+1[/color]。",
+        "en": "Grants[color=#FF4646]+1[/color]ATK and[color=#4386F4]+1[/color]DEF to one unbuffed monster.",
+        "ja": "強化されていないモンスターに攻撃力[color=#FF4646]+1[/color]、防御力[color=#4386F4]+1[/color]を与える。",
+        "zh-TW": "使1個未被強化的怪物攻擊力[color=#FF4646]+1[/color]，防禦力[color=#4386F4]+1[/color]。",
+        "kr": "강화되지 않은 몬스터에게 공격력 [color=#FF4646]+1[/color], 방어력 [color=#4386F4]+1[/color] 부여."
+    },
+    {
+        "zh-CN": "5格范围内的所有角色丢弃一张效果牌，如果手牌少于4张，造成3点伤害。",
+        "en": "All players within 5 panels discard 1 effect card.\nIf hand card is less than 4, deal 3 damage.",
+        "ja": "5マス以内のキャラ全員に効果カードを1枚捨てさせる。対象キャラの手札が4より少ない場合、３ダメージを与える。",
+        "zh-TW": "5格範圍內的所有角色丟棄壹張效果牌，如果手牌少于4張，造成3點傷害。",
+        "kr": "5칸 내 모든 캐릭터는 효과 카드를 1장 버림. 대상 캐릭터의 손패가 4장 미만일 경우, 3의 피해를 입힘."
+    },
+    {
+        "zh-CN": "召唤1只金小鱼。",
+        "en": "Summon 1 Golden Fish.",
+        "ja": "金ちゃんを1体召喚する。",
+        "zh-TW": "召喚1只金小魚。",
+        "kr": "금붕어양 하나를 소환."
+    },
+    {
+        "zh-CN": "为天川苍鲤施加1层【金鳞】。",
+        "en": "Apply 1 stack of 【Golden Scale】 to boss.",
+        "ja": "ボスに【金鱗】スタックを１つ付与。",
+        "zh-TW": "給天川蒼鯉施加1層【金鱗】。",
+        "kr": "보스에게 【금빛 비늘】 1중첩 부여."
+    },
+    {
+        "zh-CN": "对4格内所有角色造成2点伤害。",
+        "en": "Deal 2 damage to all characters within 4 panels.",
+        "ja": "4マス以内のキャラクターに２ダメージ。",
+        "zh-TW": "對4格內所有角色造成2點傷害。",
+        "kr": "4칸 내 모든 캐릭터에게 2의 피해를 입힘."
+    },
+    {
+        "zh-CN": "给最近的角色1张[url=1:10011][/url]。",
+        "en": "Give 1[url=1:10011][/url] to the nearest character.",
+        "ja": "一番近くにいるキャラクターにカード[url=1:10011][/url]を1枚与える。",
+        "zh-TW": "給最近的角色1張[url=1:10011][/url]。",
+        "kr": "가장 가까운 캐릭터에게 [url=1:10011][/url] 카드 1장을 줌."
+    },
+    {
+        "zh-CN": "在随机地块召唤2个葫芦。",
+        "en": "Summon 2 gourds on random panels.",
+        "ja": "ランダムな二つのマスにひょうたんを召喚する。",
+        "zh-TW": "在隨機地塊召喚2個葫蘆。",
+        "kr": "랜덤한 두 패널에 호리병을 소환."
+    },
+    {
+        "zh-CN": "传奇商人",
+        "en": "Legendary Merchant",
+        "ja": "伝説商人",
+        "zh-TW": "傳奇商人",
+        "kr": "장사의신"
+    },
+    {
+        "zh-CN": "华点发现！",
+        "en": "Uncover Evidence",
+        "ja": "盲点発現！",
+        "zh-TW": "突破盲點！",
+        "kr": "증거 발견!"
+    },
+    {
+        "zh-CN": "鼓起勇气！",
+        "en": "Volume Up",
+        "ja": "勇気を出す！",
+        "zh-TW": "鼓起勇氣！",
+        "kr": "용기를 내!"
+    },
+    {
+        "zh-CN": "复制忍者",
+        "en": "Copy Ninja",
+        "ja": "コピーニンジャ",
+        "zh-TW": "複製忍者",
+        "kr": "카피 닌자"
+    },
+    {
+        "zh-CN": "毫无主见",
+        "en": "No Comment",
+        "ja": "自己主張なし",
+        "zh-TW": "毫無主見",
+        "kr": "줏대 없는"
+    },
+    {
+        "zh-CN": "可爱即正义",
+        "en": "Cute is Justice",
+        "ja": "可愛さは正義",
+        "zh-TW": "可愛即正義",
+        "kr": "귀여움은정의"
+    },
+    {
+        "zh-CN": "鼠鼠救我！",
+        "en": "Shiyu-Shiyu save me!",
+        "ja": "ジュジュさん、助けて！",
+        "zh-TW": "鼠鼠救我！",
+        "kr": "슈슈, 살려줘!"
+    },
+    {
+        "zh-CN": "鼠鼠救我！",
+        "en": "Shiyu-Shiyu save me!",
+        "ja": "ジュジュさん、助けて！",
+        "zh-TW": "鼠鼠救我！",
+        "kr": "슈슈, 살려줘!"
+    },
+    {
+        "zh-CN": "过期回收",
+        "en": "Recycle",
+        "ja": "リサイクル",
+        "zh-TW": "過期回收",
+        "kr": "재활용"
+    },
+    {
+        "zh-CN": "垃圾分类",
+        "en": "Waste Sorting",
+        "ja": "ごみ分別",
+        "zh-TW": "垃圾分類",
+        "kr": "분리수거"
+    },
+    {
+        "zh-CN": "回收利用",
+        "en": "Recycling Use",
+        "ja": "回収利用",
+        "zh-TW": "回收利用",
+        "kr": "재활용"
+    },
+    {
+        "zh-CN": "有好有坏",
+        "en": "Mixed Bag",
+        "ja": "善きも悪しきもある",
+        "zh-TW": "有好有壞",
+        "kr": "좋거나 나쁘거나"
+    },
+    {
+        "zh-CN": "有好有坏",
+        "en": "Mixed Bag",
+        "ja": "善きも悪しきもある",
+        "zh-TW": "有好有壞",
+        "kr": "좋거나 나쁘거나"
+    },
+    {
+        "zh-CN": "狩猎本能",
+        "en": "Hunting Instinct",
+        "ja": "ハンティング・インスティンクト",
+        "zh-TW": "狩獵本能",
+        "kr": "사냥꾼의 본능"
+    },
+    {
+        "zh-CN": "细胞分裂",
+        "en": "Cell Division",
+        "ja": "細胞分裂",
+        "zh-TW": "細胞分裂",
+        "kr": "세포분열"
+    },
+    {
+        "zh-CN": "养精蓄锐",
+        "en": "Energy Conservation",
+        "ja": "エネルギー保存",
+        "zh-TW": "養精蓄銳",
+        "kr": "에너지 보존"
+    },
+    {
+        "zh-CN": "养精蓄锐",
+        "en": "Energy Conservation",
+        "ja": "エネルギー保存",
+        "zh-TW": "養精蓄銳",
+        "kr": "에너지 보존"
+    },
+    {
+        "zh-CN": "心意相连",
+        "en": "Heart To Heart",
+        "ja": "以心伝心",
+        "zh-TW": "心意相連",
+        "kr": "이심전심"
+    },
+    {
+        "zh-CN": "幸运点",
+        "en": "Lucky Number",
+        "ja": "幸運な番号",
+        "zh-TW": "幸運數字",
+        "kr": "행운의숫자"
+    },
+    {
+        "zh-CN": "剑气",
+        "en": "Sword Gust",
+        "ja": "剣気",
+        "zh-TW": "劍氣",
+        "kr": "검기"
+    },
+    {
+        "zh-CN": "威压",
+        "en": "Pressure",
+        "ja": "プレッシャー",
+        "zh-TW": "威壓",
+        "kr": "위압"
+    },
+    {
+        "zh-CN": "移动充能",
+        "en": "Step Charge",
+        "ja": "チャージステップ",
+        "zh-TW": "移動充能",
+        "kr": "차지 스텝"
+    },
+    {
+        "zh-CN": "钞能力",
+        "en": "Money Talks",
+        "ja": "札束パワー",
+        "zh-TW": "鈔能力",
+        "kr": "머니 파워"
+    },
+    {
+        "zh-CN": "双赢",
+        "en": "Win-Win",
+        "ja": "ウィンウィン",
+        "zh-TW": "雙贏",
+        "kr": "윈윈"
+    },
+    {
+        "zh-CN": "蓄势待发",
+        "en": "Charge",
+        "ja": "攻めの姿勢",
+        "zh-TW": "蓄勢待發",
+        "kr": "공격 자세"
+    },
+    {
+        "zh-CN": "被动防火墙",
+        "en": "Firewall",
+        "ja": "ファイアウォール",
+        "zh-TW": "被動防火牆",
+        "kr": "방화벽"
+    },
+    {
+        "zh-CN": "被动防火墙",
+        "en": "Firewall",
+        "ja": "ファイアウォール",
+        "zh-TW": "被動防火牆",
+        "kr": "방화벽"
+    },
+    {
+        "zh-CN": "调查发现",
+        "en": "Investigation",
+        "ja": "調査結果",
+        "zh-TW": "調查發現",
+        "kr": "조사결과"
+    },
+    {
+        "zh-CN": "调查发现",
+        "en": "Investigation",
+        "ja": "調査結果",
+        "zh-TW": "調查發現",
+        "kr": "조사결과"
+    },
+    {
+        "zh-CN": "物资补充",
+        "en": "Resupply",
+        "ja": "リサプライ",
+        "zh-TW": "物資補充",
+        "kr": "물자 보충"
+    },
+    {
+        "zh-CN": "福祸相倚",
+        "en": "Fortune and misfortune are neighbours.",
+        "ja": "禍福倚伏",
+        "zh-TW": "福禍相倚",
+        "kr": "모아님도"
+    },
+    {
+        "zh-CN": "福祸相倚",
+        "en": "Fortune and misfortune are neighbours.",
+        "ja": "禍福倚伏",
+        "zh-TW": "福禍相倚",
+        "kr": "모아님도"
+    },
+    {
+        "zh-CN": "完美帮手",
+        "en": "The Perfect Assistant",
+        "ja": "お手伝い完璧",
+        "zh-TW": "完美幫手",
+        "kr": "완벽한 조수"
+    },
+    {
+        "zh-CN": "狐火",
+        "en": "Fox Fire",
+        "ja": "狐火",
+        "zh-TW": "狐火",
+        "kr": "호화"
+    },
+    {
+        "zh-CN": "狐火",
+        "en": "Fox Fire",
+        "ja": "狐火",
+        "zh-TW": "狐火",
+        "kr": "호화"
+    },
+    {
+        "zh-CN": "小天使请安",
+        "en": "It's KAngel!",
+        "ja": "ジェルばんは",
+        "zh-TW": "小天使請安",
+        "kr": "KAngel 등장!"
+    },
+    {
+        "zh-CN": "一心同体",
+        "en": "Two hearts beat as one",
+        "ja": "一心同体",
+        "zh-TW": "壹心同體",
+        "kr": "일심동체"
+    },
+    {
+        "zh-CN": "无法承受的爱",
+        "en": "Love Take Over",
+        "ja": "愛が愛を重すぎる",
+        "zh-TW": "無法承受的愛",
+        "kr": "너무 무거운 사랑"
+    },
+    {
+        "zh-CN": "一心同体",
+        "en": "Two hearts beat as one",
+        "ja": "Two hearts beat as one",
+        "zh-TW": "壹心同體",
+        "kr": "일심동체"
+    },
+    {
+        "zh-CN": "偷窃",
+        "en": "Steal",
+        "ja": "盗み",
+        "zh-TW": "偷竊",
+        "kr": "스틸"
+    },
+    {
+        "zh-CN": "健步如飞",
+        "en": "Stride",
+        "ja": "飛ぶほど歩く",
+        "zh-TW": "健步如飛",
+        "kr": "재빠른 걸음"
+    },
+    {
+        "zh-CN": "抢劫",
+        "en": "Rob",
+        "ja": "強奪",
+        "zh-TW": "搶劫",
+        "kr": "강탈"
+    },
+    {
+        "zh-CN": "出来混总是要还的",
+        "en": "What Goes Around Comes Around",
+        "ja": "必ず返させる",
+        "zh-TW": "出來混總是要還的",
+        "kr": "인과응보"
+    },
+    {
+        "zh-CN": "刁难",
+        "en": "Hassle",
+        "ja": "嫌がらせ",
+        "zh-TW": "刁難",
+        "kr": "괴롭힘"
+    },
+    {
+        "zh-CN": "留一线",
+        "en": "Hold Back",
+        "ja": "一線を残す",
+        "zh-TW": "留一線",
+        "kr": "선 지키기"
+    },
+    {
+        "zh-CN": "愤怒",
+        "en": "Anger",
+        "ja": "憤怒",
+        "zh-TW": "憤怒",
+        "kr": "분노"
+    },
+    {
+        "zh-CN": "崩解",
+        "en": "Disintegration",
+        "ja": "崩解",
+        "zh-TW": "崩解",
+        "kr": "붕괴"
+    },
+    {
+        "zh-CN": "灵体辅助（刀剑）",
+        "en": "Spirit Support (Sword)",
+        "ja": "霊体補助（刀剣）",
+        "zh-TW": "靈體輔助（刀劍）",
+        "kr": "영체 보조 (검)"
+    },
+    {
+        "zh-CN": "冰冷触摸",
+        "en": "Frozen Touch",
+        "ja": "フローズンタッチ",
+        "zh-TW": "冰冷觸摸",
+        "kr": "차가운 손길"
+    },
+    {
+        "zh-CN": "灵体辅助（长戟）",
+        "en": "Spirit Support (Spear)",
+        "ja": "霊体補助（长戟）",
+        "zh-TW": "靈體輔助（長戟）",
+        "kr": "영체 보조 (창)"
+    },
+    {
+        "zh-CN": "万灵合一",
+        "en": "Unity of Spirits",
+        "ja": "万霊",
+        "zh-TW": "萬靈合壹",
+        "kr": "만령"
+    },
+    {
+        "zh-CN": "越战越勇",
+        "en": "Battle Momentum",
+        "ja": "勇往邁進",
+        "zh-TW": "越戰越勇",
+        "kr": "투지상승"
+    },
+    {
+        "zh-CN": "脆弱中枢",
+        "en": "Fragile Core",
+        "ja": "脆弱なコア",
+        "zh-TW": "脆弱中樞",
+        "kr": "취약 코어"
+    },
+    {
+        "zh-CN": "未燃放爆竹",
+        "en": "Unfired Firecracker",
+        "ja": "未点火の爆竹",
+        "zh-TW": "未燃放爆竹",
+        "kr": "미사용 폭죽"
+    },
+    {
+        "zh-CN": "腾飞",
+        "en": "Soaring",
+        "ja": "ソーリング",
+        "zh-TW": "騰飛",
+        "kr": "급비상"
+    },
+    {
+        "zh-CN": "怒火",
+        "en": "Fury",
+        "ja": "怒りに燃える",
+        "zh-TW": "怒火",
+        "kr": "타오르는분노"
+    },
+    {
+        "zh-CN": "糖分缺失",
+        "en": "Sugar Deficiency",
+        "ja": "甘味枯渇",
+        "zh-TW": "糖分缺失",
+        "kr": "당분고갈"
+    },
+    {
+        "zh-CN": "不稳定护甲",
+        "en": "Unstable Armor",
+        "ja": "不安定な装甲",
+        "zh-TW": "不穩定護甲",
+        "kr": "불안정한장갑"
+    },
+    {
+        "zh-CN": "脆弱护甲",
+        "en": "Fragile Armor",
+        "ja": "紙装甲",
+        "zh-TW": "脆弱護甲",
+        "kr": "경갑옷"
+    },
+    {
+        "zh-CN": "热茶饮品",
+        "en": "Hot Tea",
+        "ja": "ホットティー",
+        "zh-TW": "熱茶飲品",
+        "kr": "따뜻한 차"
+    },
+    {
+        "zh-CN": "变质的饮品",
+        "en": "Tainted Beverage",
+        "ja": "変質のドリンク",
+        "zh-TW": "變質的飲品",
+        "kr": "변질된 음료"
+    },
+    {
+        "zh-CN": "湖沼之王",
+        "en": "Swamp King",
+        "ja": "湖の主",
+        "zh-TW": "湖沼之王",
+        "kr": "호수왕"
+    },
+    {
+        "zh-CN": "川流之主",
+        "en": "River Lord",
+        "ja": "川の主",
+        "zh-TW": "川流之主",
+        "kr": "강의왕"
+    },
+    {
+        "zh-CN": "逆势而上",
+        "en": "Against the Tide",
+        "ja": "川上り",
+        "zh-TW": "逆勢而上",
+        "kr": "거스름"
+    },
+    {
+        "zh-CN": "碾压打击",
+        "en": "Crushing Strike",
+        "ja": "粉砕ブロー",
+        "zh-TW": "碾壓打擊",
+        "kr": "분쇄 공격"
+    },
+    {
+        "zh-CN": "我搭档呢！",
+        "en": "Where's my partner!",
+        "ja": "アイボウ！！！！",
+        "zh-TW": "我搭檔呢！",
+        "kr": "파트너!!!!"
+    },
+    {
+        "zh-CN": "我兄弟呢！",
+        "en": "Where's my brother!",
+        "ja": "アニキ！！！！",
+        "zh-TW": "我兄弟呢！",
+        "kr": "형님!!!!"
+    },
+    {
+        "zh-CN": "回甘",
+        "en": "Aftertaste",
+        "ja": "余韻の甘み",
+        "zh-TW": "回甘",
+        "kr": "단맛의여운"
+    },
+    {
+        "zh-CN": "商店可购买的战斗牌数量+1，每次进入商店可获得[color=#FFB346]1[/color]星币。",
+        "en": "Can buy 1 more battle card from shop, gain [color=#FFB346]1[/color] coin each time entering the shop.",
+        "ja": "ショップで購入できるバトルカード数+1、ショップに入るたびスターコイン[color=#FFB346]+1[/color]。",
+        "zh-TW": "商店可購買的戰鬥牌數量+1，每次進入商店可獲得[color=#FFB346]1[/color]星幣。",
+        "kr": "상점에서 구매 가능한 배틀 카드 수 +1, 상점에 들어갈 때마다 [color=#FFB346]1[/color] 코인 획득."
+    },
+    {
+        "zh-CN": "触发事件后，获得[color=#FFB346]3[/color]星币。",
+        "en": "Gain [color=#FFB346]3[/color] coin after triggering the event.",
+        "ja": "イベント発生後、[color=#FFB346]3[/color]コインを獲得。",
+        "zh-TW": "觸發事件後，獲得[color=#FFB346]3[/color]星幣。",
+        "kr": "이벤트 발생 후, [color=#FFB346]3[/color] 코인 획득."
+    },
+    {
+        "zh-CN": "若上个回合没有受到伤害，则攻击力[color=#FF4646]+3[/color]（不叠加，受伤后清除）。",
+        "en": "ATK [color=#FF4646]+3[/color] if no damage was taken in the previous round. (non-stackable, reset upon damage)",
+        "ja": "前回のターンでダメージを受けていない場合、攻撃値[color=#FF4646]+3[/color]。（スタック不可、ダメージを受けるとクリア）",
+        "zh-TW": "若上回合沒有受到傷害，則攻擊力[color=#FF4646]+3[/color]（不疊加，受傷後消除）。",
+        "kr": "이전 턴에 피해를 받지 않았다면, 공격력 [color=#FF4646]+3[/color]. (중첩 불가, 피격 시 초기화)"
+    },
+    {
+        "zh-CN": "每使用[color=#4386F4]3[/color]张效果牌，复制最后使用的那张效果牌并加入手牌。",
+        "en": "For every [color=#4386F4]3[/color] Effect Cards played, duplicate the last card and add it to your hand.",
+        "ja": "[color=#4386F4]3[/color]枚の効果カードを使用するごとに、最後に使用した効果カードが手札にコピーされる。",
+        "zh-TW": "每使用[color=#4386F4]3[/color]張效果牌，複製最後使用的那張效果牌並加入手牌。",
+        "kr": "효과 카드를 [color=#4386F4]3[/color]장 사용할 때마다, 마지막에 사용한 효과 카드를 손패로 복사."
+    },
+    {
+        "zh-CN": "在原有的基础上每个回合浮动增加或减少属性；攻击力[color=#FF4646]-2~2[/color]，防御力[color=#4386F4]-2~2[/color]，移动骰子点[color=#94FF46]-2~2[/color]。",
+        "en": "Improve or lower your attributes every turn: ATK [color=#FF4646]-2~+2[/color], DEF [color=#4386F4]-2~+2[/color], Roll [color=#94FF46]-2~+2[/color].",
+        "ja": "各ターンごとに、既存の基準値以上で属性が増減；攻撃値[color=#FF4646]-2〜2[/color]、防御値[color=#4386F4]-2〜2[/color]、移動ダイス[color=#94FF46]-2〜2[/color]。",
+        "zh-TW": "每回合提高或降低你的基礎屬性；攻擊力[color=#FF4646]-2~2[/color]，防禦力[color=#4386F4]-2~2[/color]，移動骰子點[color=#94FF46]-2~2[/color]。",
+        "kr": "매 턴마다 자신의 능력치 변경: 공격력 [color=#FF4646]-2~2[/color], 방어력 [color=#4386F4]-2~2[/color], 이동 거리 [color=#94FF46]-2~2[/color]."
+    },
+    {
+        "zh-CN": "当前生命值不超过最大生命值的一半时，攻击[color=#FF4646]+3[/color]。",
+        "en": "When HP ≤ 50%,ATK[color=#FF4646]+3[/color] .",
+        "ja": "現在のHPが最大HPの半分以下の場合、攻撃値[color=#FF4646]+3[/color]。",
+        "zh-TW": "當前生命值不超過最大生命值的一半時，攻擊[color=#FF4646]+3[/color]。",
+        "kr": "현재 HP가 최대 HP의 절반 이하일 경우, 공격력 [color=#FF4646]+3[/color]"
+    },
+    {
+        "zh-CN": "鼠鼠帮你抵抗伤害，下次受到的伤害[color=#FF4646]-3[/color]。",
+        "en": "Shiyu-Shiyu is protecting you.\nDamage taken [color=#FF4646]-3[/color] for the next time.",
+        "ja": "ジュジュがダメージを阻止し、次に受けるダメージ[color=#FF4646]-3[/color]。",
+        "zh-TW": "老鼠幫你抵抗傷害，下次受到的傷害[color=#FF4646]-3[/color]。",
+        "kr": "슈슈가 피해를 막음. 다음 받는 피해 [color=#FF4646]-3[/color]."
+    },
+    {
+        "zh-CN": "对友方使用主动技能时，如果目标血量不超过最大生命值的一半，则自己也获得鼠鼠护盾并获得一张卡牌。",
+        "en": "When using an active skill on an ally, if the target's HP ≤  their 50% Maximum HP, you also gain a Shiyu-Shiyu Shield and draw a card.",
+        "ja": "味方にスキルを使った時、目標のHPが５０％以下の場合、自身もカードを引き、ジュジュシールドを得る。",
+        "zh-TW": "對友方使用主動技能時，如果目標血量不超過最大生命值的壹半，則自己也獲得鼠鼠護盾並獲得壹張卡牌。",
+        "kr": "아군에게 스킬 사용 시, 대상의 HP가 50% 이하일 경우 자신도 슈슈 실드를 획득하고 카드를 1장 뽑음."
+    },
+    {
+        "zh-CN": "每丢弃1张战斗牌，获得[color=#FFB346]1[/color]星币。",
+        "en": "For each Battle Card discarded, gain [color=#FFB346]1[/color] coin.",
+        "ja": "1枚のバトルカードを捨てるごとに、[color=#FFB346]1[/color]コインを獲得。",
+        "zh-TW": "每丟棄1張戰鬥牌，獲得[color=#FFB346]1[/color]星幣。",
+        "kr": "배틀 카드를 1장 버릴 때마다, [color=#FFB346]1[/color] 코인 획득."
+    },
+    {
+        "zh-CN": "使用[url=1:20019][/url]、[url=1:20014][/url]、[url=1:20002][/url]、[url=1:20006][/url]时，自己原地放置【谜之物体】。",
+        "en": "Put a 【Mysterious X】 on the current panel, when using [url=1:20019][/url], [url=1:20014][/url], [url=1:20002][/url], or [url=1:20006][/url].",
+        "ja": "[url=1:20019][/url]、[url=1:20014][/url]、[url=1:20002][/url]、[url=1:20006][/url]を食べたとき、その場に【謎のオブジェ】を配置。",
+        "zh-TW": "使用[url=1:20019][/url]、[url=1:20014][/url]、[url=1:20002][/url]、[url=1:20006][/url]時，自己原地放置【謎之物體】。",
+        "kr": "[url=1:20019][/url], [url=1:20014][/url], [url=1:20002][/url], [url=1:20006][/url] 사용 시, 그 자리에 【수수께끼의 물체】를 배치."
+    },
+    {
+        "zh-CN": "击倒怪物主动技能冷却-2。",
+        "en": "KO monsters, active skill  -2",
+        "ja": "モンスター撃破時にCT-2。",
+        "zh-TW": "擊倒怪物主動技能冷卻-2。",
+        "kr": "몬스터 격파 시 쿨타임 -2."
+    },
+    {
+        "zh-CN": "所有回血效果[color=#94FF46]+2[/color]，但是受到的伤害也会[color=#FF4646]+1[/color] 。",
+        "en": "All healing effects [color=#94FF46]+2[/color].\nReceived damage [color=#FF4646]+1[/color].",
+        "ja": "すべての回復効果[color=#94FF46]+2[/color]、しかし受けるダメージ[color=#FF4646]+1[/color]になります。",
+        "zh-TW": "所有回血效果[color=#94FF46]+2[/color]，但受到的傷害也會[color=#FF4646]+1[/color] 。",
+        "kr": "모든 회복 효과[color=#94FF46]+2[/color], 하지만 받는 피해도 [color=#FF4646]+1[/color]."
+    },
+    {
+        "zh-CN": "使用[url=1:20014][/url]、[url=1:20002][/url]后，回复以自身为起点5格内的其他角色2点生命值。",
+        "en": "Healing characters within 5 panels 2 HP after using [url=1:20014][/url] or [url=1:20002][/url].",
+        "ja": "[url=1:20014][/url]、[url=1:20002][/url]使用後、周囲5マス以内の他キャラｈｐ+2。",
+        "zh-TW": "使用[url=1:20014][/url]、[url=1:20002][/url]後，回覆以自身爲起點5格內的其他角色2點生命值。",
+        "kr": "[url=1:20014][/url], [url=1:20002][/url] 사용 후, 주위 5칸 내 다른 캐릭터 HP +2."
+    },
+    {
+        "zh-CN": "攻击悬赏玩家时，每层悬赏使猫猫攻击[color=#FF4646]+2[/color]；     悬赏玩家死亡时，重置主动技能CD。",
+        "en": "Attacking a player with \"Bounty\" increases the cat's attack by [color=#FF4646]+2[/color] per \"Bounty\" layer; upon death of the \"Bounty\" player, reset the active skill cooldown.",
+        "ja": "「賞金首」効果のあるキャラを攻撃すると、「賞金首」の層ごとに猫の攻撃力が[color=#FF4646]+2[/color]される；「賞金首」のキャラが死亡した場合、アクティブスキルのクールダウンをリセットする。",
+        "zh-TW": "攻擊懸賞角色時，每層懸賞使貓貓攻擊[color=#FF4646]+2[/color]；懸賞角色死亡時，重置主動技能CD。",
+        "kr": "\"현상수배\" 효과가 있는 캐릭터를 공격하면, \"현상수배\" 중첩마다 고양이의 공격력 [color=#FF4646]+2[/color]. \"현상수배\" 캐릭터가 쓰러지면, 액티브 스킬 쿨타임 리셋."
+    },
+    {
+        "zh-CN": "受到伤害后，主动技能CD[color=#4386F4]-1[/color]。",
+        "en": "After taking damage, reduce the active skill cooldown by [color=#4386F4]1[/color].",
+        "ja": "ダメージを受けた後、アクティブスキルのクールダウンを[color=#4386F4]1[/color]減少させる。",
+        "zh-TW": "受到傷害後，主動技能CD[color=#4386F4]-1[/color]。",
+        "kr": "피해를 입은 후, 액티브 스킬 쿨타임 [color=#4386F4]-1[/color]."
+    },
+    {
+        "zh-CN": "自身受到伤害后，获得1层【治愈】并使主动技能CD-1。",
+        "en": "After taking damage, gain 1 stack of 【Heal】 and reduce active skill cooldown by 1.",
+        "ja": "ダメージを受けた後、【ヒール】スタック+1、ＣＴ-1。",
+        "zh-TW": "自身受到傷害後，獲得1層【治愈】並使主動技能CD-1。",
+        "kr": "피해를 입은 후, 【치유】 중첩 +1, 스킬 쿨타임 -1."
+    },
+    {
+        "zh-CN": "自己的行动回合未挑战别人，则自己在行动回合结束时获得攻击力[color=#FF4646]+2[/color]，防御力[color=#4386F4]+2[/color]（持续到下次攻击）",
+        "en": "If you do \nnot engage in battle during your turn, [color=#FF4646]+2[/color] ATK and [color=#4386F4]+2[/color] DEF at the end of your turn (Last to the next battle).",
+        "ja": "自分のターンで戦闘を行わなければ、ターン終了時にHPを[color=#94FF46]1[/color]回復する。",
+        "zh-TW": "自己的行動回合未挑戰別人，則自己在行動回合結束時獲得攻擊力[color=#FF4646]+2[/color]，防禦力[color=#4386F4]+2[/color]（持續到下次攻擊）",
+        "kr": "自分のターンで戦闘を行わなければ、ターン終了時にHPを[color=#94FF46]1[/color]回復する。"
+    },
+    {
+        "zh-CN": "自己的行动回合未挑战别人，则自己在行动回合结束时获得攻击力[color=#FF4646]+2[/color]，防御力[color=#4386F4]+2[/color]（持续到下次攻击）",
+        "en": "If you do not engage in battle during your turn, [color=#FF4646]+2[/color] ATK and [color=#4386F4]+2[/color] DEF at the end of your turn (Last to the next battle).",
+        "ja": "自分のターンで戦闘を行わなかった場合、ターン終了時に攻撃力[color=#FF4646]+2[/color]、防御力[color=#4386F4]+2[/color]を得る。（次回の攻撃終了まで有効）",
+        "zh-TW": "自己的行動回合未挑戰別人，則自己在行動回合結束時獲得攻擊力[color=#FF4646]+2[/color]，防禦力[color=#4386F4]+2[/color]（持續到下次攻擊）",
+        "kr": "자신의 턴에 전투를 하지 않으면, 턴 종료 시 공격력 [color=#FF4646]+2[/color], 방어력 [color=#4386F4]+2[/color]. (다음 공격 종료 시까지 유지)"
+    },
+    {
+        "zh-CN": "使用主动技能时，姬梦朝获取一张[url=1:20027][/url]。",
+        "en": "When using an active skill, Ji Mengzhao gains 1 [url=1:20027][/url].",
+        "ja": "スキル使用時、ユメが[url=1:20027][/url]1枚手札に加える。",
+        "zh-TW": "使用主動技能時，姬夢朝獲取壹張[url=1:20027][/url]。",
+        "kr": "스킬 사용 시, [url=1:20027][/url] 카드 1장을 손패에 추가."
+    },
+    {
+        "zh-CN": "自己最终的移动点数为[color=#94FF46]6[/color]时，获得[color=#FFB346]6[/color]星币。",
+        "en": "Get [color=#FFB346]6[/color] coins if the movement point is [color=#94FF46]6[/color].",
+        "ja": "移動ポイントが[color=#94FF46]6[/color]なら、[color=#FFB346]6[/color]枚のコインを得ます。",
+        "zh-TW": "自己最終移動點數為[color=#94FF46]6[/color]時，獲得[color=#FFB346]6[/color]星幣。",
+        "kr": "최종 이동 거리가 [color=#94FF46]6[/color]이면, [color=#FFB346]6[/color] 코인 획득."
+    },
+    {
+        "zh-CN": "在战斗中，己方角色攻击命中和闪避成功时为角色增加[color=#4386F4]1[/color]层剑气。1、2层剑气为角色增加[color=#FF4646]1[/color]点攻击力，第[color=#4386F4]3[/color]层剑气为角色增加[color=#FF4646]3[/color]点攻击力。被击倒则清除所有的剑气层数。",
+        "en": "Get [color=#4386F4]1[/color] Sword Gust for each on-hit or evasion, 3 \nat most. ATK +[color=#FF4646]1[/color] for the 1st and 2nd Sword Gust, ATK +[color=#FF4646]3[/color] for the [color=#4386F4]3[/color]rd.\nLose all Sword Gusts if get KO.",
+        "ja": "戦闘中、自身の攻撃命中や回避成功すると剣気[color=#4386F4]1[/color]つを得ます（最大[color=#4386F4]3スタック[/color]）、一つ目と二つ目の剣気では攻撃力が[color=#FF4646]1[/color]ずつ増加し、[color=#4386F4]3[/color]つ目では攻撃力が[color=#FF4646]3[/color]増加します。自身がスタン時に全剣気スタックを失う。",
+        "zh-TW": "在戰鬥中，角色的攻擊命中、閃避成功都會為角色增加[color=#4386F4]1[/color]層劍氣。1、2層劍氣為角色增加[color=#FF4646]1[/color]點攻擊力，第[color=#4386F4]3[/color]層劍氣為角色增加[color=#FF4646]3[/color]點攻擊力。被擊倒則清除所有的劍氣層數。",
+        "kr": "전투 중 공격 명중/회피 성공 시 검기 [color=#4386F4]1[/color]중첩 획득 (최대 [color=#4386F4]3중첩[/color]). 1, 2중첩에서는 공격력 [color=#FF4646]+1[/color]씩, 3중첩에서는 공격력 [color=#FF4646] +3[/color] 추가. 자신이 처치된 경우 모든 검기 중첩을 잃음."
+    },
+    {
+        "zh-CN": "发起战斗时，每比目标多出一张手牌，攻击力就会[color=#FF4646]+1[/color]，最多[color=#FF4646]+3[/color]。",
+        "en": "When engage in battle during your turn, gain [color=#FF4646]+1[/color] attack for each card in hand exceeding the target's, \nMaximum [color=#FF4646]+3[/color].",
+        "ja": "戦闘時自分の手札は相手より多い場合、多い手札の一枚につき自分の攻撃力[color=#FF4646]+1[/color]とする。最大攻撃力[color=#FF4646]＋3[/color]。",
+        "zh-TW": "發起戰鬥時，每比目標多出一張手牌，攻擊力就會+1，最多+3。",
+        "kr": "전투 시 자신의 카드가 상대보다 많을 경우, 많은 카드 한 장당 자신의 공격력 [color=#FF4646]+1[/color]. 최대 공격력 [color=#FF4646]+3[/color]."
+    },
+    {
+        "zh-CN": "每累计[color=#94FF46]13[/color]点移动点数，交替提升[color=#FF4646]1[/color]点攻击力、[color=#FF4646]1[/color]点防御力，提升的属性在本局战斗中永久有效。",
+        "en": "Every [color=#94FF46]13[/color] movement points alternately increase [color=#FF4646]1[/color] ATK or DEF, permanent for this battle.",
+        "ja": "累計移動ステップ数が[color=#94FF46]13[/color]スタック増加するごとに、攻撃力と防御力が交互に[color=#FF4646]1[/color]ずつ増加し、その増加したステータスは対局終了まで有効となる。",
+        "zh-TW": "每累計[color=#94FF46]13[/color]點移動點數，交替提升[color=#FF4646]1[/color]點攻擊力、[color=#FF4646]1[/color]點防禦力，提升的屬性在本局戰鬥中永久有效。",
+        "kr": "누적 이동 거리가 [color=#94FF46]13[/color] 증가할 때마다 영구적으로 공격력과 방어력이 교대로 [color=#FF4646]+1[/color]."
+    },
+    {
+        "zh-CN": "获得星币时攻击力[color=#FF4646]+2[/color]，防御力[color=#4386F4]+1[/color]，持续1轮。",
+        "en": "When gaining Star Coins, Attack [color=#FF4646]+2[/color], Defense [color=#4386F4]+1[/color], lasting 1 round.",
+        "ja": "スターコイン獲得時、1ターンの間：\n攻撃力[color=#FF4646]+2[/color]\n防御力[color=#4386F4]+1[/color]。",
+        "zh-TW": "獲得星幣時攻擊力[color=#FF4646]+2[/color]，防禦力[color=#4386F4]+1[/color]，持續1輪。",
+        "kr": "코인 획득 시, 1턴간 공격력 [color=#FF4646]+2[/color], 방어력 [color=#4386F4]+1[/color]."
+    },
+    {
+        "zh-CN": "使其他角色获得卡牌的时候，双方[color=#FFB346]+1[/color]层星光。自身每累计获得7层星光，攻击力[color=#FF4646]+1[/color]，防御力[color=#4386F4]+1[/color]。",
+        "en": "When making other characters gain cards, both parties gain [color=#FFB346]+1[/color] stack of Starlight.\nFor every 7 stacks of Starlight you accumulate, Attack [color=#FF4646]+1[/color], Defense [color=#4386F4]+1[/color].",
+        "ja": "他キャラにカードを与える時：\n双方に[color=#FFB346]スターライト+1[/color]\n（自身のスターライトが7層累積する毎に：\n　攻撃力[color=#FF4646]+1[/color]\n　防御力[color=#4386F4]+1[/color]）。",
+        "zh-TW": "使其他角色獲得卡牌的時候，雙方[color=#FFB346]+1[/color]層星光。自身每累計獲得7層星光，攻擊力[color=#FF4646]+1[/color]，防禦力[color=#4386F4]+1[/color]。",
+        "kr": "다른 캐릭터에게 카드를 줄 때, 양쪽에 [color=#FFB346]스타라이트 +1[/color]. 자신의 스타라이트가 7중첩 누적될 때마다 공격력 [color=#FF4646]+1[/color], 방어력 [color=#4386F4]+1[/color]."
+    },
+    {
+        "zh-CN": "每次路过或者停在【保障点】时，主动技能CD[color=#4386F4]-2[/color]。单回合只能触发一次。",
+        "en": "Each time passing by or stopping at Check Point, the active skill cooldown is reduced by 2.Can only be triggered once per turn.",
+        "ja": "セーフティポイントに経過、滞在時にCT-2。(１ターンに一回）",
+        "zh-TW": "每次路過或者停在【保障點】時，主動技能CD[color=#4386F4]-2[/color]。單回合只能觸發壹次。",
+        "kr": "안전 구역을 지나거나 머물 때, 스킬 쿨타임 -2. (턴당 1회)"
+    },
+    {
+        "zh-CN": "回合开始时，若自身3格范围内没有其他角色，则抽取一张战斗卡牌，且自身攻击力[color=#FF4646]+1[/color]，防御力[color=#FF4646]+1[/color]。由自己发起的战斗结束后，丢弃手牌中所有的战斗卡牌。",
+        "en": "At the start of the turn, if there are no other players within a 3 panels, draw a Battle Card, and gain [color=#FF4646]+1[/color] ATK and [color=#FF4646]+1[/color] DEF. When you initiate a battle with other player, discard all Battle Cards from your hand after the battle.",
+        "ja": "ターン開始時に、自身3マス以内にキャラクターがいない場合、バトルカードを1枚、攻撃力[color=#FF4646]+1[/color]、防御力[color=#FF4646]+1[/color]を得る。自ら戦闘を行た後、手札にあるバトルカードをすべて捨てる。",
+        "zh-TW": "回合開始時，若自身3格範圍內沒有其他角色，則抽取壹張戰鬥卡牌，且自身攻擊力[color=#FF4646]+1[/color]，防禦力[color=#FF4646]+1[/color] maidsafe。由自己發起的戰鬥結束後，丟棄手牌中所有的戰鬥卡牌。",
+        "kr": "턴 시작 시 3칸 내 캐릭터가 없으면, 배틀 카드를 1장 획득하며, 공격력 [color=#FF4646]+1[/color], 방어력 [color=#FF4646]+1[/color]. 전투 후 손패의 모든 배틀 카드를 버림."
+    },
+    {
+        "zh-CN": "回合开始时，若自身3格范围内没有其他怪物，则抽取一张战斗卡牌，且自身攻击力[color=#FF4646]+2[/color]，防御力[color=#FF4646]+2[/color]。由自己发起的战斗结束后，随机丢弃手牌中的1张战斗卡牌。",
+        "en": "At the start of the turn, if there are no other monsters within a 3 panels, draw a Battle Card, and gain [color=#FF4646]+2[/color] ATK and [color=#FF4646]+2[/color] DEF.\nWhen you initiate a battle with other player, randomly discard a Battle Cards from your hand after the battle.",
+        "ja": "ターン開始時に、自身3マス以内にモンスターがいない場合、バトルカードを1枚、攻撃力[color=#FF4646]+2[/color]、防御力[color=#FF4646]+2[/color]を得る。自ら戦闘を行った後、手札にあるバトルカードを1枚捨てる。",
+        "zh-TW": "回合開始時，若自身3格範圍內沒有其他怪物，則抽取壹張戰鬥卡牌，且自身攻擊力[color=#FF4646]+2[/color]，防禦力[color=#FF4646]+2[/color] maidsafe。由自己發起的戰鬥結束後，隨機丟棄手牌中的1張戰鬥卡牌。",
+        "kr": "턴 시작 시 3칸 내 몬스터가 없으면, 배틀 카드를 1장 획득하며, 공격력 [color=#FF4646]+2[/color], 방어력 [color=#FF4646]+2[/color]. 전투 후 손패의 배틀 카드 1장을 버림."
+    },
+    {
+        "zh-CN": "事件触发时，获得1张[url=1:20030][/url]。",
+        "en": "When the event is triggered, gain 1 [url=1:20030][/url].",
+        "ja": "イベント発生時、[url=1:20030][/url]1枚得る。",
+        "zh-TW": "事件觸發時，獲得1張[url=1:20030][/url]。",
+        "kr": "이벤트 발생 시, [url=1:20030][/url] 1장 획득."
+    },
+    {
+        "zh-CN": "事件触发时，获得1张[url=1:20031][/url]。 每次使用[url=1:20031][/url]后，[url=1:20031][/url]伤害永久+1。",
+        "en": "When the event is triggered, gain 1 [url=1:20031][/url].After each use of [url=1:20031][/url], the damage of [url=1:20031][/url] permanently increases by 1.",
+        "ja": "イベント発生時、[url=1:20031][/url]1枚得る。[url=1:20031][/url]を使用するたびに、[url=1:20031][/url]のダメージが１上昇する。",
+        "zh-TW": "事件觸發時，獲得1張[url=1:20031][/url]。 每次使用[url=1:20031][/url]後，[url=1:20031][/url]傷害永久+1。",
+        "kr": "이벤트 발생 시, [url=1:20031][/url] 1장 획득. [url=1:20031][/url]을 사용할 때마다 피해량 1 증가."
+    },
+    {
+        "zh-CN": "回合结束时，若自己手牌少于[color=#4386F4]5[/color]张，则抽取1张卡牌。",
+        "en": "Draw 1 card at the end of the turn if there are fewer than [color=#4386F4]5[/color] cards in hand.",
+        "ja": "ターン終了時、手札数が[color=#4386F4]5[/color]より少ないの場合、カード1枚を得る。",
+        "zh-TW": "回合結束時，若自己手牌少于[color=#4386F4]5[/color]張，則抽取1張卡牌。",
+        "kr": "턴 종료 시, 손패가 [color=#4386F4]5[/color]장보다 적으면 카드 1장을 획득."
+    },
+    {
+        "zh-CN": "骰点为1时，获得1张[url=1:20028][/url]，骰点为6时，获得1张[url=1:20027][/url]。",
+        "en": "When the dice roll is 1, gain 1 [url=1:20028][/url].\nWhen the dice roll is 6, gain 1 [url=1:20027][/url].",
+        "ja": "ダイスの出目が１の場合、[url=1:20028][/url]1枚手に入る、ダイスの出目が6の場合、[url=1:20027][/url]1枚手に入る。",
+        "zh-TW": "股點爲1時，獲得1張[url=1:20028][/url]，股點爲6時，獲得1張[url=1:20027][/url]。",
+        "kr": "주사위 눈이 1일 경우 [url=1:20028][/url] 1장을, 6일 경우 [url=1:20027][/url] 1장을 획득."
+    },
+    {
+        "zh-CN": "骰点为1时，获得1张[url=1:20029][/url]，骰点为6时，获得1张[url=1:20027][/url]。",
+        "en": "When the dice roll is 1, gain 1 [url=1:20029][/url]. When the dice roll is 6, gain 1 [url=1:20027][/url].",
+        "ja": "ダイスの出目が１の場合、[url=1:20029][/url]1枚手に入る、ダイスの出目が6の場合、[url=1:20027][/url]1枚手に入る。",
+        "zh-TW": "股點爲1時，獲得1張[url=1:20029][/url]，股點爲6時，獲得1張[url=1:20027][/url]。",
+        "kr": "주사위 눈이 1일 경우 [url=1:20029][/url] 1장을, 6일 경우 [url=1:20027][/url] 1장을 획득."
+    },
+    {
+        "zh-CN": "对枫使用[url=1:20027][/url]时，对方获得【养精蓄锐】的效果。",
+        "en": "When using [url=1:20027][/url] on Feng, the target gains the 【Energy Conservation】 effect.",
+        "ja": "ヒメに[url=1:20027][/url]を使った時、ヒメのエネルギー保存が発動。",
+        "zh-TW": "對楓使用[url=1:20027][/url]時，對方獲得【養精蓄銳】的效果。",
+        "kr": "유메에게 [url=1:20027][/url]을 사용하면, 【에너지 보존】 효과 발동."
+    },
+    {
+        "zh-CN": "照或【降神】的目标使用费用2及以上的攻击牌时，照获得1层【狐火】，使用主动技能时，每层【狐火】额外偷取目标1星币。",
+        "en": "When Teru or the target of 【Divine Invocation】 uses an attack card costing ≥ 2, Teru gains 1 stack of 【Fox Fire】. \nWhen using active skills, each stack of 【Fox Fire】 steals an additional 1 coins from the target.",
+        "ja": "テル或いは「憑依」された目標がバトルコスト2以上のバトルカードを使用した場合、テルが「狐火」スタックを１つ獲得する、テルがスキル使用時に、「狐火」スタック１につき、目標のスターコイン１奪う。",
+        "zh-TW": "照或【降神】的目標使用費用2及以上的攻擊牌時，照獲得1層【狐火】，使用主動技能時，每層【狐火】額外偷取目標1星幣。",
+        "kr": "테루 또는 【신내림】 대상이 비용 2 이상의 배틀 카드를 사용하면, 테루가 【호화】 1중첩을 획득. 테루가 스킬 사용 시, 【호화】 중첩 1개당 대상의 코인을 1개 빼앗음."
+    },
+    {
+        "zh-CN": "照或【降神】目标使用费用2及以上的攻击牌时，照获得1层【狐火】，追击时，每层【狐火】额外增加1点攻击力。",
+        "en": "When Teru or the target of 【Divine Invocation】 uses an attack card costing ≥ 2, Teru gains 1 stack of 【Fox Fire】.\nWhen pursuing, each stack of 【Fox Fire】 gain +1 ATK.",
+        "ja": "テル或いは「憑依」された目標がバトルコスト2以上のバトルカードを使用した場合、テルが「狐火」スタックを１つ獲得する、テルがスキル使用時に、「狐火」スタック１につき、テルの攻撃力+1。",
+        "zh-TW": "照或【降神】目標使用費用2及以上的攻擊牌時，照獲得1層【狐火】，追擊時，每層【狐火】額外增加1點攻擊力。",
+        "kr": "테루 또는 【신내림】 대상이 비용 2 이상의 배틀 카드를 사용하면, 테루가 【호화】 1중첩을 획득. 테루가 스킬 사용 시, 【호화】 중첩 1개당 테루의 공격력 +1."
+    },
+    {
+        "zh-CN": "战斗攻击超天酱和被超天酱战斗攻击的角色和怪物会被施加【粉丝】状态。当角色拥有【粉丝】状态时战斗攻击超天酱，攻击力下降[color=#FF4646]1[/color]点。超天酱被击倒时将失去所有【粉丝】。",
+        "en": "Characters and monsters attacking KAangel or being attacked by it applies 【Fan】 status. 【Fan】 status holders lose [color=#FF4646]1[/color] ATTK when against KAangel. Defeating KAangel clears all 【Fan】 statuses.",
+        "ja": "超てんちゃんを攻撃するキャラやモンスターには「ファン」状態にされます。\n「ファン」状態の敵が超てんちゃんを攻撃する際、攻撃力[color=#FF4646]-1[/color]\n超てんちゃんが倒された時、すべての「ファン」状態がクリアされます。",
+        "zh-TW": "戰鬥攻擊超天醬和被超天醬戰鬥攻擊的角色和怪物會被施加【粉絲】狀態。當角色擁有【粉絲】狀態時戰鬥攻擊超天醬，攻擊力下降[color=#FF4646]1[/color]點。超天醬被擊倒時場上所有的【粉絲】狀態將會被清除。",
+        "kr": "초텐쨩을 공격하거나 초텐짱이 공격하는 캐릭터/몬스터는 【팬】 상태가 되며, 【팬】 상태의 적이 초텐쨩을 공격하는 경우 대상의 공격력 [color=#FF4646]-1[/color]. 초텐쨩이 쓰러지면 모든 【팬】 상태 해제."
+    },
+    {
+        "zh-CN": "战斗攻击超天酱和被超天酱战斗攻击的角色和怪物会被施加【粉丝】状态。当角色拥有【粉丝】状态时战斗攻击超天酱，攻击力下降[color=#FF4646]1[/color]点。",
+        "en": "Characters and monsters attacking KAangel or being attacked by it applies 【Fan】 status. 【Fan】 status holders lose [color=#FF4646]1[/color] ATTK when against KAangel.",
+        "ja": "超てんちゃんを攻撃するキャラやモンスターには「ファン」状態にされます。\n「ファン」状態の敵が超てんちゃんを攻撃する際、攻撃力[color=#FF4646]-1[/color]。",
+        "zh-TW": "戰鬥攻擊超天醬和被超天醬戰鬥攻擊的角色和怪物會被施加【粉絲】狀態。當角色擁有【粉絲】狀態時戰鬥攻擊超天醬，攻擊力下降[color=#FF4646]1[/color]點。",
+        "kr": "초텐쨩을 공격하거나 초텐짱이 공격하는 캐릭터/몬스터는 【팬】 상태가 되며, 【팬】 상태의 적이 초텐쨩을 공격하는 경우 대상의 공격력 [color=#FF4646]-1[/color]."
+    },
+    {
+        "zh-CN": "与糖糖组队的时候，会有神奇的事情发生。",
+        "en": "When teaming up with Ame-chan, magical things will happen.",
+        "ja": "あめちゃんとチームメイトになった場合、いいことが発生するかも。",
+        "zh-TW": "與糖糖組隊的時候，會有神奇的事情發生。",
+        "kr": "아메쨩과 팀이 되면, 좋은 일이 생길지도 모른다."
+    },
+    {
+        "zh-CN": "每次受到伤害时会获得【爱】状态，最多叠加[color=#4386F4]4[/color]层。每一层【爱】状态会提供[color=#FF4646]1[/color]点攻击力，但会降低[color=#FF4646]1[/color]点防御力。此状态初始为[color=#4386F4]2[/color]层。",
+        "en": "When damage is received, the 【Love】 status is applied, stacking up to a maximum of 4. Each stack grants [color=#FF4646]1[/color] ATK and reduces [color=#FF4646]1[/color] DEF.\nThis status starts with [color=#4386F4]2[/color] stacks.",
+        "ja": "ダメージを受けるたびに「愛」を獲得し、最大で4層まで重ねられます。\n「愛」の各層は攻撃力[color=#FF4646]+1[/color] 、防御力[color=#FF4646]-1[/color] \n「愛」の初期値は[color=#4386F4]2[/color]層です。",
+        "zh-TW": "每次受到傷害時會獲得【愛】狀態，最多疊加[color=#4386F4]4[/color]層。每壹層【愛】狀態會提供[color=#FF4646]1[/color]點攻擊力，但會降低[color=#FF4646]1[/color]點防禦力。此狀態初始爲[color=#4386F4]2[/color]層。",
+        "kr": "피해를 입을 때마다 【사랑】을 획득, 최대 4중첩. 【사랑】의 초기값은 2중첩이며, 각 중첩마다 공격력 [color=#FF4646]+1[/color], 방어력 [color=#FF4646]-1[/color] 효과를 부여."
+    },
+    {
+        "zh-CN": "与超天酱组队的时候，会有神奇的事情发生。",
+        "en": "When teaming up with KAangel, magical things will happen.",
+        "ja": "超てんちゃんとチームメイトになった場合、いいことが発生するかも。",
+        "zh-TW": "與超天醬組隊的時候，會有神奇的事情發生。",
+        "kr": "초텐쨩과 팀이 되면, 좋은 일이 생길지도 모른다."
+    },
+    {
+        "zh-CN": "每次路过角色时,偷取[color=#FFB346]4[/color]星币,不挑战玩家。",
+        "en": "Steal [color=#FFB346]4[/color] coins when you pass by a player without engaging in the battle.",
+        "ja": "キャラクターを通った時、[color=#FFB346]4[/color]コインを盗み、キャラクターに攻撃しない。",
+        "zh-TW": "每次經過角色時，偷取[color=#FFB346]4[/color]星幣，不挑戰角色。",
+        "kr": "캐릭터를 지나갈 때, [color=#FFB346]4[/color] 코인을 훔치며, 공격하지 않음."
+    },
+    {
+        "zh-CN": "[color=#4386F4]6[/color]格内没有角色时，移动点数[color=#94FF46]+3[/color]。",
+        "en": "Movement [color=#94FF46]+3[/color] when there are no players within [color=#4386F4]6[/color] panels.",
+        "ja": "[color=#4386F4]6[/color]マス以内にキャラクターがいない時、移動ポイント[color=#94FF46]+3[/color]。",
+        "zh-TW": "[color=#4386F4]6[/color]格內沒有其他角色時，移動點數[color=#94FF46]+6[/color]。",
+        "kr": "[color=#4386F4]6[/color]칸 내에 캐릭터가 없을 때, 이동 거리 [color=#94FF46]+3[/color]."
+    },
+    {
+        "zh-CN": "每次对角色造成伤害后（不含反击），从角色身上掠夺[color=#FFB346]10%[/color]的星币（最少1点星币）。",
+        "en": "Get [color=#FFB346]10%[/color] of a player's coins (1 a least) every time you deal damage to the player (excluding counterattacks).",
+        "ja": "キャラクターにダメージを与えた後（反撃は除く）、キャラクターからコインの[color=#FFB346]10%[/color]を奪う。（最低1ポイント）",
+        "zh-TW": "每次對其他角色造成傷害後（不含反擊），從該角色身上掠奪[color=#FFB346]10%[/color]的星幣（最少1點星幣）。",
+        "kr": "캐릭터에게 피해를 입힌후(반격 제외), 캐릭터로부터 코인의 [color=#FFB346]10%[/color]를 강탈. (최소 1 코인)"
+    },
+    {
+        "zh-CN": "角色击倒强盗后回复[color=#94FF46]2[/color]HP。",
+        "en": "Heal [color=#94FF46]2[/color] HP when KO a Robber.",
+        "ja": "キャラクターが強盗を倒した後、[color=#94FF46]2[/color]HPを回復する",
+        "zh-TW": "角色擊倒強盜後回復[color=#94FF46]2[/color]HP。",
+        "kr": "도둑을 쓰러뜨리면, 쓰러뜨린 캐릭터 HP [color=#94FF46]+2[/color]."
+    },
+    {
+        "zh-CN": "每回合可重选方向追击目标角色，且移动点数[color=#94FF46]+1[/color]。",
+        "en": "You \ncan select a direction each turn to pursue the target player. Movement [color=#94FF46]+1[/color].",
+        "ja": "毎ターン、キャラクターの追撃方向を再選択可能、さらに移動ポイント[color=#94FF46]+1[/color]。",
+        "zh-TW": "每回合可重選方向追擊目標角色，且移動點數[color=#94FF46]+1[/color]。",
+        "kr": "매 턴마다 캐릭터 추격 방향을 다시 선택할 수 있으며, 이동 거리 [color=#94FF46]+1[/color]."
+    },
+    {
+        "zh-CN": "攻击目标角色时，至少保留其[color=#94FF46]1[/color]点生命。",
+        "en": "Your attack target will have at least [color=#94FF46]1[/color] HP even if you can KO.",
+        "ja": "キャラクターを攻撃する際、最低でも[color=#94FF46]1[/color]HPを保持させる。",
+        "zh-TW": "攻擊目標角色時，至少保留其[color=#94FF46]1[/color]點生命。",
+        "kr": "캐릭터를 공격할 때, 최소 [color=#94FF46]1[/color]HP를 남김."
+    },
+    {
+        "zh-CN": "被挑战后，自身攻击[color=#FF4646]+1[/color],最多叠加[color=#4386F4]3[/color]次。",
+        "en": "After being engaged in the battle, ATK [color=#FF4646]+1[/color] (up to a maximum of [color=#4386F4]3[/color] stacks).",
+        "ja": "戦闘を仕掛けられた後、攻撃力+1。（最大３スタック）",
+        "zh-TW": "被挑戰后，自身攻擊[color=#FF4646]+1[/color]，最多疊加[color=#4386F4]3[/color]次。",
+        "kr": "전투를 걸면, 공격력+1. (최대 3중첩)"
+    },
+    {
+        "zh-CN": "移动固定为[color=#94FF46]3[/color]点，移动过程中如果碰到玩家，则立刻自爆，对周围3格内的玩家角色施加中毒。（每回合失去[color=#FF4646]1[/color]Hp，持续[color=#4386F4]3[/color]回合）",
+        "en": "Movement is fixed at [color=#94FF46]3[/color]. Will self-explosion when touch the player, applying Poison effect to all players within 3 panels.\n(Poison: [color=#FF4646]-1[/color] HP per turn. Last for [color=#4386F4]3[/color] turns.)",
+        "ja": "固定[color=#94FF46]3[/color]マス移動する、移動中にキャラクターと遭遇した場合、自爆して、3マス以内のプレイヤーに中毒効果を与える。（毎ターンｈｐ[color=#FF4646]-1[/color]、[color=#4386F4]3[/color]ターン継続）",
+        "zh-TW": "移動固定爲[color=#94FF46]3[/color]點，移動過程中如果碰到玩家，則立刻自爆，對周圍3格內的玩家角色施加中毒。（每回合失去[color=#FF4646]1[/color]Hp，持續[color=#4386F4]3[/color]回合）",
+        "kr": "[color=#94FF46]3[/color]칸 고정 이동, 이동 중 캐릭터와 마주치면 자폭하여 3칸 내 캐릭터에게 중독 효과를 부여. (매 턴 HP [color=#FF4646]-1[/color], [color=#4386F4]3[/color]턴 지속)"
+    },
+    {
+        "zh-CN": "场上每存在一个刀剑灵体，为雅央提供[color=#FF4646]+2[/color]防御力，玩家每摧毁一个，Boss失去[color=#94FF46]10%[/color]的最大生命值。",
+        "en": "For every Sword Spirit on the map, Masao gains [color=#FF4646]+2[/color] DEF.\nFor each Sword Spirit destroyed, Masao loses [color=#94FF46]10%[/color] Maximum HP.",
+        "ja": "場に刀剣霊が1体存在するごとに、雅央の防御力[color=#FF4646]+2[/color]。プレイヤーが刀剣霊を1体破壊するごとに、雅央は最大HPの[color=#94FF46]10%[/color]を失います。",
+        "zh-TW": "場上每存在壹個刀劍靈體，爲雅央提供[color=#FF4646]+2[/color]防禦力，玩家每摧毀壹個，Boss失去[color=#94FF46]10%[/color]的最大生命值。",
+        "kr": "필드에 검 정령 하나당 마사오의 방어력 [color=#FF4646]+2[/color]. 플레이어가 검 정령 파괴 시, 마사오는 최대 HP의 [color=#94FF46]10%[/color]를 잃음."
+    },
+    {
+        "zh-CN": "攻击命中后，施加诅咒。(防御力[color=#4386F4]-2[/color]，持续[color=#4386F4]2[/color]回合）",
+        "en": "When deal damage,applying Curse effect. (Curse:DEF[color=#4386F4]-2[/color]. Last for [color=#4386F4]2[/color] turns.)",
+        "ja": "攻撃命中後、呪いを仕掛ける。（防御力[color=#4386F4]-2[/color]、[color=#4386F4]2[/color]ターン継続）",
+        "zh-TW": "攻擊命中後，施加詛咒。(防禦力[color=#4386F4]-2[/color]，持續[color=#4386F4]2[/color]回合）",
+        "kr": "공격 명중 후, 저주를 부여. (방어력 [color=#4386F4]-2[/color], [color=#4386F4]2[/color]턴 지속)"
+    },
+    {
+        "zh-CN": "场上每存在一个长戟灵体，为雅央提供[color=#4386F4]+2[/color]攻击力，玩家每摧毁一个，雅央失去[color=#94FF46]10%[/color]的最大生命值。",
+        "en": "For every Spear Spirit on the map, Masao gains [color=#4386F4]+2[/color] ATK. For each Sword Spirit destroyed, Masao loses [color=#94FF46]10%[/color] Maximum HP.",
+        "ja": "場に长戟霊が1体存在するごとに、雅央の攻撃力[color=#4386F4]+2[/color]プレイヤーが长戟霊を1体破壊するごとに、雅央は最大HPの[color=#94FF46]10%[/color]を失います。",
+        "zh-TW": "場上每存在壹個長戟靈體，爲雅央提供[color=#4386F4]+2[/color]攻擊力，玩家每摧毀壹個，Boss失去[color=#94FF46]10%[/color]的最大生命值。",
+        "kr": "필드에 창 정령 하나당 마사오의 공격력 [color=#4386F4]+2[/color]. 플레이어가 검 정령 파괴 시, 마사오는 최대 HP의 [color=#94FF46]10%[/color]를 잃음."
+    },
+    {
+        "zh-CN": "场上每存在一个长戟灵体，为雅央提供[color=#4386F4]+2[/color] 攻击力。\n场上每存在一个刀剑灵体，为雅央提供[color=#FF4646]+2[/color] 防御力。\n玩家每摧毁一个灵体，雅央失去[color=#94FF46]10%[/color]的最大生命值。",
+        "en": "For every Spear Spirit on the map, Masao gains [color=#4386F4]+2[/color] ATK.\nFor every Sword Spirit on the map, Masao gains [color=#FF4646]+2[/color] DEF.\nFor each Spirit destroyed, Masao loses [color=#94FF46]10%[/color] Maximum HP.",
+        "ja": "場に长戟霊が1体存在するごとに、雅央の攻撃力[color=#4386F4]+2[/color] \n場に刀剣霊が1体存在するごとに、雅央の防御力[color=#FF4646]+2[/color]\nプレイヤーが长戟霊や刀剣霊を1体破壊するごとに、雅央は最大HPの10%を失います。",
+        "zh-TW": "場上每存在壹個長戟靈體，爲雅央提供+2攻擊力。\n場上每存在壹個刀劍靈體，爲雅央提供+2防禦力。\n玩家每摧毀壹個靈體，雅央失去10%的最大生命值。",
+        "kr": "필드에 창 정령 하나당 마사오의 공격력 [color=#4386F4]+2[/color]. 필드에 검 정령 하나당 마사오의 방어력 [color=#FF4646]+2[/color]. 플레이어가 정령 파괴 시, 마사오는 최대 HP의 10%를 잃음."
+    },
+    {
+        "zh-CN": "每次攻击命中，增加自身2点攻击力。",
+        "en": "ATK+2 each time an attack hits.",
+        "ja": "攻撃を命中するたびに、攻撃力+2。",
+        "zh-TW": "每次攻擊命中，增加自身2點攻擊力。",
+        "kr": "공격을 명중할 때마다 공격력+2."
+    },
+    {
+        "zh-CN": "无法被挑战，每次受到伤害，本轮受到伤害+1。",
+        "en": "Cannot be challenged.\nEach time you take damage, the damage taken this round increases by 1.",
+        "ja": "戦闘無効化効果常駐、ダメージを受けるたびに、このラウンド内での受けるダメージ+1。",
+        "zh-TW": "無法被挑戰，每次受到傷害，本輪受到傷害+1。",
+        "kr": "전투 불가 효과 상시 적용, 피해를 받을 때마다 이번 턴에서 받는 피해 +1."
+    },
+    {
+        "zh-CN": "被击倒时，给予击倒者一张[url=1:21009][/url]。",
+        "en": "When knocked down, give the attacker a [url=1:21009][/url].",
+        "ja": "撃破された時に、撃破者に[url=1:21009][/url]を1枚与える。",
+        "zh-TW": "被擊倒時，給予擊倒者壹張[url=1:21009][/url]。",
+        "kr": "처치되었을 때, 처치한 대상에게 [url=1:21009][/url] 지급."
+    },
+    {
+        "zh-CN": "无法被挑战，被击倒时，给予击倒者一张[url=1:21009][/url]。",
+        "en": "Cannot be challenged.\nWhen knocked down, give the attacker a [url=1:21009][/url].",
+        "ja": "戦闘無効化効果常駐、撃破された時、撃破者に[url=1:21009][/url]を1枚与える。",
+        "zh-TW": "無法被挑戰，被擊倒時，給予擊倒者壹張[url=1:21009][/url]。",
+        "kr": "전투 불가 상시 적용, 처치되었을 때, 처치한 대상에게 [url=1:21009][/url] 지급."
+    },
+    {
+        "zh-CN": "场上其他角色每打出3张【是他干的】，雅央永久增加1点攻击力并召唤一个果冻护卫。\n雅央攻击【问题学生】时，额外增加2点攻击力，然后移除目标的【问题学生】效果。",
+        "en": "For every 3 【It's His Fault!】played by characters, Masao permanently gains 1 attack power and summons a Jelly Guard.\nWhen Masao attacks a 【Problem Student】, she gains an additional 2 ATK, then removes the 【Problem Student】 effect from the target.",
+        "ja": "場にいるキャラクターは【この人です】を3枚使うたびに、雅央の攻撃力+1、更にゼリーガーディアン1体召喚する\n雅央が【問題生徒】を攻撃する時、ダメージ+２、その後【問題生徒】の効果を解除する。",
+        "zh-TW": "場上其他角色每打出3張【是他幹的】，雅央永久增加1點攻擊力並召喚壹個果凍護衛。\n雅央攻擊【問題學生】時，額外增加2點攻擊力，然後移除目標的【問題學生】效果。",
+        "kr": "필드의 캐릭터가 【이 사람이야】를 3장 사용할 때마다 마사오의 공격력+1, 젤리 가디언 하나 소환. 마사오가 【문제 학생】 공격 시, 공격력 +2, 그 후 【문제 학생】 효과를 해제."
+    },
+    {
+        "zh-CN": "如果本回合没有吸收茶壶，回合结束时失去[color=#94FF46]10%[/color]的最大生命。生命值低于50%时，主动技能将额外召唤一个变异茶壶。",
+        "en": "If no teapot was absorbed this turn, lose[color=#94FF46]10%[/color]of maximum HP at the end of the turn.\nWhen HP < 50%, using the skill to summon an additional Mutant Teapot.",
+        "ja": "このターンで魔法のティーポットを吸収しなかった場合、ターン終了時に最大HPの[color=#94FF46]10%[/color]を失う。ｈｐが50％以下の場合、スキルで変なティーポットを追加で1体召喚する。",
+        "zh-TW": "如果本回合沒有吸收茶壺，回合結束時失去[color=#94FF46]10%[/color]的最大生命。生命值低于50%時，主動技能將額外召喚壹個變異茶壺。",
+        "kr": "이번 턴에 마법의 찻주전자를 흡수하지 않았다면, 턴 종료 시 최대 HP의 [color=#94FF46]10%[/color]를 잃음. HP가 50% 이하일 경우, 스킬로 이상한 찻주전자를 추가로 하나 소환."
+    },
+    {
+        "zh-CN": "受到伤害时防御力永久[color=#4386F4]-2[/color]（最低降到0）；轮次内未受到伤害则永久+1攻击力。",
+        "en": "When taking damage, permanently [color=#4386F4]-2[/color] DEF (minimum 0); If no damage is taken in this round, permanently [color=#FF4646]+1[/color] ATK.",
+        "ja": "ダメージを受ける時、防御力[color=#4386F4]-2[/color]（最大0まで）；１ラウンドの間にダメージを受けなかった場合、攻撃力[color=#4386F4]+1[/color] 。",
+        "zh-TW": "受到傷害時防禦力永久[color=#4386F4]-2[/color]（最低降到0）；輪次內未受到傷害則永久+1攻擊力。",
+        "kr": "피해를 입을 때, 방어력 [color=#4386F4]-2[/color]. (최대 0까지) 이번 턴동안 피해를 입지 않았다면, 공격력 [color=#4386F4]+1[/color]."
+    },
+    {
+        "zh-CN": "受到伤害时防御力永久[color=#4386F4]-2[/color]（最低降到0）。",
+        "en": "When taking damage, permanently [color=#4386F4]-2[/color] DEF (minimum 0).",
+        "ja": "ダメージを受ける時、防御力[color=#4386F4]-2[/color]。（最大0まで）",
+        "zh-TW": "受到傷害時防禦力永久[color=#4386F4]-2[/color]（最低降到0）。",
+        "kr": "피해를 입을 때, 방어력 [color=#4386F4]-2[/color]. (최대 0까지)"
+    },
+    {
+        "zh-CN": "当角色击倒魔法茶壶时回复[color=#94FF46]2[/color]点生命值。",
+        "en": "When a player defeats a Magic Teapot, restore [color=#94FF46]2[/color] HP.",
+        "ja": "倒された場合、撃破者のHP[color=#94FF46]+2[/color]。",
+        "zh-TW": "當角色擊倒魔法茶壺時回複[color=#94FF46]2[/color]點生命值。",
+        "kr": "자신을 쓰러뜨린 대상의 HP[color=#94FF46]+2[/color]."
+    },
+    {
+        "zh-CN": "当角色击倒变异茶壶时抽取[color=#94FF46]1[/color]张卡牌。雅央吸取茶壶时无法获得增益。",
+        "en": "When a character defeats a Mutant Teapot, draw [color=#94FF46]1[/color] card.\nMasao gains no benefits when absorbing teapots.",
+        "ja": "変なティーポットが倒された時、撃破者に[color=#94FF46]カード1枚[/color]を与え。雅央が変なティーポットを吸収する時に何も発生しない。",
+        "zh-TW": "當角色擊倒變異茶壺時抽取[color=#94FF46]1[/color]張卡牌。雅央吸取茶壺時無法獲得增益。",
+        "kr": "이상한 찻주전자를 쓰러뜨린 대상에게 [color=#94FF46]카드 1장[/color]을 줌. 마사오가 이상한 찻주전자를 흡수한 경우 아무 효과가 없음."
+    },
+    {
+        "zh-CN": "受到伤害时本轮获得1层【逆鳞】，每层+2点攻击力，并使受到伤害降低2；如果单次受到大于20点伤害，则移除所有层数。【逆鳞】移除时本轮无法施放主动技能。",
+        "en": "When taking damage during current turn, gain 1 stack of 【Reverse Scale】 for the turn. \nEach stack gain +2 ATK and reduces damage taken by 2. \nIf taking over 20 damage at once, remove all stacks. \nCannot cast active skills this turn when 【Reverse Scale】 is removed.",
+        "ja": "1ラウンドの間、ダメージを受けた場合、【逆鱗】スタックを１つ得る。【逆鱗】スタックの1つにつき、攻撃力+2、受けるダメージ-2。1回で２０より大きいのダメージを受けると、【逆鱗】スタックを全部失う、このラウンドでスキル【連鎖反応】を使用不可になる。",
+        "zh-TW": "受到傷害時本輪獲得1層【逆鱗】，每層+2點攻擊力，並使受到傷害降低2；如果單次受到大于20點傷害，則移除所有層數。【逆鱗】移除時本輪無法施放主動技能。",
+        "kr": "1턴동안 피해를 입으면 【역린】 1중첩을 획득. 중첩 1개당 공격력 +2, 받는 피해 -2. 1회에 20 이상의 피해를 입으면 모든 중첩을 잃고 이번 턴에 【연쇄 반응】 스킬을 사용할 수 없게됨."
+    },
+    {
+        "zh-CN": "反击时，获得2层【金鳞】，每层增加1点攻击和防御。",
+        "en": "When counterattacking, gain 2 stacks of 【Golden Scale】.\nEach stack provides 1 ATK and DEF.",
+        "ja": "反撃時、【金鱗】スタック+2、【金鱗】スタックの1つにつき、攻撃力+1、防御力+1",
+        "zh-TW": "反擊時，獲得2層【金鱗】，每層增加1點攻擊和防禦。",
+        "kr": "반격 시, 【금빛 비늘】 중첩 +2, 중첩 1개당 공격력+1, 방어력+1"
+    },
+    {
+        "zh-CN": "受到伤害后，攻击力永久+1。",
+        "en": "After taking damage, permanently gain +1 ATK.",
+        "ja": "ダメージを受けた後、攻撃力+１。",
+        "zh-TW": "受到傷害後，攻擊力永久+1。",
+        "kr": "피해를 입은 후, 공격력+1."
+    },
+    {
+        "zh-CN": "对手牌数低于4的角色，攻击力+3。",
+        "en": "Against characters with less than 4 hand cards, gain +3 ATK.",
+        "ja": "手札が4より少ないキャラに攻撃する際に、攻撃力+3。",
+        "zh-TW": "對手牌數低于4的角色，攻擊力+3。",
+        "kr": "손패가 4장보다 적은 캐릭터를 공격할 때, 공격력+3."
+    },
+    {
+        "zh-CN": "如果练家子被击倒，则攻击力+2，防御力+2并可以进行反击。",
+        "en": "If Martial Trainee is defeated, it gains ATK+2, DEF+2 and able to counterattack.",
+        "ja": "ムキムキフグが倒された時、攻撃力+2防御力+2、反撃スキルを得る。",
+        "zh-TW": "如果練家子被擊倒，則攻擊力+2，防禦力+2並可以進行反擊。",
+        "kr": "무술가 복어가 쓰러졌을 때, 공격력+2, 방어력+2, 반격 스킬 획득."
+    },
+    {
+        "zh-CN": "如果大嗓门被击倒，则攻击力+3并开始移动。",
+        "en": "If Loudmouth is defeated, it gains ATK+3 and able to move.",
+        "ja": "コエデカフグが倒された時、攻撃+3、移動可能になる。",
+        "zh-TW": "如果大嗓門被擊倒，則攻擊力+3並開始移動。",
+        "kr": "큰소리 복어가 쓰러졌을 때, 공격력 +3, 이동 가능."
+    },
+    {
+        "zh-CN": "角色每拾取一个葫芦，攻击力永久+1。",
+        "en": "For each gourd picked up by characters, permanently gain +1 ATK.",
+        "ja": "キャラがひょうたんを拾うたびに攻撃力+1。",
+        "zh-TW": "玩家每拾取壹個葫蘆，攻擊力永久+1。",
+        "kr": "캐릭터가 호리병을 주울 때마다 공격력+1."
+    }
+]

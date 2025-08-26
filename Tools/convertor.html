@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UTF-8 Hex 변환기</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+            background-color: #f4f7f9;
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 20px 0;
+        }
+        .converter-container {
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+            width: 100%;
+            max-width: 600px;
+        }
+        h1 {
+            text-align: center;
+            color: #1a73e8;
+            margin-bottom: 30px;
+        }
+        .input-group {
+            margin-bottom: 25px;
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #555;
+        }
+        /* input에서 textarea로 변경된 부분 */
+        textarea {
+            width: 100%;
+            padding: 12px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            font-size: 16px;
+            font-family: inherit; /* body의 font-family를 상속받음 */
+            box-sizing: border-box;
+            transition: border-color 0.3s;
+            resize: vertical; /* 수직으로만 크기 조절 가능 */
+            min-height: 50px; /* 최소 높이 지정 */
+            line-height: 1.6;
+        }
+        textarea:focus {
+            outline: none;
+            border-color: #1a73e8;
+        }
+        .output {
+            background-color: #e9ecef;
+            padding: 12px;
+            border-radius: 8px;
+            font-family: "SF Mono", "Consolas", "Monaco", monospace;
+            word-break: break-all;
+            min-height: 22px;
+            font-size: 16px;
+            line-height: 1.5;
+            position: relative;
+        }
+        .output.error {
+            color: #d93025;
+            font-weight: bold;
+        }
+        .info {
+            text-align: right;
+            font-size: 14px;
+            color: #666;
+            height: 20px;
+        }
+        .overflow-msg {
+            color: #d93025;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="converter-container">
+        <div class="input-group">
+            <label for="input1">기준 텍스트</label>
+            <textarea id="input1" placeholder="텍스트를 입력하세요..." rows="2"></textarea>
+            <div class="info">
+                <span id="length1">길이: 0</span>
+            </div>
+            <div class="output" id="output1"></div>
+        </div>
+
+        <div class="input-group">
+            <label for="input2">비교 텍스트</label>
+            <textarea id="input2" placeholder="비교할 텍스트를 입력하세요..." rows="2"></textarea>
+            <div class="info">
+                <span id="length2">길이: 0</span>
+                <span id="overflow" class="overflow-msg"></span>
+            </div>
+            <div class="output" id="output2"></div>
+        </div>
+    </div>
+
+    <script>
+        // DOM 요소 가져오기
+        const input1 = document.getElementById('input1');
+        const output1 = document.getElementById('output1');
+        const length1 = document.getElementById('length1');
+
+        const input2 = document.getElementById('input2');
+        const output2 = document.getElementById('output2');
+        const length2 = document.getElementById('length2');
+        const overflow = document.getElementById('overflow');
+
+        // 텍스트를 UTF-8 Hex로 변환하는 함수
+        function textToUtf8Hex(text) {
+             // textarea에서 줄바꿈은 '\n'으로 입력되므로, 이를 UTF-8 Hex(0A)로 변환
+            let hex = '';
+            for (let i = 0; i < text.length; i++) {
+                const charCode = text.charCodeAt(i);
+                const encoded = encodeURIComponent(text.charAt(i));
+                if (encoded.length === 1) { // ASCII
+                    hex += charCode.toString(16).padStart(2, '0');
+                } else { // Multi-byte
+                    for (let j = 0; j < encoded.length; j++) {
+                        if (encoded.charAt(j) === '%') {
+                            hex += encoded.substring(j + 1, j + 3);
+                            j += 2;
+                        }
+                    }
+                }
+            }
+            return hex.toUpperCase();
+        }
+
+        // 모든 출력을 업데이트하는 메인 함수
+        function updateAll() {
+            // 첫 번째 입력 처리
+            const text1 = input1.value;
+            const hex1 = textToUtf8Hex(text1);
+            output1.textContent = hex1;
+            length1.textContent = `길이: ${hex1.length}`;
+
+            // 두 번째 입력 처리
+            const text2 = input2.value;
+            let hex2 = textToUtf8Hex(text2);
+            
+            output2.classList.remove('error');
+            overflow.textContent = '';
+
+            // 길이 비교 로직
+            if (hex1.length > 0 && hex1.length < hex2.length) {
+                // 두 번째 입력이 더 길 경우
+                const diff = hex2.length - hex1.length;
+                output2.classList.add('error');
+                overflow.textContent = ` (+${diff} 초과)`;
+                output2.textContent = hex2;
+            } else if (hex1.length > hex2.length) {
+                // 두 번째 입력이 더 짧을 경우 (0으로 채우기)
+                const paddedHex2 = hex2.padEnd(hex1.length, '0');
+                output2.textContent = paddedHex2;
+            } else {
+                // 길이가 같을 경우
+                output2.textContent = hex2;
+            }
+            length2.textContent = `길이: ${hex2.length}`;
+        }
+
+        // 각 입력 필드에 이벤트 리스너 추가
+        input1.addEventListener('input', updateAll);
+        input2.addEventListener('input', updateAll);
+        
+        // 페이지 로드 시 초기 한번 실행
+        updateAll();
+    </script>
+
+</body>
+</html>

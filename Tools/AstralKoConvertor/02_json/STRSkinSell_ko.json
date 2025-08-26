@@ -1,0 +1,16 @@
+[
+    {
+        "zh-CN": "清凉夏日",
+        "en": "Cool Summer",
+        "ja": "清涼サマー",
+        "zh-TW": "清涼夏日",
+        "kr": "시원한여름"
+    },
+    {
+        "zh-CN": "※ 自动减去已拥有的皮肤价格",
+        "en": "※ Owned skins will be automatically deducted from the total price",
+        "ja": "※ 獲得済みのスキン価額は自動的に引かれます",
+        "zh-TW": "※ 自動減去已擁有的造型價格",
+        "kr": "※ 보유한 스킨의 가격은 자동으로 차감됩니다"
+    }
+]
