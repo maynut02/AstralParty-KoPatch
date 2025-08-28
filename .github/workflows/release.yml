@@ -16,8 +16,13 @@ jobs:
         run: |
           RELEASE_FOLDER="AstralParty-KoPatch-${{ github.ref_name }}"
           mkdir $RELEASE_FOLDER
+          
+          # 폴더 이동
           mv astralparty_Data $RELEASE_FOLDER/
           mv OriginalBackup $RELEASE_FOLDER/
+          
+          # 버전 파일 생성
+          echo "${{ github.ref_name }}" > "$RELEASE_FOLDER/astralparty_Data/ko_version.txt"
 
       - name: Create zip archive
         run: |
@@ -33,11 +38,13 @@ jobs:
           tag_name: ${{ github.ref }}
           release_name: ${{ github.ref_name }}
           body: |
+            [업데이트 내역](https://astral.maynut.site/updatelog)
+
             ## 적용 방법
             1. 다운로드한 AstralParty-KoPatch.zip 파일의 압축을 해제합니다.
             2. 압축 해제 후 나온 astralparty_Data 폴더를 복사합니다.
             3. Steam 라이브러리에서 Astral Party 우클릭 > 관리 > 로컬 파일 탐색을 통해 게임 설치 폴더로 이동합니다.
-              (또는 직접 폴더로 이동 - C:\Program Files (x86)\Steam\steamapps\common\Astral Party)
+               (또는 직접 폴더로 이동 - C:\Program Files (x86)\Steam\steamapps\common\Astral Party)
             4. 설치 폴더에 복사한 astralparty_Data 폴더를 붙여넣기하여 파일을 덮어씁니다.
 
             ## 복원 방법

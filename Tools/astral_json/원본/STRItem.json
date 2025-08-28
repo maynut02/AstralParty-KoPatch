@@ -1,0 +1,7670 @@
+[
+    {
+        "zh-CN": "星币",
+        "en": "Star Coin",
+        "ja": "スターコイン",
+        "zh-TW": "星幣"
+    },
+    {
+        "zh-CN": "星盘",
+        "en": "Star Disc",
+        "ja": "星盤",
+        "zh-TW": "星盤"
+    },
+    {
+        "zh-CN": "星之拼图",
+        "en": "Star Jigsaw",
+        "ja": "スターパズル",
+        "zh-TW": "星之拼圖"
+    },
+    {
+        "zh-CN": "鼠鼠扭蛋",
+        "en": "Shiyu-Shiyu Gacha",
+        "ja": "ジュジュガチャ",
+        "zh-TW": "鼠鼠扭蛋"
+    },
+    {
+        "zh-CN": "配货票",
+        "en": "Fashion Ticket",
+        "ja": "ファッションチケット",
+        "zh-TW": "配貨票"
+    },
+    {
+        "zh-CN": "鼠鼠筹码",
+        "en": "Shiyu-Shiyu Chip",
+        "ja": "ジュジュチップ",
+        "zh-TW": "鼠鼠籌碼"
+    },
+    {
+        "zh-CN": "星盘（付费）",
+        "en": "Star Disc(Purchased)",
+        "ja": "星盤（有償）",
+        "zh-TW": "星盤（付費）"
+    },
+    {
+        "zh-CN": "账号经验",
+        "en": "EXP",
+        "ja": "アカウントEXP",
+        "zh-TW": "帳號經驗"
+    },
+    {
+        "zh-CN": "通行证EXP",
+        "en": "Season Pass (EXP)",
+        "ja": "シーズンパスEXP",
+        "zh-TW": "通行證EXP"
+    },
+    {
+        "zh-CN": "任务活跃度",
+        "en": "Activeness",
+        "ja": "活躍度",
+        "zh-TW": "任務活躍度"
+    },
+    {
+        "zh-CN": "黄金配货票",
+        "en": "Golden Tickets",
+        "ja": "ファッションチケットG",
+        "zh-TW": "黃金配貨票"
+    },
+    {
+        "zh-CN": "一般兑换票",
+        "en": "Exchange Tickets",
+        "ja": "一般交換チケット",
+        "zh-TW": "壹般兌換票"
+    },
+    {
+        "zh-CN": "皮肤组合包",
+        "en": "Skin Bundle",
+        "ja": "スキンパック",
+        "zh-TW": "造型組合包"
+    },
+    {
+        "zh-CN": "通行证-升级",
+        "en": "Season Pass - Upgrade",
+        "ja": "シーズンパス-LvUp",
+        "zh-TW": "通行證-升級"
+    },
+    {
+        "zh-CN": "通行证升级版",
+        "en": "Season Pass Premier",
+        "ja": "プレミアムパス",
+        "zh-TW": "通行證升級版"
+    },
+    {
+        "zh-CN": "通行证",
+        "en": "Season Pass",
+        "ja": "シーズンパス",
+        "zh-TW": "通行證"
+    },
+    {
+        "zh-CN": "星月票",
+        "en": "Monthly Pass",
+        "ja": "スターマンスリーパス",
+        "zh-TW": "星月票"
+    },
+    {
+        "zh-CN": "虚拟物品",
+        "en": "虚拟物品",
+        "ja": "虚拟物品",
+        "zh-TW": "虚拟物品"
+    },
+    {
+        "zh-CN": "帕露南",
+        "en": "Parunan",
+        "ja": "パルナン",
+        "zh-TW": "帕露南"
+    },
+    {
+        "zh-CN": "芬妮",
+        "en": "Fanny",
+        "ja": "ファニィ",
+        "zh-TW": "芬妮"
+    },
+    {
+        "zh-CN": "阿兰娜",
+        "en": "Alana",
+        "ja": "アランナ",
+        "zh-TW": "阿蘭娜"
+    },
+    {
+        "zh-CN": "小町",
+        "en": "Komachi",
+        "ja": "コマチ",
+        "zh-TW": "小町"
+    },
+    {
+        "zh-CN": "派德曼",
+        "en": "Padman",
+        "ja": "パッドマン",
+        "zh-TW": "派德曼"
+    },
+    {
+        "zh-CN": "帕帕拉",
+        "en": "Papara",
+        "ja": "パパラ",
+        "zh-TW": "帕帕拉"
+    },
+    {
+        "zh-CN": "恋",
+        "en": "Ren",
+        "ja": "レン",
+        "zh-TW": "戀"
+    },
+    {
+        "zh-CN": "米米",
+        "en": "Mimi",
+        "ja": "ミミ",
+        "zh-TW": "米米"
+    },
+    {
+        "zh-CN": "Z3000",
+        "en": "Z3000",
+        "ja": "ゼット3000",
+        "zh-TW": "Z3000"
+    },
+    {
+        "zh-CN": "潘大猛",
+        "en": "Pandaman",
+        "ja": "パンダマン",
+        "zh-TW": "潘大猛"
+    },
+    {
+        "zh-CN": "璐璐",
+        "en": "Lulu",
+        "ja": "ルル",
+        "zh-TW": "璐璐"
+    },
+    {
+        "zh-CN": "枫",
+        "en": "Fen",
+        "ja": "ヒメ",
+        "zh-TW": "楓"
+    },
+    {
+        "zh-CN": "蓝海晴",
+        "en": "HaiQing",
+        "ja": "カイセイ",
+        "zh-TW": "藍海晴"
+    },
+    {
+        "zh-CN": "美咲",
+        "en": "Misaki",
+        "ja": "ミサキ",
+        "zh-TW": "美咲"
+    },
+    {
+        "zh-CN": "娜蒂斯",
+        "en": "Nardis ",
+        "ja": "ナーディス",
+        "zh-TW": "娜蒂斯"
+    },
+    {
+        "zh-CN": "茉莉",
+        "en": "Jasmine",
+        "ja": "ジャスミン",
+        "zh-TW": "茉莉"
+    },
+    {
+        "zh-CN": "阿尔",
+        "en": "AL ",
+        "ja": "アル",
+        "zh-TW": "阿爾"
+    },
+    {
+        "zh-CN": "星魅琉华",
+        "en": "star luka",
+        "ja": "ルカ",
+        "zh-TW": "星魅琉華"
+    },
+    {
+        "zh-CN": "南希露",
+        "en": "Nancy Lu ",
+        "ja": "ナンシー・ロー",
+        "zh-TW": "南希露"
+    },
+    {
+        "zh-CN": "凛",
+        "en": "Rin",
+        "ja": "リン",
+        "zh-TW": "凜"
+    },
+    {
+        "zh-CN": "梅加斯",
+        "en": "Megas",
+        "ja": "メガス",
+        "zh-TW": "梅加斯"
+    },
+    {
+        "zh-CN": "姬梦朝",
+        "en": "Yume",
+        "ja": "ユメ",
+        "zh-TW": "姬夢朝"
+    },
+    {
+        "zh-CN": "照",
+        "en": "Teru",
+        "ja": "テル",
+        "zh-TW": "照"
+    },
+    {
+        "zh-CN": "超天酱",
+        "en": "KAngel",
+        "ja": "超てんちゃん",
+        "zh-TW": "超天酱"
+    },
+    {
+        "zh-CN": "糖糖",
+        "en": "Ame-chan",
+        "ja": "あめちゃん",
+        "zh-TW": "糖糖"
+    },
+    {
+        "zh-CN": "皮肤组合包",
+        "en": "Skin Bundle",
+        "ja": "スキンパック",
+        "zh-TW": "造型組合包"
+    },
+    {
+        "zh-CN": "所有",
+        "en": "All",
+        "ja": "全部",
+        "zh-TW": "所有"
+    },
+    {
+        "zh-CN": "箱子",
+        "en": "Chest",
+        "ja": "チェスト",
+        "zh-TW": "箱子"
+    },
+    {
+        "zh-CN": "常规",
+        "en": "Common",
+        "ja": "コモン",
+        "zh-TW": "常規"
+    },
+    {
+        "zh-CN": "活动",
+        "en": "Activity",
+        "ja": "アクティビティ",
+        "zh-TW": "活動"
+    },
+    {
+        "zh-CN": "礼物",
+        "en": "Gift",
+        "ja": "ギフト",
+        "zh-TW": "禮物"
+    },
+    {
+        "zh-CN": "材料",
+        "en": "Material",
+        "ja": "マテリアル",
+        "zh-TW": "材料"
+    },
+    {
+        "zh-CN": "时尚",
+        "en": "Fashion",
+        "ja": "ファッション",
+        "zh-TW": "時尚"
+    },
+    {
+        "zh-CN": "账号头像",
+        "en": "Avatar",
+        "ja": "アバター",
+        "zh-TW": "帳號頭像"
+    },
+    {
+        "zh-CN": "名片",
+        "en": "Profile Card",
+        "ja": "名刺",
+        "zh-TW": "名片"
+    },
+    {
+        "zh-CN": "骰子",
+        "en": "Dice",
+        "ja": "ダイス",
+        "zh-TW": "骰子"
+    },
+    {
+        "zh-CN": "卡牌",
+        "en": "Card",
+        "ja": "カード",
+        "zh-TW": "卡牌"
+    },
+    {
+        "zh-CN": "终结特效",
+        "en": "Finisher",
+        "ja": "エフェクト",
+        "zh-TW": "特效"
+    },
+    {
+        "zh-CN": "货币",
+        "en": "Currency",
+        "ja": "貨幣",
+        "zh-TW": "貨幣"
+    },
+    {
+        "zh-CN": "角色",
+        "en": "Character",
+        "ja": "キャラセレクト",
+        "zh-TW": "角色"
+    },
+    {
+        "zh-CN": "头像",
+        "en": "Avatar",
+        "ja": "アバター",
+        "zh-TW": "頭像"
+    },
+    {
+        "zh-CN": "名片",
+        "en": "Profile Card",
+        "ja": "名刺",
+        "zh-TW": "名片"
+    },
+    {
+        "zh-CN": "骰子",
+        "en": "Dice",
+        "ja": "ダイス",
+        "zh-TW": "骰子"
+    },
+    {
+        "zh-CN": "终结特效",
+        "en": "Finisher",
+        "ja": "エフェクト",
+        "zh-TW": "終結特效"
+    },
+    {
+        "zh-CN": "卡牌",
+        "en": "Card",
+        "ja": "カード",
+        "zh-TW": "卡牌"
+    },
+    {
+        "zh-CN": "礼物",
+        "en": "Gift",
+        "ja": "ギフト",
+        "zh-TW": "禮物"
+    },
+    {
+        "zh-CN": "材料",
+        "en": "Material",
+        "ja": "マテリアル",
+        "zh-TW": "材料"
+    },
+    {
+        "zh-CN": "常规",
+        "en": "Common",
+        "ja": "コモン",
+        "zh-TW": "常規"
+    },
+    {
+        "zh-CN": "箱子",
+        "en": "Chest",
+        "ja": "チェスト",
+        "zh-TW": "箱子"
+    },
+    {
+        "zh-CN": "活动",
+        "en": "Activity",
+        "ja": "アクティビティ",
+        "zh-TW": "活動"
+    },
+    {
+        "zh-CN": "皮肤",
+        "en": "Skin",
+        "ja": "スキン",
+        "zh-TW": "造型"
+    },
+    {
+        "zh-CN": "表情",
+        "en": "Emoji",
+        "ja": "スタンプ",
+        "zh-TW": "表情"
+    },
+    {
+        "zh-CN": "皮肤优惠券",
+        "en": "Skin Discount Voucher",
+        "ja": "スキン限定割引券",
+        "zh-TW": "造型優惠券"
+    },
+    {
+        "zh-CN": "头像-普通鼠",
+        "en": "Avatar- Shiyu-Shiyu",
+        "ja": "普通のネズミ",
+        "zh-TW": "頭像-普通鼠"
+    },
+    {
+        "zh-CN": "头像-汉堡鼠",
+        "en": "Avatar- Burger Shiyu-Shiyu",
+        "ja": "バーガーネズミ",
+        "zh-TW": "頭像-漢堡鼠"
+    },
+    {
+        "zh-CN": "头像-可爱鼠",
+        "en": "Avatar- Cute Shiyu-Shiyu",
+        "ja": "可愛いネズミ",
+        "zh-TW": "頭像-可愛鼠"
+    },
+    {
+        "zh-CN": "头像-花斑鼠",
+        "en": "Avatar- Spotted Shiyu-Shiyu",
+        "ja": "斑入りのネズミ",
+        "zh-TW": "頭像-花斑鼠"
+    },
+    {
+        "zh-CN": "头像-运动鼠",
+        "en": "Avatar- Sports Shiyu-Shiyu",
+        "ja": "スポーツネズミ",
+        "zh-TW": "頭像-運動鼠"
+    },
+    {
+        "zh-CN": "头像-红温鼠",
+        "en": "Avatar- Angry Shiyu-Shiyu",
+        "ja": "怒りネズミ",
+        "zh-TW": "頭像-紅溫鼠"
+    },
+    {
+        "zh-CN": "头像-潜水鼠",
+        "en": "Avatar- Diving Shiyu-Shiyu",
+        "ja": "潜水ネズミ",
+        "zh-TW": "頭像-潛水鼠"
+    },
+    {
+        "zh-CN": "头像-柠檬鼠",
+        "en": "Avatar- Lemon Shiyu-Shiyu",
+        "ja": "レモンネズミ",
+        "zh-TW": "頭像-檸檬鼠"
+    },
+    {
+        "zh-CN": "头像-戴帽鼠",
+        "en": "Avatar- Hatted Shiyu-Shiyu",
+        "ja": "ぼうしネズミ",
+        "zh-TW": "頭像-戴帽鼠"
+    },
+    {
+        "zh-CN": "头像-打盹鼠",
+        "en": "Avatar- Napping Shiyu-Shiyu",
+        "ja": "うたた寝ネズミ",
+        "zh-TW": "頭像-打盹鼠"
+    },
+    {
+        "zh-CN": "头像-忧郁鼠",
+        "en": "Avatar- Melancholic Shiyu-Shiyu",
+        "ja": "憂鬱なネズミ",
+        "zh-TW": "頭像-憂鬱鼠"
+    },
+    {
+        "zh-CN": "头像-达人鼠",
+        "en": "Avatar- Master Shiyu-Shiyu",
+        "ja": "達人ネズミ",
+        "zh-TW": "頭像-達人鼠"
+    },
+    {
+        "zh-CN": "头像-时尚鼠",
+        "en": "Avatar- Stylish Shiyu-Shiyu",
+        "ja": "オシャレネズミ",
+        "zh-TW": "頭像-時尚鼠"
+    },
+    {
+        "zh-CN": "头像-画家鼠",
+        "en": "Avatar- Painter Shiyu-Shiyu",
+        "ja": "画家ネズミ",
+        "zh-TW": "頭像-畫家鼠"
+    },
+    {
+        "zh-CN": "头像-假面鼠",
+        "en": "Avatar- Masked Shiyu-Shiyu",
+        "ja": "仮面ネズミ",
+        "zh-TW": "頭像-假面鼠"
+    },
+    {
+        "zh-CN": "头像-文化鼠",
+        "en": "Avatar- Cultural Shiyu-Shiyu",
+        "ja": "文化ネズミ",
+        "zh-TW": "頭像-文化鼠"
+    },
+    {
+        "zh-CN": "头像-怪兽鼠",
+        "en": "Avatar- Kaiju Shiyu-Shiyu",
+        "ja": "怪獣ネズミ",
+        "zh-TW": "頭像-怪獸鼠"
+    },
+    {
+        "zh-CN": "头像-梅加斯鼠",
+        "en": "Avatar- Megas Shiyu-Shiyu",
+        "ja": "メガスネズミ",
+        "zh-TW": "頭像-梅加斯鼠"
+    },
+    {
+        "zh-CN": "头像-南希鼠",
+        "en": "Avatar- Nancy Shiyu-Shiyu",
+        "ja": "ナンシネズミ",
+        "zh-TW": "頭像-南希鼠"
+    },
+    {
+        "zh-CN": "头像-库拉拉鼠",
+        "en": "Avatar- Kurara Shiyu-Shiyu",
+        "ja": "クララネズミ",
+        "zh-TW": "頭像-庫拉拉鼠"
+    },
+    {
+        "zh-CN": "头像-蓝海晴鼠",
+        "en": "Avatar- HaiQ Shiyu-Shiyu",
+        "ja": "カイセイネズミ",
+        "zh-TW": "頭像-藍海晴鼠"
+    },
+    {
+        "zh-CN": "头像-护士鼠",
+        "en": "Avatar- Nurse Shiyu-Shiyu",
+        "ja": "ナースネズミ",
+        "zh-TW": "頭像-護士鼠"
+    },
+    {
+        "zh-CN": "头像-恋恋鼠",
+        "en": "Avatar- RenRen Shiyu-Shiyu",
+        "ja": "レンレンネズミ",
+        "zh-TW": "頭像-戀戀鼠"
+    },
+    {
+        "zh-CN": "头像-大聪明鼠",
+        "en": "Avatar- Smart Mice",
+        "ja": "大賢者ネズミ",
+        "zh-TW": "頭像-大聰明鼠"
+    },
+    {
+        "zh-CN": "头像-粽子鼠",
+        "en": "Avatar - Rice Dumpling Shiyu-Shiyu",
+        "ja": "チマキジュジュ",
+        "zh-TW": "頭像-粽子鼠"
+    },
+    {
+        "zh-CN": "头像-清凉鼠",
+        "en": "Avatar - Cool Shiyu-Shiyu",
+        "ja": "清涼ジュジュ",
+        "zh-TW": "頭像-清涼鼠"
+    },
+    {
+        "zh-CN": "70027",
+        "en": "70027",
+        "ja": "70027",
+        "zh-TW": "70027"
+    },
+    {
+        "zh-CN": "头像-悸动鼠",
+        "en": "Avatar - Throbbing Mouse",
+        "ja": "トキメキジュジュ",
+        "zh-TW": "頭像-悸動鼠"
+    },
+    {
+        "zh-CN": "头像-船长鼠",
+        "en": "Avatar - Captain Mouse",
+        "ja": "キャプテンジュジュ",
+        "zh-TW": "頭像-船長鼠"
+    },
+    {
+        "zh-CN": "头像-海盗鼠",
+        "en": "Avatar - Pirate Mouse",
+        "ja": "一味ジュジュ",
+        "zh-TW": "頭像-海盜鼠"
+    },
+    {
+        "zh-CN": "头像-像素精英鲨",
+        "en": "Avatar - Pixel Elite Shark",
+        "ja": "ピクセルサメ精鋭",
+        "zh-TW": "頭像-像素精英鲨"
+    },
+    {
+        "zh-CN": "头像-哼哼",
+        "en": "Avatar- Humhum ",
+        "ja": "ぶんぶん",
+        "zh-TW": "頭像-哼哼"
+    },
+    {
+        "zh-CN": "头像-不要啊",
+        "en": "Avatar- Oh!Noooo ",
+        "ja": "やめろ！",
+        "zh-TW": "頭像-不要啊"
+    },
+    {
+        "zh-CN": "70036",
+        "en": "70036",
+        "ja": "70036",
+        "zh-TW": "70036"
+    },
+    {
+        "zh-CN": "头像-青蛙鼠",
+        "en": "Avatar - Frog Shiyu-Shiyu",
+        "ja": "カエルジュジュ",
+        "zh-TW": "頭像-青蛙鼠"
+    },
+    {
+        "zh-CN": "头像-警察鼠",
+        "en": "Avatar - Police Shiyu-Shiyu",
+        "ja": "お巡りジュジュ",
+        "zh-TW": "頭像-警察鼠"
+    },
+    {
+        "zh-CN": "头像-松鼠鼠",
+        "en": "Avatar - Tree Shiyu-Shiyu",
+        "ja": "リスジュジュ",
+        "zh-TW": "頭像-松鼠鼠"
+    },
+    {
+        "zh-CN": "头像-vip鼠",
+        "en": "Avatar - VIP Shiyu-Shiyu",
+        "ja": "VIPジュジュ",
+        "zh-TW": "頭像-VIP鼠"
+    },
+    {
+        "zh-CN": "头像-女仆鼠",
+        "en": "Avatar - Maid Shiyu-Shiyu",
+        "ja": "メイドジュジュ",
+        "zh-TW": "頭像-女僕鼠"
+    },
+    {
+        "zh-CN": "头像-南瓜头鼠",
+        "en": "Avatar - Pumpkin Head-Shiyu",
+        "ja": "カボチャヘッド",
+        "zh-TW": "頭像-南瓜頭鼠"
+    },
+    {
+        "zh-CN": "头像-女王鼠",
+        "en": "Avatar - Queen Shiyu-Shiyu",
+        "ja": "クイーンジュジュ",
+        "zh-TW": "頭像-女王鼠"
+    },
+    {
+        "zh-CN": "头像-雅央鼠",
+        "en": "Avatar - Masao Shiyu-Shiyu",
+        "ja": "雅央ジュジュ",
+        "zh-TW": "頭像-雅央鼠"
+    },
+    {
+        "zh-CN": "头像-变装鼠",
+        "en": "Avatar - Costume Shiyu-Shiyu",
+        "ja": "妖霊キョンシージュジュ",
+        "zh-TW": "頭像-變裝鼠"
+    },
+    {
+        "zh-CN": "头像-永远爱你",
+        "en": "Avatar - LOVE FOREVER",
+        "ja": "LOVE FOREVER",
+        "zh-TW": "頭像-永遠愛妳"
+    },
+    {
+        "zh-CN": "头像-超绝天使",
+        "en": "Avatar- OMGKawaiiAngel",
+        "ja": "超絶最かわてんしちゃん",
+        "zh-TW": "頭像-超絕天使"
+    },
+    {
+        "zh-CN": "头像-主播女孩",
+        "en": "Avatar- NeedyGirl",
+        "ja": "ニーディーカール",
+        "zh-TW": "頭像-主播女孩"
+    },
+    {
+        "zh-CN": "头像-盛装鼠",
+        "en": "Avatar - Dress Shiyu-Shiyu",
+        "ja": "メリクリジュジュ",
+        "zh-TW": "頭像-盛裝鼠"
+    },
+    {
+        "zh-CN": "头像-厨师鼠",
+        "en": "Avatar - Chef Shiyu-Shiyu",
+        "ja": "シェフジュジュ",
+        "zh-TW": "頭像-廚師鼠"
+    },
+    {
+        "zh-CN": "头像-舞狮鼠",
+        "en": "Avatar - Lion Shiyu-Shiyu",
+        "ja": "獅子舞いジュジュ",
+        "zh-TW": "頭像-舞獅鼠"
+    },
+    {
+        "zh-CN": "头像-团子头鼠",
+        "en": "Avatar - Bun-Bun Shiyu-Shiyu",
+        "ja": "団子ジュジュ",
+        "zh-TW": "頭像-團子頭鼠"
+    },
+    {
+        "zh-CN": "头像-情人节鼠",
+        "en": "Avatar - Valentine Shiyu-Shiyu",
+        "ja": "バレンタインジュジュ",
+        "zh-TW": "頭像-情人節鼠"
+    },
+    {
+        "zh-CN": "头像-周年特别头像（米米）",
+        "en": "Avatar - Anniversary Special (Mimi)",
+        "ja": "周年スペシャル（ミミ）",
+        "zh-TW": "頭像-周年特別頭像（米米）"
+    },
+    {
+        "zh-CN": "头像-拉新奖励",
+        "en": "Avatar - Referral Reward",
+        "ja": "友達招待の証",
+        "zh-TW": "頭像-拉新獎勵"
+    },
+    {
+        "zh-CN": "头像-魔法鼠",
+        "en": "Avatar - Magic Shiyu-Shiyu",
+        "ja": "マジカルジュジュ",
+        "zh-TW": "頭像-魔法鼠"
+    },
+    {
+        "zh-CN": "头像-蛋糕鼠",
+        "en": "Avatar - Cake Shiyu-Shiyu",
+        "ja": "ケーキジュジュ",
+        "zh-TW": "頭像-蛋糕鼠"
+    },
+    {
+        "zh-CN": "头像-高中生鼠",
+        "en": "Avatar - JK Shiyu-Shiyu",
+        "ja": "JKジュジュ",
+        "zh-TW": "頭像-JK鼠"
+    },
+    {
+        "zh-CN": "头像-大厨鼠",
+        "en": "Avatar - Chef Shiyu",
+        "ja": "シェフジュジュ",
+        "zh-TW": "頭像-大廚鼠"
+    },
+    {
+        "zh-CN": "头像-戴帽花斑鼠",
+        "en": "Avatar - Hatted Spotted Shiyu",
+        "ja": "帽子被りヒョウ柄ジュジュ",
+        "zh-TW": "頭像-戴帽花斑鼠"
+    },
+    {
+        "zh-CN": "头像-奶牛鼠",
+        "en": "Avatar - Cow Shiyu",
+        "ja": "乳牛ジュジュ",
+        "zh-TW": "頭像-奶牛鼠"
+    },
+    {
+        "zh-CN": "头像-松鼠",
+        "en": "Avatar - Squirrel Shiyu",
+        "ja": "リスジュジュ",
+        "zh-TW": "頭像-松鼠"
+    },
+    {
+        "zh-CN": "头像-学霸鼠",
+        "en": "Avatar - Honor student Shiyu",
+        "ja": "優等生ジュジュ",
+        "zh-TW": "頭像-學霸鼠"
+    },
+    {
+        "zh-CN": "头像-虎王鼠",
+        "en": "Avatar - Tiger King Shiyu",
+        "ja": "タイガーキングジュジュ",
+        "zh-TW": "頭像-虎王鼠"
+    },
+    {
+        "zh-CN": "头像-热带鱼鼠",
+        "en": "Avatar - Tropical Fish Shiyu",
+        "ja": "熱帯魚ジュジュ",
+        "zh-TW": "頭像-熱帶魚鼠"
+    },
+    {
+        "zh-CN": "头像-小熊猫鼠",
+        "en": "Avatar - Red Panda Shiyu",
+        "ja": "リットルパンダジュジュ",
+        "zh-TW": "頭像-小熊貓鼠"
+    },
+    {
+        "zh-CN": "头像-极限",
+        "en": "Avatar - Extreme",
+        "ja": "極限",
+        "zh-TW": "頭像-極限"
+    },
+    {
+        "zh-CN": "头像-海滨鼠",
+        "en": "Avatar - Beach Shiyu",
+        "ja": "浜辺のジュジュ",
+        "zh-TW": "頭像-海濱鼠"
+    },
+    {
+        "zh-CN": "头像-蛟龙鼠",
+        "en": "Avatar - Jiao Shiyu",
+        "ja": "蛟ジュジュ",
+        "zh-TW": "頭像-蛟龍鼠"
+    },
+    {
+        "zh-CN": "头像-天官鼠",
+        "en": "Avatar - Guardian Shiyu",
+        "ja": "天官ジュジュ",
+        "zh-TW": "頭像-天官鼠"
+    },
+    {
+        "zh-CN": "头像-泳池鼠",
+        "en": "Avatar – Pool Shiyu",
+        "ja": "プールジュジュ",
+        "zh-TW": "頭像-泳池鼠"
+    },
+    {
+        "zh-CN": "头像-鲤鱼鼠",
+        "en": "Avatar – Carp Rat",
+        "ja": "鯉ジュジュ",
+        "zh-TW": "頭像-鯉魚鼠"
+    },
+    {
+        "zh-CN": "头像-鼠鼠帕露南",
+        "en": "Avatar- Parunan Shiyu-Shiyu",
+        "ja": "パルナン ジュジュ",
+        "zh-TW": "頭像-鼠鼠帕露南"
+    },
+    {
+        "zh-CN": "头像-鼠鼠芬妮",
+        "en": "Avatar- Fanny Shiyu-Shiyu",
+        "ja": "ファニィ ジュジュ",
+        "zh-TW": "頭像-鼠鼠芬妮"
+    },
+    {
+        "zh-CN": "头像-鼠鼠阿兰娜",
+        "en": "Avatar- Alana Shiyu-Shiyu",
+        "ja": "アランナ ジュジュ",
+        "zh-TW": "頭像-鼠鼠阿蘭娜"
+    },
+    {
+        "zh-CN": "头像-鼠鼠小町",
+        "en": "Avatar- Komachi Shiyu-Shiyu",
+        "ja": "コマチ ジュジュ",
+        "zh-TW": "頭像-鼠鼠小町"
+    },
+    {
+        "zh-CN": "头像-鼠鼠叔叔",
+        "en": "Avatar- Padman Shiyu-Shiyu",
+        "ja": "パッドマン ジュジュ",
+        "zh-TW": "頭像-鼠鼠叔叔"
+    },
+    {
+        "zh-CN": "头像-鼠鼠帕帕拉",
+        "en": "Avatar- Papara Shiyu-Shiyu",
+        "ja": "パパラ ジュジュ",
+        "zh-TW": "頭像-鼠鼠帕帕拉"
+    },
+    {
+        "zh-CN": "头像-鼠鼠恋",
+        "en": "Avatar- Ren Shiyu-Shiyu",
+        "ja": "レン ジュジュ",
+        "zh-TW": "頭像-鼠鼠戀"
+    },
+    {
+        "zh-CN": "头像-鼠鼠米米",
+        "en": "Avatar- Mimi Shiyu-Shiyu",
+        "ja": "ミミ ジュジュ",
+        "zh-TW": "頭像-鼠鼠米米"
+    },
+    {
+        "zh-CN": "头像-鼠鼠Z3000",
+        "en": "Avatar- Z3000 Shiyu-Shiyu",
+        "ja": "ゼット3000 ジュジュ",
+        "zh-TW": "頭像-鼠鼠Z3000"
+    },
+    {
+        "zh-CN": "头像-鼠鼠潘大猛",
+        "en": "Avatar- Pandaman Shiyu-Shiyu",
+        "ja": "パンダマン ジュジュ",
+        "zh-TW": "頭像-鼠鼠潘大猛"
+    },
+    {
+        "zh-CN": "好感等级奖励账号头像111",
+        "en": "Avatar- Shiyu-Shiyu",
+        "ja": "アバター：ジュジュ",
+        "zh-TW": "好感等級獎勵賬號頭像111"
+    },
+    {
+        "zh-CN": "头像-鼠鼠璐璐",
+        "en": "Avatar- Lulu Shiyu-Shiyu",
+        "ja": "ルル ジュジュ",
+        "zh-TW": "頭像-鼠鼠璐璐"
+    },
+    {
+        "zh-CN": "头像-鼠鼠枫",
+        "en": "Avatar- Fen Shiyu-Shiyu",
+        "ja": "ヒメ ジュジュ",
+        "zh-TW": "頭像-鼠鼠楓"
+    },
+    {
+        "zh-CN": "头像-鼠鼠海晴",
+        "en": "Avatar- HaiQing Shiyu-Shiyu",
+        "ja": "カイセイジュジュ",
+        "zh-TW": "頭像-鼠鼠海晴"
+    },
+    {
+        "zh-CN": "头像-鼠鼠美咲",
+        "en": "Avatar- Misaki Shiyu-Shiyu",
+        "ja": "ミサキジュジュ",
+        "zh-TW": "頭像-鼠鼠美咲"
+    },
+    {
+        "zh-CN": "头像-鼠鼠娜蒂斯",
+        "en": "Avatar- Nardis Shiyu-Shiyu",
+        "ja": "ナーディスジュジュ",
+        "zh-TW": "頭像-鼠鼠娜蒂斯"
+    },
+    {
+        "zh-CN": "头像-鼠鼠茉莉",
+        "en": "Avatar- Jasmine Shiyu-Shiyu",
+        "ja": "ジャスミンジュジュ",
+        "zh-TW": "頭像-鼠鼠茉莉"
+    },
+    {
+        "zh-CN": "头像-鼠鼠阿尔",
+        "en": "Avatar- AL Shiyu-Shiyu",
+        "ja": "アルジュジュ",
+        "zh-TW": "頭像-鼠鼠阿爾"
+    },
+    {
+        "zh-CN": "头像-鼠鼠琉华",
+        "en": "Avatar - Shiyu-Shiyu Luka",
+        "ja": "ルカジュジュ",
+        "zh-TW": "頭像-鼠鼠琉華"
+    },
+    {
+        "zh-CN": "头像-鼠鼠南希露",
+        "en": "Avatar - Shiyu-Shiyu Nancy Lu",
+        "ja": "ナンシージュジュ",
+        "zh-TW": "頭像-鼠鼠南希露"
+    },
+    {
+        "zh-CN": "头像-鼠鼠凛",
+        "en": "Avatar - Shiyu-Shiyu Rin",
+        "ja": "リンジュジュ",
+        "zh-TW": "頭像-鼠鼠凜"
+    },
+    {
+        "zh-CN": "头像-鼠鼠梅加斯",
+        "en": "Avatar - Megas Shiyu-Shiyu",
+        "ja": "メガスジュジュ",
+        "zh-TW": "頭像-鼠鼠梅加斯"
+    },
+    {
+        "zh-CN": "头像-鼠鼠姬梦朝",
+        "en": "Avatar -Yume Shiyu-Shiyu",
+        "ja": "ユメジュジュ",
+        "zh-TW": "頭像-鼠鼠姬夢朝"
+    },
+    {
+        "zh-CN": "头像-鼠鼠照",
+        "en": "Avatar -Teru Shiyu-Shiyu",
+        "ja": "テルジュジュ",
+        "zh-TW": "頭像-鼠鼠照"
+    },
+    {
+        "zh-CN": "头像-像素真梦梓",
+        "en": "Avatar - Pixel Mamushi ",
+        "ja": "ピクセル真夢梓",
+        "zh-TW": "像素真夢梓"
+    },
+    {
+        "zh-CN": "头像-像素帕露南",
+        "en": "Avatar- Pixel Parunan",
+        "ja": "パルナンピクセル",
+        "zh-TW": "頭像-像素帕露南"
+    },
+    {
+        "zh-CN": "头像-像素芬妮",
+        "en": "Avatar- Pixel Fanny",
+        "ja": "ファニィピクセル",
+        "zh-TW": "頭像-像素芬妮"
+    },
+    {
+        "zh-CN": "头像-像素阿兰娜",
+        "en": "Avatar- Pixel Alana",
+        "ja": "アランナピクセル",
+        "zh-TW": "頭像-像素阿蘭娜"
+    },
+    {
+        "zh-CN": "头像-像素小町",
+        "en": "Avatar- Pixel Komachi",
+        "ja": "コマチピクセル",
+        "zh-TW": "頭像-像素小町"
+    },
+    {
+        "zh-CN": "头像-像素派德曼",
+        "en": "Avatar- Pixel Padman",
+        "ja": "パッドマンピクセル",
+        "zh-TW": "頭像-像素派德曼"
+    },
+    {
+        "zh-CN": "头像-像素帕帕拉",
+        "en": "Avatar- Pixel Papara",
+        "ja": "パパラピクセル",
+        "zh-TW": "頭像-像素帕帕拉"
+    },
+    {
+        "zh-CN": "头像-像素恋",
+        "en": "Avatar- Pixel Ren",
+        "ja": "レンピクセル",
+        "zh-TW": "頭像-像素戀"
+    },
+    {
+        "zh-CN": "头像-像素米米",
+        "en": "Avatar- Pixel Mimi",
+        "ja": "ミミピクセル",
+        "zh-TW": "頭像-像素米米"
+    },
+    {
+        "zh-CN": "头像-像素Z300",
+        "en": "Avatar- Pixel Z3000",
+        "ja": "ゼット3000ピクセル",
+        "zh-TW": "頭像-像素Z300"
+    },
+    {
+        "zh-CN": "头像-像素潘大猛",
+        "en": "Avatar- Pixel Pandaman",
+        "ja": "パンダマンピクセル",
+        "zh-TW": "頭像-像素潘大猛"
+    },
+    {
+        "zh-CN": "像素风111",
+        "en": "Avatar",
+        "ja": "ピクセル",
+        "zh-TW": "像素風111"
+    },
+    {
+        "zh-CN": "头像-像素璐璐",
+        "en": "Avatar- Pixel Lulu",
+        "ja": "ルルピクセル",
+        "zh-TW": "頭像-像素璐璐"
+    },
+    {
+        "zh-CN": "头像-像素枫",
+        "en": "Avatar- Pixel Fen",
+        "ja": "ヒメピクセル",
+        "zh-TW": "頭像-像素楓"
+    },
+    {
+        "zh-CN": "洛丽塔米米",
+        "en": "（123456@#）",
+        "ja": "ロリータミミ",
+        "zh-TW": "（123456@#）"
+    },
+    {
+        "zh-CN": "头像-像素蛋糕嘎呜",
+        "en": "Avatar- Pixel cake Gawu",
+        "ja": "ケーキガオー",
+        "zh-TW": "頭像-像素蛋糕嘎嗚"
+    },
+    {
+        "zh-CN": "头像-鼠鼠海晴车长",
+        "en": "Avatar- Train conductor Shiyu-Shiyu",
+        "ja": "列車長カイセイジュジュ",
+        "zh-TW": "頭像-鼠鼠海晴車長"
+    },
+    {
+        "zh-CN": "头像-像素舞狮",
+        "en": "Avatar - Pixel Lion",
+        "ja": "獅子ピクセル",
+        "zh-TW": "頭像-像素舞獅"
+    },
+    {
+        "zh-CN": "头像-像素长戟灵体",
+        "en": "Avatar - Pixel Spear Spirit",
+        "ja": "長戟ピクセル",
+        "zh-TW": "頭像-像素長戟靈體"
+    },
+    {
+        "zh-CN": "头像-像素天王寺雅央",
+        "en": "Avatar - Pixel Masao",
+        "ja": "雅央ピクセル",
+        "zh-TW": "頭像-像素天王寺雅央"
+    },
+    {
+        "zh-CN": "头像-像素刀剑灵体",
+        "en": "Avatar - Pixel Sword Spirit",
+        "ja": "刀剣ピクセル",
+        "zh-TW": "頭像-像素刀劍靈體"
+    },
+    {
+        "zh-CN": "头像-像素海盗王嘎呜",
+        "en": "Avatar- Pixel King Gawu",
+        "ja": "海賊王ガオーピクセル",
+        "zh-TW": "頭像-像素海盜王嘎嗚"
+    },
+    {
+        "zh-CN": "众筹专属头像",
+        "en": "Avatar- Only for Modian Crowdfunding",
+        "ja": "ピクセル",
+        "zh-TW": "眾籌專屬頭像"
+    },
+    {
+        "zh-CN": "名片-默认",
+        "en": "Profile Card- Default",
+        "ja": "デフォルト",
+        "zh-TW": "名片-預設"
+    },
+    {
+        "zh-CN": "名片-挂起",
+        "en": "Profile Card- Pending",
+        "ja": "ペンディング",
+        "zh-TW": "名片-爆料"
+    },
+    {
+        "zh-CN": "名片-利益至上",
+        "en": "Profile Card- Profit Priority",
+        "ja": "利益優先",
+        "zh-TW": "名片-利益至上"
+    },
+    {
+        "zh-CN": "名片-华点",
+        "en": "Profile Card- Blind Spot",
+        "ja": "盲点",
+        "zh-TW": "名片-盲點"
+    },
+    {
+        "zh-CN": "名片-社恐发作",
+        "en": "Profile Card- Loneliness",
+        "ja": "ぼっち",
+        "zh-TW": "名片-社恐發作"
+    },
+    {
+        "zh-CN": "名片-忍者",
+        "en": "Profile Card- Ninja",
+        "ja": "ニンジャ",
+        "zh-TW": "名片-忍者"
+    },
+    {
+        "zh-CN": "名片-大危机",
+        "en": "Profile Card- Big Pinch",
+        "ja": "大ピンチ",
+        "zh-TW": "名片-大危機"
+    },
+    {
+        "zh-CN": "名片-自拍",
+        "en": "Profile Card- Selfie",
+        "ja": "自撮",
+        "zh-TW": "名片-自拍"
+    },
+    {
+        "zh-CN": "名片-冲鸭",
+        "en": "Profile Card- Good Luck",
+        "ja": "ガンバレ",
+        "zh-TW": "名片-衝呀"
+    },
+    {
+        "zh-CN": "名片-吃瓜",
+        "en": "Profile Card- Spectator",
+        "ja": "観戦",
+        "zh-TW": "名片-看戲"
+    },
+    {
+        "zh-CN": "名片-我错了",
+        "en": "Profile Card- Sorry",
+        "ja": "すみません",
+        "zh-TW": "名片-我錯了"
+    },
+    {
+        "zh-CN": "名片-祈祷",
+        "en": "Profile Card- Prayer",
+        "ja": "祈り",
+        "zh-TW": "名片-祈禱"
+    },
+    {
+        "zh-CN": "名片-思考",
+        "en": "Profile Card- Thinking",
+        "ja": "思考中",
+        "zh-TW": "名片-思考"
+    },
+    {
+        "zh-CN": "名片-花纹1",
+        "en": "Profile Card- Pattern",
+        "ja": "もよう",
+        "zh-TW": "名片-花紋1"
+    },
+    {
+        "zh-CN": "名片-花纹2",
+        "en": "Profile Card- Pattern 2",
+        "ja": "もよう 2",
+        "zh-TW": "名片-花紋2"
+    },
+    {
+        "zh-CN": "名片-胜利",
+        "en": "Profile Card- Victory",
+        "ja": "勝利",
+        "zh-TW": "名片-勝利"
+    },
+    {
+        "zh-CN": "名片-请多关照",
+        "en": "Profile Card- Greeting",
+        "ja": "夜露死苦",
+        "zh-TW": "名片-請多關照"
+    },
+    {
+        "zh-CN": "名片-萨卡板板",
+        "en": "Profile Card- SakaBanBan",
+        "ja": "サカバンバスピス",
+        "zh-TW": "名片-薩卡板板"
+    },
+    {
+        "zh-CN": "名片-“限定武器”",
+        "en": "Profile Card- Exclusive Weapon",
+        "ja": "「限定武器」",
+        "zh-TW": "名片-限定武器"
+    },
+    {
+        "zh-CN": "名片-大快朵颐（动态）",
+        "en": "Profile Card - Good Appetite (Animated)",
+        "ja": "ウマすぎる（ダイナミック）",
+        "zh-TW": "名片-大快朵頤（動態）"
+    },
+    {
+        "zh-CN": "名片-清凉盛夏",
+        "en": "Profile Card - Cool Summer",
+        "ja": "清涼サマー",
+        "zh-TW": "名片-清涼盛夏"
+    },
+    {
+        "zh-CN": "名片-清凉盛夏（动态）",
+        "en": "Profile Card - Cool Summer（Animated）",
+        "ja": "清涼サマー（ダイナミック）",
+        "zh-TW": "名片-清涼盛夏（動態）"
+    },
+    {
+        "zh-CN": "名片-争分夺秒",
+        "en": "Profile Card - Racing Against Time",
+        "ja": "寸秒を争う",
+        "zh-TW": "名片-爭分奪秒"
+    },
+    {
+        "zh-CN": "名片-Star Engine",
+        "en": "Profile Card - Star Engine",
+        "ja": "Astral Party",
+        "zh-TW": "名片-Star Engine"
+    },
+    {
+        "zh-CN": "名片-悸动沙滩",
+        "en": "Profile Card - Throbbing Beach",
+        "ja": "白浜のトキメキ",
+        "zh-TW": "名片-悸動沙灘"
+    },
+    {
+        "zh-CN": "名片-悸动沙滩（动态）",
+        "en": "Profile Card - Throbbing Beach (Animated)",
+        "ja": "白浜のトキメキ（ダイナミック）",
+        "zh-TW": "名片-悸動沙灘（動態）"
+    },
+    {
+        "zh-CN": "名片-可爱船长（动态）",
+        "en": "Profile Card - Cute Captain (Animated)",
+        "ja": "キュートキャプテン(ダイナミック)",
+        "zh-TW": "名片-可愛船長（動態）"
+    },
+    {
+        "zh-CN": "名片-可爱船长",
+        "en": "Profile Card - Cute Captain",
+        "ja": "キュートキャプテン",
+        "zh-TW": "名片-可愛船長"
+    },
+    {
+        "zh-CN": "名片-飞天嘎呜",
+        "en": "Profile Card - Flying Gawu",
+        "ja": "フライングガオー",
+        "zh-TW": "名片-飛天嘎呜"
+    },
+    {
+        "zh-CN": "名片-飞天嘎呜（动态）",
+        "en": "Profile Card - Flying Gawu (Animated)",
+        "ja": "フライングガオー（ダイナミック）",
+        "zh-TW": "名片-飛天嘎呜（動態）"
+    },
+    {
+        "zh-CN": "名片-变装派对",
+        "en": "Profile Card - Costume Party",
+        "ja": "妖霊キョンシー",
+        "zh-TW": "名片-變裝派對"
+    },
+    {
+        "zh-CN": "名片-变装派对（动态）",
+        "en": "Profile Card - Costume Party (Animated)",
+        "ja": "妖霊キョンシー（ダイナミック）",
+        "zh-TW": "名片-變裝派對（動態）"
+    },
+    {
+        "zh-CN": "名片-祭典礼服",
+        "en": "Profile Card - Festival Dress",
+        "ja": "パーティードレス",
+        "zh-TW": "名片-祭典禮服"
+    },
+    {
+        "zh-CN": "名片-祭典礼服（动态）",
+        "en": "Profile Card - Festival Dress (Animated)",
+        "ja": "パーティードレス（ダイナミック）",
+        "zh-TW": "名片-祭典禮服（動態）"
+    },
+    {
+        "zh-CN": "名片-御魂大师",
+        "en": "Profile Card - Soul Celebration master",
+        "ja": "御魂マスター",
+        "zh-TW": "名片-禦魂大師"
+    },
+    {
+        "zh-CN": "名片-好时光",
+        "en": "Profile Card - GOODTIME",
+        "ja": "グッドタイム",
+        "zh-TW": "名片-好時光"
+    },
+    {
+        "zh-CN": "名片-传统游戏",
+        "en": "Profile Card - Classic Game",
+        "ja": "クラシックゲーム",
+        "zh-TW": "名片-傳統遊戲"
+    },
+    {
+        "zh-CN": "名片-联动决定（动态）",
+        "en": "Profile Card - Collaboration Decision (Animated)",
+        "ja": "コラボ決定",
+        "zh-TW": "名片-聯動決定（動態）"
+    },
+    {
+        "zh-CN": "名片-直播背景",
+        "en": "Profile Card - Live streaming background",
+        "ja": "配信部屋",
+        "zh-TW": "名片-直播背景"
+    },
+    {
+        "zh-CN": "名片-超绝天使",
+        "en": "Profile Card - OMGKawaiiAngel",
+        "ja": "超絶最かわてんしちゃん",
+        "zh-TW": "名片-超絕天使"
+    },
+    {
+        "zh-CN": "名片-主播女孩",
+        "en": "Profile Card - NeedyGirl",
+        "ja": "ニーディーカール",
+        "zh-TW": "名片-主播女孩"
+    },
+    {
+        "zh-CN": "名片-节日盛装",
+        "en": "Profile Card - Festive Dress",
+        "ja": "メリークリスマス",
+        "zh-TW": "名片-節日盛裝"
+    },
+    {
+        "zh-CN": "名片-节日盛装（动态）",
+        "en": "Profile Card - Festive Dress (Animated)",
+        "ja": "メリークリスマス（ダイナミック）",
+        "zh-TW": "名片-節日盛裝（動態）"
+    },
+    {
+        "zh-CN": "名片-姐妹花",
+        "en": "Profile Card - Sisterly love",
+        "ja": "両姉妹",
+        "zh-TW": "名片-姐妹花"
+    },
+    {
+        "zh-CN": "名片-锦跃游龙",
+        "en": "Profile Card - Dragon's Ascent",
+        "ja": "ヒメの鯉のぼり",
+        "zh-TW": "名片-錦躍游龍"
+    },
+    {
+        "zh-CN": "名片-锦跃游龙（动态）",
+        "en": "Profile Card - Dragon's Ascent (Animated)",
+        "ja": "ヒメの鯉のぼり（ダイナミック）",
+        "zh-TW": "名片-錦躍游龍（動態）"
+    },
+    {
+        "zh-CN": "名片-可爱嘎呜",
+        "en": "Profile Card - Cute Gawu",
+        "ja": "可愛いガオー",
+        "zh-TW": "名片-可愛嘎嗚"
+    },
+    {
+        "zh-CN": "名片-甜蜜陷阱",
+        "en": "Profile Card - Sweet Trap",
+        "ja": "ハニートラップ",
+        "zh-TW": "名片-甜蜜陷阱"
+    },
+    {
+        "zh-CN": "名片-甜蜜陷阱（动态）",
+        "en": "Profile Card - Sweet Trap(Animated)",
+        "ja": "ハニートラップ（ダイナミック）",
+        "zh-TW": "名片-甜蜜陷阱（動態）"
+    },
+    {
+        "zh-CN": "名片-大团圆",
+        "en": "Profile Card - Grand Reunion ",
+        "ja": "大団円",
+        "zh-TW": "大團圓"
+    },
+    {
+        "zh-CN": "名片-致命陷阱",
+        "en": "Profile Card - Deadly Trap",
+        "ja": "致命的の罠",
+        "zh-TW": "名片-致命陷阱"
+    },
+    {
+        "zh-CN": "名片-搬运魔法",
+        "en": "Profile Card - Transport Magic",
+        "ja": "運搬魔法",
+        "zh-TW": "名片-搬運魔法"
+    },
+    {
+        "zh-CN": "名片-搬运魔法（动态）",
+        "en": "Profile Card - Transport Magic(Animated)",
+        "ja": "運搬魔法（ダイナミック）",
+        "zh-TW": "名片-搬運魔法（動態）"
+    },
+    {
+        "zh-CN": "名片-转角之期",
+        "en": "Proflie card- Fated crossroads",
+        "ja": "街角の約束",
+        "zh-TW": "名片-轉角之期"
+    },
+    {
+        "zh-CN": "名片-转角之期（动态）",
+        "en": "Proflie card- Fated crossroads (Animated)",
+        "ja": "街角の約束（ダイナミック）",
+        "zh-TW": "名片-轉角之期（動態）"
+    },
+    {
+        "zh-CN": "名片-交出星币",
+        "en": "Proflie card - Give out the star coins",
+        "ja": "スターコインを出せ！",
+        "zh-TW": "名片-交出星幣"
+    },
+    {
+        "zh-CN": "名片-祈愿",
+        "en": "Proflie card - Pray",
+        "ja": "祈願",
+        "zh-TW": "名片-祈願"
+    },
+    {
+        "zh-CN": "名片-准备出发",
+        "en": "Proflie card- set out on a journey",
+        "ja": "出発準備",
+        "zh-TW": "名片-准備出發"
+    },
+    {
+        "zh-CN": "名片-滨边时光",
+        "en": "Proflie card- Shoreline Memories",
+        "ja": "浜辺の日々",
+        "zh-TW": "名片-濱邊時光"
+    },
+    {
+        "zh-CN": "名片-滨边时光（动态）",
+        "en": "Proflie card- Shoreline Memories(Animated)",
+        "ja": "浜辺の日々（ダイナミック）",
+        "zh-TW": "名片-濱邊時光（動態）"
+    },
+    {
+        "zh-CN": "名片-善财天官",
+        "en": "Fortune Guardian - Parunan",
+        "ja": "善財天官",
+        "zh-TW": "名片-善財天官"
+    },
+    {
+        "zh-CN": "名片-善财天官（动态）",
+        "en": "Fortune Guardian - Parunan(Animated)",
+        "ja": "善財天官（ダイナミック）",
+        "zh-TW": "名片-善財天官（動態）"
+    },
+    {
+        "zh-CN": "名片-泳池派对",
+        "en": "Profile Card – Pool Party",
+        "ja": "プールパーティー",
+        "zh-TW": "名片-泳池派對"
+    },
+    {
+        "zh-CN": "名片-泳池派对（动态）",
+        "en": "Profile Card – Pool Party (Animated)",
+        "ja": "プールパーティー（ダイナミック）",
+        "zh-TW": "名片-泳池派對（動態）"
+    },
+    {
+        "zh-CN": "名片-商业之主",
+        "en": "Profile Card- Lord of Commerce",
+        "ja": "やり手の商人",
+        "zh-TW": "名片-商業之主"
+    },
+    {
+        "zh-CN": "名片-古怪神探",
+        "en": "Profile Card- Quirky Detective",
+        "ja": "風変わりな探偵",
+        "zh-TW": "名片-古怪神探"
+    },
+    {
+        "zh-CN": "名片-社恐修女",
+        "en": "Profile Card- Shy Nun",
+        "ja": "ぼっちシスター",
+        "zh-TW": "名片-社恐修女"
+    },
+    {
+        "zh-CN": "名片-暗影忍者",
+        "en": "Profile Card- Shadow Ninja",
+        "ja": "暗躍する忍者",
+        "zh-TW": "名片-暗影忍者"
+    },
+    {
+        "zh-CN": "名片-社员叔叔",
+        "en": "Profile Card- Uncle Employee",
+        "ja": "会社員",
+        "zh-TW": "名片-社員叔叔"
+    },
+    {
+        "zh-CN": "名片-猩红辣妹",
+        "en": "Profile Card- Red Hot",
+        "ja": "深紅のギャル",
+        "zh-TW": "名片-緋紅辣妹"
+    },
+    {
+        "zh-CN": "名片-游戏大师",
+        "en": "Profile Card- Pro Gamer",
+        "ja": "ゲームマスター",
+        "zh-TW": "名片-遊戲大師"
+    },
+    {
+        "zh-CN": "名片-看板娘",
+        "en": "Profile Card- Kanban Musume",
+        "ja": "看板娘",
+        "zh-TW": "名片-看板娘"
+    },
+    {
+        "zh-CN": "名片-Z3000",
+        "en": "Profile Card- Waste- Collecting Robot",
+        "ja": "回収ロボット",
+        "zh-TW": "名片-Z3000"
+    },
+    {
+        "zh-CN": "名片-肉弹战车",
+        "en": "Profile Card- Human Chariot",
+        "ja": "肉弾戦車",
+        "zh-TW": "名片-肉彈戰車"
+    },
+    {
+        "zh-CN": "好感度等级奖励111名片",
+        "en": "好感度等级奖励111名片",
+        "ja": "好感度等级奖励111名片",
+        "zh-TW": "好感度等級獎勵111名片"
+    },
+    {
+        "zh-CN": "名片-史莱姆",
+        "en": "Profile Card- Slime Girl",
+        "ja": "スライムガール",
+        "zh-TW": "名片-史萊姆"
+    },
+    {
+        "zh-CN": "名片-旗袍娘",
+        "en": "Profile Card- Cheongsam Girl",
+        "ja": "ドレスガール",
+        "zh-TW": "名片-旗袍娘"
+    },
+    {
+        "zh-CN": "名片-命运少女",
+        "en": "Profile Card- Destiny Girl ",
+        "ja": "デスティニーガール",
+        "zh-TW": "名片-命運少女"
+    },
+    {
+        "zh-CN": "名片-太刀使",
+        "en": "Profile Card - Katana Master",
+        "ja": "太刀使い",
+        "zh-TW": "名片-太刀使"
+    },
+    {
+        "zh-CN": "名片-绿洲女王",
+        "en": "Profile Card - Oasis Queen",
+        "ja": "オアシスクイーン",
+        "zh-TW": "名片-綠洲女王"
+    },
+    {
+        "zh-CN": "名片-家政机器人",
+        "en": "Profile Card - Robot Maid",
+        "ja": "ロボメイド",
+        "zh-TW": "名片-家政機器人"
+    },
+    {
+        "zh-CN": "名片-暗区少主",
+        "en": "Profile Card - Syndicate Prince ",
+        "ja": "暗黒の若君",
+        "zh-TW": "名片-暗區少主"
+    },
+    {
+        "zh-CN": "名片-午夜闪光",
+        "en": "Profile Card - Midnight Flash",
+        "ja": "真夜中の閃光",
+        "zh-TW": "名片-午夜閃光"
+    },
+    {
+        "zh-CN": "名片-网络魅影",
+        "en": "Profile Card - Cyber Phantom",
+        "ja": "ネットファントム",
+        "zh-TW": "名片-網絡魅影"
+    },
+    {
+        "zh-CN": "名片-新人调查员",
+        "en": "Profile Card - Rookie Investigator",
+        "ja": "新人捜査官",
+        "zh-TW": "名片-新人調查員"
+    },
+    {
+        "zh-CN": "名片-机械超人",
+        "en": "Profile Card - Mech Hero",
+        "ja": "メカ・ドミナンス",
+        "zh-TW": "名片-機械超人"
+    },
+    {
+        "zh-CN": "名片-风水师",
+        "en": "Profile Card - Fengshui Master",
+        "ja": "風水師",
+        "zh-TW": "名片-風水師"
+    },
+    {
+        "zh-CN": "名片-三神御主",
+        "en": "Profile Card - Mikami Master",
+        "ja": "三神教祖",
+        "zh-TW": "名片-三神禦主"
+    },
+    {
+        "zh-CN": "名片-帕露南缔结契约",
+        "en": "Profile Card- Parunan (Bond)",
+        "ja": "パルナンと契約を結ぶ",
+        "zh-TW": "名片-帕露南締結契約"
+    },
+    {
+        "zh-CN": "名片-芬妮缔结契约",
+        "en": "Profile Card- Fanny (Bond)",
+        "ja": "ファニィと契約を結ぶ",
+        "zh-TW": "名片-芬妮締結契約"
+    },
+    {
+        "zh-CN": "名片-阿兰娜缔结契约",
+        "en": "Profile Card- Alana (Bond)",
+        "ja": "アランナと契約を結ぶ",
+        "zh-TW": "名片-阿蘭娜締結契約"
+    },
+    {
+        "zh-CN": "名片-小町缔结契约",
+        "en": "Profile Card- Komachi (Bond)",
+        "ja": "コマチと契約を結ぶ",
+        "zh-TW": "名片-小町締結契約"
+    },
+    {
+        "zh-CN": "名片-派德曼缔结契约",
+        "en": "Profile Card- Padman (Bond)",
+        "ja": "パッドマンと契約を結ぶ",
+        "zh-TW": "名片-派德曼締結契約"
+    },
+    {
+        "zh-CN": "名片-帕帕拉缔结契约",
+        "en": "Profile Card- Papara (Bond)",
+        "ja": "パパラと契約を結ぶ",
+        "zh-TW": "名片-帕帕拉締結契約"
+    },
+    {
+        "zh-CN": "名片-恋缔结契约",
+        "en": "Profile Card- Ren (Bond)",
+        "ja": "レンと契約を結ぶ",
+        "zh-TW": "名片-戀締結契約"
+    },
+    {
+        "zh-CN": "名片-米米缔结契约",
+        "en": "Profile Card- Mimi (Bond)",
+        "ja": "ミミと契約を結ぶ",
+        "zh-TW": "名片-米米締結約"
+    },
+    {
+        "zh-CN": "名片-Z3000缔结契约",
+        "en": "Profile Card- Z3000 (Bond)",
+        "ja": "ゼット3000と契約を結ぶ",
+        "zh-TW": "名片-Z3000締結契約"
+    },
+    {
+        "zh-CN": "名片-潘大猛缔结契约",
+        "en": "Profile Card- Pandaman (Bond)",
+        "ja": "パンダマンと契約を結ぶ",
+        "zh-TW": "名片-潘大猛締結契約"
+    },
+    {
+        "zh-CN": "71211",
+        "en": "71211",
+        "ja": "71211",
+        "zh-TW": "71211"
+    },
+    {
+        "zh-CN": "名片-璐璐缔结契约",
+        "en": "Profile Card- Lulu (Bond)",
+        "ja": "ルルと契約を結ぶ",
+        "zh-TW": "名片-璐璐締結契約"
+    },
+    {
+        "zh-CN": "名片-枫缔结契约",
+        "en": "Profile Card- Fen (Bond)",
+        "ja": "ヒメと契約を結ぶ",
+        "zh-TW": "名片-楓締結契約"
+    },
+    {
+        "zh-CN": "名片-蓝海晴缔结契约",
+        "en": "Profile HaiQing (Bond)",
+        "ja": "カイセイと契約を結ぶ",
+        "zh-TW": "名片-藍海晴締結契約"
+    },
+    {
+        "zh-CN": "名片-美咲缔结契约",
+        "en": "Profile Misaki (Bond)",
+        "ja": "ミサキと契約を結ぶ",
+        "zh-TW": "名片-美咲締結契約"
+    },
+    {
+        "zh-CN": "名片-娜蒂斯缔结契约",
+        "en": "Profile Nardis (Bond)",
+        "ja": "ナーディスと契約を結ぶ",
+        "zh-TW": "名片-娜蒂斯締結契約"
+    },
+    {
+        "zh-CN": "名片-茉莉缔结契约",
+        "en": "Profile Jasmine (Bond)",
+        "ja": "ジャスミンと契約を結ぶ",
+        "zh-TW": "名片-茉莉締結契約"
+    },
+    {
+        "zh-CN": "名片-阿尔缔结契约",
+        "en": "Profile AL (Bond) ",
+        "ja": "アルと契約を結ぶ",
+        "zh-TW": "名片-阿爾締結契約"
+    },
+    {
+        "zh-CN": "名片-琉华缔结契约",
+        "en": "Profile Card - Luka's Pact",
+        "ja": "ルカと契約を結ぶ",
+        "zh-TW": "名片-琉華締結契約"
+    },
+    {
+        "zh-CN": "名片-南希露缔结契约",
+        "en": "Profile Card - Nancy Lu's (Bond)",
+        "ja": "ナンシーローと契約を結ぶ",
+        "zh-TW": "名片-南希露締結契約"
+    },
+    {
+        "zh-CN": "名片-凛缔结契约",
+        "en": "Profile Card - Rin (Bond)",
+        "ja": "リンと契約を結ぶ",
+        "zh-TW": "名片-凜締結契約"
+    },
+    {
+        "zh-CN": "名片-梅加斯缔结契约",
+        "en": "Profile Card - Megas(Bond)",
+        "ja": "メガスと契約を結ぶ",
+        "zh-TW": "名片-梅加斯締結契約"
+    },
+    {
+        "zh-CN": "名片-姬梦朝缔结契约",
+        "en": "Profile Card - Yume(Bond)",
+        "ja": "ユメと契約を結ぶ",
+        "zh-TW": "名片-姬夢朝締結契約"
+    },
+    {
+        "zh-CN": "名片-照缔结契约",
+        "en": "Profile Card - Teru(Bond)",
+        "ja": "テルと契約を結ぶ",
+        "zh-TW": "名片-照締結契約"
+    },
+    {
+        "zh-CN": "名片-时尚达人",
+        "en": "Profile Card - Fashion Icon",
+        "ja": "ファッションプロ",
+        "zh-TW": "名片-時尚達人"
+    },
+    {
+        "zh-CN": "名片-超然解析",
+        "en": "Profile Card - Mystic Insight",
+        "ja": "超然解析",
+        "zh-TW": "名片-超然解析"
+    },
+    {
+        "zh-CN": "名片-冒失少女",
+        "en": "Profile Card - Clumsy Girl",
+        "ja": "ドジっ子",
+        "zh-TW": "名片-冒失少女"
+    },
+    {
+        "zh-CN": "名片-忍者为何？",
+        "en": "Profile Card - Why the Ninja?",
+        "ja": "ニンジャナンデ！？",
+        "zh-TW": "名片-忍者爲何？"
+    },
+    {
+        "zh-CN": "名片-护卫队长",
+        "en": "Card - Guard Captain",
+        "ja": "護衛隊長",
+        "zh-TW": "名片-護衛隊長"
+    },
+    {
+        "zh-CN": "名片-拉拉队恋",
+        "en": "Profile Card- Cheerleader Ren",
+        "ja": "チアリーディング レン",
+        "zh-TW": "名片-拉拉隊戀"
+    },
+    {
+        "zh-CN": "名片-赛车女郎",
+        "en": "Profile Card- Race Queen",
+        "ja": "レースクイーン",
+        "zh-TW": "名片-賽車女郎"
+    },
+    {
+        "zh-CN": "名片-宝箱怪",
+        "en": "Profile Card- Mimic",
+        "ja": "ミミック",
+        "zh-TW": "名片-寶箱怪"
+    },
+    {
+        "zh-CN": "名片-战斗女仆：枫",
+        "en": "Profile Card - Maid-Warrior: Fen",
+        "ja": "バトルメイド-ヒメ",
+        "zh-TW": "名片-戰鬥女僕：楓"
+    },
+    {
+        "zh-CN": "名片-战斗女仆：美咲",
+        "en": "Profile Card - Maid-Warrior: Misaki",
+        "ja": "バトルメイド-ミサキ",
+        "zh-TW": "名片-戰鬥女僕：美咲"
+    },
+    {
+        "zh-CN": "名片-雍容盛景（动态）",
+        "en": "Profile Card - Splendor Royale (Animated)",
+        "ja": "雍容絶景",
+        "zh-TW": "名片-雍容盛景（動態）"
+    },
+    {
+        "zh-CN": "名片-海湾假日",
+        "en": "Profile Card - Harbour Holiday",
+        "ja": "浜辺のバカンス",
+        "zh-TW": "名片-海灣假日"
+    },
+    {
+        "zh-CN": "名片-海滨救援",
+        "en": "Profile Card - Seaside Rescue",
+        "ja": "マリンレスキュー",
+        "zh-TW": "名片-海濱救援"
+    },
+    {
+        "zh-CN": "名片-冰沙快递",
+        "en": "Profile Card - Slushie Express",
+        "ja": "スムージーエキスプレス",
+        "zh-TW": "名片-冰沙快遞"
+    },
+    {
+        "zh-CN": "名片-真龙御礼（动态）",
+        "en": "Profile Card - Dragon's Honor(Animated)",
+        "ja": "真龍御礼",
+        "zh-TW": "名片-真龍禦禮（動態）"
+    },
+    {
+        "zh-CN": "名片-冲浪海岸",
+        "en": "Profile Card - Coastal Surfer",
+        "ja": "エンドレスサーフィン",
+        "zh-TW": "名片-沖浪海岸"
+    },
+    {
+        "zh-CN": "名片-魔女兵器阿兰娜",
+        "en": "Profile Card - Witch's Weapon Alana",
+        "ja": "魔女兵器アランナ",
+        "zh-TW": "名片-魔女兵器阿蘭娜"
+    },
+    {
+        "zh-CN": "名片-魔女兵器美咲",
+        "en": "Profile Card - Witch's Weapon Msaki",
+        "ja": "魔女兵器ミサキ",
+        "zh-TW": "名片-魔女兵器美咲"
+    },
+    {
+        "zh-CN": "名片-疑点重重",
+        "en": "Profile Card - Full of mysteries",
+        "ja": "不審な点だらけだ",
+        "zh-TW": "名片-疑點重重"
+    },
+    {
+        "zh-CN": "名片-梦幻车票",
+        "en": "Card - Dream Ticket",
+        "ja": "夢幻の乗車券",
+        "zh-TW": "名片-夢幻車票"
+    },
+    {
+        "zh-CN": "名片-梦幻车票（动态）",
+        "en": "Card - Dream Ticket (Animated)",
+        "ja": "夢幻の乗車券（ダイナミック）",
+        "zh-TW": "名片-夢幻車票（動態）"
+    },
+    {
+        "zh-CN": "名片-众筹专属",
+        "en": "Profile Card- Modian Crowdfunding",
+        "ja": "クラウドファンディング限定",
+        "zh-TW": "名片-眾籌專屬"
+    },
+    {
+        "zh-CN": "名片-众筹专属（动态）",
+        "en": "Profile Card- Modian Crowdfunding (Animated)",
+        "ja": "クラウドファンディング限定（ダイナミック）",
+        "zh-TW": "名片-眾籌專屬（動態）"
+    },
+    {
+        "zh-CN": "传送门骰子",
+        "en": "Portal Dice",
+        "ja": "転移陣ダイス",
+        "zh-TW": "傳送門骰子"
+    },
+    {
+        "zh-CN": "魔法秘典骰子",
+        "en": "Magic Tome Dice",
+        "ja": "魔術秘法ダイス",
+        "zh-TW": "魔法秘典骰子"
+    },
+    {
+        "zh-CN": "橘猫骰子",
+        "en": "Cat Dice",
+        "ja": "ねこダイス",
+        "zh-TW": "橘貓骰子"
+    },
+    {
+        "zh-CN": "钻石骰子",
+        "en": "Diamond Dice",
+        "ja": "ダイヤモンドダイス",
+        "zh-TW": "鑽石骰子"
+    },
+    {
+        "zh-CN": "黑金骰子",
+        "en": "Black Gold Dice",
+        "ja": "ゴールドダイス",
+        "zh-TW": "黑金骰子"
+    },
+    {
+        "zh-CN": "礼盒骰子",
+        "en": "Gift Dice",
+        "ja": "ギフトダイス",
+        "zh-TW": "禮盒骰子"
+    },
+    {
+        "zh-CN": "齿轮骰子",
+        "en": "Gear Dice",
+        "ja": "歯車ダイス",
+        "zh-TW": "齒輪骰子"
+    },
+    {
+        "zh-CN": "足球骰子",
+        "en": "Soccer Dice",
+        "ja": "サッカーダイス",
+        "zh-TW": "足球骰子"
+    },
+    {
+        "zh-CN": "蛋糕骰子",
+        "en": "Cake Dice",
+        "ja": "ケーキダイス",
+        "zh-TW": "蛋糕骰子"
+    },
+    {
+        "zh-CN": "憨狗骰子",
+        "en": "Dog Dice",
+        "ja": "犬ダイス",
+        "zh-TW": "狗狗骰子"
+    },
+    {
+        "zh-CN": "街机骰子A",
+        "en": "Arcade Dice A",
+        "ja": "アーケードダイスＡ",
+        "zh-TW": "街機骰子A"
+    },
+    {
+        "zh-CN": "街机骰子B",
+        "en": "Arcade Dice B",
+        "ja": "アーケードダイスＢ",
+        "zh-TW": "街機骰子B"
+    },
+    {
+        "zh-CN": "小怪兽骰子",
+        "en": "Monster Dice",
+        "ja": "モンスターサイコロ",
+        "zh-TW": "小怪獸骰子"
+    },
+    {
+        "zh-CN": "古怪神探骰子",
+        "en": "Quirky Detective Dice",
+        "ja": "風変わりな探偵ダイス",
+        "zh-TW": "古怪神探骰子"
+    },
+    {
+        "zh-CN": "游戏大师骰子",
+        "en": "Pro Gamer Dice",
+        "ja": "ゲームマスターダイス",
+        "zh-TW": "遊戲大師骰子"
+    },
+    {
+        "zh-CN": "看板娘骰子",
+        "en": "Kanban Musume Dice",
+        "ja": "看板娘ダイス",
+        "zh-TW": "看板娘骰子"
+    },
+    {
+        "zh-CN": "垃圾箱骰子",
+        "en": "Waste-Collecting robot Dice",
+        "ja": "回収ロボットダイス",
+        "zh-TW": "垃圾桶骰子"
+    },
+    {
+        "zh-CN": "史莱姆骰子",
+        "en": "Slime Girl Dice",
+        "ja": "スライムガールダイス",
+        "zh-TW": "史萊姆骰子"
+    },
+    {
+        "zh-CN": "商业之主骰子",
+        "en": "Lord of Commerce Dice",
+        "ja": "やり手の商人ダイス",
+        "zh-TW": "商業之主骰子"
+    },
+    {
+        "zh-CN": "社员叔叔骰子",
+        "en": "Uncle Employee Dice",
+        "ja": "会社員ダイス",
+        "zh-TW": "社員叔叔骰子"
+    },
+    {
+        "zh-CN": "猩红辣妹骰子",
+        "en": "Red Hot Dice",
+        "ja": "深紅のギャルダイス",
+        "zh-TW": "緋紅辣妹骰子"
+    },
+    {
+        "zh-CN": "PVE活动商店骰子（未制作）",
+        "en": "72034",
+        "ja": "72034",
+        "zh-TW": "72034"
+    },
+    {
+        "zh-CN": "宫灯骰子",
+        "en": "Palace Lantern Dice",
+        "ja": "提灯ダイス",
+        "zh-TW": "宮燈骰子"
+    },
+    {
+        "zh-CN": "列车骰子",
+        "en": "Train Dice",
+        "ja": "列車ダイス",
+        "zh-TW": "列車骰子"
+    },
+    {
+        "zh-CN": "达摩骰子",
+        "en": "Daruma Dice",
+        "ja": "達磨ダイス",
+        "zh-TW": "達摩骰子"
+    },
+    {
+        "zh-CN": "默认骰子",
+        "en": "Default",
+        "ja": "デフォルトダイス",
+        "zh-TW": "預設骰子"
+    },
+    {
+        "zh-CN": "箱包骰子",
+        "en": "Trunk Dice",
+        "ja": "トランクダイス",
+        "zh-TW": "箱包骰子"
+    },
+    {
+        "zh-CN": "快递骰子",
+        "en": "Delivery Dice",
+        "ja": "配送ダイス",
+        "zh-TW": "快遞骰子"
+    },
+    {
+        "zh-CN": "手风琴骰子",
+        "en": "Accordion Dice",
+        "ja": "アコーディオンダイス",
+        "zh-TW": "手風琴骰子"
+    },
+    {
+        "zh-CN": "漫画杂志骰子",
+        "en": "Magazine Dice",
+        "ja": "雑誌ダイス",
+        "zh-TW": "漫畫雜誌骰子"
+    },
+    {
+        "zh-CN": "包装盒骰子",
+        "en": "Box Dice",
+        "ja": "ボックスダイス",
+        "zh-TW": "包裝盒骰子"
+    },
+    {
+        "zh-CN": "契约骰子",
+        "en": "Contract Dice",
+        "ja": "契約ダイス",
+        "zh-TW": "契約骰子"
+    },
+    {
+        "zh-CN": "米包骰子",
+        "en": "Rice Bag Dice",
+        "ja": "米袋ダイス",
+        "zh-TW": "米包骰子"
+    },
+    {
+        "zh-CN": "饮料骰子",
+        "en": "Drink Dice",
+        "ja": "ドリンクイス",
+        "zh-TW": "飲料骰子"
+    },
+    {
+        "zh-CN": "模型盒骰子",
+        "en": "Model Kit Dice",
+        "ja": "モデルキットダイス",
+        "zh-TW": "模型盒骰子"
+    },
+    {
+        "zh-CN": "磁带盒骰子",
+        "en": "Cassette Dice",
+        "ja": "カセットダイス",
+        "zh-TW": "磁帶盒骰子"
+    },
+    {
+        "zh-CN": "72111",
+        "en": "72111",
+        "ja": "72111",
+        "zh-TW": "72111"
+    },
+    {
+        "zh-CN": "凝胶骰子",
+        "en": "Gel Dice",
+        "ja": "ゲルダイス",
+        "zh-TW": "凝膠骰子"
+    },
+    {
+        "zh-CN": "外卖箱骰子",
+        "en": "Delivery Bag Dice",
+        "ja": "デリバリーダイス",
+        "zh-TW": "外賣箱骰子"
+    },
+    {
+        "zh-CN": "鲸鱼骰子",
+        "en": "Whale Dice",
+        "ja": "鯨ダイス",
+        "zh-TW": "鯨魚骰子"
+    },
+    {
+        "zh-CN": "封印箱骰子",
+        "en": "Sealed Box Dice",
+        "ja": "封印箱ダイス",
+        "zh-TW": "封印箱骰子"
+    },
+    {
+        "zh-CN": "多面体骰子",
+        "en": "Polyhedron Dice",
+        "ja": "多面体ダイス",
+        "zh-TW": "多面體骰子"
+    },
+    {
+        "zh-CN": "3D打印机骰子",
+        "en": "3D Printer Dice",
+        "ja": "3Dプリンターダイス",
+        "zh-TW": "3D印表機骰子"
+    },
+    {
+        "zh-CN": "奢侈品骰子",
+        "en": "Luxury Dice",
+        "ja": "贅沢品ダイス",
+        "zh-TW": "奢侈品股子"
+    },
+    {
+        "zh-CN": "头盔骰子",
+        "en": "Helmet Dice",
+        "ja": "ヘルメットダイス",
+        "zh-TW": "頭盔骰子"
+    },
+    {
+        "zh-CN": "投影骰子",
+        "en": "Projection Dice",
+        "ja": "投影ダイス",
+        "zh-TW": "投影骰子"
+    },
+    {
+        "zh-CN": "文件架骰子",
+        "en": "File Rack Dice",
+        "ja": "ファイルダイス",
+        "zh-TW": "文件架股子"
+    },
+    {
+        "zh-CN": "蓄电池骰子",
+        "en": "Battery Dice",
+        "ja": "蓄電池ダイス",
+        "zh-TW": "蓄電池骰子"
+    },
+    {
+        "zh-CN": "青花瓷骰子",
+        "en": "Blue&White Porcelain Dice",
+        "ja": "青花ダイス",
+        "zh-TW": "青花瓷骰子"
+    },
+    {
+        "zh-CN": "塞钱箱骰子",
+        "en": "Offering box Dice",
+        "ja": "賽銭箱ダイス",
+        "zh-TW": "塞錢箱骰子"
+    },
+    {
+        "zh-CN": "终结特效-默认",
+        "en": "Finisher- Default",
+        "ja": "デフォルト",
+        "zh-TW": "終結特效-默認"
+    },
+    {
+        "zh-CN": "终结特效-鼠鼠",
+        "en": "Finisher- Shiyu-Shiyu",
+        "ja": "マウス",
+        "zh-TW": "終結特效-鼠鼠"
+    },
+    {
+        "zh-CN": "终结特效-奇幻",
+        "en": "Finisher- Fantasy",
+        "ja": "ファンタジー",
+        "zh-TW": "終結特效-奇幻"
+    },
+    {
+        "zh-CN": "终结特效-彩虹",
+        "en": "Finisher- Rainbow",
+        "ja": "レインボー",
+        "zh-TW": "終結特效-彩虹"
+    },
+    {
+        "zh-CN": "终结特效-闪电",
+        "en": "Finisher- Blaze",
+        "ja": "ブレイズ",
+        "zh-TW": "終結特效-閃電"
+    },
+    {
+        "zh-CN": "终结特效-波浪",
+        "en": "Finisher- Billow",
+        "ja": "ビロウ",
+        "zh-TW": "終結特效-波浪"
+    },
+    {
+        "zh-CN": "终结特效-火焰",
+        "en": "Finisher- Flame",
+        "ja": "フレイム",
+        "zh-TW": "終結特效-火焰"
+    },
+    {
+        "zh-CN": "终结特效-罗兰",
+        "en": "Finisher- violet",
+        "ja": "バイオレット",
+        "zh-TW": "終結特效-羅蘭"
+    },
+    {
+        "zh-CN": "终结特效-霞光",
+        "en": "Finisher- Sunglow",
+        "ja": "サングロウ",
+        "zh-TW": "終結特效-霞光"
+    },
+    {
+        "zh-CN": "终结特效-10",
+        "en": "终结特效-10",
+        "ja": "终结特效-10",
+        "zh-TW": "73010"
+    },
+    {
+        "zh-CN": "卡牌-默认",
+        "en": "Card- Default",
+        "ja": "デフォルト",
+        "zh-TW": "卡牌-預設"
+    },
+    {
+        "zh-CN": "卡牌-鼠鼠",
+        "en": "Card- Shiyu-Shiyu",
+        "ja": "ジュジュ",
+        "zh-TW": "卡牌-鼠鼠"
+    },
+    {
+        "zh-CN": "卡牌-电路核心",
+        "en": "Card- Circuit Core",
+        "ja": "サーキットコア",
+        "zh-TW": "卡牌-電路核心"
+    },
+    {
+        "zh-CN": "卡牌-星",
+        "en": "Card- STAR",
+        "ja": "スター",
+        "zh-TW": "卡牌-星"
+    },
+    {
+        "zh-CN": "卡牌-星币",
+        "en": "Card- Star Coin",
+        "ja": "スターコイン",
+        "zh-TW": "卡牌-星幣"
+    },
+    {
+        "zh-CN": "卡牌-星希望",
+        "en": "Card- Star Hope",
+        "ja": "星の希望",
+        "zh-TW": "卡牌-星希望"
+    },
+    {
+        "zh-CN": "卡牌-心皇冠",
+        "en": "Card - Heart Crown",
+        "ja": "ハートクラウン",
+        "zh-TW": "卡牌-心皇冠"
+    },
+    {
+        "zh-CN": "卡牌-可爱星",
+        "en": "Card - Cute Star",
+        "ja": "キュートスター",
+        "zh-TW": "卡牌-可愛星"
+    },
+    {
+        "zh-CN": "卡牌-怪盗",
+        "en": "Card - Mysterious Thief",
+        "ja": "怪盗",
+        "zh-TW": "卡牌-怪盜"
+    },
+    {
+        "zh-CN": "卡牌-金色魅影",
+        "en": "Card - Golden Phantom",
+        "ja": "金色のファントム",
+        "zh-TW": "卡牌-金色魅影"
+    },
+    {
+        "zh-CN": "卡牌-鸢尾花",
+        "en": "Card - Iris",
+        "ja": "いちはつ",
+        "zh-TW": "卡牌-鳶尾花"
+    },
+    {
+        "zh-CN": "卡牌-甜点派对",
+        "en": "Card - Dessert Party",
+        "ja": "スイーツパーティー",
+        "zh-TW": "卡牌-甜點派對"
+    },
+    {
+        "zh-CN": "卡牌-沙滩精灵",
+        "en": "Card - Sandbeach Elf",
+        "ja": "ビーチエルフ",
+        "zh-TW": "卡牌-沙灘精靈"
+    },
+    {
+        "zh-CN": "卡牌-金色海岸（动态）",
+        "en": "Card - Golden Coast（Animated）",
+        "ja": "金色の海岸（ダイナミック）",
+        "zh-TW": "卡牌-黃金海岸（動態）"
+    },
+    {
+        "zh-CN": "卡牌-梦想船票",
+        "en": "Card - Dreama Ticket",
+        "ja": "夢想チケット",
+        "zh-TW": "卡牌-夢想船票"
+    },
+    {
+        "zh-CN": "卡牌-羞涩",
+        "en": "Card - Shy",
+        "ja": "トキメキ",
+        "zh-TW": "卡牌-羞澀"
+    },
+    {
+        "zh-CN": "卡牌-悸动之心（动态）",
+        "en": "Card - Throbbing Heart (Animated)",
+        "ja": "トキメキハート（ダイナミック）",
+        "zh-TW": "卡牌-悸動之心（動態）"
+    },
+    {
+        "zh-CN": "卡牌-海盗王嘎呜",
+        "en": "Card - King Gawu",
+        "ja": "海賊王ガオー",
+        "zh-TW": "卡牌-海盜王嘎嗚"
+    },
+    {
+        "zh-CN": "卡牌-彩色宝钻",
+        "en": "Card - Colorful Gem",
+        "ja": "虹色ダイヤモンド",
+        "zh-TW": "卡牌-彩色寶鑽"
+    },
+    {
+        "zh-CN": "卡牌-女王凝视",
+        "en": "Card - Queen's Gaze",
+        "ja": "クイーンの凝視",
+        "zh-TW": "卡牌-女王凝視"
+    },
+    {
+        "zh-CN": "卡牌-庄严女王（动态）",
+        "en": "Card - Majestic Queen (Animated)",
+        "ja": "クイーン（ダイナミック）",
+        "zh-TW": "卡牌-莊嚴女王（動態）"
+    },
+    {
+        "zh-CN": "卡牌-怪物派对",
+        "en": "Card - Monster Party ",
+        "ja": "化け物パーティー",
+        "zh-TW": "卡牌-怪物派對"
+    },
+    {
+        "zh-CN": "卡牌-幽灵舞蹈",
+        "en": "Card - Ghost Dance",
+        "ja": "ゴーストダンス",
+        "zh-TW": "卡牌-幽靈舞蹈"
+    },
+    {
+        "zh-CN": "卡牌-装扮机器人",
+        "en": "Card - Dress Up Robot",
+        "ja": "お飾りロボ",
+        "zh-TW": "卡牌-裝扮機器人"
+    },
+    {
+        "zh-CN": "卡牌-搞怪装饰（动态）",
+        "en": "Card - Funny Decorations （Animated）",
+        "ja": "ユーモアロボ（ダイナミック）",
+        "zh-TW": "卡牌-搞怪裝飾（動態）"
+    },
+    {
+        "zh-CN": "卡牌-舞狮高手",
+        "en": "Card - Lion Dance Master",
+        "ja": "獅子舞いの達人",
+        "zh-TW": "卡牌-舞獅高手"
+    },
+    {
+        "zh-CN": "卡牌-瞎指挥",
+        "en": "Card - Backseat Driving",
+        "ja": "外野はうるさい",
+        "zh-TW": "卡牌-瞎指揮"
+    },
+    {
+        "zh-CN": "卡牌-细细品尝",
+        "en": "Card - Savor the Taste",
+        "ja": "ゆっくりと堪能する",
+        "zh-TW": "卡牌-細細品嘗"
+    },
+    {
+        "zh-CN": "卡牌-甜蜜回忆（动态）",
+        "en": "Card - Sweet Memories (Animated)",
+        "ja": "スイートモーメント",
+        "zh-TW": "卡牌-甜蜜回憶（動態）"
+    },
+    {
+        "zh-CN": "卡牌-果冻派对",
+        "en": "Card - Jelly Party",
+        "ja": "ゼリーパーティ",
+        "zh-TW": "卡牌-果凍派對"
+    },
+    {
+        "zh-CN": "卡牌-茶话时刻",
+        "en": "Card - Tea Time",
+        "ja": "ティータイム",
+        "zh-TW": "卡牌-餐點時刻"
+    },
+    {
+        "zh-CN": "卡牌-鎏金时光",
+        "en": "Card - Gilded Time",
+        "ja": "煌めきの時",
+        "zh-TW": "卡牌-鎏金時光"
+    },
+    {
+        "zh-CN": "卡牌-出发",
+        "en": "Card - Departure",
+        "ja": "出発",
+        "zh-TW": "卡牌-出發"
+    },
+    {
+        "zh-CN": "卡牌-裙角飞扬（动态）",
+        "en": "Card - Blowing in the Wind (Animated)",
+        "ja": "風に吹かれて（ダイナミック）",
+        "zh-TW": "卡牌-裙角飛揚（動態）"
+    },
+    {
+        "zh-CN": "卡牌-甜点",
+        "en": "Card - Dessert",
+        "ja": "デザート",
+        "zh-TW": "卡牌-甜點"
+    },
+    {
+        "zh-CN": "卡牌-满天星",
+        "en": "Card - Gypsophila",
+        "ja": "キラキラ星",
+        "zh-TW": "卡牌-滿天星"
+    },
+    {
+        "zh-CN": "卡牌-网格",
+        "en": "Card - Grid line",
+        "ja": "枠線",
+        "zh-TW": "卡牌-網格"
+    },
+    {
+        "zh-CN": "卡牌-像素小人",
+        "en": "Card - Pixel Character",
+        "ja": "ピクセルキャラ",
+        "zh-TW": "卡牌-像素小人"
+    },
+    {
+        "zh-CN": "卡牌-梦枫",
+        "en": "Card - Fen",
+        "ja": "夢楓",
+        "zh-TW": "卡牌-夢楓"
+    },
+    {
+        "zh-CN": "卡牌-梦朝",
+        "en": "Card - Zhao ",
+        "ja": "夢朝",
+        "zh-TW": "卡牌-夢朝"
+    },
+    {
+        "zh-CN": "卡牌-脱钩警告",
+        "en": "Card - Hook Escape Warning",
+        "ja": "外れ注意",
+        "zh-TW": "卡牌-脫鈎警告"
+    },
+    {
+        "zh-CN": "卡牌-钓鱼大师（动态）",
+        "en": "Card - Fishing Master (Animated)",
+        "ja": "釣りの名人",
+        "zh-TW": "卡牌-釣魚大師（動態）"
+    },
+    {
+        "zh-CN": "卡牌-龙门",
+        "en": "Card - Dragon Gate",
+        "ja": "龍門",
+        "zh-TW": "卡牌-龍門"
+    },
+    {
+        "zh-CN": "卡牌-天川家",
+        "en": "Card - Amakawa Family",
+        "ja": "天川家",
+        "zh-TW": "卡牌-天川家"
+    },
+    {
+        "zh-CN": "卡牌-泳池戏水",
+        "en": "Card - Pool Splash",
+        "ja": "水遊び",
+        "zh-TW": "卡牌-泳池戲水"
+    },
+    {
+        "zh-CN": "卡牌-闪耀派对（动态）",
+        "en": "Card - Shining Party(Animated)",
+        "ja": "シャイニングパーティー（ダイナミック）",
+        "zh-TW": "卡牌-閃耀派對（動態）"
+    },
+    {
+        "zh-CN": "商品巧克力",
+        "en": "Chocolate",
+        "ja": "チョコレート",
+        "zh-TW": "商品巧克力"
+    },
+    {
+        "zh-CN": "智能手机",
+        "en": "Smartphone",
+        "ja": "スマートフォン",
+        "zh-TW": "智慧型手機"
+    },
+    {
+        "zh-CN": "浴室鸭",
+        "en": "Duck",
+        "ja": "ダック",
+        "zh-TW": "浴室鴨子"
+    },
+    {
+        "zh-CN": "居家服",
+        "en": "Roomwear",
+        "ja": "ルームウェア",
+        "zh-TW": "居家服"
+    },
+    {
+        "zh-CN": "普通的饮料",
+        "en": "Regular Drink",
+        "ja": "普通のドリンク",
+        "zh-TW": "普通的飲料"
+    },
+    {
+        "zh-CN": "礼盒巧克力",
+        "en": "Chocolate Box",
+        "ja": "チョコレートボックス",
+        "zh-TW": "禮盒巧克力"
+    },
+    {
+        "zh-CN": "新款平板电脑",
+        "en": "Tablet",
+        "ja": "タブレット",
+        "zh-TW": "新款平板電腦"
+    },
+    {
+        "zh-CN": "小熊玩偶",
+        "en": "Bear Plushie",
+        "ja": "クマのぬいぐるみ",
+        "zh-TW": "小熊玩偶"
+    },
+    {
+        "zh-CN": "漂亮的洋装",
+        "en": "Dress",
+        "ja": "ドレス",
+        "zh-TW": "漂亮的洋裝"
+    },
+    {
+        "zh-CN": "精酿的啤酒",
+        "en": "Craft Beer",
+        "ja": "クラフトビール",
+        "zh-TW": "精釀的啤酒"
+    },
+    {
+        "zh-CN": "手作巧克力",
+        "en": "Handmade Chocolate",
+        "ja": "手つくりチョコレート",
+        "zh-TW": "手作巧克力"
+    },
+    {
+        "zh-CN": "非常牛的电脑配件",
+        "en": "High- performance PC Parts",
+        "ja": "高性能PCパーツ",
+        "zh-TW": "高性能電腦配件"
+    },
+    {
+        "zh-CN": "小怪兽手办",
+        "en": "Monster Figure",
+        "ja": "モンスターフィギュア",
+        "zh-TW": "小怪獸手辦"
+    },
+    {
+        "zh-CN": "水手服",
+        "en": "Sailor Uniform",
+        "ja": "セーラー服",
+        "zh-TW": "水手服"
+    },
+    {
+        "zh-CN": "陈年的红酒",
+        "en": "Aged Red Wine",
+        "ja": "熟成赤ワイン",
+        "zh-TW": "陳年的紅酒"
+    },
+    {
+        "zh-CN": "黑金礼品卡",
+        "en": "Black Gold Gift Card",
+        "ja": "ブラックカード",
+        "zh-TW": "黑金禮品卡"
+    },
+    {
+        "zh-CN": "阳炎徽章",
+        "en": "Heat Haze Badge",
+        "ja": "陽炎バッジ",
+        "zh-TW": "陽炎徽章"
+    },
+    {
+        "zh-CN": "月光徽章",
+        "en": "Moonlight Badge",
+        "ja": "月光バッジ",
+        "zh-TW": "月光徽章"
+    },
+    {
+        "zh-CN": "山峦徽章",
+        "en": "Mountain Range Badge",
+        "ja": "山脈バッジ",
+        "zh-TW": "山巒徽章"
+    },
+    {
+        "zh-CN": "冰原徽章",
+        "en": "Ice Field Badge",
+        "ja": "氷原バッジ",
+        "zh-TW": "冰原徽章"
+    },
+    {
+        "zh-CN": "大气徽章",
+        "en": "Atmosphere Badge",
+        "ja": "大気バッジ",
+        "zh-TW": "大氣徽章"
+    },
+    {
+        "zh-CN": "川河徽章",
+        "en": "River Badge",
+        "ja": "河川バッジ",
+        "zh-TW": "川河徽章"
+    },
+    {
+        "zh-CN": "熔岩徽章",
+        "en": "Lava Badge",
+        "ja": "溶岩バッジ",
+        "zh-TW": "熔岩徽章"
+    },
+    {
+        "zh-CN": "阴影徽章",
+        "en": "Shadow Badge",
+        "ja": "影バッジ",
+        "zh-TW": "陰影徽章"
+    },
+    {
+        "zh-CN": "宇宙徽章",
+        "en": "Space Badge",
+        "ja": "宇宙バッジ",
+        "zh-TW": "宇宙徽章"
+    },
+    {
+        "zh-CN": "78010超级徽章",
+        "en": "78010",
+        "ja": "78010",
+        "zh-TW": "78010"
+    },
+    {
+        "zh-CN": "初级战斗宝典",
+        "en": "Basic Combat Manual",
+        "ja": "バトルノート初級編",
+        "zh-TW": "初級戰鬥寶典"
+    },
+    {
+        "zh-CN": "中级战斗宝典",
+        "en": "Intermediate Combat Manual",
+        "ja": "バトルノート中級編",
+        "zh-TW": "中級戰鬥寶典"
+    },
+    {
+        "zh-CN": "魔力晶核",
+        "en": "Magic Gem",
+        "ja": "マジックジェム",
+        "zh-TW": "魔力晶核"
+    },
+    {
+        "zh-CN": "抽奖券",
+        "en": "Gacha Cassette",
+        "ja": "抽選券",
+        "zh-TW": "抽獎券"
+    },
+    {
+        "zh-CN": "时装券",
+        "en": "Costume Ticket",
+        "ja": "スキン抽選券",
+        "zh-TW": "造型券"
+    },
+    {
+        "zh-CN": "测试用：随机宝箱",
+        "en": "Random Box",
+        "ja": "ランダムボックス",
+        "zh-TW": "測試用：隨機寶箱"
+    },
+    {
+        "zh-CN": "测试用：可选宝箱",
+        "en": "Select Box",
+        "ja": "セレクトボックス",
+        "zh-TW": "測試用：可選寶箱"
+    },
+    {
+        "zh-CN": "随机礼物箱",
+        "en": "Random Box",
+        "ja": "ランダムボックス",
+        "zh-TW": "隨機禮物箱"
+    },
+    {
+        "zh-CN": "第1季角色自选箱",
+        "en": "Season 1 Character Select Box",
+        "ja": "シーズン1 キャラセレクト箱",
+        "zh-TW": "第1季角色自選箱"
+    },
+    {
+        "zh-CN": "直购礼包：账号头像+名片",
+        "en": "Gift Pack: Avatar + Card Profile",
+        "ja": "ギフトパック：アバター＋プロフィールカード",
+        "zh-TW": "直購禮包：帳號頭像+名片"
+    },
+    {
+        "zh-CN": "直购礼包：名片+星盘",
+        "en": "Gift Pack: Card Profile + Star Disc",
+        "ja": "ギフトパック：プロフィールカード＋星盤",
+        "zh-TW": "直購禮包：名片+星盤"
+    },
+    {
+        "zh-CN": "直购礼包：骰子+星盘",
+        "en": "Gift Pack: Dice + Star Disc",
+        "ja": "直购礼包：骰子+星盘",
+        "zh-TW": "直购礼包：骰子+星盘"
+    },
+    {
+        "zh-CN": "直购礼包：立绘+星盘",
+        "en": "Gift Pack: Skin + Star Disc",
+        "ja": "直购礼包：立绘+星盘",
+        "zh-TW": "直购礼包：立绘+星盘"
+    },
+    {
+        "zh-CN": "第1季全角色箱",
+        "en": "Season 1 ALL Character Box",
+        "ja": "シーズン1　全キャラセレクト箱",
+        "zh-TW": "第1季全角色箱"
+    },
+    {
+        "zh-CN": "紫色礼物自选箱",
+        "en": "Purple Gift Select Box",
+        "ja": "紫色ギフトボックス",
+        "zh-TW": "紫色禮物自選箱"
+    },
+    {
+        "zh-CN": "全蓝色徽章材料箱",
+        "en": "全蓝色徽章材料箱",
+        "ja": "全蓝色徽章材料箱",
+        "zh-TW": "全蓝色徽章材料箱"
+    },
+    {
+        "zh-CN": "新手角色礼包",
+        "en": "Beginner Character Pack",
+        "ja": "新規キャラパック",
+        "zh-TW": "新手角色禮包"
+    },
+    {
+        "zh-CN": "91014新手抽卡券礼包",
+        "en": "91014新手抽卡券礼包",
+        "ja": "91014新手抽卡券礼包",
+        "zh-TW": "91014"
+    },
+    {
+        "zh-CN": "91015羁绊助力礼包",
+        "en": "91015羁绊助力礼包",
+        "ja": "91015羁绊助力礼包",
+        "zh-TW": "91015"
+    },
+    {
+        "zh-CN": "缔结契约礼包",
+        "en": "Bond Pack",
+        "ja": "契約締結パック",
+        "zh-TW": "締結約禮包"
+    },
+    {
+        "zh-CN": "蓝色材料自选箱",
+        "en": "Blue Materials Select Box",
+        "ja": "青品質素材ボックス",
+        "zh-TW": "藍色材料自選箱"
+    },
+    {
+        "zh-CN": "古怪神探骰子礼包",
+        "en": "Quirky Detective Dice Pack",
+        "ja": "風変わりな探偵ダイスパック",
+        "zh-TW": "古怪神探骰子禮包"
+    },
+    {
+        "zh-CN": "游戏大师骰子礼包",
+        "en": "Pro Gamer Dice Pack",
+        "ja": "ゲームマスターダイスパック",
+        "zh-TW": "遊戲大師骰子禮包"
+    },
+    {
+        "zh-CN": "啦啦队-恋",
+        "en": "Cheerleader- Ren",
+        "ja": "チアリーダー-レン",
+        "zh-TW": "啦啦隊-戀"
+    },
+    {
+        "zh-CN": "抽奖券大礼包",
+        "en": "Gacha Pack",
+        "ja": "抽選券パック",
+        "zh-TW": "抽獎券大禮包"
+    },
+    {
+        "zh-CN": "觉醒徽章礼包",
+        "en": "Awaken Badge Pack",
+        "ja": "覚醒バッジパック",
+        "zh-TW": "覺醒徽章禮包"
+    },
+    {
+        "zh-CN": "自选礼物礼包",
+        "en": "Gift Select Pack",
+        "ja": "プレゼントセレクトパック",
+        "zh-TW": "自選禮物禮包"
+    },
+    {
+        "zh-CN": "时尚达人-帕露南",
+        "en": "Fashion Icon - Parunan",
+        "ja": "ファッションプロ-パルナン",
+        "zh-TW": "時尚達人-帕露南"
+    },
+    {
+        "zh-CN": "看板娘骰子礼包",
+        "en": "Kanban Musume Dice Pack",
+        "ja": "看板娘ダイスパック",
+        "zh-TW": "看板娘骰子禮包"
+    },
+    {
+        "zh-CN": "垃圾箱骰子礼包",
+        "en": "Waste-Collecting robot Dice Pack",
+        "ja": "回収ロボットダイスパック",
+        "zh-TW": "垃圾桶骰子禮包"
+    },
+    {
+        "zh-CN": "新手抽卡券礼包",
+        "en": "Novice Gacha Pack",
+        "ja": "新規ガチャパック",
+        "zh-TW": "新手抽卡券禮包"
+    },
+    {
+        "zh-CN": "10连抽卡券礼包",
+        "en": "Roll x10 Pack",
+        "ja": "月間ガチャパック",
+        "zh-TW": "10連抽卡券禮包"
+    },
+    {
+        "zh-CN": "宝箱怪-璐璐",
+        "en": "Mimic-Lulu",
+        "ja": "ミミック-ルル",
+        "zh-TW": "寶箱怪-璐璐"
+    },
+    {
+        "zh-CN": "史莱姆骰子礼包",
+        "en": "Slime Girl Dice Pack",
+        "ja": "スライムダイスパック",
+        "zh-TW": "史萊姆骰子禮包"
+    },
+    {
+        "zh-CN": "商业之主骰子礼包",
+        "en": "Lord of Commerce Dice Pack",
+        "ja": "やり手商人ダイスパック",
+        "zh-TW": "商業之主骰子禮包"
+    },
+    {
+        "zh-CN": "社员叔叔骰子礼包",
+        "en": "Uncle Employee Dice Pack",
+        "ja": "会社員ダイスパック",
+        "zh-TW": "社員叔叔骰子禮包"
+    },
+    {
+        "zh-CN": "猩红辣妹骰子礼包",
+        "en": "Red Hot Dice Pack",
+        "ja": "深紅ギャルダイスパック",
+        "zh-TW": "緋紅辣妹骰子禮包"
+    },
+    {
+        "zh-CN": "满溢随机礼品袋",
+        "en": "Random Item Box",
+        "ja": "ランダムアイテムボックス",
+        "zh-TW": "滿溢隨機禮品袋"
+    },
+    {
+        "zh-CN": "冰沙快递-米米",
+        "en": "Slushie Express",
+        "ja": "スムージーエキスプレス-ミミ",
+        "zh-TW": "冰沙快遞-米米"
+    },
+    {
+        "zh-CN": "绿色随机礼物箱",
+        "en": "Green Random Box",
+        "ja": "緑色ギフトボックス",
+        "zh-TW": "綠色隨機禮物箱"
+    },
+    {
+        "zh-CN": "蓝色随机礼物箱",
+        "en": "Blue Random Box",
+        "ja": "青色ギフトボックス",
+        "zh-TW": "藍色隨機禮物箱"
+    },
+    {
+        "zh-CN": "礼包：船锚雪花球*20",
+        "en": "Gift Pack: Snow Globes*20",
+        "ja": "パック：雪玉アンカーⅹ20",
+        "zh-TW": "禮包：船錨雪花球*20"
+    },
+    {
+        "zh-CN": "礼包：船锚雪花球*5",
+        "en": "Gift Pack: Snow Globes*5",
+        "ja": "パック：雪玉アンカーⅹ５",
+        "zh-TW": "禮包：船錨雪花球*5"
+    },
+    {
+        "zh-CN": "妖火雪花球*20",
+        "en": "Spirit Snow Globes*20",
+        "ja": "妖火玉*20",
+        "zh-TW": "妖火雪花球*20"
+    },
+    {
+        "zh-CN": "妖火雪花球*5",
+        "en": "Spirit Snow Globes*5",
+        "ja": "妖火玉*5",
+        "zh-TW": "妖火雪花球*5"
+    },
+    {
+        "zh-CN": "联动角色 组合包",
+        "en": "Collaboration Character Bundle",
+        "ja": "コラボレーションキャラパック",
+        "zh-TW": "聯動角色 組合包"
+    },
+    {
+        "zh-CN": "超级天使-超天酱 组合包",
+        "en": "OMGKawaiiAngel - KAngel Pack",
+        "ja": "超絶最かわてんしちゃん-超天ちゃんパック",
+        "zh-TW": "超級天使-超天醬 組合包"
+    },
+    {
+        "zh-CN": "主播女孩-糖糖 组合包",
+        "en": "NeedyGirl - Ame Pack",
+        "ja": "ニーディーカール-あめちゃんパック",
+        "zh-TW": "主播女孩-糖糖 組合包"
+    },
+    {
+        "zh-CN": "中级战斗宝典*5礼包",
+        "en": " Intermediate Combat Manual*5 Pack",
+        "ja": "バトルノート中級編*5パック",
+        "zh-TW": "中級戰鬥寶典*5禮包"
+    },
+    {
+        "zh-CN": "中级战斗宝典*15礼包",
+        "en": " Intermediate Combat Manual*15 Pack",
+        "ja": "バトルノート中級編*15パック",
+        "zh-TW": "中級戰鬥寶典*15禮包"
+    },
+    {
+        "zh-CN": "灯笼雪花球*20",
+        "en": "Lantern Snow Globes*20",
+        "ja": "灯籠玉*20",
+        "zh-TW": "燈籠雪花球*20"
+    },
+    {
+        "zh-CN": "灯笼雪花球*5",
+        "en": "Lantern Snow Globes*5",
+        "ja": "灯籠玉*5",
+        "zh-TW": "燈籠雪花球*5"
+    },
+    {
+        "zh-CN": "雍容盛景礼包",
+        "en": "Splendor Royale Pack",
+        "ja": "雍容絶景ギフトパック",
+        "zh-TW": "雍容盛景禮包"
+    },
+    {
+        "zh-CN": "角色自选箱（第1期+第2期）",
+        "en": "Character Select Box (S1+S2)",
+        "ja": "キャラクターセレクトボックス（第一期＆第二期）",
+        "zh-TW": "角色自選箱（第1期+第2期）"
+    },
+    {
+        "zh-CN": "紫色礼物箱",
+        "en": "Purple Box",
+        "ja": "紫色ギフトボックス",
+        "zh-TW": "紫色禮物箱"
+    },
+    {
+        "zh-CN": "测试专用角色自选箱",
+        "en": "Test Character Select Box",
+        "ja": "テスト専用キャラクターセレクトボックス",
+        "zh-TW": "測試專用角色自選箱"
+    },
+    {
+        "zh-CN": "蛋糕雪花球*20",
+        "en": "Cake Snow Globe*20",
+        "ja": "ケーキスノードーム*20",
+        "zh-TW": "蛋糕雪花球*20"
+    },
+    {
+        "zh-CN": "蛋糕雪花球*5",
+        "en": "Cake Snow Globe*5",
+        "ja": "ケーキスノードーム*5",
+        "zh-TW": "蛋糕雪花球*5"
+    },
+    {
+        "zh-CN": "门楼雪花球*20",
+        "en": "Gate Tower Snow Globes*20",
+        "ja": "龍門玉*20",
+        "zh-TW": "門樓雪花球*20"
+    },
+    {
+        "zh-CN": "门楼雪花球*5",
+        "en": "Gate Tower Snow Globes*5",
+        "ja": "龍門玉*5",
+        "zh-TW": "門樓雪花球*5"
+    },
+    {
+        "zh-CN": "真龙御礼礼包",
+        "en": "Dragon's Honor Pack",
+        "ja": "真龍御礼ギフトパック",
+        "zh-TW": "真龍禦禮禮包"
+    },
+    {
+        "zh-CN": "魔力晶核礼包",
+        "en": "Magic Gem Pack",
+        "ja": "マジックジェムギフトパック",
+        "zh-TW": "魔力晶核禮包"
+    },
+    {
+        "zh-CN": "魔女兵器-阿兰娜",
+        "en": "Witch's Weapon - Alana",
+        "ja": "魔女兵器-アランナ",
+        "zh-TW": "魔女兵器-阿蘭娜"
+    },
+    {
+        "zh-CN": "魔女兵器-美咲",
+        "en": "Witch's Weapon - Msaki",
+        "ja": "魔女兵器-ミサキ",
+        "zh-TW": "魔女兵器-美咲"
+    },
+    {
+        "zh-CN": "魔女兵器皮肤组合",
+        "en": "Witch’s Weapon Skin Pack",
+        "ja": "魔女兵器スキンパック",
+        "zh-TW": "魔女兵器造型組合"
+    },
+    {
+        "zh-CN": "海滨救援-梅加斯",
+        "en": "Seaside Rescue - Megas",
+        "ja": "マリンレスキュー-メガス",
+        "zh-TW": "海賓救援-梅加斯"
+    },
+    {
+        "zh-CN": "海湾假日-凜",
+        "en": "Harbour Holiday - Rin",
+        "ja": "浜辺のバカンス-リン",
+        "zh-TW": "海灣假日-凜"
+    },
+    {
+        "zh-CN": "冲浪海岸-茉莉",
+        "en": "Coastal Surfer - Jasmine",
+        "ja": "エンドレスサーフィン-ジャスミン",
+        "zh-TW": "沖浪海岸-茉莉"
+    },
+    {
+        "zh-CN": "众筹蓝海晴特殊出场动画",
+        "en": "HaiQing Special Animation",
+        "ja": "グラファンカイセイスペシャル出場アニメ",
+        "zh-TW": "眾籌藍海晴特殊出場動畫"
+    },
+    {
+        "zh-CN": "直购皮肤5折券",
+        "en": "50% Off Skin Purchase Voucher",
+        "ja": "スキン５０％オフ券",
+        "zh-TW": "直購造型5折券"
+    },
+    {
+        "zh-CN": "直购皮肤3折券",
+        "en": "30% Off Skin Purchase Voucher",
+        "ja": "スキン3０％オフ券",
+        "zh-TW": "直購造型3折券"
+    },
+    {
+        "zh-CN": "直购皮肤7折券",
+        "en": "70% Off Skin Purchase Voucher",
+        "ja": "スキン7０％オフ券",
+        "zh-TW": "直購造型7折券"
+    },
+    {
+        "zh-CN": "星之积木",
+        "en": "Star Block",
+        "ja": "スターブロック",
+        "zh-TW": "星之積木"
+    },
+    {
+        "zh-CN": "刮刮乐代币",
+        "en": "Lucky Token",
+        "ja": "ちまきコイン",
+        "zh-TW": "刮刮樂代幣"
+    },
+    {
+        "zh-CN": "刮刮乐代币",
+        "en": "Lucky Token",
+        "ja": "ちまきコイン",
+        "zh-TW": "刮刮樂代幣"
+    },
+    {
+        "zh-CN": "船锚雪花球",
+        "en": "Snow Globe",
+        "ja": "雪玉アンカー",
+        "zh-TW": "船錨雪花球"
+    },
+    {
+        "zh-CN": "刺海螺",
+        "en": "Sea Thorn",
+        "ja": "アサリ",
+        "zh-TW": "刺海螺"
+    },
+    {
+        "zh-CN": "妖火雪花球",
+        "en": "Spirit Snow Globes",
+        "ja": "妖火玉",
+        "zh-TW": "妖火雪花球"
+    },
+    {
+        "zh-CN": "古代钱币",
+        "en": "Ancient Coins",
+        "ja": "いにしえのコイン",
+        "zh-TW": "古代錢幣"
+    },
+    {
+        "zh-CN": "幽幽币",
+        "en": "YoYo Coins",
+        "ja": "YOYOコイン",
+        "zh-TW": "幽幽幣"
+    },
+    {
+        "zh-CN": "爱心",
+        "en": "L.O.V.E",
+        "ja": "L.O.V.E",
+        "zh-TW": "L.O.V.E"
+    },
+    {
+        "zh-CN": "花茶币",
+        "en": "Flower Tea Coin",
+        "ja": "花茶コイン",
+        "zh-TW": "花茶幣"
+    },
+    {
+        "zh-CN": "灯笼雪花球",
+        "en": "Lantern Snow Globes",
+        "ja": "灯籠玉",
+        "zh-TW": "燈籠雪花球"
+    },
+    {
+        "zh-CN": "红包",
+        "en": "Red envelope",
+        "ja": "お年玉",
+        "zh-TW": "紅包"
+    },
+    {
+        "zh-CN": "测试专用代币",
+        "en": "Test Token",
+        "ja": "テスト専用コイン",
+        "zh-TW": "測試專用代幣"
+    },
+    {
+        "zh-CN": "蛋糕雪花球",
+        "en": "Cake Snow Globe",
+        "ja": "ケーキスノードーム",
+        "zh-TW": "蛋糕雪花球"
+    },
+    {
+        "zh-CN": "魔法书",
+        "en": "Magic Book",
+        "ja": "魔法書",
+        "zh-TW": "魔法書"
+    },
+    {
+        "zh-CN": "侦探放大镜",
+        "en": "Detective Magnifying Glass",
+        "ja": "探偵虫メガネ",
+        "zh-TW": "偵探放大鏡"
+    },
+    {
+        "zh-CN": "门楼雪花球",
+        "en": "Gate Tower Snow Globes",
+        "ja": "龍門玉",
+        "zh-TW": "門樓雪花球"
+    },
+    {
+        "zh-CN": "绿勾玉",
+        "en": "Green Magatama",
+        "ja": "翡翠勾玉",
+        "zh-TW": "綠勾玉"
+    },
+    {
+        "zh-CN": "初始皮肤-帕露南",
+        "en": "Default skin- Parunan",
+        "ja": "デフォルト-パルナン",
+        "zh-TW": "初始造型-帕露南"
+    },
+    {
+        "zh-CN": "羁绊皮肤-帕露南",
+        "en": "Bond skin- Parunan",
+        "ja": "契約締結-パルナン",
+        "zh-TW": "羈絆造型-帕露南"
+    },
+    {
+        "zh-CN": "时尚达人-帕露南",
+        "en": "Fashion Icon - Parunan",
+        "ja": "ファッションプロ-パルナン",
+        "zh-TW": "時尚達人-帕露南"
+    },
+    {
+        "zh-CN": "善财天官-帕露南",
+        "en": "Fortune Guardian - Parunan",
+        "ja": "善財天官-パルナン",
+        "zh-TW": "善財天官-帕露南"
+    },
+    {
+        "zh-CN": "初始皮肤-芬妮",
+        "en": "Default skin- Fanny",
+        "ja": "デフォルト-ファニィ",
+        "zh-TW": "初始造型-芬妮"
+    },
+    {
+        "zh-CN": "羁绊皮肤-芬妮",
+        "en": "Bond skin- Fanny",
+        "ja": "契約締結-ファニィ",
+        "zh-TW": "羈絆造型-芬妮"
+    },
+    {
+        "zh-CN": "清凉盛夏-芬妮",
+        "en": "Breezy summer - Fanny",
+        "ja": "清涼サマー-ファニィ",
+        "zh-TW": "清涼盛夏-芬妮"
+    },
+    {
+        "zh-CN": "超然解析-芬妮",
+        "en": "Mystic Insight - Fenny",
+        "ja": "超然解析-ファニィ",
+        "zh-TW": "超然解析-芬妮"
+    },
+    {
+        "zh-CN": "初始皮肤-阿兰娜",
+        "en": "Default skin- Alana",
+        "ja": "デフォルト-アランナ",
+        "zh-TW": "初始造型-阿蘭娜"
+    },
+    {
+        "zh-CN": "羁绊皮肤-阿兰娜",
+        "en": "Bond skin- Alana",
+        "ja": "契約締結-アランナ",
+        "zh-TW": "羈絆造型-阿蘭娜"
+    },
+    {
+        "zh-CN": "悸动沙滩-阿兰娜",
+        "en": "Throbbing Beach- Alana",
+        "ja": "白浜のトキメキ-アランナ",
+        "zh-TW": "悸動沙灘-阿蘭娜"
+    },
+    {
+        "zh-CN": "冒失少女-阿兰娜",
+        "en": "Clumsy Girl - Alana",
+        "ja": "ドジっ子-アランナ",
+        "zh-TW": "冒失少女-阿蘭娜"
+    },
+    {
+        "zh-CN": "魔女兵器-阿兰娜",
+        "en": "Witch's Weapon - Alana",
+        "ja": "魔女兵器-アランナ",
+        "zh-TW": "魔女兵器-阿蘭娜"
+    },
+    {
+        "zh-CN": "初始皮肤-小町",
+        "en": "Default skin- Komachi",
+        "ja": "デフォルト-コマチ",
+        "zh-TW": "初始造型-小町"
+    },
+    {
+        "zh-CN": "羁绊皮肤-小町",
+        "en": "Bond skin- Komachi",
+        "ja": "契約締結-コマチ",
+        "zh-TW": "羈絆造型-小町"
+    },
+    {
+        "zh-CN": "忍者为何？-小町",
+        "en": "Why the Ninja？- Komachi",
+        "ja": "ニンジャナンデ！？-コマチ",
+        "zh-TW": "忍者爲何？-小町"
+    },
+    {
+        "zh-CN": "初始皮肤-派德曼",
+        "en": "Default skin- Padman",
+        "ja": "デフォルト-パッドマン",
+        "zh-TW": "初始造型-派德曼"
+    },
+    {
+        "zh-CN": "羁绊皮肤-派德曼",
+        "en": "Bond skin- Padman",
+        "ja": "契約締結-パッドマン",
+        "zh-TW": "羈絆造型-派德曼"
+    },
+    {
+        "zh-CN": "初始皮肤-帕帕拉",
+        "en": "Default skin- Papara",
+        "ja": "デフォルト-パパラ",
+        "zh-TW": "初始造型-帕帕拉"
+    },
+    {
+        "zh-CN": "羁绊皮肤-帕帕拉",
+        "en": "Bond skin- Papara",
+        "ja": "契約締結-パパラ",
+        "zh-TW": "羈絆造型-帕帕拉"
+    },
+    {
+        "zh-CN": "护卫队长-帕帕拉",
+        "en": "Guard Captain - Papala",
+        "ja": "護衛隊長-パパラ",
+        "zh-TW": "護衛隊長-帕帕拉"
+    },
+    {
+        "zh-CN": "初始皮肤-恋",
+        "en": "Default skin- Ren",
+        "ja": "デフォルト-レン",
+        "zh-TW": "初始造型-戀"
+    },
+    {
+        "zh-CN": "羁绊皮肤-恋",
+        "en": "Bond skin- Ren",
+        "ja": "契約締結-レン",
+        "zh-TW": "羈絆造型-戀"
+    },
+    {
+        "zh-CN": "啦啦队-恋",
+        "en": "Cheerleader- Ren",
+        "ja": "チアリーダー-レン",
+        "zh-TW": "啦啦隊-戀"
+    },
+    {
+        "zh-CN": "可爱船长-恋",
+        "en": "Cute Captain- Ren",
+        "ja": "キュートキャプテン-レン",
+        "zh-TW": "可愛船長-戀"
+    },
+    {
+        "zh-CN": "泳池派对-恋",
+        "en": "Pool Party- Ren",
+        "ja": "プールパーティー-レン",
+        "zh-TW": "泳池派對-戀"
+    },
+    {
+        "zh-CN": "初始皮肤-米米",
+        "en": "Default skin- Mimi",
+        "ja": "デフォルト-ミミ",
+        "zh-TW": "初始造型-米米"
+    },
+    {
+        "zh-CN": "羁绊皮肤-米米",
+        "en": "Bond skin- Mimi",
+        "ja": "契約締結-ミミ",
+        "zh-TW": "羈絆造型-米米"
+    },
+    {
+        "zh-CN": "赛车女郎-米米",
+        "en": "Race Queen- Mimi",
+        "ja": "レースクイーン-ミミ",
+        "zh-TW": "賽車女郎-米米"
+    },
+    {
+        "zh-CN": "冰沙快递-米米",
+        "en": "Slushie Express- Mimi",
+        "ja": "スムージーエキスプレス-ミミ",
+        "zh-TW": "冰沙快遞-米米"
+    },
+    {
+        "zh-CN": "搬运魔法-米米",
+        "en": "Transport Magic - Mimi",
+        "ja": "運搬魔法-ミミ",
+        "zh-TW": "搬運魔法-米米"
+    },
+    {
+        "zh-CN": "初始皮肤-Z3000",
+        "en": "Default skin- Z3000",
+        "ja": "デフォルト-ゼット3000",
+        "zh-TW": "初始造型-Z3000"
+    },
+    {
+        "zh-CN": "羁绊皮肤-Z3000",
+        "en": "Bond skin- Z3000",
+        "ja": "契約締結-ゼット3000",
+        "zh-TW": "羈絆造型-Z3000"
+    },
+    {
+        "zh-CN": "初始皮肤-潘大猛",
+        "en": "Default skin- Pandaman",
+        "ja": "デフォルト-パンダマン",
+        "zh-TW": "初始造型-潘大猛"
+    },
+    {
+        "zh-CN": "羁绊皮肤-潘大猛",
+        "en": "Bond skin- Pandaman",
+        "ja": "契約締結-パンダマン",
+        "zh-TW": "羈絆造型-潘大猛"
+    },
+    {
+        "zh-CN": "角色111立绘1",
+        "en": "角色111立绘1",
+        "ja": "角色111立绘1",
+        "zh-TW": "100111001"
+    },
+    {
+        "zh-CN": "角色111立绘2",
+        "en": "角色111立绘2",
+        "ja": "角色111立绘2",
+        "zh-TW": "100111002"
+    },
+    {
+        "zh-CN": "初始皮肤-璐璐",
+        "en": "Default skin- Lulu",
+        "ja": "デフォルト-ルル",
+        "zh-TW": "初始造型-璐璐"
+    },
+    {
+        "zh-CN": "羁绊皮肤-璐璐",
+        "en": "Bond skin- Lulu",
+        "ja": "契約締結-ルル",
+        "zh-TW": "羈絆造型-璐璐"
+    },
+    {
+        "zh-CN": "宝箱怪-璐璐",
+        "en": "Mimic-Lulu",
+        "ja": "ミミック-ルル",
+        "zh-TW": "寶箱怪-璐璐"
+    },
+    {
+        "zh-CN": "甜蜜陷阱-璐璐",
+        "en": "Sweet Trap - Lulu",
+        "ja": "ハニートラップ‐ルル",
+        "zh-TW": "甜蜜陷阱-璐璐"
+    },
+    {
+        "zh-CN": "初始皮肤-枫",
+        "en": "Default skin- Fen",
+        "ja": "デフォルト-ヒメ",
+        "zh-TW": "初始造型-楓"
+    },
+    {
+        "zh-CN": "羁绊皮肤-枫",
+        "en": "Bond skin- Fen",
+        "ja": "契約締結-ヒメ",
+        "zh-TW": "羈絆造型-楓"
+    },
+    {
+        "zh-CN": "战斗女仆-枫",
+        "en": "Maid-Warrior: Fen",
+        "ja": "バトルメイド-ヒメ",
+        "zh-TW": "戰鬥女僕-楓"
+    },
+    {
+        "zh-CN": "锦跃游龙-枫",
+        "en": "Dragon's Ascent - Fen",
+        "ja": "ヒメの鯉のぼり-ヒメ",
+        "zh-TW": "錦躍遊龍-楓"
+    },
+    {
+        "zh-CN": "初始皮肤-蓝海晴",
+        "en": "Default skin- HaiQing",
+        "ja": "デフォルト-カイセイ",
+        "zh-TW": "初始造型-藍海晴"
+    },
+    {
+        "zh-CN": "羁绊皮肤-蓝海晴",
+        "en": "Bond skin- HaiQing",
+        "ja": "契約締結-カイセイ",
+        "zh-TW": "羈絆造型-藍海晴"
+    },
+    {
+        "zh-CN": "变装派对-蓝海晴",
+        "en": "Costume Party - Haiqing",
+        "ja": "妖霊キョンシー-カイセイ",
+        "zh-TW": "變裝派對-藍海晴"
+    },
+    {
+        "zh-CN": "列车长-蓝海晴",
+        "en": "Train Conductor - HaiQing",
+        "ja": "列車長-カイセイ",
+        "zh-TW": "列車長-藍海晴"
+    },
+    {
+        "zh-CN": "初始皮肤-美咲",
+        "en": "Default skin- Misaki",
+        "ja": "デフォルト-ミサキ",
+        "zh-TW": "初始造型-美咲"
+    },
+    {
+        "zh-CN": "羁绊皮肤-美咲",
+        "en": "Bond skin- Misaki",
+        "ja": "契約締結-ミサキ",
+        "zh-TW": "羈絆造型-美咲"
+    },
+    {
+        "zh-CN": "战斗女仆-美咲",
+        "en": "Maid-Warrior: Misaki",
+        "ja": "バトルメイド-ミサキ",
+        "zh-TW": "戰鬥女僕-美咲"
+    },
+    {
+        "zh-CN": "真龙御礼-龙崎美咲",
+        "en": "Dragon's Honor - Misaki",
+        "ja": "真龍御礼-ミサキ",
+        "zh-TW": "真龍禦禮-龍崎美咲"
+    },
+    {
+        "zh-CN": "魔女兵器-美咲",
+        "en": "Witch's Weapon - Msaki",
+        "ja": "魔女兵器-ミサキ",
+        "zh-TW": "魔女兵器-美咲"
+    },
+    {
+        "zh-CN": "初始皮肤-娜蒂斯",
+        "en": "Default skin- Nardis ",
+        "ja": "デフォルト-ナーディス",
+        "zh-TW": "初始造型-娜蒂斯"
+    },
+    {
+        "zh-CN": "羁绊皮肤-娜蒂斯",
+        "en": "Bond skin- Nardis ",
+        "ja": "契約締結-ナーディス",
+        "zh-TW": "羈絆造型-娜蒂斯"
+    },
+    {
+        "zh-CN": "祭典礼服-娜蒂斯",
+        "en": "Festival Dress - Nardis",
+        "ja": "パーティードレス‐ナーティス",
+        "zh-TW": "祭典禮服-娜蒂斯"
+    },
+    {
+        "zh-CN": "初始皮肤-茉莉",
+        "en": "Default skin- Jasmine",
+        "ja": "デフォルト-ジャスミン",
+        "zh-TW": "初始造型-茉莉"
+    },
+    {
+        "zh-CN": "羁绊皮肤-茉莉",
+        "en": "Bond skin- Jasmine",
+        "ja": "契約締結-ジャスミン",
+        "zh-TW": "羈絆造型-茉莉"
+    },
+    {
+        "zh-CN": "节日盛装-茉莉",
+        "en": "Festival Dress-Jasmine",
+        "ja": "メリークリスマス-ジャスミン",
+        "zh-TW": "節日盛裝-茉莉"
+    },
+    {
+        "zh-CN": "冲浪海岸-茉莉",
+        "en": "Coastal Surfer - Jasmine",
+        "ja": "エンドレスサーフィン-ジャスミン",
+        "zh-TW": "沖浪海岸-茉莉"
+    },
+    {
+        "zh-CN": "初始皮肤-阿尔",
+        "en": "Default skin- AL",
+        "ja": "デフォルト-アル",
+        "zh-TW": "初始造型-阿爾"
+    },
+    {
+        "zh-CN": "羁绊皮肤-阿尔",
+        "en": "Bond skin- AL",
+        "ja": "契約締結-アル",
+        "zh-TW": "羁絆皮膚-阿爾"
+    },
+    {
+        "zh-CN": "初始皮肤-琉华",
+        "en": "Default Skin - Luka",
+        "ja": "デフォルト-ルカ",
+        "zh-TW": "初始造型-琉華"
+    },
+    {
+        "zh-CN": "羁绊皮肤-琉华",
+        "en": "Bond skin- Luka",
+        "ja": "契約締結-ルカ",
+        "zh-TW": "羈絆造型-琉華"
+    },
+    {
+        "zh-CN": "转角之期-星魅琉华",
+        "en": "Fated crossroads - Star Luka ",
+        "ja": "街角の約束-ルカ",
+        "zh-TW": "轉角之期-星魅琉華"
+    },
+    {
+        "zh-CN": "初始皮肤-南希露",
+        "en": "Default skin - Nancy Lu",
+        "ja": "デフォルト-ナンシーロー",
+        "zh-TW": "初始造型-南希露"
+    },
+    {
+        "zh-CN": "羁绊皮肤-南希露",
+        "en": "Bond skin - Nancy Lu",
+        "ja": "契約締結‐ナンシーロー",
+        "zh-TW": "羁絆造型-南希露"
+    },
+    {
+        "zh-CN": "雍容盛景-南希露",
+        "en": "Splendor Royale-Nancy Lu",
+        "ja": "雍容絶景-ナンシーロー",
+        "zh-TW": "雍容盛景-南希露"
+    },
+    {
+        "zh-CN": "初始皮肤-凛",
+        "en": "Default skin - Rin",
+        "ja": "デフォルト-リン",
+        "zh-TW": "初始造型-凜"
+    },
+    {
+        "zh-CN": "羁绊皮肤-凛",
+        "en": "Bond skin - Rin",
+        "ja": "契約締結‐リン",
+        "zh-TW": "羁絆造型-凜"
+    },
+    {
+        "zh-CN": "海湾假日-凛",
+        "en": "Harbour Holiday - Rin",
+        "ja": "浜辺のバカンス-リン",
+        "zh-TW": "海灣假日-凜"
+    },
+    {
+        "zh-CN": "初始皮肤-梅加斯",
+        "en": "Default skin - Megas",
+        "ja": "デフォルト-メガス",
+        "zh-TW": "初始造型-梅加斯"
+    },
+    {
+        "zh-CN": "羁绊皮肤-梅加斯",
+        "en": "Bond skin - Megas",
+        "ja": "契約締結-メガス",
+        "zh-TW": "羁絆造型-梅加斯"
+    },
+    {
+        "zh-CN": "海滨救援-梅加斯",
+        "en": "Seaside Rescue - Megas",
+        "ja": "マリンレスキュー-メガス",
+        "zh-TW": "海濱救援-梅加斯"
+    },
+    {
+        "zh-CN": "初始皮肤-姬梦朝",
+        "en": "Default skin - Yume",
+        "ja": "デフォルト-ユメ",
+        "zh-TW": "初始造型-姬夢朝"
+    },
+    {
+        "zh-CN": "羁绊皮肤-姬梦朝",
+        "en": "Bond skin - Yume",
+        "ja": "契約締結-ユメ",
+        "zh-TW": "羁絆造型-姬夢朝"
+    },
+    {
+        "zh-CN": "滨边时光-姬梦朝",
+        "en": "Shoreline Memories – Yume",
+        "ja": "浜辺の日々-ユメ",
+        "zh-TW": "濱邊時光-姬夢朝"
+    },
+    {
+        "zh-CN": "初始皮肤-照",
+        "en": "Default skin - Teru",
+        "ja": "デフォルト-テル",
+        "zh-TW": "初始造型-照"
+    },
+    {
+        "zh-CN": "羁绊皮肤-照",
+        "en": "Bond skin - Teru",
+        "ja": "契約締結-テル",
+        "zh-TW": "羁絆造型-照"
+    },
+    {
+        "zh-CN": "初始皮肤-超天酱",
+        "en": "Default skin - Kaangel",
+        "ja": "デフォルト-超てんちゃん",
+        "zh-TW": "初始造型-超天醬"
+    },
+    {
+        "zh-CN": "初始皮肤-糖糖",
+        "en": "Default skin - Ame-chan",
+        "ja": "デフォルト-あめちゃん",
+        "zh-TW": "初始造型-糖糖"
+    },
+    {
+        "zh-CN": "商业之主表情1",
+        "en": "Emoji- Lord of Commerce 1",
+        "ja": "やり手の商人1",
+        "zh-TW": "商業之主表情1"
+    },
+    {
+        "zh-CN": "商业之主表情2",
+        "en": "Emoji- Lord of Commerce 2",
+        "ja": "やり手の商人2",
+        "zh-TW": "商業之主表情2"
+    },
+    {
+        "zh-CN": "商业之主表情3",
+        "en": "Emoji- Lord of Commerce 3",
+        "ja": "やり手の商人3",
+        "zh-TW": "商業之主表情3"
+    },
+    {
+        "zh-CN": "商业之主表情4",
+        "en": "Emoji- Lord of Commerce 4",
+        "ja": "やり手の商人4",
+        "zh-TW": "商業之主表情4"
+    },
+    {
+        "zh-CN": "商业之主表情5",
+        "en": "Emoji- Lord of Commerce 5",
+        "ja": "やり手の商人5",
+        "zh-TW": "商業之主表情5"
+    },
+    {
+        "zh-CN": "商业之主表情6",
+        "en": "Emoji- Lord of Commerce 6",
+        "ja": "やり手の商人6",
+        "zh-TW": "商業之主表情6"
+    },
+    {
+        "zh-CN": "商业之主表情7",
+        "en": "Emoji- Lord of Commerce 7",
+        "ja": "やり手の商人7",
+        "zh-TW": "商業之主表情7"
+    },
+    {
+        "zh-CN": "商业之主表情8",
+        "en": "Emoji- Lord of Commerce 8",
+        "ja": "やり手の商人8",
+        "zh-TW": "商業之主表情8"
+    },
+    {
+        "zh-CN": "商业之主表情9（动态）",
+        "en": "Emoji- Lord of Commerce 9 (Animated)",
+        "ja": "やり手の商人9（ダイナミック）",
+        "zh-TW": "商業之主表情9（動態）"
+    },
+    {
+        "zh-CN": "商业之主表情10（动态）",
+        "en": "Emoji- Lord of Commerce 10 (Animated)",
+        "ja": "やり手の商人10（ダイナミック）",
+        "zh-TW": "商業之主表情10（動態）"
+    },
+    {
+        "zh-CN": "商业之主表情11（动态）",
+        "en": "Emoji- Lord of Commerce 11 (Animated)",
+        "ja": "やり手の商人11（ダイナミック）",
+        "zh-TW": "商業之主表情11（動態）"
+    },
+    {
+        "zh-CN": "商业之主表情12",
+        "en": "Emoji- Lord of Commerce 12",
+        "ja": "やり手の商人12",
+        "zh-TW": "商業之主表情12"
+    },
+    {
+        "zh-CN": "商业之主表情13",
+        "en": "Emoji- Lord of Commerce13",
+        "ja": "やり手の商人13",
+        "zh-TW": "商業之主表情13"
+    },
+    {
+        "zh-CN": "古怪神探表情1",
+        "en": "Emoji- Quirky Detective 1",
+        "ja": "風変わりな探偵1",
+        "zh-TW": "古怪神探表情1"
+    },
+    {
+        "zh-CN": "古怪神探表情2",
+        "en": "Emoji- Quirky Detective 2",
+        "ja": "風変わりな探偵2",
+        "zh-TW": "古怪神探表情2"
+    },
+    {
+        "zh-CN": "古怪神探表情3",
+        "en": "Emoji- Quirky Detective 3",
+        "ja": "風変わりな探偵3",
+        "zh-TW": "古怪神探表情3"
+    },
+    {
+        "zh-CN": "古怪神探表情4",
+        "en": "Emoji- Quirky Detective 4",
+        "ja": "風変わりな探偵4",
+        "zh-TW": "古怪神探表情4"
+    },
+    {
+        "zh-CN": "古怪神探表情5",
+        "en": "Emoji- Quirky Detective 5",
+        "ja": "風変わりな探偵5",
+        "zh-TW": "古怪神探表情5"
+    },
+    {
+        "zh-CN": "古怪神探表情6",
+        "en": "Emoji- Quirky Detective 6",
+        "ja": "風変わりな探偵6",
+        "zh-TW": "古怪神探表情6"
+    },
+    {
+        "zh-CN": "古怪神探表情7",
+        "en": "Emoji- Quirky Detective 7",
+        "ja": "風変わりな探偵7",
+        "zh-TW": "古怪神探表情7"
+    },
+    {
+        "zh-CN": "古怪神探表情8",
+        "en": "Emoji- Quirky Detective 8",
+        "ja": "風変わりな探偵8",
+        "zh-TW": "古怪神探表情8"
+    },
+    {
+        "zh-CN": "古怪神探表情9",
+        "en": "Emoji- Quirky Detective 9",
+        "ja": "風変わりな探偵9",
+        "zh-TW": "古怪神探表情9"
+    },
+    {
+        "zh-CN": "古怪神探表情10（动态）",
+        "en": "Emoji- Quirky Detective 10 (Animated)",
+        "ja": "風変わりな探偵10（ダイナミック）",
+        "zh-TW": "古怪神探表情10（動態）"
+    },
+    {
+        "zh-CN": "古怪神探表情11",
+        "en": "Emoji- Quirky Detective 11",
+        "ja": "風変わりな探偵11",
+        "zh-TW": "古怪神探表情11"
+    },
+    {
+        "zh-CN": "古怪神探表情12（动态）",
+        "en": "Emoji- Quirky Detective 12 (Animated)",
+        "ja": "風変わりな探偵12（ダイナミック）",
+        "zh-TW": "古怪神探表情11（動態）"
+    },
+    {
+        "zh-CN": "古怪神探表情13（动态）",
+        "en": "Emoji- Quirky Detective 13 (Animated)",
+        "ja": "風変わりな探偵13（ダイナミック）",
+        "zh-TW": "古怪神探表情13（動態）"
+    },
+    {
+        "zh-CN": "社恐修女表情1",
+        "en": "Emoji- Shy Nun 1",
+        "ja": "ぼっちシスター1",
+        "zh-TW": "社恐修女表情1"
+    },
+    {
+        "zh-CN": "社恐修女表情2",
+        "en": "Emoji- Shy Nun 2",
+        "ja": "ぼっちシスター2",
+        "zh-TW": "社恐修女表情2"
+    },
+    {
+        "zh-CN": "社恐修女表情3",
+        "en": "Emoji- Shy Nun 3",
+        "ja": "ぼっちシスター3",
+        "zh-TW": "社恐修女表情3"
+    },
+    {
+        "zh-CN": "社恐修女表情4",
+        "en": "Emoji- Shy Nun 4",
+        "ja": "ぼっちシスター4",
+        "zh-TW": "社恐修女表情4"
+    },
+    {
+        "zh-CN": "社恐修女表情5",
+        "en": "Emoji- Shy Nun 5",
+        "ja": "ぼっちシスター5",
+        "zh-TW": "社恐修女表情5"
+    },
+    {
+        "zh-CN": "社恐修女表情6",
+        "en": "Emoji- Shy Nun 6",
+        "ja": "ぼっちシスター6",
+        "zh-TW": "社恐修女表情6"
+    },
+    {
+        "zh-CN": "社恐修女表情7",
+        "en": "Emoji- Shy Nun 7",
+        "ja": "ぼっちシスター7",
+        "zh-TW": "社恐修女表情7"
+    },
+    {
+        "zh-CN": "社恐修女表情8",
+        "en": "Emoji- Shy Nun 8",
+        "ja": "ぼっちシスター8",
+        "zh-TW": "社恐修女表情8"
+    },
+    {
+        "zh-CN": "社恐修女表情9",
+        "en": "Emoji- Shy Nun 9",
+        "ja": "ぼっちシスター9",
+        "zh-TW": "社恐修女表情9"
+    },
+    {
+        "zh-CN": "社恐修女表情10（动态）",
+        "en": "Emoji- Shy Nun 10 (Animated)",
+        "ja": "ぼっちシスター10（ダイナミック）",
+        "zh-TW": "社恐修女表情10（動態）"
+    },
+    {
+        "zh-CN": "社恐修女表情11",
+        "en": "Emoji- Shy Nun 11",
+        "ja": "ぼっちシスター11",
+        "zh-TW": "社恐修女表情11"
+    },
+    {
+        "zh-CN": "社恐修女表情12（动态）",
+        "en": "Emoji- Shy Nun 12 (Animated)",
+        "ja": "ぼっちシスター12（ダイナミック）",
+        "zh-TW": "社恐修女表情12（動態）"
+    },
+    {
+        "zh-CN": "社恐修女表情13（动态）",
+        "en": "Emoji- Shy Nun 13 (Animated)",
+        "ja": "ぼっちシスター13（ダイナミック）",
+        "zh-TW": "社恐修女表情13（動態）"
+    },
+    {
+        "zh-CN": "暗影忍者表情1",
+        "en": "Emoji- Shadow Ninja 1",
+        "ja": "暗躍する忍者1",
+        "zh-TW": "暗影忍者表情1"
+    },
+    {
+        "zh-CN": "暗影忍者表情2",
+        "en": "Emoji- Shadow Ninja 2",
+        "ja": "暗躍する忍者2",
+        "zh-TW": "暗影忍者表情2"
+    },
+    {
+        "zh-CN": "暗影忍者表情3",
+        "en": "Emoji- Shadow Ninja 3",
+        "ja": "暗躍する忍者3",
+        "zh-TW": "暗影忍者表情3"
+    },
+    {
+        "zh-CN": "暗影忍者表情4",
+        "en": "Emoji- Shadow Ninja 4",
+        "ja": "暗躍する忍者4",
+        "zh-TW": "暗影忍者表情4"
+    },
+    {
+        "zh-CN": "暗影忍者表情5",
+        "en": "Emoji- Shadow Ninja 5",
+        "ja": "暗躍する忍者5",
+        "zh-TW": "暗影忍者表情5"
+    },
+    {
+        "zh-CN": "暗影忍者表情6",
+        "en": "Emoji- Shadow Ninja 6",
+        "ja": "暗躍する忍者6",
+        "zh-TW": "暗影忍者表情6"
+    },
+    {
+        "zh-CN": "暗影忍者表情7",
+        "en": "Emoji- Shadow Ninja 7",
+        "ja": "暗躍する忍者7",
+        "zh-TW": "暗影忍者表情7"
+    },
+    {
+        "zh-CN": "暗影忍者表情8",
+        "en": "Emoji- Shadow Ninja 8",
+        "ja": "暗躍する忍者8",
+        "zh-TW": "暗影忍者表情8"
+    },
+    {
+        "zh-CN": "暗影忍者表情9（动态）",
+        "en": "Emoji- Shadow Ninja 9 (Animated)",
+        "ja": "暗躍する忍者9（ダイナミック）",
+        "zh-TW": "暗影忍者表情9（動態）"
+    },
+    {
+        "zh-CN": "社员叔叔表情1",
+        "en": "Emoji- Uncle Employee 1",
+        "ja": "会社員1",
+        "zh-TW": "社員叔叔表情1"
+    },
+    {
+        "zh-CN": "社员叔叔表情2",
+        "en": "Emoji- Uncle Employee 2",
+        "ja": "会社員2",
+        "zh-TW": "社員叔叔表情2"
+    },
+    {
+        "zh-CN": "社员叔叔表情3",
+        "en": "Emoji- Uncle Employee 3",
+        "ja": "会社員3",
+        "zh-TW": "社員叔叔表情3"
+    },
+    {
+        "zh-CN": "社员叔叔表情4",
+        "en": "Emoji- Uncle Employee 4",
+        "ja": "会社員4",
+        "zh-TW": "社員叔叔表情4"
+    },
+    {
+        "zh-CN": "社员叔叔表情5",
+        "en": "Emoji- Uncle Employee 5",
+        "ja": "会社員5",
+        "zh-TW": "社員叔叔表情5"
+    },
+    {
+        "zh-CN": "社员叔叔表情6",
+        "en": "Emoji- Uncle Employee 6",
+        "ja": "会社員6",
+        "zh-TW": "社員叔叔表情6"
+    },
+    {
+        "zh-CN": "社员叔叔表情7",
+        "en": "Emoji- Uncle Employee 7",
+        "ja": "会社員7",
+        "zh-TW": "社員叔叔表情7"
+    },
+    {
+        "zh-CN": "社员叔叔表情8",
+        "en": "Emoji- Uncle Employee 8",
+        "ja": "会社員8",
+        "zh-TW": "社員叔叔表情8"
+    },
+    {
+        "zh-CN": "社员叔叔表情9（动态）",
+        "en": "Emoji- Uncle Employee 9 (Animated)",
+        "ja": "会社員9（ダイナミック）",
+        "zh-TW": "社員叔叔表情9（動態）"
+    },
+    {
+        "zh-CN": "猩红辣妹表情1",
+        "en": "Emoji- Red Hot 1",
+        "ja": "深紅のギャル1",
+        "zh-TW": "猩紅辣妹表情1"
+    },
+    {
+        "zh-CN": "猩红辣妹表情2",
+        "en": "Emoji- Red Hot 2",
+        "ja": "深紅のギャル2",
+        "zh-TW": "猩紅辣妹表情2"
+    },
+    {
+        "zh-CN": "猩红辣妹表情3",
+        "en": "Emoji- Red Hot 3",
+        "ja": "深紅のギャル3",
+        "zh-TW": "猩紅辣妹表情3"
+    },
+    {
+        "zh-CN": "猩红辣妹表情4",
+        "en": "Emoji- Red Hot 4",
+        "ja": "深紅のギャル4",
+        "zh-TW": "猩紅辣妹表情4"
+    },
+    {
+        "zh-CN": "猩红辣妹表情5",
+        "en": "Emoji- Red Hot 5",
+        "ja": "深紅のギャル5",
+        "zh-TW": "猩紅辣妹表情5"
+    },
+    {
+        "zh-CN": "猩红辣妹表情6",
+        "en": "Emoji- Red Hot 6",
+        "ja": "深紅のギャル6",
+        "zh-TW": "猩紅辣妹表情6"
+    },
+    {
+        "zh-CN": "猩红辣妹表情7",
+        "en": "Emoji- Red Hot 7",
+        "ja": "深紅のギャル7",
+        "zh-TW": "猩紅辣妹表情7"
+    },
+    {
+        "zh-CN": "猩红辣妹表情8",
+        "en": "Emoji- Red Hot 8",
+        "ja": "深紅のギャル8",
+        "zh-TW": "猩紅辣妹表情8"
+    },
+    {
+        "zh-CN": "猩红辣妹表情9（动态）",
+        "en": "Emoji- Red Hot 9 (Animated)",
+        "ja": "深紅のギャル9（ダイナミック）",
+        "zh-TW": "猩紅辣妹表情9（動態）"
+    },
+    {
+        "zh-CN": "游戏大师表情1",
+        "en": "Emoji- Pro Gamer 1",
+        "ja": "ゲームマスター1",
+        "zh-TW": "遊戲大師表情1"
+    },
+    {
+        "zh-CN": "游戏大师表情2",
+        "en": "Emoji- Pro Gamer 2",
+        "ja": "ゲームマスター2",
+        "zh-TW": "遊戲大師表情2"
+    },
+    {
+        "zh-CN": "游戏大师表情3",
+        "en": "Emoji- Pro Gamer 3",
+        "ja": "ゲームマスター3",
+        "zh-TW": "遊戲大師表情3"
+    },
+    {
+        "zh-CN": "游戏大师表情4",
+        "en": "Emoji- Pro Gamer 4",
+        "ja": "ゲームマスター4",
+        "zh-TW": "遊戲大師表情4"
+    },
+    {
+        "zh-CN": "游戏大师表情5",
+        "en": "Emoji- Pro Gamer 5",
+        "ja": "ゲームマスター5",
+        "zh-TW": "遊戲大師表情5"
+    },
+    {
+        "zh-CN": "游戏大师表情6",
+        "en": "Emoji- Pro Gamer 6",
+        "ja": "ゲームマスター6",
+        "zh-TW": "遊戲大師表情6"
+    },
+    {
+        "zh-CN": "游戏大师表情7",
+        "en": "Emoji- Pro Gamer 7",
+        "ja": "ゲームマスター7",
+        "zh-TW": "遊戲大師表情7"
+    },
+    {
+        "zh-CN": "游戏大师表情8",
+        "en": "Emoji- Pro Gamer 8",
+        "ja": "ゲームマスター8",
+        "zh-TW": "遊戲大師表情8"
+    },
+    {
+        "zh-CN": "游戏大师表情9（动态）",
+        "en": "Emoji- Pro Gamer 9 (Animated)",
+        "ja": "ゲームマスター9（ダイナミック）",
+        "zh-TW": "遊戲大師表情9（動態）"
+    },
+    {
+        "zh-CN": "游戏大师表情10（动态）",
+        "en": "Emoji- Pro Gamer 10 (Animated)",
+        "ja": "ゲームマスター10（ダイナミック）",
+        "zh-TW": "遊戲大師表情10（動態）"
+    },
+    {
+        "zh-CN": "游戏大师表情11（动态）",
+        "en": "Emoji- Pro Gamer 11 (Animated)",
+        "ja": "ゲームマスター11（ダイナミック）",
+        "zh-TW": "遊戲大師表情11（動態）"
+    },
+    {
+        "zh-CN": "游戏大师表情12",
+        "en": "Emoji- Pro Gamer 12",
+        "ja": "ゲームマスター12",
+        "zh-TW": "遊戲大師表情12"
+    },
+    {
+        "zh-CN": "游戏大师表情13（动态）",
+        "en": "Emoji- Pro Gamer 13 (Animated)",
+        "ja": "ゲームマスター13（ダイナミック）",
+        "zh-TW": "遊戲大師表情13（動態）"
+    },
+    {
+        "zh-CN": "游戏大师表情14",
+        "en": "Emoji- Pro Gamer 14",
+        "ja": "ゲームマスター14",
+        "zh-TW": "遊戲大師表情14"
+    },
+    {
+        "zh-CN": "游戏大师表情15（动态）",
+        "en": "Emoji- Pro Gamer 15 (Animated)",
+        "ja": "ゲームマスター15（ダイナミック）",
+        "zh-TW": "遊戲大師表情15（動態）"
+    },
+    {
+        "zh-CN": "看板娘表情1",
+        "en": "Emoji- Kanban Musume 1",
+        "ja": "看板娘1",
+        "zh-TW": "看板娘表情1"
+    },
+    {
+        "zh-CN": "看板娘表情2",
+        "en": "Emoji- Kanban Musume 2",
+        "ja": "看板娘2",
+        "zh-TW": "看板娘表情2"
+    },
+    {
+        "zh-CN": "看板娘表情3",
+        "en": "Emoji- Kanban Musume 3",
+        "ja": "看板娘3",
+        "zh-TW": "看板娘表情3"
+    },
+    {
+        "zh-CN": "看板娘表情4",
+        "en": "Emoji- Kanban Musume 4",
+        "ja": "看板娘4",
+        "zh-TW": "看板娘表情4"
+    },
+    {
+        "zh-CN": "看板娘表情5",
+        "en": "Emoji- Kanban Musume 5",
+        "ja": "看板娘5",
+        "zh-TW": "看板娘表情5"
+    },
+    {
+        "zh-CN": "看板娘表情6",
+        "en": "Emoji- Kanban Musume 6",
+        "ja": "看板娘6",
+        "zh-TW": "看板娘表情6"
+    },
+    {
+        "zh-CN": "看板娘表情7",
+        "en": "Emoji- Kanban Musume 7",
+        "ja": "看板娘7",
+        "zh-TW": "看板娘表情7"
+    },
+    {
+        "zh-CN": "看板娘表情8",
+        "en": "Emoji- Kanban Musume 8",
+        "ja": "看板娘8",
+        "zh-TW": "看板娘表情8"
+    },
+    {
+        "zh-CN": "看板娘表情9",
+        "en": "Emoji- Kanban Musume 9",
+        "ja": "看板娘9",
+        "zh-TW": "看板娘表情9"
+    },
+    {
+        "zh-CN": "看板娘表情10（动态）",
+        "en": "Emoji- Kanban Musume 10 (Animated)",
+        "ja": "看板娘10（ダイナミック）",
+        "zh-TW": "看板娘表情10（動態）"
+    },
+    {
+        "zh-CN": "看板娘表情11（动态）",
+        "en": "Emoji- Kanban Musume 11 (Animated)",
+        "ja": "看板娘11（ダイナミック）",
+        "zh-TW": "看板娘表情11（動態）"
+    },
+    {
+        "zh-CN": "看板娘表情12（动态）",
+        "en": "Emoji- Kanban Musume 12 (Animated)",
+        "ja": "看板娘12（ダイナミック）",
+        "zh-TW": "看板娘表情12（動態）"
+    },
+    {
+        "zh-CN": "看板娘表情13",
+        "en": "Emoji- Kanban Musume 13",
+        "ja": "看板娘13",
+        "zh-TW": "看板娘表情13"
+    },
+    {
+        "zh-CN": "看板娘表情14",
+        "en": "Emoji- Kanban Musume 14",
+        "ja": "看板娘14",
+        "zh-TW": "看板娘表情14"
+    },
+    {
+        "zh-CN": "Z3000表情1",
+        "en": "Emoji- Waste- Collecting Robot 1",
+        "ja": "回収ロボット1",
+        "zh-TW": "Z3000表情1"
+    },
+    {
+        "zh-CN": "Z3000表情2",
+        "en": "Emoji- Waste- Collecting Robot 2",
+        "ja": "回収ロボット2",
+        "zh-TW": "Z3000表情2"
+    },
+    {
+        "zh-CN": "Z3000表情3",
+        "en": "Emoji- Waste- Collecting Robot 3",
+        "ja": "回収ロボット3",
+        "zh-TW": "Z3000表情3"
+    },
+    {
+        "zh-CN": "Z3000表情4",
+        "en": "Emoji- Waste- Collecting Robot 4",
+        "ja": "回収ロボット4",
+        "zh-TW": "Z3000表情4"
+    },
+    {
+        "zh-CN": "Z3000表情5",
+        "en": "Emoji- Waste- Collecting Robot 5",
+        "ja": "回収ロボット5",
+        "zh-TW": "Z3000表情5"
+    },
+    {
+        "zh-CN": "Z3000表情6",
+        "en": "Emoji- Waste- Collecting Robot 6",
+        "ja": "回収ロボット6",
+        "zh-TW": "Z3000表情6"
+    },
+    {
+        "zh-CN": "Z3000表情7",
+        "en": "Emoji- Waste- Collecting Robot 7",
+        "ja": "回収ロボット7",
+        "zh-TW": "Z3000表情7"
+    },
+    {
+        "zh-CN": "Z3000表情8",
+        "en": "Emoji- Waste- Collecting Robot 8",
+        "ja": "回収ロボット8",
+        "zh-TW": "Z3000表情8"
+    },
+    {
+        "zh-CN": "Z3000表情9（动态）",
+        "en": "Emoji- Waste- Collecting Robot 9 (Animated)",
+        "ja": "回収ロボット9（ダイナミック）",
+        "zh-TW": "Z3000表情9（動態）"
+    },
+    {
+        "zh-CN": "肉弹战车表情1",
+        "en": "Emoji- Human Chariot 1",
+        "ja": "肉弾戦車1",
+        "zh-TW": "肉彈戰車表情1"
+    },
+    {
+        "zh-CN": "肉弹战车表情2",
+        "en": "Emoji- Human Chariot 2",
+        "ja": "肉弾戦車2",
+        "zh-TW": "肉彈戰車表情2"
+    },
+    {
+        "zh-CN": "肉弹战车表情3",
+        "en": "Emoji- Human Chariot 3",
+        "ja": "肉弾戦車3",
+        "zh-TW": "肉彈戰車表情3"
+    },
+    {
+        "zh-CN": "肉弹战车表情4",
+        "en": "Emoji- Human Chariot 4",
+        "ja": "肉弾戦車4",
+        "zh-TW": "肉彈戰車表情4"
+    },
+    {
+        "zh-CN": "肉弹战车表情5",
+        "en": "Emoji- Human Chariot 5",
+        "ja": "肉弾戦車5",
+        "zh-TW": "肉彈戰車表情5"
+    },
+    {
+        "zh-CN": "肉弹战车表情6",
+        "en": "Emoji- Human Chariot 6",
+        "ja": "肉弾戦車6",
+        "zh-TW": "肉彈戰車表情6"
+    },
+    {
+        "zh-CN": "肉弹战车表情7",
+        "en": "Emoji- Human Chariot 7",
+        "ja": "肉弾戦車7",
+        "zh-TW": "肉彈戰車表情7"
+    },
+    {
+        "zh-CN": "肉弹战车表情8",
+        "en": "Emoji- Human Chariot 8",
+        "ja": "肉弾戦車8",
+        "zh-TW": "肉彈戰車表情8"
+    },
+    {
+        "zh-CN": "肉弹战车表情9（动态）",
+        "en": "Emoji- Human Chariot 9 (Animated)",
+        "ja": "肉弾戦車9（ダイナミック）",
+        "zh-TW": "肉彈戰車表情9（動態）"
+    },
+    {
+        "zh-CN": "角色111角色表情1",
+        "en": "角色111角色表情1",
+        "ja": "角色111角色表情1",
+        "zh-TW": "角色111角色表情1"
+    },
+    {
+        "zh-CN": "角色111角色表情2",
+        "en": "角色111角色表情2",
+        "ja": "角色111角色表情2",
+        "zh-TW": "角色111角色表情2"
+    },
+    {
+        "zh-CN": "角色111角色表情3",
+        "en": "角色111角色表情3",
+        "ja": "角色111角色表情3",
+        "zh-TW": "角色111角色表情3"
+    },
+    {
+        "zh-CN": "角色111角色表情4",
+        "en": "角色111角色表情4",
+        "ja": "角色111角色表情4",
+        "zh-TW": "角色111角色表情4"
+    },
+    {
+        "zh-CN": "角色111角色表情5",
+        "en": "角色111角色表情5",
+        "ja": "角色111角色表情5",
+        "zh-TW": "角色111角色表情5"
+    },
+    {
+        "zh-CN": "角色111角色表情6",
+        "en": "角色111角色表情6",
+        "ja": "角色111角色表情6",
+        "zh-TW": "角色111角色表情6"
+    },
+    {
+        "zh-CN": "角色111角色表情7",
+        "en": "角色111角色表情7",
+        "ja": "角色111角色表情7",
+        "zh-TW": "角色111角色表情7"
+    },
+    {
+        "zh-CN": "角色111角色表情8",
+        "en": "角色111角色表情8",
+        "ja": "角色111角色表情8",
+        "zh-TW": "角色111角色表情8"
+    },
+    {
+        "zh-CN": "史莱姆表情1",
+        "en": "Emoji- Slime Girl 1",
+        "ja": "スライムガール1",
+        "zh-TW": "史萊姆表情1"
+    },
+    {
+        "zh-CN": "史莱姆表情2",
+        "en": "Emoji- Slime Girl 2",
+        "ja": "スライムガール2",
+        "zh-TW": "史萊姆表情2"
+    },
+    {
+        "zh-CN": "史莱姆表情3",
+        "en": "Emoji- Slime Girl 3",
+        "ja": "スライムガール3",
+        "zh-TW": "史萊姆表情3"
+    },
+    {
+        "zh-CN": "史莱姆表情4",
+        "en": "Emoji- Slime Girl 4",
+        "ja": "スライムガール4",
+        "zh-TW": "史萊姆表情4"
+    },
+    {
+        "zh-CN": "史莱姆表情5",
+        "en": "Emoji- Slime Girl 5",
+        "ja": "スライムガール5",
+        "zh-TW": "史萊姆表情5"
+    },
+    {
+        "zh-CN": "史莱姆表情6",
+        "en": "Emoji- Slime Girl 6",
+        "ja": "スライムガール6",
+        "zh-TW": "史萊姆表情6"
+    },
+    {
+        "zh-CN": "史莱姆表情7",
+        "en": "Emoji- Slime Girl 7",
+        "ja": "スライムガール7",
+        "zh-TW": "史萊姆表情7"
+    },
+    {
+        "zh-CN": "史莱姆表情8",
+        "en": "Emoji- Slime Girl 8",
+        "ja": "スライムガール8",
+        "zh-TW": "史萊姆表情8"
+    },
+    {
+        "zh-CN": "史莱姆表情9",
+        "en": "Emoji- Slime Girl 9",
+        "ja": "スライムガール9",
+        "zh-TW": "史萊姆表情9"
+    },
+    {
+        "zh-CN": "史莱姆表情10（动态）",
+        "en": "Emoji- Slime Girl 10(Animated)",
+        "ja": "スライムガール10（ダイナミック）",
+        "zh-TW": "史萊姆表情10（動態）"
+    },
+    {
+        "zh-CN": "史莱姆表情11",
+        "en": "Emoji- Slime Girl 11",
+        "ja": "スライムガール11",
+        "zh-TW": "史萊姆表情11"
+    },
+    {
+        "zh-CN": "史莱姆表情12（动态）",
+        "en": "Emoji- Slime Girl 12(Animated)",
+        "ja": "スライムガール12（ダイナミック）",
+        "zh-TW": "史萊姆表情12（動態）"
+    },
+    {
+        "zh-CN": "史莱姆表情13（动态）",
+        "en": "Emoji- Slime Girl 13 (Animated)",
+        "ja": "スライムガール13（ダイナミック）",
+        "zh-TW": "史萊姆表情13（動態）"
+    },
+    {
+        "zh-CN": "枫表情1",
+        "en": "Emoji- Cheongsam Girl 1",
+        "ja": "ドレスガール1",
+        "zh-TW": "楓表情1"
+    },
+    {
+        "zh-CN": "枫表情2",
+        "en": "Emoji- Cheongsam Girl 2",
+        "ja": "ドレスガール2",
+        "zh-TW": "楓表情2"
+    },
+    {
+        "zh-CN": "枫表情3",
+        "en": "Emoji- Cheongsam Girl 3",
+        "ja": "ドレスガール3",
+        "zh-TW": "楓表情3"
+    },
+    {
+        "zh-CN": "枫表情4",
+        "en": "Emoji- Cheongsam Girl 4",
+        "ja": "ドレスガール4",
+        "zh-TW": "楓表情4"
+    },
+    {
+        "zh-CN": "枫表情5",
+        "en": "Emoji- Cheongsam Girl 5",
+        "ja": "ドレスガール5",
+        "zh-TW": "楓表情5"
+    },
+    {
+        "zh-CN": "枫表情6",
+        "en": "Emoji- Cheongsam Girl 6",
+        "ja": "ドレスガール6",
+        "zh-TW": "楓表情6"
+    },
+    {
+        "zh-CN": "枫表情7",
+        "en": "Emoji- Cheongsam Girl 7",
+        "ja": "ドレスガール7",
+        "zh-TW": "楓表情7"
+    },
+    {
+        "zh-CN": "枫表情8",
+        "en": "Emoji- Cheongsam Girl 8",
+        "ja": "ドレスガール8",
+        "zh-TW": "楓表情8"
+    },
+    {
+        "zh-CN": "枫表情9（动态）",
+        "en": "Emoji- Cheongsam Girl 9(Animated)",
+        "ja": "ドレスガール9（ダイナミック）",
+        "zh-TW": "楓表情9（動態）"
+    },
+    {
+        "zh-CN": "枫表情10（动态）",
+        "en": "Emoji- Cheongsam Girl 10(Animated)",
+        "ja": "ドレスガール10（ダイナミック）",
+        "zh-TW": "楓表情10（動態）"
+    },
+    {
+        "zh-CN": "枫表情11",
+        "en": "Emoji- Cheongsam Girl 11",
+        "ja": "ドレスガール11",
+        "zh-TW": "楓表情11"
+    },
+    {
+        "zh-CN": "枫表情12",
+        "en": "Emoji- Cheongsam Girl 12",
+        "ja": "ドレスガール12",
+        "zh-TW": "楓表情12"
+    },
+    {
+        "zh-CN": "枫表情13（动态）",
+        "en": "Emoji- Cheongsam Girl 13 (Animated)",
+        "ja": "ドレスガール13（ダイナミック）",
+        "zh-TW": "楓表情13（動態）"
+    },
+    {
+        "zh-CN": "命运少女表情1",
+        "en": "Emoji- Destiny Girl 1",
+        "ja": "デスティニーガール1",
+        "zh-TW": "命運少女表情1"
+    },
+    {
+        "zh-CN": "命运少女表情2",
+        "en": "Emoji- Destiny Girl 2",
+        "ja": "デスティニーガール2",
+        "zh-TW": "命運少女表情2"
+    },
+    {
+        "zh-CN": "命运少女表情3",
+        "en": "Emoji- Destiny Girl 3",
+        "ja": "デスティニーガール3",
+        "zh-TW": "命運少女表情3"
+    },
+    {
+        "zh-CN": "命运少女表情4",
+        "en": "Emoji- Destiny Girl 4",
+        "ja": "デスティニーガール4",
+        "zh-TW": "命運少女表情4"
+    },
+    {
+        "zh-CN": "命运少女表情5",
+        "en": "Emoji- Destiny Girl 5",
+        "ja": "デスティニーガール5",
+        "zh-TW": "命運少女表情5"
+    },
+    {
+        "zh-CN": "命运少女表情6",
+        "en": "Emoji- Destiny Girl 6",
+        "ja": "デスティニーガール6",
+        "zh-TW": "命運少女表情6"
+    },
+    {
+        "zh-CN": "命运少女表情7",
+        "en": "Emoji- Destiny Girl 7",
+        "ja": "デスティニーガール7",
+        "zh-TW": "命運少女表情7"
+    },
+    {
+        "zh-CN": "命运少女表情8",
+        "en": "Emoji- Destiny Girl 8",
+        "ja": "デスティニーガール8",
+        "zh-TW": "命運少女表情8"
+    },
+    {
+        "zh-CN": "命运少女表情9（动态）",
+        "en": "Emoji- Destiny Girl 9 (Animated)",
+        "ja": "デスティニーガール9（ダイナミック）",
+        "zh-TW": "命運少女表情9（動態）"
+    },
+    {
+        "zh-CN": "命运少女表情10（动态）",
+        "en": "Emoji- Destiny Girl 10 (Animated)",
+        "ja": "デスティニーガール10（ダイナミック）",
+        "zh-TW": "命運少女表情10（動態）"
+    },
+    {
+        "zh-CN": "命运少女表情11（动态）",
+        "en": "Emoji- Destiny Girl 11 (Animated)",
+        "ja": "デスティニーガール11（ダイナミック）",
+        "zh-TW": "命運少女表情11（動態）"
+    },
+    {
+        "zh-CN": "太刀使表情1",
+        "en": "Emoji- Katana Master 1",
+        "ja": "太刀使い1",
+        "zh-TW": "太刀使表情1"
+    },
+    {
+        "zh-CN": "太刀使表情2",
+        "en": "Emoji- Katana Master 2",
+        "ja": "太刀使い2",
+        "zh-TW": "太刀使表情2"
+    },
+    {
+        "zh-CN": "太刀使表情3",
+        "en": "Emoji- Katana Master 3",
+        "ja": "太刀使い3",
+        "zh-TW": "太刀使表情3"
+    },
+    {
+        "zh-CN": "太刀使表情4",
+        "en": "Emoji- Katana Master 4",
+        "ja": "太刀使い4",
+        "zh-TW": "太刀使表情4"
+    },
+    {
+        "zh-CN": "太刀使表情5",
+        "en": "Emoji- Katana Master 5",
+        "ja": "太刀使い5",
+        "zh-TW": "太刀使表情5"
+    },
+    {
+        "zh-CN": "太刀使表情6",
+        "en": "Emoji- Katana Master 6",
+        "ja": "太刀使い6",
+        "zh-TW": "太刀使表情6"
+    },
+    {
+        "zh-CN": "太刀使表情7",
+        "en": "Emoji- Katana Master 7",
+        "ja": "太刀使い7",
+        "zh-TW": "太刀使表情7"
+    },
+    {
+        "zh-CN": "太刀使表情8",
+        "en": "Emoji- Katana Master 8",
+        "ja": "太刀使い8",
+        "zh-TW": "太刀使表情8"
+    },
+    {
+        "zh-CN": "太刀使表情9（动态）",
+        "en": "Emoji- Katana Master 9 (Animated)",
+        "ja": "太刀使い9（ダイナミック）",
+        "zh-TW": "太刀使表情9（動態）"
+    },
+    {
+        "zh-CN": "绿洲女王表情1",
+        "en": "Emoji- Oasis Queen 1",
+        "ja": "オアシスクイーン1",
+        "zh-TW": "綠洲女王表情1"
+    },
+    {
+        "zh-CN": "绿洲女王表情2",
+        "en": "Emoji- Oasis Queen 2",
+        "ja": "オアシスクイーン2",
+        "zh-TW": "綠洲女王表情2"
+    },
+    {
+        "zh-CN": "绿洲女王表情3",
+        "en": "Emoji- Oasis Queen 3",
+        "ja": "オアシスクイーン3",
+        "zh-TW": "綠洲女王表情3"
+    },
+    {
+        "zh-CN": "绿洲女王表情4",
+        "en": "Emoji- Oasis Queen 4",
+        "ja": "オアシスクイーン4",
+        "zh-TW": "綠洲女王表情4"
+    },
+    {
+        "zh-CN": "绿洲女王表情5",
+        "en": "Emoji- Oasis Queen 5",
+        "ja": "オアシスクイーン5",
+        "zh-TW": "綠洲女王表情5"
+    },
+    {
+        "zh-CN": "绿洲女王表情6",
+        "en": "Emoji- Oasis Queen 6",
+        "ja": "オアシスクイーン6",
+        "zh-TW": "綠洲女王表情6"
+    },
+    {
+        "zh-CN": "绿洲女王表情7",
+        "en": "Emoji- Oasis Queen 7",
+        "ja": "オアシスクイーン7",
+        "zh-TW": "綠洲女王表情7"
+    },
+    {
+        "zh-CN": "绿洲女王表情8",
+        "en": "Emoji- Oasis Queen 8",
+        "ja": "オアシスクイーン8",
+        "zh-TW": "綠洲女王表情8"
+    },
+    {
+        "zh-CN": "绿洲女王表情9",
+        "en": "Emoji- Oasis Queen 9",
+        "ja": "オアシスクイーン9",
+        "zh-TW": "綠洲女王表情9"
+    },
+    {
+        "zh-CN": "绿洲女王表情10（动态）",
+        "en": "Emoji- Oasis Queen 10(Animated)",
+        "ja": "オアシスクイーン10（ダイナミック）",
+        "zh-TW": "綠洲女王表情10（動態）"
+    },
+    {
+        "zh-CN": "绿洲女王表情11",
+        "en": "Emoji- Oasis Queen 11",
+        "ja": "オアシスクイーン11",
+        "zh-TW": "綠洲女王表情11"
+    },
+    {
+        "zh-CN": "绿洲女王表情12（动态）",
+        "en": "Emoji- Oasis Queen 12(Animated)",
+        "ja": "オアシスクイーン12（ダイナミック）",
+        "zh-TW": "綠洲女王表情12（動態）"
+    },
+    {
+        "zh-CN": "绿洲女王表情13（动态）",
+        "en": "Emoji- Oasis Queen 13 (Animated)",
+        "ja": "オアシスクイーン13（ダイナミック）",
+        "zh-TW": "綠洲女王表情13（動態）"
+    },
+    {
+        "zh-CN": "家政机器人表情1",
+        "en": "Emoji- Robot Maid 1",
+        "ja": "ロボメイド1",
+        "zh-TW": "家政機器人表情1"
+    },
+    {
+        "zh-CN": "家政机器人表情2",
+        "en": "Emoji- Robot Maid 2",
+        "ja": "ロボメイド2",
+        "zh-TW": "家政機器人表情2"
+    },
+    {
+        "zh-CN": "家政机器人表情3",
+        "en": "Emoji- Robot Maid 3",
+        "ja": "ロボメイド3",
+        "zh-TW": "家政機器人表情3"
+    },
+    {
+        "zh-CN": "家政机器人表情4",
+        "en": "Emoji- Robot Maid 4",
+        "ja": "ロボメイド4",
+        "zh-TW": "家政機器人表情4"
+    },
+    {
+        "zh-CN": "家政机器人表情5",
+        "en": "Emoji- Robot Maid 5",
+        "ja": "ロボメイド5",
+        "zh-TW": "家政機器人表情5"
+    },
+    {
+        "zh-CN": "家政机器人表情6",
+        "en": "Emoji- Robot Maid 6",
+        "ja": "ロボメイド6",
+        "zh-TW": "家政機器人表情6"
+    },
+    {
+        "zh-CN": "家政机器人表情7",
+        "en": "Emoji- Robot Maid 7",
+        "ja": "ロボメイド7",
+        "zh-TW": "家政機器人表情7"
+    },
+    {
+        "zh-CN": "家政机器人表情8",
+        "en": "Emoji- Robot Maid 8",
+        "ja": "ロボメイド8",
+        "zh-TW": "家政機器人表情8"
+    },
+    {
+        "zh-CN": "家政机器人表情9",
+        "en": "Emoji- Robot Maid 9",
+        "ja": "ロボメイド9",
+        "zh-TW": "家政機器人表情9"
+    },
+    {
+        "zh-CN": "家政机器人表情10（动态）",
+        "en": "Emoji- Robot Maid 10(Animated)",
+        "ja": "ロボメイド10（ダイナミック）",
+        "zh-TW": "家政機器人表情10（動態）"
+    },
+    {
+        "zh-CN": "家政机器人表情11",
+        "en": "Emoji- Robot Maid 11",
+        "ja": "ロボメイド11",
+        "zh-TW": "家政機器人表情11"
+    },
+    {
+        "zh-CN": "家政机器人表情12（动态）",
+        "en": "Emoji- Robot Maid 12(Animated)",
+        "ja": "ロボメイド12（ダイナミック）",
+        "zh-TW": "家政機器人表情12（動態）"
+    },
+    {
+        "zh-CN": "家政机器人表情13（动态）",
+        "en": "Emoji- Robot Maid 13 (Animated)",
+        "ja": "ロボメイド13（ダイナミック）",
+        "zh-TW": "家政機器人表情13（動態）"
+    },
+    {
+        "zh-CN": "暗区少主表情1",
+        "en": "Emoji- Syndicate Prince 1",
+        "ja": "暗黒の若君1",
+        "zh-TW": "暗區少主表情1"
+    },
+    {
+        "zh-CN": "暗区少主表情2",
+        "en": "Emoji- Syndicate Prince 2",
+        "ja": "暗黒の若君2",
+        "zh-TW": "暗區少主表情2"
+    },
+    {
+        "zh-CN": "暗区少主表情3",
+        "en": "Emoji- Syndicate Prince 3",
+        "ja": "暗黒の若君3",
+        "zh-TW": "暗區少主表情3"
+    },
+    {
+        "zh-CN": "暗区少主表情4",
+        "en": "Emoji- Syndicate Prince 4",
+        "ja": "暗黒の若君4",
+        "zh-TW": "暗區少主表情4"
+    },
+    {
+        "zh-CN": "暗区少主表情5",
+        "en": "Emoji- Syndicate Prince 5",
+        "ja": "暗黒の若君5",
+        "zh-TW": "暗區少主表情5"
+    },
+    {
+        "zh-CN": "暗区少主表情6",
+        "en": "Emoji- Syndicate Prince 6",
+        "ja": "暗黒の若君6",
+        "zh-TW": "暗區少主表情6"
+    },
+    {
+        "zh-CN": "暗区少主表情7",
+        "en": "Emoji- Syndicate Prince 7",
+        "ja": "暗黒の若君7",
+        "zh-TW": "暗區少主表情7"
+    },
+    {
+        "zh-CN": "暗区少主表情8",
+        "en": "Emoji- Syndicate Prince 8",
+        "ja": "暗黒の若君8",
+        "zh-TW": "暗區少主表情8"
+    },
+    {
+        "zh-CN": "午夜闪光表情1",
+        "en": "Emoji- Midnight Flash 1",
+        "ja": "真夜中の閃光1",
+        "zh-TW": "午夜閃光表情1"
+    },
+    {
+        "zh-CN": "午夜闪光表情2",
+        "en": "Emoji- Midnight Flash 2",
+        "ja": "真夜中の閃光2",
+        "zh-TW": "午夜閃光表情2"
+    },
+    {
+        "zh-CN": "午夜闪光表情3",
+        "en": "Emoji- Midnight Flash 3",
+        "ja": "真夜中の閃光3",
+        "zh-TW": "午夜閃光表情3"
+    },
+    {
+        "zh-CN": "午夜闪光表情4",
+        "en": "Emoji- Midnight Flash 4",
+        "ja": "真夜中の閃光4",
+        "zh-TW": "午夜閃光表情4"
+    },
+    {
+        "zh-CN": "午夜闪光表情5",
+        "en": "Emoji- Midnight Flash 5",
+        "ja": "真夜中の閃光5",
+        "zh-TW": "午夜閃光表情5"
+    },
+    {
+        "zh-CN": "午夜闪光表情6",
+        "en": "Emoji- Midnight Flash 6",
+        "ja": "真夜中の閃光6",
+        "zh-TW": "午夜閃光表情6"
+    },
+    {
+        "zh-CN": "午夜闪光表情7",
+        "en": "Emoji- Midnight Flash 7",
+        "ja": "真夜中の閃光7",
+        "zh-TW": "午夜閃光表情7"
+    },
+    {
+        "zh-CN": "午夜闪光表情8",
+        "en": "Emoji- Midnight Flash 8",
+        "ja": "真夜中の閃光8",
+        "zh-TW": "午夜閃光表情8"
+    },
+    {
+        "zh-CN": "午夜闪光表情9（动态）",
+        "en": "Emoji- Midnight Flash 9 (Animated)",
+        "ja": "真夜中の閃光9（ダイナミック）",
+        "zh-TW": "午夜閃光表情9（動態）"
+    },
+    {
+        "zh-CN": "午夜闪光表情10",
+        "en": "Emoji- Midnight Flash 10",
+        "ja": "真夜中の閃光10",
+        "zh-TW": "午夜閃光表情10"
+    },
+    {
+        "zh-CN": "午夜闪光表情11（动态）",
+        "en": "Emoji- Midnight Flash 11 (Animated)",
+        "ja": "真夜中の閃光11（ダイナミック）",
+        "zh-TW": "午夜閃光表情11（動態）"
+    },
+    {
+        "zh-CN": "午夜闪光表情12",
+        "en": "Emoji- Midnight Flash 12",
+        "ja": "真夜中の閃光12",
+        "zh-TW": "午夜閃光表情12"
+    },
+    {
+        "zh-CN": "午夜闪光表情13（动态）",
+        "en": "Emoji- Midnight Flash 13 (Animated)",
+        "ja": "真夜中の閃光13（ダイナミック）",
+        "zh-TW": "午夜閃光表情13（動態）"
+    },
+    {
+        "zh-CN": "网络魅影表情1",
+        "en": "Emoji- Cyber Phantom 1",
+        "ja": "ネットファントム1",
+        "zh-TW": "網絡魅影表情1"
+    },
+    {
+        "zh-CN": "网络魅影表情2",
+        "en": "Emoji- Cyber Phantom 2",
+        "ja": "ネットファントム2",
+        "zh-TW": "網絡魅影表情2"
+    },
+    {
+        "zh-CN": "网络魅影表情3",
+        "en": "Emoji- Cyber Phantom 3",
+        "ja": "ネットファントム3",
+        "zh-TW": "網絡魅影表情3"
+    },
+    {
+        "zh-CN": "网络魅影表情4",
+        "en": "Emoji- Cyber Phantom 4",
+        "ja": "ネットファントム4",
+        "zh-TW": "網絡魅影表情4"
+    },
+    {
+        "zh-CN": "网络魅影表情5",
+        "en": "Emoji- Cyber Phantom 5",
+        "ja": "ネットファントム5",
+        "zh-TW": "網絡魅影表情5"
+    },
+    {
+        "zh-CN": "网络魅影表情6",
+        "en": "Emoji- Cyber Phantom 6",
+        "ja": "ネットファントム6",
+        "zh-TW": "網絡魅影表情6"
+    },
+    {
+        "zh-CN": "网络魅影表情7",
+        "en": "Emoji- Cyber Phantom 7",
+        "ja": "ネットファントム7",
+        "zh-TW": "網絡魅影表情7"
+    },
+    {
+        "zh-CN": "网络魅影表情8",
+        "en": "Emoji- Cyber Phantom 8",
+        "ja": "ネットファントム8",
+        "zh-TW": "網絡魅影表情8"
+    },
+    {
+        "zh-CN": "网络魅影表情9（动态）",
+        "en": "Emoji- Cyber Phantom 9 (Animated)",
+        "ja": "ネットファントム9（ダイナミック）",
+        "zh-TW": "網絡魅影表情9（動態）"
+    },
+    {
+        "zh-CN": "新人调查员表情1",
+        "en": "Emoji- Rookie Investigator 1",
+        "ja": "新人捜査官1",
+        "zh-TW": "新人調查員表情1"
+    },
+    {
+        "zh-CN": "新人调查员表情2",
+        "en": "Emoji- Rookie Investigator 2",
+        "ja": "新人捜査官2",
+        "zh-TW": "新人調查員表情2"
+    },
+    {
+        "zh-CN": "新人调查员表情3",
+        "en": "Emoji- Rookie Investigator 3",
+        "ja": "新人捜査官3",
+        "zh-TW": "新人調查員表情3"
+    },
+    {
+        "zh-CN": "新人调查员表情4",
+        "en": "Emoji- Rookie Investigator 4",
+        "ja": "新人捜査官4",
+        "zh-TW": "新人調查員表情4"
+    },
+    {
+        "zh-CN": "新人调查员表情5",
+        "en": "Emoji- Rookie Investigator 5",
+        "ja": "新人捜査官5",
+        "zh-TW": "新人調查員表情5"
+    },
+    {
+        "zh-CN": "新人调查员表情6",
+        "en": "Emoji- Rookie Investigator 6",
+        "ja": "新人捜査官6",
+        "zh-TW": "新人調查員表情6"
+    },
+    {
+        "zh-CN": "新人调查员表情7",
+        "en": "Emoji- Rookie Investigator 7",
+        "ja": "新人捜査官7",
+        "zh-TW": "新人調查員表情7"
+    },
+    {
+        "zh-CN": "新人调查员表情8",
+        "en": "Emoji- Rookie Investigator 8",
+        "ja": "新人捜査官8",
+        "zh-TW": "新人調查員表情8"
+    },
+    {
+        "zh-CN": "机械超人表情1",
+        "en": "Emoji- Mech Hero 1",
+        "ja": "メカ・ドミナンス1",
+        "zh-TW": "機械超人表情1"
+    },
+    {
+        "zh-CN": "机械超人表情2",
+        "en": "Emoji- Mech Hero 2",
+        "ja": "メカ・ドミナンス2",
+        "zh-TW": "機械超人表情2"
+    },
+    {
+        "zh-CN": "机械超人表情3",
+        "en": "Emoji- Mech Hero 3",
+        "ja": "メカ・ドミナンス3",
+        "zh-TW": "機械超人表情3"
+    },
+    {
+        "zh-CN": "机械超人表情4",
+        "en": "Emoji- Mech Hero 4",
+        "ja": "メカ・ドミナンス4",
+        "zh-TW": "機械超人表情4"
+    },
+    {
+        "zh-CN": "机械超人表情5",
+        "en": "Emoji- Mech Hero 5",
+        "ja": "メカ・ドミナンス5",
+        "zh-TW": "機械超人表情5"
+    },
+    {
+        "zh-CN": "机械超人表情6",
+        "en": "Emoji- Mech Hero 6",
+        "ja": "メカ・ドミナンス6",
+        "zh-TW": "機械超人表情6"
+    },
+    {
+        "zh-CN": "机械超人表情7",
+        "en": "Emoji- Mech Hero 7",
+        "ja": "メカ・ドミナンス7",
+        "zh-TW": "機械超人表情7"
+    },
+    {
+        "zh-CN": "机械超人表情8",
+        "en": "Emoji- Mech Hero 8",
+        "ja": "メカ・ドミナンス8",
+        "zh-TW": "機械超人表情8"
+    },
+    {
+        "zh-CN": "风水师表情1",
+        "en": "Emoji- Fengshui Master 1",
+        "ja": "風水師 1",
+        "zh-TW": "風水師表情1"
+    },
+    {
+        "zh-CN": "风水师表情2",
+        "en": "Emoji- Fengshui Master 2",
+        "ja": "風水師 2",
+        "zh-TW": "風水師表情2"
+    },
+    {
+        "zh-CN": "风水师表情3",
+        "en": "Emoji- Fengshui Master 3",
+        "ja": "風水師 3",
+        "zh-TW": "風水師表情3"
+    },
+    {
+        "zh-CN": "风水师表情4",
+        "en": "Emoji- Fengshui Master 4",
+        "ja": "風水師 4",
+        "zh-TW": "風水師表情4"
+    },
+    {
+        "zh-CN": "风水师表情5",
+        "en": "Emoji- Fengshui Master 5",
+        "ja": "風水師 5",
+        "zh-TW": "風水師表情5"
+    },
+    {
+        "zh-CN": "风水师表情6",
+        "en": "Emoji- Fengshui Master 6",
+        "ja": "風水師 6",
+        "zh-TW": "風水師表情6"
+    },
+    {
+        "zh-CN": "风水师表情7",
+        "en": "Emoji- Fengshui Master 7",
+        "ja": "風水師 7",
+        "zh-TW": "風水師表情7"
+    },
+    {
+        "zh-CN": "风水师表情8",
+        "en": "Emoji- Fengshui Master 8",
+        "ja": "風水師 8",
+        "zh-TW": "風水師表情8"
+    },
+    {
+        "zh-CN": "风水师表情9",
+        "en": "Emoji- Fengshui Master 9",
+        "ja": "風水師9",
+        "zh-TW": "風水師表情9"
+    },
+    {
+        "zh-CN": "风水师表情10（动态）",
+        "en": "Emoji- Fengshui Master 10(Animated)",
+        "ja": "風水師10（ダイナミック）",
+        "zh-TW": "風水師表情10（動態）"
+    },
+    {
+        "zh-CN": "风水师表情11",
+        "en": "Emoji - Fengshui Master 11",
+        "ja": "風水師11",
+        "zh-TW": "風水師表情11"
+    },
+    {
+        "zh-CN": "风水师表情12（动态）",
+        "en": "Emoji - Fengshui Master 12(Animated)",
+        "ja": "風水師12（ダイナミック）",
+        "zh-TW": "風水師表情12（動態）"
+    },
+    {
+        "zh-CN": "三神御主表情1",
+        "en": "Emoji - Mikami Master 1",
+        "ja": "三神教祖 1",
+        "zh-TW": "三神禦主表情1"
+    },
+    {
+        "zh-CN": "三神御主表情2",
+        "en": "Emoji - Mikami Master 2",
+        "ja": "三神教祖 2",
+        "zh-TW": "三神禦主表情2"
+    },
+    {
+        "zh-CN": "三神御主表情3",
+        "en": "Emoji - Mikami Master 3",
+        "ja": "三神教祖 3",
+        "zh-TW": "三神禦主表情3"
+    },
+    {
+        "zh-CN": "三神御主表情4",
+        "en": "Emoji - Mikami Master 4",
+        "ja": "三神教祖 4",
+        "zh-TW": "三神禦主表情4"
+    },
+    {
+        "zh-CN": "三神御主表情5",
+        "en": "Emoji - Mikami Master 5",
+        "ja": "三神教祖 5",
+        "zh-TW": "三神禦主表情5"
+    },
+    {
+        "zh-CN": "三神御主表情6",
+        "en": "Emoji - Mikami Master 6",
+        "ja": "三神教祖 6",
+        "zh-TW": "三神禦主表情6"
+    },
+    {
+        "zh-CN": "三神御主表情7",
+        "en": "Emoji - Mikami Master 7",
+        "ja": "三神教祖 7",
+        "zh-TW": "三神禦主表情7"
+    },
+    {
+        "zh-CN": "三神御主表情8",
+        "en": "Emoji - Mikami Master 8",
+        "ja": "三神教祖 8",
+        "zh-TW": "三神禦主表情8"
+    },
+    {
+        "zh-CN": "超天酱表情1",
+        "en": "Emoji- Kangel 1",
+        "ja": "スタンプ：超てんちゃん1",
+        "zh-TW": "超天醬表情1"
+    },
+    {
+        "zh-CN": "超天酱表情2",
+        "en": "Emoji- Kangel 2",
+        "ja": "スタンプ：超てんちゃん2",
+        "zh-TW": "超天醬表情2"
+    },
+    {
+        "zh-CN": "超天酱表情3",
+        "en": "Emoji- Kangel 3",
+        "ja": "スタンプ：超てんちゃん3",
+        "zh-TW": "超天醬表情3"
+    },
+    {
+        "zh-CN": "超天酱表情4",
+        "en": "Emoji- Kangel 4",
+        "ja": "スタンプ：超てんちゃん4",
+        "zh-TW": "超天醬表情4"
+    },
+    {
+        "zh-CN": "超天酱表情5",
+        "en": "Emoji- Kangel 5",
+        "ja": "スタンプ：超てんちゃん5",
+        "zh-TW": "超天醬表情5"
+    },
+    {
+        "zh-CN": "超天酱表情6",
+        "en": "Emoji- Kangel 6",
+        "ja": "スタンプ：超てんちゃん6",
+        "zh-TW": "超天醬表情6"
+    },
+    {
+        "zh-CN": "超天酱表情7",
+        "en": "Emoji- Kangel 7",
+        "ja": "スタンプ：超てんちゃん7",
+        "zh-TW": "超天醬表情7"
+    },
+    {
+        "zh-CN": "超天酱表情8",
+        "en": "Emoji- Kangel 8",
+        "ja": "スタンプ：超てんちゃん8",
+        "zh-TW": "超天醬表情8"
+    },
+    {
+        "zh-CN": "糖糖表情1",
+        "en": "Emoji- Ame-chan 1",
+        "ja": "スタンプ：あめちゃん1",
+        "zh-TW": "糖糖表情1"
+    },
+    {
+        "zh-CN": "糖糖表情2",
+        "en": "Emoji- Ame-chan 2",
+        "ja": "スタンプ：あめちゃん2",
+        "zh-TW": "糖糖表情2"
+    },
+    {
+        "zh-CN": "糖糖表情3",
+        "en": "Emoji- Ame-chan 3",
+        "ja": "スタンプ：あめちゃん3",
+        "zh-TW": "糖糖表情3"
+    },
+    {
+        "zh-CN": "糖糖表情4",
+        "en": "Emoji- Ame-chan 4",
+        "ja": "スタンプ：あめちゃん4",
+        "zh-TW": "糖糖表情4"
+    },
+    {
+        "zh-CN": "糖糖表情5",
+        "en": "Emoji- Ame-chan 5",
+        "ja": "スタンプ：あめちゃん5",
+        "zh-TW": "糖糖表情5"
+    },
+    {
+        "zh-CN": "糖糖表情6",
+        "en": "Emoji- Ame-chan 6",
+        "ja": "スタンプ：あめちゃん6",
+        "zh-TW": "糖糖表情6"
+    },
+    {
+        "zh-CN": "糖糖表情7",
+        "en": "Emoji- Ame-chan 7",
+        "ja": "スタンプ：あめちゃん7",
+        "zh-TW": "糖糖表情7"
+    },
+    {
+        "zh-CN": "糖糖表情8",
+        "en": "Emoji- Ame-chan 8",
+        "ja": "スタンプ：あめちゃん8",
+        "zh-TW": "糖糖表情8"
+    },
+    {
+        "zh-CN": "游戏结算和任务均可获得，可以在每日刷新商店买低级礼物和低级材料。",
+        "en": "Obtained from playing games and tasks. Used to purchase low- grade gifts and materials in daily shop.",
+        "ja": "報酬および任務でもらえます。ショップで低級ギフトと低級素材を購入可能です。",
+        "zh-TW": "遊戲結算和任務均可獲得，可在每日商店中購買低級禮物和材料。"
+    },
+    {
+        "zh-CN": "付费获得的代币，任务和成就也可获得。可以购买抽卡道具、高级物品。",
+        "en": "Obtained through purchase, tasks, and achievements. Used to buy gacha items and high- level items.",
+        "ja": "任務や実績、購入で得られる貨幣。ガチャアイテムや上級アイテムを購入できます。",
+        "zh-TW": "付費獲得的代幣，也可獲得通過完成任務和成就。可以購買抽卡道具、高級物品。"
+    },
+    {
+        "zh-CN": "日服-描述：免费星盘",
+        "en": "日服-描述：免费星盘",
+        "ja": "無償星盤",
+        "zh-TW": "日服-描述：免费星盘"
+    },
+    {
+        "zh-CN": "每次抽奖获得，可以兑换角色。",
+        "en": "Obtained from spending gacha items. Used to exchange for characters.",
+        "ja": "ガチャを引くたびに得られ、キャラを交換できます。",
+        "zh-TW": "每次抽獎獲得，可以兌換角色。"
+    },
+    {
+        "zh-CN": "获得重复的角色时自动分解获得的货币，可以兑换高级突破材料、抽卡道具、礼物。",
+        "en": "Obtained from duplicated characters you get. Used to exchange for high- level materials, gacha items, and gifts.",
+        "ja": "既に獲得したキャラを再度入手すると自動的に分解され、上級突破素材、ガチャアイテム、ギフトと交換できます。",
+        "zh-TW": "獲得重複的角色時自動分解獲得的貨幣，可以兌換高級突破材料、抽卡道具、禮物。"
+    },
+    {
+        "zh-CN": "获得重复的时尚道具时自动分解获得的货币，可以兑换一部分其他时尚道具。",
+        "en": "Obtained from duplicated fashion items you get. Used to exchange for some fashions.",
+        "ja": "既に獲得したファッションを再度入手すると自動的に分解され、ギフトや一部のファッションと交換できます。",
+        "zh-TW": "獲得重複的時尚道具時自動分解獲得的貨幣，可以兌換其他部分時尚道具。"
+    },
+    {
+        "zh-CN": "合作挑战模式商店的货币",
+        "en": "Currency for Co-op Challenge Shop",
+        "ja": "交換ショップで使用するアイテム",
+        "zh-TW": "合作挑戰模式商店的貨幣"
+    },
+    {
+        "zh-CN": "付费星盘",
+        "en": "付费星盘",
+        "ja": "有償星盤",
+        "zh-TW": "付费星盘"
+    },
+    {
+        "zh-CN": "游戏结算获得，自动升级账号等级。",
+        "en": "Obtained from playing games to level up your account.",
+        "ja": "ゲーム完了の報酬、アカウントレベルアップに使われます。",
+        "zh-TW": "遊戲結算獲得，自動升級帳號等級。"
+    },
+    {
+        "zh-CN": "当期通行证经验值",
+        "en": "Current Season Pass EXP",
+        "ja": "パス経験値",
+        "zh-TW": "當期通行證經驗值"
+    },
+    {
+        "zh-CN": "周任务获得，每周达标后领取大量奖励。",
+        "en": "Obtained from weekly tasks, and you receive substantial rewards upon achieving the weekly goals.",
+        "ja": "週間任務で得られ、毎週目標を達成すると大量の報酬が受け取れます。",
+        "zh-TW": "透過每週任務獲得，完成每週目標後可獲大量獎勵。"
+    },
+    {
+        "zh-CN": "重复装扮高级分解物",
+        "en": "Advanced Costume Duplicate Fragment",
+        "ja": "重複ファッション高級分解物",
+        "zh-TW": "重複裝扮高級分解物"
+    },
+    {
+        "zh-CN": "重复装扮普通分解物",
+        "en": "Common Costume Duplicate Fragment",
+        "ja": "重複ファッション普通分解物",
+        "zh-TW": "重複裝扮普通分解物"
+    },
+    {
+        "zh-CN": "获取后自动激活星月票",
+        "en": "Activate Monthly Pass",
+        "ja": "スターマンスリーパス-アクティブ",
+        "zh-TW": "獲取後自動啟動星月票"
+    },
+    {
+        "zh-CN": "游戏中可使用的角色之一",
+        "en": "One of the playable characters.",
+        "ja": "ゲーム内で使用可能なキャラクター",
+        "zh-TW": "遊戲中可使用的角色之一"
+    },
+    {
+        "zh-CN": "普普通通并没有什么特色",
+        "en": "It's quite ordinary and has no special features.",
+        "ja": "ごく普通で何の特徴もありません。",
+        "zh-TW": "普普通通並沒有什麼特色"
+    },
+    {
+        "zh-CN": "看起来就很好吃的样子",
+        "en": "It looks delicious.",
+        "ja": "見た目が美味しそうです。",
+        "zh-TW": "看起來很好吃的樣子"
+    },
+    {
+        "zh-CN": "难道这样子不够可爱吗？",
+        "en": "Isn't this cute enough?",
+        "ja": "これで十分に可愛くないでしょうか？",
+        "zh-TW": "難道這樣子不夠可愛嗎？"
+    },
+    {
+        "zh-CN": "这么特殊的花纹，为什么看起来不高兴？",
+        "en": "Why doesn't this special pattern look happy?",
+        "ja": "こんなに特別な模様なのに、どうして嬉しそうじゃないの？",
+        "zh-TW": "這麼特殊的花紋，為什麼看起來不開心？"
+    },
+    {
+        "zh-CN": "戴上头带，运动起来！",
+        "en": "Put on a headband and let's exercise!",
+        "ja": "ヘッドバンドを着けて、運動しよう！",
+        "zh-TW": "戴上頭帶，運動！"
+    },
+    {
+        "zh-CN": "啊啊啊啊好气啊！",
+        "en": "Ahhh, this makes me so mad!",
+        "ja": "ああああっ、腹が立つ！",
+        "zh-TW": "啊啊啊啊好氣啊！"
+    },
+    {
+        "zh-CN": "咕噜咕噜咕噜咕噜",
+        "en": "Round and round it goes.",
+        "ja": "グルグルグルグル。",
+        "zh-TW": "咕嚕咕嚕咕嚕咕嚕咕嚕"
+    },
+    {
+        "zh-CN": "我就是柠檬精！",
+        "en": "I'm so jealous!",
+        "ja": "妬ましいなあ！",
+        "zh-TW": "我就是妒忌！"
+    },
+    {
+        "zh-CN": "天冷了记得保暖哦！",
+        "en": "Don't forget to stay warm when it gets cold!",
+        "ja": "寒くなったら暖かくするのを忘れないでね！",
+        "zh-TW": "天冷了記得保暖！"
+    },
+    {
+        "zh-CN": "趁着还没上班，赶快躺一下",
+        "en": "Let's lie down for a bit before going to work.",
+        "ja": "仕事に行く前に、ちょっと横になろう。",
+        "zh-TW": "趁著還沒上班，趕快躺一下"
+    },
+    {
+        "zh-CN": "为什么我投出的点数都是1…",
+        "en": "Why do I always roll a one...",
+        "ja": "どうして私が出す目がいつも1なんだろう…",
+        "zh-TW": "為什麼我擲出的點數都是1⋯"
+    },
+    {
+        "zh-CN": "看起来像某个领域的超级高手呢",
+        "en": "You seem to be an expert in some field.",
+        "ja": "何かの分野で超一流の達人みたいだね",
+        "zh-TW": "看起來像某個領域的超級高手呢"
+    },
+    {
+        "zh-CN": "动次打次摇起来啊兄弟们！",
+        "en": "Come on, let's all get excited!",
+        "ja": "さあ、みんなでどんどん盛り上がろうぜ！",
+        "zh-TW": "一二三四、動起來！"
+    },
+    {
+        "zh-CN": "画出来的东西栩栩如生呢！",
+        "en": "What you've drawn looks so lively!",
+        "ja": "描いたものが生き生きしているね！",
+        "zh-TW": "畫出來的東西栩栩如生呢！"
+    },
+    {
+        "zh-CN": "制裁一切邪恶！",
+        "en": "Let's punish all evil!",
+        "ja": "すべての悪を制裁しよう！",
+        "zh-TW": "制裁一切邪惡！"
+    },
+    {
+        "zh-CN": "你数学是体育老师教的吗？",
+        "en": "Did you learn math from your P.E. teacher?",
+        "ja": "お前の数学は体育教師から教えたのか！",
+        "zh-TW": "你數學是體育老師教的嗎？"
+    },
+    {
+        "zh-CN": "小怪兽鼠鼠嘎呜",
+        "en": "Monster Mouse Gawu",
+        "ja": "モンスターネズミガウ",
+        "zh-TW": "小怪獸鼠鼠嘎嗚"
+    },
+    {
+        "zh-CN": "炮台鼠鼠梅加斯",
+        "en": "Cannon Mouse Megas",
+        "ja": "砲台ネズミメガス",
+        "zh-TW": "炮台鼠鼠梅加斯"
+    },
+    {
+        "zh-CN": "南希我怎么还没中奖啊！",
+        "en": "Nancy, why haven't I hit the jackpot yet!",
+        "ja": "どうして当たってないの、ナンシ！",
+        "zh-TW": "南希我怎麼還沒中獎！"
+    },
+    {
+        "zh-CN": "车！好快的车！唉等等我还没上车！",
+        "en": "Wow, what a fast car! Hey, wait up, I haven't gotten on yet!",
+        "ja": "速い車だなあ！あれ、待って、まだ乗ってないよ！",
+        "zh-TW": "車！好快的車！唉等等我還沒上車！"
+    },
+    {
+        "zh-CN": "这么多年你跑哪里去了？嗯？怎么转行了？",
+        "en": "Where have you been all these years? Huh? Why the career switch?",
+        "ja": "こんなに長い間、どこに行っていたの？え？職業を変えたの？",
+        "zh-TW": "這麼多年你跑哪裡去了？嗯？怎麼轉行了？"
+    },
+    {
+        "zh-CN": "你得住院！",
+        "en": "You have to stay in hospital",
+        "ja": "入院してください！",
+        "zh-TW": "你得住院！"
+    },
+    {
+        "zh-CN": "是制作人！",
+        "en": "She is a producer",
+        "ja": "彼女はプロデューサーです。",
+        "zh-TW": "是製作人！"
+    },
+    {
+        "zh-CN": "你看我这智慧的眼神！",
+        "en": "Look at my eyes full of wisdom!",
+        "ja": "この賢明な眼差しを見て！",
+        "zh-TW": "你看我這睿智的眼神！"
+    },
+    {
+        "zh-CN": "香喷喷？",
+        "en": "Smell delicious?",
+        "ja": "美味しいそう…？",
+        "zh-TW": "香噴噴？"
+    },
+    {
+        "zh-CN": "盛夏当然要去海边啦！",
+        "en": "Summer means it's time to go to the beach!",
+        "ja": "夏は海行くっしょ！",
+        "zh-TW": "夏天當然要去海邊啦！"
+    },
+    {
+        "zh-CN": "700270",
+        "en": "700270",
+        "ja": "700270",
+        "zh-TW": "700270"
+    },
+    {
+        "zh-CN": "心跳加速？",
+        "en": "Heartbeat Up?",
+        "ja": "ときめいた？",
+        "zh-TW": "心跳加速？"
+    },
+    {
+        "zh-CN": "扬帆起航！",
+        "en": "Set Sail!",
+        "ja": "ヨーソロー！",
+        "zh-TW": "揚帆起航！"
+    },
+    {
+        "zh-CN": "财宝在哪里？",
+        "en": "Where's the Treasure?",
+        "ja": "お宝ものはどこじゃい！",
+        "zh-TW": "財寶在哪裏？"
+    },
+    {
+        "zh-CN": "啊吧啊吧",
+        "en": "ah...bah....",
+        "ja": "あばばっあびゃばびゃばば",
+        "zh-TW": "啊吧啊吧"
+    },
+    {
+        "zh-CN": "看我一套丝滑小连招！",
+        "en": "Take my fancy combo!",
+        "ja": "このコンボを食らえ！",
+        "zh-TW": "看我一套爽快連技！"
+    },
+    {
+        "zh-CN": "你不要过来啊！！",
+        "en": "Stay away!",
+        "ja": "く…くるな！",
+        "zh-TW": "你不要過來啊！ ！"
+    },
+    {
+        "zh-CN": "700360",
+        "en": "700360",
+        "ja": "700360",
+        "zh-TW": "700360"
+    },
+    {
+        "zh-CN": "到底是青蛙还是鼠鼠？",
+        "en": "Is it a frog or Shiyu-Shiyu?",
+        "ja": "あれは一体カエルか、それともジュジュか？",
+        "zh-TW": "到底是青蛙還是鼠鼠？"
+    },
+    {
+        "zh-CN": "任何偷子都将绳之以法！",
+        "en": "May the world be without thieves!",
+        "ja": "賊人の結末は唯一つ！牢獄行きだ！",
+        "zh-TW": "將所有小偷繩之以法！"
+    },
+    {
+        "zh-CN": "叠词？",
+        "en": "Squirrel?",
+        "ja": "畳語？",
+        "zh-TW": "疊詞？"
+    },
+    {
+        "zh-CN": "什么VIP啊？需要援救吗？",
+        "en": "VIP? Need any help?",
+        "ja": "VIPか？救援が必要ですか？",
+        "zh-TW": "什麼VIP啊？需要援救嗎？"
+    },
+    {
+        "zh-CN": "哎呀~又搞砸了~",
+        "en": "Ah! Screwed it up, again!",
+        "ja": "ありゃりゃ～またやっじっまた～",
+        "zh-TW": "哎呀~又搞砸了~"
+    },
+    {
+        "zh-CN": "南瓜南瓜！",
+        "en": "PumpkinPumpkin！",
+        "ja": "パンプキンパンプキン！",
+        "zh-TW": "南瓜南瓜！"
+    },
+    {
+        "zh-CN": "为了女王！",
+        "en": "For the Queen！",
+        "ja": "女王のために",
+        "zh-TW": "爲了女王！"
+    },
+    {
+        "zh-CN": "房租拿来！",
+        "en": "Pay rent!",
+        "ja": "家賃払え！",
+        "zh-TW": "房租拿來！"
+    },
+    {
+        "zh-CN": "我是谁？",
+        "en": "Who Am I?",
+        "ja": "私は誰？",
+        "zh-TW": "我是誰？"
+    },
+    {
+        "zh-CN": "限时联动",
+        "en": "Specials Collaboration",
+        "ja": "700460",
+        "zh-TW": "限時聯動"
+    },
+    {
+        "zh-CN": "叮叮当",
+        "en": "Jingle Bells",
+        "ja": "ジングルベル",
+        "zh-TW": "叮叮當"
+    },
+    {
+        "zh-CN": "手艺了得！",
+        "en": "Impressive craftsmanship!",
+        "ja": "手先が器用！",
+        "zh-TW": "手藝了得！"
+    },
+    {
+        "zh-CN": "看起来就栩栩如生！",
+        "en": "It looks so vivid!",
+        "ja": "生き生きとして見える！",
+        "zh-TW": "看起來就栩栩如生！"
+    },
+    {
+        "zh-CN": "可爱团子头！",
+        "en": "Kawaii Bun!",
+        "ja": "お団子ヘアかわいいね！",
+        "zh-TW": "可愛團子頭！"
+    },
+    {
+        "zh-CN": "不变的发型！",
+        "en": "Unchanging Hairstyle！",
+        "ja": "不変の髪型！",
+        "zh-TW": "不變的發型！"
+    },
+    {
+        "zh-CN": "周年特别头像",
+        "en": "Special Avatar",
+        "ja": "周年スペシャル",
+        "zh-TW": "周年特別頭像"
+    },
+    {
+        "zh-CN": "拉新奖励头像",
+        "en": "Referral Reward",
+        "ja": "友達招待の証",
+        "zh-TW": "拉新獎勵頭像"
+    },
+    {
+        "zh-CN": "大魔法师？",
+        "en": "The great wizard?",
+        "ja": "大魔法使い？",
+        "zh-TW": "大魔法師？"
+    },
+    {
+        "zh-CN": "蛋糕真好吃！",
+        "en": "The cake is really delicious!",
+        "ja": "ケーキうまし！",
+        "zh-TW": "蛋糕真好吃！"
+    },
+    {
+        "zh-CN": "活力无限的女高中生！",
+        "en": "Vibrant high school students！",
+        "ja": "スタミナ無限JKちゃん！",
+        "zh-TW": "活力無限的女高中生！"
+    },
+    {
+        "zh-CN": "做饭贼好吃！",
+        "en": "ridiculously good at cooking",
+        "ja": "料理、バカうまいだお！",
+        "zh-TW": "做飯賊好吃！"
+    },
+    {
+        "zh-CN": "戴个帽子不认得了？",
+        "en": "You don’t recognize it just because of the hat?",
+        "ja": "帽子被ったら分からなくなった？",
+        "zh-TW": "戴個帽子不認得了？"
+    },
+    {
+        "zh-CN": "哞~",
+        "en": "Moo~",
+        "ja": "モー！",
+        "zh-TW": "牟~"
+    },
+    {
+        "zh-CN": "这…算鼠鼠？",
+        "en": "No way—that's Shiyu?",
+        "ja": "こいつ…ジュジュなの？",
+        "zh-TW": "這…算鼠鼠？"
+    },
+    {
+        "zh-CN": "这眼镜一看就是文化人！",
+        "en": "These glasses… totally give off honor student vibes!",
+        "ja": "このメガネ…優等生っぽいね！",
+        "zh-TW": "這眼鏡壹看就是文化人！"
+    },
+    {
+        "zh-CN": "王中王！",
+        "en": "King of Kings!",
+        "ja": "キング・オフ・キングズ！",
+        "zh-TW": "王中王！"
+    },
+    {
+        "zh-CN": "一条咸鱼",
+        "en": "Just a dried-up salted fish.",
+        "ja": "干物一条",
+        "zh-TW": "壹條鹹魚"
+    },
+    {
+        "zh-CN": "可爱呢~",
+        "en": "That's adorable！",
+        "ja": "かわいいね～",
+        "zh-TW": "可愛呢~"
+    },
+    {
+        "zh-CN": "真是难啊！",
+        "en": "This is really tough!",
+        "ja": "難しかった！",
+        "zh-TW": "真是難啊！"
+    },
+    {
+        "zh-CN": "夏日海滩真舒服啊！",
+        "en": " The summer beach is so relaxing!",
+        "ja": "夏のビーチはいいね！",
+        "zh-TW": "夏日海灘真舒服啊！"
+    },
+    {
+        "zh-CN": "这不还是人吗？",
+        "en": "Wait, that's still human?",
+        "ja": "人間のままじゃないか！",
+        "zh-TW": "這不還是人嗎？"
+    },
+    {
+        "zh-CN": "华丽的仙女！",
+        "en": "Gorgeous fairy!",
+        "ja": "華麗なる仙女",
+        "zh-TW": "華麗的仙女！"
+    },
+    {
+        "zh-CN": "泳池！开心！",
+        "en": "Pool！Happy！",
+        "ja": "プール！嬉しい！",
+        "zh-TW": "泳池！開心！"
+    },
+    {
+        "zh-CN": "其实就是苍鲤啦！",
+        "en": " Yep, it’s actually just Souri!",
+        "ja": "蒼鯉そのものだ",
+        "zh-TW": "其實就是蒼鯉啦！"
+    },
+    {
+        "zh-CN": "帕露南羁绊4级解锁后使用",
+        "en": "Available after Parunan friendship level 4",
+        "ja": "パルナンの絆レベル4で解放",
+        "zh-TW": "帕露南羈絆4級解鎖後使用"
+    },
+    {
+        "zh-CN": "芬妮羁绊4级解锁后使用",
+        "en": "Available after Fanny friendship level 4",
+        "ja": "ファニィの絆レベル4で解放",
+        "zh-TW": "芬妮羈絆4級解鎖後使用"
+    },
+    {
+        "zh-CN": "阿兰娜羁绊4级解锁后使用",
+        "en": "Available after Alana friendship level 4",
+        "ja": "アランナの絆レベル4で解放",
+        "zh-TW": "阿蘭娜羈絆4級解鎖後使用"
+    },
+    {
+        "zh-CN": "小町羁绊4级解锁后使用",
+        "en": "Available after Komachi friendship level 4",
+        "ja": "コマチの絆レベル4で解放",
+        "zh-TW": "小町羈絆4級解鎖後使用"
+    },
+    {
+        "zh-CN": "派德曼羁绊4级解锁后使用",
+        "en": "Available after Padman friendship level 4",
+        "ja": "パッドマンの絆レベル4で解放",
+        "zh-TW": "派德曼羈絆4級解鎖後使用"
+    },
+    {
+        "zh-CN": "帕帕拉羁绊4级解锁后使用",
+        "en": "Available after Papara friendship level 4",
+        "ja": "パパラの絆レベル4で解放",
+        "zh-TW": "帕帕拉羈絆4級解鎖後使用"
+    },
+    {
+        "zh-CN": "恋羁绊4级解锁后使用",
+        "en": "Available after Ren friendship level 4",
+        "ja": "レンの絆レベル4で解放",
+        "zh-TW": "戀羈絆4級解鎖後使用"
+    },
+    {
+        "zh-CN": "米米羁绊4级解锁后使用",
+        "en": "Available after Mimi friendship level 4",
+        "ja": "ミミの絆レベル4で解放",
+        "zh-TW": "米米羈絆4級解鎖後使用"
+    },
+    {
+        "zh-CN": "Z3000羁绊4级解锁后使用",
+        "en": "Available after Z3000 friendship level 4",
+        "ja": "ゼットの絆レベル4で解放",
+        "zh-TW": "Z3000羈絆4級解鎖後使用"
+    },
+    {
+        "zh-CN": "潘大猛羁绊4级解锁后使用",
+        "en": "Available after Pandaman friendship level 4",
+        "ja": "パンダマンの絆レベル4で解放",
+        "zh-TW": "潘大猛羈絆4級解鎖後使用"
+    },
+    {
+        "zh-CN": "占位",
+        "en": "占位",
+        "ja": "占位",
+        "zh-TW": "占位"
+    },
+    {
+        "zh-CN": "璐璐羁绊4级解锁后使用",
+        "en": "Available after Lulu friendship level 4",
+        "ja": "ルルの絆レベル4で解放",
+        "zh-TW": "璐璐羈絆4級解鎖後使用"
+    },
+    {
+        "zh-CN": "姬梦枫羁绊4级解锁后使用",
+        "en": "Available after Fen friendship level 4",
+        "ja": "ヒメの絆レベル4で解放",
+        "zh-TW": "姬夢楓羈絆4級解鎖後使用"
+    },
+    {
+        "zh-CN": "蓝海晴羁绊4级解锁后使用",
+        "en": "Available after HaiQing friendship level 4",
+        "ja": "カイセイの絆レベル4で解放",
+        "zh-TW": "藍海晴羈絆4級解鎖後使用"
+    },
+    {
+        "zh-CN": "美咲羁绊4级解锁后使用",
+        "en": "Available after Misaki friendship level 4",
+        "ja": "ミサキの絆レベル4で解放",
+        "zh-TW": "美咲羈絆4級解鎖後使用"
+    },
+    {
+        "zh-CN": "娜蒂斯羁绊4级解锁后使用",
+        "en": "Available after Nardis friendship level 4",
+        "ja": "ナーディスの絆レベル4で解放",
+        "zh-TW": "娜蒂斯羈絆4級解鎖後使用"
+    },
+    {
+        "zh-CN": "茉莉羁绊4级解锁后使用",
+        "en": "Available after Jasmine friendship level 4",
+        "ja": "ジャスミンの絆レベル4で解放",
+        "zh-TW": "茉莉羈絆4級解鎖後使用"
+    },
+    {
+        "zh-CN": "阿尔羁绊4级解锁后使用",
+        "en": "Available after AL friendship level 4",
+        "ja": "アルの絆レベル4で解放",
+        "zh-TW": "阿爾羁絆4級解鎖後使用"
+    },
+    {
+        "zh-CN": "琉华羁绊4级解锁后使用",
+        "en": "Available after Luka friendship level 4",
+        "ja": "ルカの絆レベル4で解放",
+        "zh-TW": "琉華羁绊4级解锁后使用"
+    },
+    {
+        "zh-CN": "南希露羁绊4级解锁后使用",
+        "en": "Available after Nancy Lu friendship level 4",
+        "ja": "ナンシーローの絆レベル4で解放",
+        "zh-TW": "南希露羁絆4级解锁后使用"
+    },
+    {
+        "zh-CN": "凛羁绊4级解锁后使用",
+        "en": "Available after Rin friendship level 4",
+        "ja": "リンの絆レベル4で解放",
+        "zh-TW": "凜羁绊4级解锁后使用"
+    },
+    {
+        "zh-CN": "梅加斯羁绊4级解锁后使用",
+        "en": "Available after Megas friendship level 4",
+        "ja": "メガスの絆レベル4で解放",
+        "zh-TW": "梅加斯羁绊4级解锁后使用"
+    },
+    {
+        "zh-CN": "姬梦朝羁绊4级解锁后使用",
+        "en": "Available after Yume friendship level 4",
+        "ja": "ユメの絆レベル4で解放",
+        "zh-TW": "姬夢朝羁绊4级解锁后使用"
+    },
+    {
+        "zh-CN": "照羁绊4级解锁后使用",
+        "en": "Available after Teru friendship level 4",
+        "ja": "テルの絆レベル4で解放",
+        "zh-TW": "照羁绊4级解锁后使用"
+    },
+    {
+        "zh-CN": "开服活动奖励",
+        "en": "（123456@#）",
+        "ja": "サービス開始イベント報酬",
+        "zh-TW": "（123456@#）"
+    },
+    {
+        "zh-CN": "充满怀旧气息的像素风头像",
+        "en": "A nostalgic, pixel- art avatar",
+        "ja": "懐かしいのピクセルアバター",
+        "zh-TW": "充滿懷舊氣息的像素風頭像"
+    },
+    {
+        "zh-CN": "众筹专属",
+        "en": "Modian Crowdfunding",
+        "ja": "クラウドファンディング限定",
+        "zh-TW": "眾籌專屬"
+    },
+    {
+        "zh-CN": "普普通通并没有什么特色",
+        "en": "It's quite ordinary and has no distinctive features.",
+        "ja": "ごく普通で何の特徴もないね",
+        "zh-TW": "普普通通並沒有什麼特色"
+    },
+    {
+        "zh-CN": "发个××书挂你，让你社死！",
+        "en": "I will expose you on Txxxter, and you will be social death!",
+        "ja": "エッ〇スで君を晒して、あなたを社会的に抹殺する！",
+        "zh-TW": "去X書爆料，讓你社死！"
+    },
+    {
+        "zh-CN": "没有什么比日进斗金更让人开心的事情了哈哈哈哈哈",
+        "en": "There's nothing happier than earning a lot of money each day, hahaha!",
+        "ja": "日に大金を稼ぐことほど嬉しいことはないね、ハハハハハ！",
+        "zh-TW": "沒有什麼比日進斗金更讓人開心的事了哈哈哈哈哈"
+    },
+    {
+        "zh-CN": "不愧是IQ180以上的高智商侦探！",
+        "en": "As expected of a high- intelligence detective with an IQ over 180!",
+        "ja": "IQ180以上の高知能探偵だなんて、さすがだ！",
+        "zh-TW": "不愧是IQ180以上的高智商偵探！"
+    },
+    {
+        "zh-CN": "要…要…要一份…",
+        "en": "I... I... I'd like one...",
+        "ja": "一…一…一つ注文したい…",
+        "zh-TW": "要…要…要一份…"
+    },
+    {
+        "zh-CN": "哼~不愧是我",
+        "en": "Hmph, as expected of me.",
+        "ja": "ふん、さすが私だ",
+        "zh-TW": "哼~不愧是我"
+    },
+    {
+        "zh-CN": "怎么办怎么办！还有2个小时就要交报告了！",
+        "en": "What shall I do? I have only 2 hours left to submit the report!",
+        "ja": "どうしよう、どうしよう！レポート提出まであと2時間だ！",
+        "zh-TW": "怎麼辦怎麼辦！還有2個小時就要交報告了！"
+    },
+    {
+        "zh-CN": "哦~这个角度堪称完美~",
+        "en": "Oh this angle is perfect~",
+        "ja": "おお〜この角度は完璧～",
+        "zh-TW": "喔~這個角度堪稱完美~"
+    },
+    {
+        "zh-CN": "鼠鼠冲鸭！我们肯定能获得最终的胜利！",
+        "en": "Come on, Shiyu-Shiyu! The final victory will surely be ours!",
+        "ja": "頑張れ、ジュジュ！最後の勝利はきっと私たちのものだ！",
+        "zh-TW": "鼠鼠衝呀！我們肯定能獲得最終的勝利！"
+    },
+    {
+        "zh-CN": "嗯？瓜都准备好了，怎么还没打起来？",
+        "en": "Eh? Why hasn't the fight started when everyone’s ready to watch?",
+        "ja": "えっ？もう観戦の準備ができてるのに、どうしてまだ戦いが始まらないの？",
+        "zh-TW": "嗯？瓜都準備好了，怎麼還沒打起來？"
+    },
+    {
+        "zh-CN": "别打了别打了！我错了！",
+        "en": "Sorry! Please stop!",
+        "ja": "すみません！もうやめてください！",
+        "zh-TW": "別打了別打了！我錯了！"
+    },
+    {
+        "zh-CN": "啊，今天又是平和恬静的一天",
+        "en": "Ah, today is another peaceful day.",
+        "ja": "ああ、今日もまた平和な一日だ",
+        "zh-TW": "啊，今天又是和平恬靜的一天"
+    },
+    {
+        "zh-CN": "这眼镜片用来打盹时候遮掩最棒了",
+        "en": "These glasses are perfect for hiding while taking a nap.",
+        "ja": "この眼鏡はうたた寝する時の隠しに最適だね",
+        "zh-TW": "這鏡片用來掩飾打盹時最棒了"
+    },
+    {
+        "zh-CN": "背景花纹系列名片",
+        "en": "Profile Card (Background Pattern Series)",
+        "ja": "プロフィールカードシリーズ（もよう）",
+        "zh-TW": "背景花紋系列名片"
+    },
+    {
+        "zh-CN": "背景花纹系列名片",
+        "en": "Profile Card (Background Pattern Series)",
+        "ja": "プロフィールカードシリーズ（もよう）",
+        "zh-TW": "背景花紋系列名片"
+    },
+    {
+        "zh-CN": "大吉大利",
+        "en": "Good Luck",
+        "ja": "大吉大利",
+        "zh-TW": "大吉大利"
+    },
+    {
+        "zh-CN": "夜露死苦",
+        "en": "Much appreciation!",
+        "ja": "夜露死苦",
+        "zh-TW": "夜露死苦"
+    },
+    {
+        "zh-CN": "已经灭绝了啦！",
+        "en": "It's gone extinct!",
+        "ja": "すでに絶滅したよ！",
+        "zh-TW": "已經滅絕了啦！"
+    },
+    {
+        "zh-CN": "都是不存在的东西",
+        "en": "They are non- existent.",
+        "ja": "全部、幻のものだったんだ",
+        "zh-TW": "都是不存在的東西"
+    },
+    {
+        "zh-CN": "真好吃！",
+        "en": "Yummy yummy!",
+        "ja": "う…美味い！",
+        "zh-TW": "真好吃！"
+    },
+    {
+        "zh-CN": "通行证奖励",
+        "en": "Pass Reward",
+        "ja": "シーズンパス報酬",
+        "zh-TW": "通行證獎勵"
+    },
+    {
+        "zh-CN": "通行证奖励",
+        "en": "Pass Reward",
+        "ja": "シーズンパス報酬",
+        "zh-TW": "通行證獎勵"
+    },
+    {
+        "zh-CN": "快赶不上时间了！",
+        "en": "Almost out of time！",
+        "ja": "時間がない！",
+        "zh-TW": "快趕不上了啦！"
+    },
+    {
+        "zh-CN": "谨献给为Star Engine做出贡献之人 ----Star Engine开发者专属",
+        "en": "Developers Only For Star Engine",
+        "ja": "アストラルパーティー⁻スタッフ専属名刺",
+        "zh-TW": "Developers Only For Star Engine"
+    },
+    {
+        "zh-CN": "通行证奖励",
+        "en": "Pass Reward",
+        "ja": "シーズンパス報酬",
+        "zh-TW": "通行證獎勵"
+    },
+    {
+        "zh-CN": "通行证奖励",
+        "en": "Pass Reward",
+        "ja": "シーズンパス報酬",
+        "zh-TW": "通行證獎勵"
+    },
+    {
+        "zh-CN": "梦想号大作战活动",
+        "en": "Dreama Battle",
+        "ja": "世界で1番？(かわいいよ〜！)‐夢想号大作戦",
+        "zh-TW": "夢想號大作戰活動"
+    },
+    {
+        "zh-CN": "梦想号大作战活动",
+        "en": "Dreama Battle",
+        "ja": "出航！‐夢想号大作戦",
+        "zh-TW": "夢想號大作戰活動"
+    },
+    {
+        "zh-CN": "710300",
+        "en": "710300",
+        "ja": "710300",
+        "zh-TW": "710300"
+    },
+    {
+        "zh-CN": "御魂庆典上弦月活动",
+        "en": "Soul Celebration Crescent Moon",
+        "ja": "御魂祭の上弦の月",
+        "zh-TW": "禦魂慶典上弦月活動"
+    },
+    {
+        "zh-CN": "御魂庆典下弦月活动",
+        "en": "soul Celebration secon half",
+        "ja": "御魂祭の下弦の月",
+        "zh-TW": "禦魂慶典下弦月活動"
+    },
+    {
+        "zh-CN": "通行证奖励",
+        "en": "Pass Reward",
+        "ja": "シーズンパス報酬",
+        "zh-TW": "通行證獎勵"
+    },
+    {
+        "zh-CN": "好时光~",
+        "en": "GOODTIME~",
+        "ja": "グッドタイム",
+        "zh-TW": "好時光~"
+    },
+    {
+        "zh-CN": "限时联动",
+        "en": "Specials Collaboration",
+        "ja": "限定コラボ",
+        "zh-TW": "限時聯動"
+    },
+    {
+        "zh-CN": "限时联动",
+        "en": "Specials Collaboration",
+        "ja": "限定コラボ",
+        "zh-TW": "限時聯動"
+    },
+    {
+        "zh-CN": "通行证奖励",
+        "en": "Pass Reward",
+        "ja": "シーズンパス報酬",
+        "zh-TW": "第四期通行證獎勵"
+    },
+    {
+        "zh-CN": "隆兴饭店活动",
+        "en": "Longxing Hotel event",
+        "ja": "隆兴飯店イベント",
+        "zh-TW": "隆興飯店活動"
+    },
+    {
+        "zh-CN": "新年新气象",
+        "en": "New Year, new vibe!",
+        "ja": "新年、新しい始まり",
+        "zh-TW": "新年新氣象"
+    },
+    {
+        "zh-CN": "通行证奖励",
+        "en": "Pass Reward",
+        "ja": "シーズンパス報酬",
+        "zh-TW": "通行證獎勵"
+    },
+    {
+        "zh-CN": "拉新奖励",
+        "en": "Referral Reward",
+        "ja": "友達招待の証",
+        "zh-TW": "拉新獎勵"
+    },
+    {
+        "zh-CN": "丛林冒险地图成就奖励",
+        "en": "Forest Adventure Map Achievement Reward",
+        "ja": "マップ「ジャングルアドベンチャー」実績",
+        "zh-TW": "叢林冒險地圖成就獎勵"
+    },
+    {
+        "zh-CN": "学院食堂争夺战活动",
+        "en": "Academy Cafeteria Battle",
+        "ja": "学院食堂争奪戦",
+        "zh-TW": "學院食堂爭奪戰活動"
+    },
+    {
+        "zh-CN": "通行证奖励",
+        "en": "Pass Reward",
+        "ja": "シーズンパス報酬",
+        "zh-TW": "通行證獎勵"
+    },
+    {
+        "zh-CN": "到收租的时间咯！",
+        "en": "It's time for rent collection!",
+        "ja": "家賃徴収の時間だぞ～！",
+        "zh-TW": "到收租的時間咯！"
+    },
+    {
+        "zh-CN": "希望你有好的运气！",
+        "en": "good luck",
+        "ja": "グッドラック",
+        "zh-TW": "希望妳有好的運氣！"
+    },
+    {
+        "zh-CN": "去哪里，打几个？",
+        "en": "Where are we heading? How many targets?",
+        "ja": "どこ行く？何人ぶっ倒す？",
+        "zh-TW": "去哪裏，打幾個？"
+    },
+    {
+        "zh-CN": "通行证奖励",
+        "en": "Pass Reward",
+        "ja": "シーズンパス報酬",
+        "zh-TW": "通行證獎勵"
+    },
+    {
+        "zh-CN": "龙宫秘宝争夺战活动",
+        "en": "Dragon Palace’s Hidden Treasure: Relic battle",
+        "ja": "竜宮争奪戦！隠されし秘宝を求めて～",
+        "zh-TW": "龍宮秘寶爭奪戰活動"
+    },
+    {
+        "zh-CN": "帕露南羁绊5级解锁后使用",
+        "en": "Available after Parunan friendship level 5",
+        "ja": "絆レベル5で解放",
+        "zh-TW": "帕露南羈絆5級解鎖後使用"
+    },
+    {
+        "zh-CN": "芬妮羁绊5级解锁后使用",
+        "en": "Available after Fanny friendship level 5",
+        "ja": "絆レベル5で解放",
+        "zh-TW": "芬妮羈絆5級解鎖後使用"
+    },
+    {
+        "zh-CN": "阿兰娜羁绊5级解锁后使用",
+        "en": "Available after Alana friendship level 5",
+        "ja": "絆レベル5で解放",
+        "zh-TW": "阿蘭娜羈絆5級解鎖後使用"
+    },
+    {
+        "zh-CN": "小町羁绊5级解锁后使用",
+        "en": "Available after Komachi friendship level 5",
+        "ja": "絆レベル5で解放",
+        "zh-TW": "小町羈絆5級解鎖後使用"
+    },
+    {
+        "zh-CN": "派德曼羁绊5级解锁后使用",
+        "en": "Available after Padman friendship level 5",
+        "ja": "絆レベル5で解放",
+        "zh-TW": "派德曼羈絆5級解鎖後使用"
+    },
+    {
+        "zh-CN": "帕帕拉羁绊5级解锁后使用",
+        "en": "Available after Papara friendship level 5",
+        "ja": "絆レベル5で解放",
+        "zh-TW": "帕帕拉羈絆5級解鎖後使用"
+    },
+    {
+        "zh-CN": "恋羁绊5级解锁后使用",
+        "en": "Available after Ren friendship level 5",
+        "ja": "絆レベル5で解放",
+        "zh-TW": "戀羈絆5級解鎖後使用"
+    },
+    {
+        "zh-CN": "米米羁绊5级解锁后使用",
+        "en": "Available after Mimi friendship level 5",
+        "ja": "絆レベル5で解放",
+        "zh-TW": "米米羈絆5級解鎖後使用"
+    },
+    {
+        "zh-CN": "Z3000羁绊5级解锁后使用",
+        "en": "Available after Z3000 friendship level 5",
+        "ja": "絆レベル5で解放",
+        "zh-TW": "Z3000羈絆5級解鎖後使用"
+    },
+    {
+        "zh-CN": "潘大猛羁绊5级解锁后使用",
+        "en": "Available after Pandaman friendship level 5",
+        "ja": "絆レベル5で解放",
+        "zh-TW": "潘大猛羈絆5級解鎖後使用"
+    },
+    {
+        "zh-CN": "羁绊5级解锁后使用",
+        "en": "Available after friendship level 5",
+        "ja": "絆レベル5で解放",
+        "zh-TW": "711110"
+    },
+    {
+        "zh-CN": "璐璐羁绊5级解锁后使用",
+        "en": "Available after Lulu friendship level 5",
+        "ja": "絆レベル5で解放",
+        "zh-TW": "璐璐羈絆5級解鎖後使用"
+    },
+    {
+        "zh-CN": "姬梦枫羁绊5级解锁后使用",
+        "en": "Available after Fen friendship level 5",
+        "ja": "絆レベル5で解放",
+        "zh-TW": "姬夢楓羈絆5級解鎖後使用"
+    },
+    {
+        "zh-CN": "蓝海晴羁绊5级解锁后使用",
+        "en": "Available after HaiQing friendship level 5",
+        "ja": "絆レベル5で解放",
+        "zh-TW": "藍海晴羈絆5級解鎖後使用"
+    },
+    {
+        "zh-CN": "美咲羁绊5级解锁后使用",
+        "en": "Available after Misaki friendship level 5",
+        "ja": "絆レベル5で解放",
+        "zh-TW": "美咲羈絆5級解鎖後使用"
+    },
+    {
+        "zh-CN": "娜蒂斯羁绊5级解锁后使用",
+        "en": "Available after Nardis friendship level 5",
+        "ja": "絆レベル5で解放",
+        "zh-TW": "娜蒂斯羈絆5級解鎖後使用"
+    },
+    {
+        "zh-CN": "茉莉羁绊5级解锁后使用",
+        "en": "Available after Jasmine friendship level 5",
+        "ja": "絆レベル5で解放",
+        "zh-TW": "茉莉羈絆5級解鎖後使用"
+    },
+    {
+        "zh-CN": "阿尔羁绊5级解锁后使用",
+        "en": "Available after AL friendship level 5",
+        "ja": "絆レベル5で解放",
+        "zh-TW": "阿爾羈絆5級解鎖後使用"
+    },
+    {
+        "zh-CN": "琉华羁绊5级解锁后使用",
+        "en": "Available after Luka friendship level 5",
+        "ja": "絆レベル5で解放",
+        "zh-TW": "琉华羁绊5级解锁后使用"
+    },
+    {
+        "zh-CN": "南希露羁绊5级解锁后使用",
+        "en": "Available after Nancy Lu friendship level 5",
+        "ja": "絆レベル5で解放",
+        "zh-TW": "南希露羁絆5级解锁后使用"
+    },
+    {
+        "zh-CN": "凛羁绊5级解锁后使用",
+        "en": "Available after Rin friendship level 5",
+        "ja": "絆レベル5で解放",
+        "zh-TW": "凜羁绊5级解锁后使用"
+    },
+    {
+        "zh-CN": "梅加斯羁绊5级解锁后使用",
+        "en": "Available after Megas friendship level 5",
+        "ja": "絆レベル5で解放",
+        "zh-TW": "梅加斯羁绊5级解锁后使用"
+    },
+    {
+        "zh-CN": "姬梦朝羁绊5级解锁后使用",
+        "en": "Available after Yume friendship level 5",
+        "ja": "絆レベル5で解放",
+        "zh-TW": "姬夢朝羁绊5级解锁后使用"
+    },
+    {
+        "zh-CN": "照羁绊5级解锁后使用",
+        "en": "Available after Teru friendship level 5",
+        "ja": "絆レベル5で解放",
+        "zh-TW": "照羁绊5级解锁后使用"
+    },
+    {
+        "zh-CN": "缔结契约成功后可使用",
+        "en": "Available after Bond Forged",
+        "ja": "契約が成功すると使用可能",
+        "zh-TW": "締結契約成功後可使用"
+    },
+    {
+        "zh-CN": "购入皮肤时解锁",
+        "en": "Unlocked after purchasing the skin",
+        "ja": "スキン購入時にアンロック",
+        "zh-TW": "購入造型時解鎖"
+    },
+    {
+        "zh-CN": "超级侦探超然解析",
+        "en": "Super Detective - Mystic Insight",
+        "ja": "スーパー探偵超然解析",
+        "zh-TW": "超級偵探超然解析"
+    },
+    {
+        "zh-CN": "众筹限定",
+        "en": "Modian Crowdfunding only",
+        "ja": "クラウドファンディング限定",
+        "zh-TW": "眾籌限定"
+    },
+    {
+        "zh-CN": "签到活动奖励",
+        "en": "Login Bonus Reward",
+        "ja": "ログインイベント報酬",
+        "zh-TW": "簽到活動獎勵"
+    },
+    {
+        "zh-CN": "看起来扔出去就能传送到另一个地方的神秘骰子。",
+        "en": "This mysterious dice seems like it could teleport you to another place when thrown.",
+        "ja": "投げるとどこか別の場所に転送されそうな神秘のダイスだね。",
+        "zh-TW": "看起來丟出去就能傳送到另一個地方的神秘骰子。"
+    },
+    {
+        "zh-CN": "里面能记载什么样奇怪的魔法呢？",
+        "en": "What kind of strange magic could be written inside?",
+        "ja": "中にはどんな不思議な魔法が記されているんだろう？",
+        "zh-TW": "裡面能記載什麼樣奇怪的魔法呢？"
+    },
+    {
+        "zh-CN": "千万不要把这个骰子放在食物旁边，食物会消失的！",
+        "en": "Don’t put this dice near food!",
+        "ja": "このダイスを食べ物の近くに置かないで！",
+        "zh-TW": "千萬不要把這個骰子放在食物旁邊，食物會消失的！"
+    },
+    {
+        "zh-CN": "这玩意不就是碳的另一种形态吗？",
+        "en": "Isn't this just another form of carbon?",
+        "ja": "これってただの炭素の別の形態でしょ？",
+        "zh-TW": "這玩意不就是碳的另一種形體嗎？"
+    },
+    {
+        "zh-CN": "黑色的金属看起来就很坚固的样子",
+        "en": "The black metal looks very sturdy.",
+        "ja": "黒い金属はとても頑丈に見えますね。",
+        "zh-TW": "黑色的金屬看起來就很堅固的樣子"
+    },
+    {
+        "zh-CN": "里面包裹了什么样的礼物呢？",
+        "en": "I wonder what kind of gift is wrapped inside?",
+        "ja": "中にはどんなプレゼントが包まれているの？",
+        "zh-TW": "包了什麼樣的禮物呢？"
+    },
+    {
+        "zh-CN": "每个齿轮都严丝合缝，堪称完美的工艺品。",
+        "en": "Each gear fits perfectly, a masterpiece of craftsmanship.",
+        "ja": "各ギアがぴったり合っていて、完璧な職人技です。",
+        "zh-TW": "每個齒輪都嚴絲合縫，堪稱完美的手工藝品。"
+    },
+    {
+        "zh-CN": "可别小看了足球被小学生踢出去时候的杀伤力啊！",
+        "en": "Don't underestimate the power of a soccer ball kicked by a schoolkid!",
+        "ja": "小学生が蹴り出したサッカーボールの威力を侮るなかれ！",
+        "zh-TW": "可別小看了足球被小學生踢出去時候的殺傷力！"
+    },
+    {
+        "zh-CN": "看起来很好吃的样子，真的不尝一下吗？",
+        "en": "It looks very delicious. Are you sure you don’t want to try it?",
+        "ja": "とてもおいしそうですね、本当に試してみませんか？",
+        "zh-TW": "看起來很好吃的樣子，真的不嚐一下嗎？"
+    },
+    {
+        "zh-CN": "憨态可掬，忠实的好伙伴！",
+        "en": "Charming and loyal, a great partner!",
+        "ja": "愛嬌があって、忠実な良きパートナーですよ！",
+        "zh-TW": "憨態可掬，忠實的好夥伴！"
+    },
+    {
+        "zh-CN": "这破摇杆一点也不好用！害的我连招都没放出来！",
+        "en": "This lousy joystick won't let me execute the finishing move!",
+        "ja": "このダメなジョイスティック、必殺技が出せないじゃないか！",
+        "zh-TW": "這手把一點也不好用！害的我連招都沒放出來！"
+    },
+    {
+        "zh-CN": "唉！这个就好用多了！",
+        "en": "Ah, this is much more user- friendly!",
+        "ja": "ああ、これはもっと使いやすい！",
+        "zh-TW": "唉！這個就好用多了！"
+    },
+    {
+        "zh-CN": "纪念众筹突破30W大关",
+        "en": "Celebrating the crowdfunding milestone of surpassing 300,000.",
+        "ja": "30万クラウドファンディング達成記念",
+        "zh-TW": "紀念眾籌突破30萬大關"
+    },
+    {
+        "zh-CN": "古怪神探芬妮登场！",
+        "en": "Quirky Detective Fanny Dice Debut!",
+        "ja": "風変わりな探偵ファニィダイス登場！",
+        "zh-TW": "古怪神探芬妮骰子登場！"
+    },
+    {
+        "zh-CN": "游戏大师恋登场！",
+        "en": "Pro Gamer Ren Dice Debut!",
+        "ja": "ゲームマスターレンダイス登場！",
+        "zh-TW": "遊戲大師戀骰子登場！"
+    },
+    {
+        "zh-CN": "看板娘骰子登场！",
+        "en": "Kanban Musume Dice Debut!",
+        "ja": "看板娘ダイス登場！",
+        "zh-TW": "看板娘骰子登場！"
+    },
+    {
+        "zh-CN": "垃圾箱骰子登场！",
+        "en": "Waste-Collecting robot Dice Debut!",
+        "ja": "回収ロボットダイス登場!",
+        "zh-TW": "垃圾桶骰子登場！"
+    },
+    {
+        "zh-CN": "史莱姆骰子登场！",
+        "en": "Slime Girl Dice Debut!",
+        "ja": "スライムガールダイス登場!",
+        "zh-TW": "史萊姆骰子登場！"
+    },
+    {
+        "zh-CN": "商业之主骰子登场！",
+        "en": "Lord of Commerce Dice Debut!",
+        "ja": "やり手の商人ダイス登場!",
+        "zh-TW": "商業之主骰子登場！"
+    },
+    {
+        "zh-CN": "社员叔叔骰子登场！",
+        "en": "Uncle Employee Dice Debut!",
+        "ja": "会社員ダイス登場!",
+        "zh-TW": "社員叔叔骰子登場！"
+    },
+    {
+        "zh-CN": "猩红辣妹骰子登场！",
+        "en": "Red Hot Dice Debut!",
+        "ja": "深紅のギャルダイス登場!",
+        "zh-TW": "緋紅辣妹骰子登場！"
+    },
+    {
+        "zh-CN": "未制作和未投放：PVE活动骰子",
+        "en": "720340",
+        "ja": "720340",
+        "zh-TW": "720340"
+    },
+    {
+        "zh-CN": "宫灯骰子登场！",
+        "en": "Palace Lantern Dice makes its debut!",
+        "ja": "提灯ダイス到来！",
+        "zh-TW": "宮燈股子登場！"
+    },
+    {
+        "zh-CN": "众筹专属",
+        "en": "Modian Crowdfunding",
+        "ja": "クラウドファンディング限定",
+        "zh-TW": "眾籌專屬"
+    },
+    {
+        "zh-CN": "达摩骰子登场！",
+        "en": "Daruma Dice appears!",
+        "ja": "達磨ダイス登場！",
+        "zh-TW": "達摩股子登場！"
+    },
+    {
+        "zh-CN": "普普通通并没有什么特色。",
+        "en": "It's ordinary and has no special features.",
+        "ja": "普通で何の特徴もない。",
+        "zh-TW": "普普通通並沒有什麼特色。"
+    },
+    {
+        "zh-CN": "好看又不失实用性，旅游外出的小帮手！",
+        "en": "Good looking and practical, a convenient gadget for travel!",
+        "ja": "見た目も良くて実用的、旅行に出るときの便利グッズ！",
+        "zh-TW": "好看又不失實用性，旅遊外出的小幫手！"
+    },
+    {
+        "zh-CN": "这可是对我有重大意义的一个包裹啊！",
+        "en": "This package is very meaningful to me!",
+        "ja": "これは私にとって非常に意味のある荷物です！",
+        "zh-TW": "這可是對我有重大意義的一個包裹啊！"
+    },
+    {
+        "zh-CN": "虽然看起来很笨重，音色却相当好哦！",
+        "en": "It looks heavy, but the sound quality is great!",
+        "ja": "見た目は重そうだけど、音色はとてもいいよ！",
+        "zh-TW": "雖然看起來很笨重，音色卻相當好！"
+    },
+    {
+        "zh-CN": "这可是一整年漫画的合刊杂志，我花了大价钱才整到的！",
+        "en": "This is a compilation of a year's worth of manga magazines that I spent a lot of money on!",
+        "ja": "これは1年分のマンガ誌の合本で、たくさんのお金を出して手に入れました！",
+        "zh-TW": "這可是一整年漫畫的合刊雜誌，我花了鉅款才入手的！"
+    },
+    {
+        "zh-CN": "里面有最新款的替换脸！哦不对，是最新款的pad！",
+        "en": "Inside is the latest model of the face! Oh no, it's the latest iPad!",
+        "ja": "中には最新型のフェイスが！あ、違った、最新型のiPadだ！",
+        "zh-TW": "裡面有最新款的替換臉！喔不對，是最新款的平板！"
+    },
+    {
+        "zh-CN": "和我签订契约！成为魔法少女吧！",
+        "en": "Make a contract with me and become a magical girl!",
+        "ja": "僕と契約して、魔法少女になってよ!",
+        "zh-TW": "和我簽訂契約！成為魔法少女吧！"
+    },
+    {
+        "zh-CN": "鼠鼠真的会偷吃我珍藏多年的大米么？",
+        "en": "Will Shiyu-Shiyu eat my precious rice?",
+        "ja": "ジュジュが大切な米を食べるかな？",
+        "zh-TW": "鼠鼠真的會偷吃我珍藏多年的米呢？"
+    },
+    {
+        "zh-CN": "喝了大力牌能量饮料，每天打工都精神饱满！",
+        "en": "After drinking the energy drink, I'm filled with energy for work every day!",
+        "ja": "エナジードリンクを飲んだら、毎日バイトが元気いっぱい！",
+        "zh-TW": "喝了大力牌能量飲料，每天打工都精神飽滿！"
+    },
+    {
+        "zh-CN": "这可是限定货！",
+        "en": "This is limited edition!",
+        "ja": "これは限定品だよ！",
+        "zh-TW": "這可是限定貨！"
+    },
+    {
+        "zh-CN": "这几盒东西可让我翻遍了整个跳蚤市场！",
+        "en": "I searched through several boxes of items at the flea market!",
+        "ja": "これら数箱の品物は、フリーマーケットで探し回ったんだ！",
+        "zh-TW": "這幾盒東西讓我翻遍了整個跳蚤市場！"
+    },
+    {
+        "zh-CN": "721110",
+        "en": "721110",
+        "ja": "721110",
+        "zh-TW": "721110"
+    },
+    {
+        "zh-CN": "粘滑又美味！",
+        "en": "Slimy and Delicious!",
+        "ja": "ネバネバで美味しい！",
+        "zh-TW": "黏滑又美味！"
+    },
+    {
+        "zh-CN": "能帮助顾客吃得上热乎乎的饭菜才是最棒的！",
+        "en": "Providing customers with a warm meal is the best!",
+        "ja": "お客さんに温かい食事を提供できるのが最高！",
+        "zh-TW": "能讓顧客吃得熱呼呼的餐點才是最棒的！"
+    },
+    {
+        "zh-CN": "其实就是发卡的图案啦~",
+        "en": "It's On The Hair Clip",
+        "ja": "これ実はヘアピンの絵だよ～",
+        "zh-TW": "其實就是發卡的圖案啦~"
+    },
+    {
+        "zh-CN": "里面封印着什么呢？",
+        "en": "What's sealed inside?",
+        "ja": "中には何かが封印されているんでしょうか？",
+        "zh-TW": "裏面封印著什麼呢？"
+    },
+    {
+        "zh-CN": "一个神秘的多面体",
+        "en": "Mysterious polyhedron",
+        "ja": "見た目は神秘的な多面体",
+        "zh-TW": "見た目は神秘的な多面体"
+    },
+    {
+        "zh-CN": "最尖端的桌面3D打印机！",
+        "en": "The most advanced 3D printer!",
+        "ja": "最先端のデスク3Dプリンター！",
+        "zh-TW": "最尖端的桌面3D印表機！"
+    },
+    {
+        "zh-CN": "非常华丽",
+        "en": "Extremely opulent",
+        "ja": "とんでもなくゴージャス",
+        "zh-TW": "非常華麗"
+    },
+    {
+        "zh-CN": "看起来就相当安全！",
+        "en": "Looks quite safe!",
+        "ja": "硬そうなヘルメット、それはかなり安全に見えます！",
+        "zh-TW": "看起來就相當安全！"
+    },
+    {
+        "zh-CN": "工作原理未知。",
+        "en": "The working principle is unknown.",
+        "ja": "作動原理未知",
+        "zh-TW": "工作原理未知。"
+    },
+    {
+        "zh-CN": "整理的井井有序",
+        "en": "Perfectly organized",
+        "ja": "ちゃんと綺麗に整理整頓されている…",
+        "zh-TW": "整理的井井有序"
+    },
+    {
+        "zh-CN": "大电池才有大动力！",
+        "en": "Big batteries bring big power!",
+        "ja": "大容量があってこそ、大きなパワー！",
+        "zh-TW": "大電池才有大動力！"
+    },
+    {
+        "zh-CN": "透露着一股华美的气息！",
+        "en": "It exudes an air of elegance and grandeur!",
+        "ja": "華やかな雰囲気が漂っている",
+        "zh-TW": "透露著壹股華美的氣息！"
+    },
+    {
+        "zh-CN": "感谢香火钱！",
+        "en": "Thank you for the offering!",
+        "ja": "ご奉納いただき、誠にありがとうございました。",
+        "zh-TW": "感謝香火錢！"
+    },
+    {
+        "zh-CN": "普普通通并没有什么特色",
+        "en": "It's ordinary and has no special features.",
+        "ja": "普通で何の特徴もない。",
+        "zh-TW": "普普通通並沒有什麼特色"
+    },
+    {
+        "zh-CN": "鼠鼠我啊终于飞上天咯？",
+        "en": "Have I finally flown into the sky?",
+        "ja": "ついに空を飛びましたか",
+        "zh-TW": "鼠鼠我啊終於飛上天咯？"
+    },
+    {
+        "zh-CN": "五颜六色的流光冲向天际",
+        "en": "Multicolored lights flow into the sky.",
+        "ja": "五色の光が空に向かって流れていく。",
+        "zh-TW": "五顏六色的流光衝向天際"
+    },
+    {
+        "zh-CN": "天边的彩虹，看起来格外的近呢…",
+        "en": "The rainbow in the sky seems very close...",
+        "ja": "空の彩虹、とても近く見えるね…",
+        "zh-TW": "天邊的彩虹，看起來格外的近呢…"
+    },
+    {
+        "zh-CN": "集中一点，登峰造极！",
+        "en": "Let's reach the pinnacle!",
+        "ja": "頂点を極めよう！",
+        "zh-TW": "集中一點，登峰造極！"
+    },
+    {
+        "zh-CN": "夏日、海边、椰子树、草裙舞、做梦呢？",
+        "en": "Summer, beach, coconut trees, hula dancing, ah... is it a dream?",
+        "ja": "夏日、海辺、ヤシの木、フラダンス、あ…夢か？",
+        "zh-TW": "椰林樹影、水清沙幼，是夢嗎？"
+    },
+    {
+        "zh-CN": "让我们把这一切都烧成灰！",
+        "en": "Let's burn everything into ashes!",
+        "ja": "すべてを灰にしてしまおう！",
+        "zh-TW": "讓我們把這一切都燒成灰！"
+    },
+    {
+        "zh-CN": "万紫千红！",
+        "en": "Colorful.",
+        "ja": "色鮮やか",
+        "zh-TW": "萬紫千紅！"
+    },
+    {
+        "zh-CN": "晚霞真是美丽啊！",
+        "en": "The sunset is really beautiful!",
+        "ja": "夕焼けが本当に綺麗だね！",
+        "zh-TW": "晚霞真是美麗啊！"
+    },
+    {
+        "zh-CN": "特效10的描述",
+        "en": "特效10的描述",
+        "ja": "特效10的描述",
+        "zh-TW": "730100"
+    },
+    {
+        "zh-CN": "普普通通并没有什么特色",
+        "en": "It's ordinary and has no special features.",
+        "ja": "ごく普通で何の特徴もないね",
+        "zh-TW": "普普通通並沒有什麼特色"
+    },
+    {
+        "zh-CN": "可爱鼠鼠的卡背",
+        "en": "Shiyu-Shiyu so Cute!",
+        "ja": "ジュジュカワイ！",
+        "zh-TW": "可愛鼠鼠的卡背"
+    },
+    {
+        "zh-CN": "核心已启动",
+        "en": "Core started!",
+        "ja": "コア起動すます！",
+        "zh-TW": "核心已啟動"
+    },
+    {
+        "zh-CN": "闪耀！",
+        "en": "shiny!",
+        "ja": "シャイニー！",
+        "zh-TW": "閃耀！"
+    },
+    {
+        "zh-CN": "好有钱啊！",
+        "en": "So Rich!",
+        "ja": "お金持ち！",
+        "zh-TW": "好有錢啊！"
+    },
+    {
+        "zh-CN": "希望你能取得胜利！",
+        "en": "Wish you all the successes!",
+        "ja": "勝利を手に入れられますように！",
+        "zh-TW": "希望你能取得勝利！"
+    },
+    {
+        "zh-CN": "要有爱和希望！",
+        "en": "Love and hope are always possible!",
+        "ja": "愛と希望は大事！",
+        "zh-TW": "要有愛和希望！"
+    },
+    {
+        "zh-CN": "它正在发光唉！",
+        "en": "It is glowing!",
+        "ja": "やつがキラキラ光ってる",
+        "zh-TW": "它正在發光！"
+    },
+    {
+        "zh-CN": "神秘鬼魅",
+        "en": "Like a ghost!",
+        "ja": "謎のファントム！",
+        "zh-TW": "神秘鬼魅！"
+    },
+    {
+        "zh-CN": "奢华绚丽",
+        "en": "Luxurious and gorgeous!",
+        "ja": "豪華絢爛！",
+        "zh-TW": "奢華絢麗！"
+    },
+    {
+        "zh-CN": "端庄典雅",
+        "en": "Dignified and elegant!",
+        "ja": "端正でエレガント！",
+        "zh-TW": "端莊典雅！"
+    },
+    {
+        "zh-CN": "天上掉蛋糕啦！",
+        "en": "It is raining cakes!",
+        "ja": "空から降るケーキ雨だ！",
+        "zh-TW": "天上掉蛋糕啦！"
+    },
+    {
+        "zh-CN": "通行证奖励",
+        "en": "Pass Reward",
+        "ja": "シーズンパス報酬",
+        "zh-TW": "通行證獎勵"
+    },
+    {
+        "zh-CN": "通行证奖励",
+        "en": "Pass Reward",
+        "ja": "シーズンパス報酬",
+        "zh-TW": "通行證獎勵"
+    },
+    {
+        "zh-CN": "VIP级别的超稀有船票！",
+        "en": "VIP Super Rare Ticket!",
+        "ja": "夢想号に乗るための超レアチケット！",
+        "zh-TW": "VIP級別的超稀有船票！"
+    },
+    {
+        "zh-CN": "通行证奖励",
+        "en": "Pass Reward",
+        "ja": "シーズンパス報酬",
+        "zh-TW": "通行證獎勵"
+    },
+    {
+        "zh-CN": "通行证奖励",
+        "en": "Pass Reward",
+        "ja": "シーズンパス報酬",
+        "zh-TW": "通行證獎勵"
+    },
+    {
+        "zh-CN": "梦想号大作战活动",
+        "en": "Dreama Battle",
+        "ja": "富、名声、力‐夢想号大作戦",
+        "zh-TW": "夢想號大作戰活動"
+    },
+    {
+        "zh-CN": "梦想号大作战活动",
+        "en": "Dreama Battle",
+        "ja": "高そうな見た目をしてる‐夢想号大作戦",
+        "zh-TW": "夢想號大作戰活動"
+    },
+    {
+        "zh-CN": "通行证奖励",
+        "en": "Pass Reward",
+        "ja": "シーズンパス報酬",
+        "zh-TW": "通行證獎勵"
+    },
+    {
+        "zh-CN": "御魂庆典上弦月活动",
+        "en": "Soul Celebration Crescent Moon",
+        "ja": "御魂祭の上弦の月",
+        "zh-TW": "禦魂慶典上弦月活動"
+    },
+    {
+        "zh-CN": "社火游会活动",
+        "en": "Campfire Carnival event",
+        "ja": "社火遊会イベント報酬",
+        "zh-TW": "社火遊會活動"
+    },
+    {
+        "zh-CN": "众筹专属",
+        "en": "Modian Crowdfunding",
+        "ja": "クラウドファンディング限定",
+        "zh-TW": "眾籌專屬"
+    },
+    {
+        "zh-CN": "好甜！",
+        "en": "So sweet!",
+        "ja": "甘すぎ！",
+        "zh-TW": "好甜！"
+    },
+    {
+        "zh-CN": "闪亮亮",
+        "en": "Shining！",
+        "ja": "キラキラ",
+        "zh-TW": "閃亮亮"
+    },
+    {
+        "zh-CN": "复古网格",
+        "en": "Retro Grid",
+        "ja": "レトログリッド",
+        "zh-TW": "複古網格"
+    },
+    {
+        "zh-CN": "星引擎Party！",
+        "en": "Astral Party!",
+        "ja": "アストラルパーティ！",
+        "zh-TW": "星引擎Party！"
+    },
+    {
+        "zh-CN": "姐姐~",
+        "en": "Sister！",
+        "ja": "お姉さん～",
+        "zh-TW": "姐姐~"
+    },
+    {
+        "zh-CN": "妹妹~",
+        "en": "Younger Sister！",
+        "ja": "妹さん～",
+        "zh-TW": "妹妹~"
+    },
+    {
+        "zh-CN": "这能拉上来嘛？",
+        "en": "Will this one come up?",
+        "ja": "これ....釣れんの？",
+        "zh-TW": "這能拉上來嘛？"
+    },
+    {
+        "zh-CN": "上大鱼啦！",
+        "en": "Got a big one!",
+        "ja": "大魚だああああああぁ！",
+        "zh-TW": "上大魚啦！"
+    },
+    {
+        "zh-CN": "龙宫乐园大门",
+        "en": "Dragon Palace Amusement Park Gate",
+        "ja": "龍宮遊園地",
+        "zh-TW": "龍宮樂園大門"
+    },
+    {
+        "zh-CN": "姑姑和侄女",
+        "en": "Aunt and Niece",
+        "ja": "叔母と姪",
+        "zh-TW": "姑姑和侄女"
+    },
+    {
+        "zh-CN": "泳池戏水！",
+        "en": "Pool Splash！",
+        "ja": "水遊び！",
+        "zh-TW": "泳池戲水！"
+    },
+    {
+        "zh-CN": "泳池派对欢乐多！",
+        "en": "Endless Fun at the Pool Party!",
+        "ja": "プールパーティー快楽無限！",
+        "zh-TW": "泳池派對歡樂多！"
+    },
+    {
+        "zh-CN": "提升羁绊经验的道具。\n包装平平无奇，口感一般，但送人吃完全不成问题。\n羁绊经验+10。",
+        "en": "Item for Increasing friendship level\nWith just one sip, you can feel the passion put into this liquor!\nFriendship EXP +10.",
+        "ja": "絆の経験値を上げるアイテム\nパッケージは特に目立たないし、味も普通ですが、贈り物としてなら全く問題ありません。\n絆の経験値+10",
+        "zh-TW": "提升羈絆經驗的道具。\n包裝平平無奇，口感一般，但送人吃完全不成問題。\n羈絆經驗+10。"
+    },
+    {
+        "zh-CN": "提升羁绊经验的道具。\n到处都能看见的直板智能手机，满足日常需求。\n羁绊经验+10。",
+        "en": "Item for Increasing friendship level\nSmartphones that are seen everywhere, meeting daily needs.\nFriendship EXP +10.",
+        "ja": "絆の経験値を上げるアイテム\nどこでも見かける直立型スマートフォン、日常のニーズに対応。\n絆の経験値+10",
+        "zh-TW": "提升羈絆經驗的道具。\n到處都能看見的智慧型手機，滿足日常需求。\n羈絆經驗+10。"
+    },
+    {
+        "zh-CN": "提升羁绊经验的道具。\n浴室里常见的小黄鸭，充满了童年回忆。\n羁绊经验+10。",
+        "en": "Item for Increasing friendship level\nYellow duck in bathrooms, brimming with childhood nostalgia.\nFriendship EXP +10.",
+        "ja": "絆の経験値を上げるアイテム\nバスルームでよく見かける小さなイエローダック、子供の頃の思い出に満ちています。\n絆の経験値+10",
+        "zh-TW": "提升羈絆經驗的道具。\n浴室裡常見的小黃鴨，充滿了童年回憶。\n羈絆經驗+10。"
+    },
+    {
+        "zh-CN": "提升羁绊经验的道具。\n只适合在家里穿的舒适的居家服。\n羁绊经验+10。",
+        "en": "Item for Increasing friendship level\nComfortable loungewear right for wearing at home.\nFriendship EXP +10.",
+        "ja": "絆の経験値を上げるアイテム\n家で着るに快適なルームウェア\n絆の経験値+10",
+        "zh-TW": "提升羈絆經驗的道具。\n只適合在家裡穿的舒適的居家服。\n羈絆經驗+10。"
+    },
+    {
+        "zh-CN": "提升羁绊经验的道具。\n随处都可以买到的口感还不错的饮料。\n羁绊经验+10。",
+        "en": "Item for Increasing friendship level\nBeverages with good taste that can be purchased everywhere.\nFriendship EXP +10.",
+        "ja": "絆の経験値を上げるアイテム\nどこでも買える口当たりのいい飲み物。\n絆の経験値+10",
+        "zh-TW": "提升羈絆經驗的道具。\n隨處都可以買到的口感還不錯的飲料。\n羈絆經驗+10。"
+    },
+    {
+        "zh-CN": "提升羁绊经验的道具。\n商场里买的高档礼盒巧克力，看起来非常的高级，但总感觉有点俗气。\n羁绊经验+60。",
+        "en": "Item for Increasing friendship level\nThe fancy gift- boxed chocolates bought at the mall look very upscale\nFriendship EXP +60.",
+        "ja": "絆の経験値を上げるアイテム\nデパートで買った高級なギフトボックス入りチョコ、見た目は非常に高級ですが、なんだか派手すぎる気がします。\n絆の経験値+60",
+        "zh-TW": "提升羈絆經驗的道具。\n商場裡買的高級禮盒巧克力，看起來非常的高級，但總覺得有點俗氣。\n羈絆經驗+60。"
+    },
+    {
+        "zh-CN": "提升羁绊经验的道具。\n非常棒的平板电脑，用起来流畅，兼顾娱乐和生产力！\n羁绊经验+60。",
+        "en": "Item for Increasing friendship level\nAn amazing tablet balancing entertainment and work!\nFriendship EXP +60.",
+        "ja": "絆の経験値を上げるアイテム\nとても素晴らしいタブレット、使いやすく、エンタメンと生産性の両方とも使えます！\n絆の経験値+60",
+        "zh-TW": "提升羈絆經驗的道具。\n非常棒的平板電腦，用起來流暢，兼顧娛樂和生產力！\n羈絆經驗+60。"
+    },
+    {
+        "zh-CN": "提升羁绊经验的道具。\n精致的小熊玩偶，软绵绵的手感很好。\n羁绊经验+60。",
+        "en": "Item for Increasing friendship level\nA delicate teddy bear, with a soft and fluffy touch.\nFriendship EXP +60.",
+        "ja": "絆の経験値を上げるアイテム\n精巧なくまのぬいぐるみ、柔らく手ごたえがとても良い\n絆の経験値+60",
+        "zh-TW": "提升羈絆經驗的道具。\n精緻的小熊玩偶，軟綿綿的手感很好。\n羈絆經驗+60。"
+    },
+    {
+        "zh-CN": "提升羁绊经验的道具。\n商场能买到的当季流行款，虽然不是很独特但是非常务实。\n羁绊经验+60。",
+        "en": "Item for Increasing friendship level\nThe in- season fashion finds at the mall might not be unique but are very practical.\nFriendship EXP +60.",
+        "ja": "絆の経験値を上げるアイテム\nショップで入手できる今季のトレンドアイテム、普通に実用的\n絆の経験値+60",
+        "zh-TW": "提升羈絆經驗的道具。\n商場買得到的當季流行款，雖然不是很獨特但非常務實。\n羈絆經驗+60。"
+    },
+    {
+        "zh-CN": "提升羁绊经验的道具。\n一口就能感觉到酒吧老板对这款酒注入的心血！\n羁绊经验+60。",
+        "en": "Item for Increasing friendship level\nWith just one sip, you can feel the passion put into this liquor!\nFriendship EXP +60.",
+        "ja": "絆の経験値を上げるアイテム\n一口でバーのオーナーさんがこのお酒に込めた熱意を感じる\n絆の経験値+60",
+        "zh-TW": "提升羈絆經驗的道具。\n一口就能感受到酒吧老闆對這款酒注入的心血！\n羈絆經驗+60。"
+    },
+    {
+        "zh-CN": "提升羁绊经验的道具。\n某人亲手制作的巧克力，虽然模具歪歪扭扭，但甜度刚好，况且饱含爱意~\n羁绊经验+300。",
+        "en": "Item for Increasing friendship levelHandmade chocolates, a bit misshapen but with the sweetness just right and filled with love.\nFriendship EXP +300.",
+        "ja": "絆の経験値を上げるアイテム\n誰かが手作りしたチョコレート、型がへんだけれども甘さがほどよく、愛を感じる。\n絆の経験値+300",
+        "zh-TW": "提升羈絆經驗的道具。\n某人親手製作的巧克力，雖然模具歪歪扭扭，但甜度剛好，況且飽含愛意~\n羈絆經驗+300。"
+    },
+    {
+        "zh-CN": "提升羁绊经验的道具。\n这是只存在于传说中的电脑配件，用做礼物简直是奢侈的不行！\n羁绊经验+300。",
+        "en": "Item for Increasing friendship level\nThis computer accessory is the stuff of legends.\nFriendship EXP +300.",
+        "ja": "絆の経験値を上げるアイテム\n伝説の中でしか存在しないコンピュータのアクセサリー、贈り物に使うなんて贅沢すぎ\n絆の経験値+300",
+        "zh-TW": "提升羈絆經驗的道具。\n這是只存在於傳說中的電腦配件，用做禮物簡直是奢侈的不行！\n羈絆經驗+300。"
+    },
+    {
+        "zh-CN": "提升羁绊经验的道具。\n星引擎派对小怪兽限定手办！\n羁绊经验+300。",
+        "en": "Item for Increasing friendship level\nA limited edition figurine of the cute monster from the Astral Party!\nFriendship EXP +300.",
+        "ja": "絆の経験値を上げるアイテム\nアストラルパーティのモンスター限定フィギュア！\n絆の経験値+300",
+        "zh-TW": "提升羈絆經驗的道具。\n星引擎派對小怪獸限定手辦！\n羈絆經驗+300。"
+    },
+    {
+        "zh-CN": "提升羁绊经验的道具。\n男生女生皆可！\n羁绊经验+300。",
+        "en": "Item for Increasing friendship level\nSuitable for both guys and gals!\nFriendship EXP +300.",
+        "ja": "絆の経験値を上げるアイテム\n男の子でも女の子でもあり！\n絆の経験値+300",
+        "zh-TW": "提升羈絆經驗的道具。\n男生女生皆可！\n羈絆經驗+300。"
+    },
+    {
+        "zh-CN": "提升羁绊经验的道具。\n包装就看起来非常的古老且价格不菲！\n羁绊经验+300。",
+        "en": "Item for Increasing friendship level\nLooks very old and expensive.\nFriendship EXP +300.",
+        "ja": "絆の経験値を上げるアイテム\nパッケージは非常に高価で古いように見えます！\n絆の経験値+300",
+        "zh-TW": "提升羈絆經驗的道具。\n包裝就看起來非常的古老且價格不菲！\n羈絆經驗+300。"
+    },
+    {
+        "zh-CN": "黑底金字奢华卡片，有了这个还愁送礼物？\n使用后羁绊等级全满",
+        "en": "A luxurious card—what's there to worry about with this in hand?\nAfter using, Friendship Level will be maxed out.",
+        "ja": "気品を纏うマットブラック、重厚感と高級感を併せ持つ\n金属製カード、これがあればギフトに困らないにぇ～♪\n使用後、絆レベルMAXまで上昇。",
+        "zh-TW": "黑底金字奢華卡片，有了這個還愁送禮物？\n使用後羈絆等級全滿"
+    },
+    {
+        "zh-CN": "缔结契约用道具。\n如太阳一般耀眼。",
+        "en": "Used to improve friendships and forge bond.\nAs dazzling as the sun",
+        "ja": "契約を結ぶ道具。\n太陽のようにまぶしい。",
+        "zh-TW": "締結契約用道具。\n如太陽一般耀眼。"
+    },
+    {
+        "zh-CN": "缔结契约用道具。\n如明月一般洁白。",
+        "en": "Used to improve friendships and forge bond.\nAs beautiful as the moon",
+        "ja": "契約を結ぶ道具。\n月のようにきれい。",
+        "zh-TW": "締結契約用道具。\n如明月一般潔白。"
+    },
+    {
+        "zh-CN": "缔结契约用道具。\n如山峦一般厚重。",
+        "en": "Used to improve friendships and forge bond.\nAs heavy as a mountain",
+        "ja": "契約を結ぶ道具。\n山のようにおもい。",
+        "zh-TW": "締結契約用道具。\n如山巒一般厚重。"
+    },
+    {
+        "zh-CN": "缔结契约用道具。\n如冰川一般冷酷。",
+        "en": "Used to improve friendships and forge bond.\nAs cold as a glacier",
+        "ja": "契約を結ぶ道具。\n氷河のようにつめたい。",
+        "zh-TW": "締結契約用道具。\n如冰川一般冷酷。"
+    },
+    {
+        "zh-CN": "缔结契约用道具。\n如大气一般缥缈。",
+        "en": "Used to improve friendships and forge bond.\nAs illusory as the atmosphere",
+        "ja": "契約を結ぶ道具。\n大気のようにまぼろし。",
+        "zh-TW": "締結契約用道具。\n如大氣一般縹緲。"
+    },
+    {
+        "zh-CN": "缔结契约用道具。\n如流水一般不羁。",
+        "en": "Used to improve friendships and forge bond.\nAs free as water",
+        "ja": "契約を結ぶ道具。\n水のように自由で。",
+        "zh-TW": "締結契約用道具。\n如流水一般不羈。"
+    },
+    {
+        "zh-CN": "缔结契约用道具。\n如岩浆一般滚烫。",
+        "en": "Used to improve friendships and forge bond.\nAs hot as lava",
+        "ja": "契約を結ぶ道具。\n溶岩のように熱い。",
+        "zh-TW": "締結契約用道具。\n如岩漿一般滾燙。"
+    },
+    {
+        "zh-CN": "缔结契约用道具。\n如黑夜一般鬼魅。",
+        "en": "Used to improve friendships and forge bond.\nAs mysterious as the night",
+        "ja": "契約を結ぶ道具。\n夜のように神秘。",
+        "zh-TW": "締結契約用道具。\n如黑夜一般鬼魅。"
+    },
+    {
+        "zh-CN": "缔结契约用道具。\n星引擎的燃料。",
+        "en": "Used to improve friendships and forge bond.\nFuel for the Star Engine",
+        "ja": "契約を結ぶ道具。\nスターエンジンの燃料。",
+        "zh-TW": "締結契約用道具。\n星引擎的燃料。"
+    },
+    {
+        "zh-CN": "780100超级徽章描述",
+        "en": "780100",
+        "ja": "780100",
+        "zh-TW": "780100"
+    },
+    {
+        "zh-CN": "用于合作挑战模式的角色强化",
+        "en": "For Character Enhancement in Co-op Challenge",
+        "ja": "協力チャレンジモードのキャラクターの強化に使用するアイテム",
+        "zh-TW": "用於合作挑戰模式的角色強化"
+    },
+    {
+        "zh-CN": "用于合作挑战模式的角色强化",
+        "en": "For Character Enhancement in Co-op Challenge",
+        "ja": "協力チャレンジモードのキャラクターの強化に使用するアイテム",
+        "zh-TW": "用於合作挑戰模式的角色強化"
+    },
+    {
+        "zh-CN": "蕴含着非常强大的魔力！",
+        "en": "Contains very powerful magic!",
+        "ja": "非常に強力な魔力が秘められている…",
+        "zh-TW": "蘊含著非常強大的魔力！"
+    },
+    {
+        "zh-CN": "抽奖券",
+        "en": "Gacha Cassette",
+        "ja": "抽選券",
+        "zh-TW": "抽獎券"
+    },
+    {
+        "zh-CN": "时装券",
+        "en": "Costume Ticket",
+        "ja": "スキン抽選券",
+        "zh-TW": "造型券"
+    },
+    {
+        "zh-CN": "测试用宝箱",
+        "en": "测试用宝箱",
+        "ja": "测试用宝箱",
+        "zh-TW": "0"
+    },
+    {
+        "zh-CN": "测试用宝箱",
+        "en": "测试用宝箱",
+        "ja": "测试用宝箱",
+        "zh-TW": "0"
+    },
+    {
+        "zh-CN": "随机获得一个紫色礼物",
+        "en": "Randomly receive a purple rarity gift",
+        "ja": "ランダムにレアギフトを得る",
+        "zh-TW": "隨機獲得一個紫色禮物"
+    },
+    {
+        "zh-CN": "自选一个角色（包含：商业之主；古怪神探；社恐修女；暗影忍者；社员叔叔；猩红辣妹；游戏大师；看板娘；垃圾箱；肉弹战车；史莱姆；旗袍娘）",
+        "en": "Select one character\n（contain：Lord of Commerce；Quirky Detective；Shy Nun；Uncle Employee；Red Hot；Pro Gamer；Kanban Musume；Waste-Collecting robot ；Human Chariot；Slime Girl；Cheongsam Girl）",
+        "ja": "キャラ１つ交換【含む：「やり手の商人」「風変わりな探偵」「ぼっちシスター」「暗躍する忍者」「会社員」「深紅のギャル」「ゲームマスター」「看板娘」「回収ロボット」「肉弾戦車」「スライムガール」「ドレスガール」】",
+        "zh-TW": "自選壹個角色（包含：商業之主；古怪神探；社恐修女；暗影忍者；社員叔叔；猩紅辣妹；遊戲大師；看板娘；垃圾箱；肉彈戰車；史萊姆；旗袍娘）"
+    },
+    {
+        "zh-CN": "自选一个角色（包含：商业之主；古怪神探；社恐修女；暗影忍者；社员叔叔；猩红辣妹；游戏大师；看板娘；垃圾箱；肉弹战车；史莱姆；旗袍娘；命运少女；太刀使；绿洲女王；家政机器人；午夜闪光；网络魅影；）",
+        "en": "Choose a character (Includes: Lord of Commerce; Quirky Detective; Shy Nun; Shadow Ninja; Uncle Employee; Red Hot; Pro Gamer; Kanban Musume; Waste-Collecting Robot; Human Chariot; Slime Girl; Qipao Girl; Destiny Girl; Katana Master; Oasis Queen; Robot Maid; Midnight Flash; Cyber Phantom).",
+        "ja": "キャラ１つ交換【含む：「やり手の商人」「風変わりな探偵」「ぼっちシスター」「暗躍する忍者」「会社員」「深紅のギャル」「ゲームマスター」「看板娘」「回収ロボット」「肉弾戦車」「スライムガール」「ドレスガール」「デスティニーガール」「太刀使い」「オアシスクイーン」「ロボメイド」「真夜中の閃光」「ネットファントム」】",
+        "zh-TW": "自選壹個角色（包含：商業之主；古怪神探；社恐修女；暗影忍者；社員叔叔；猩紅辣妹；遊戲大師；看板娘；垃圾箱；肉彈戰車；史萊姆；旗袍娘；命運少女；太刀使；綠洲女王；家政機器人；午夜閃光；網絡魅影；）"
+    },
+    {
+        "zh-CN": "开启后获得所有的紫色礼物各一份。",
+        "en": "Open the box to receive one of every purple gift.",
+        "ja": "全ての紫色ギフトを１つ貰える。",
+        "zh-TW": "開啓後獲得所有的紫色禮物各壹份。"
+    },
+    {
+        "zh-CN": "自选一个角色（包含：商业之主；古怪神探；社恐修女；暗影忍者；社员叔叔；猩红辣妹；游戏大师；看板娘；垃圾箱；肉弹战车；史莱姆；旗袍娘；命运少女；太刀使；绿洲女王；家政机器人；）",
+        "en": "Choose a character (Includes: Lord of Commerce; Quirky Detective; Shy Nun; Shadow Ninja; Uncle Employee; Red Hot; Pro Gamer; Kanban Musume; Waste-Collecting Robot; Human Chariot; Slime Girl; Qipao Girl; Destiny Girl; Katana Master; Oasis Queen; Robot Maid; ).",
+        "ja": "キャラ１つ交換【含む：「やり手の商人」「風変わりな探偵」「ぼっちシスター」「暗躍する忍者」「会社員」「深紅のギャル」「ゲームマスター」「看板娘」「回収ロボット」「肉弾戦車」「スライムガール」「ドレスガール」「デスティニーガール」「太刀使い」「オアシスクイーン」「ロボメイド」】",
+        "zh-TW": "自選壹個角色（包含：商業之主；古怪神探；社恐修女；暗影忍者；社員叔叔；猩紅辣妹；遊戲大師；看板娘；垃圾箱；肉彈戰車；史萊姆；旗袍娘；命運少女；太刀使；綠洲女王；家政機器人；）"
+    },
+    {
+        "zh-CN": "使用后获得礼包内所有物品",
+        "en": "使用后获得礼包内所有物品",
+        "ja": "使用后获得礼包内所有物品",
+        "zh-TW": "0"
+    },
+    {
+        "zh-CN": "使用后获得礼包内所有物品",
+        "en": "使用后获得礼包内所有物品",
+        "ja": "使用后获得礼包内所有物品",
+        "zh-TW": "0"
+    },
+    {
+        "zh-CN": "使用后获得礼包内所有物品",
+        "en": "使用后获得礼包内所有物品",
+        "ja": "使用后获得礼包内所有物品",
+        "zh-TW": "0"
+    },
+    {
+        "zh-CN": "使用后获得礼包内所有物品",
+        "en": "使用后获得礼包内所有物品",
+        "ja": "使用后获得礼包内所有物品",
+        "zh-TW": "0"
+    },
+    {
+        "zh-CN": "使用后获得第1季全部角色",
+        "en": "使用后获得第1季全部角色",
+        "ja": "使用后获得第1季全部角色",
+        "zh-TW": "0"
+    },
+    {
+        "zh-CN": "自选1个紫色礼物",
+        "en": "Choose a materialof Purple Gift",
+        "ja": "一つのレアギフトを得る",
+        "zh-TW": "自選一個紫色禮物"
+    },
+    {
+        "zh-CN": "获得以下蓝色材料",
+        "en": "获得以下蓝色材料",
+        "ja": "获得以下蓝色材料",
+        "zh-TW": "自選一個"
+    },
+    {
+        "zh-CN": "新手角色礼包",
+        "en": "新手角色礼包",
+        "ja": "新手角色礼包",
+        "zh-TW": "新手角色禮包"
+    },
+    {
+        "zh-CN": "新手抽卡券礼包",
+        "en": "新手抽卡券礼包",
+        "ja": "新手抽卡券礼包",
+        "zh-TW": "新手抽卡券禮包"
+    },
+    {
+        "zh-CN": "羁绊助力礼包",
+        "en": "羁绊助力礼包",
+        "ja": "羁绊助力礼包",
+        "zh-TW": "#N/A"
+    },
+    {
+        "zh-CN": "缔结契约礼包",
+        "en": "缔结契约礼包",
+        "ja": "缔结契约礼包",
+        "zh-TW": "締結約禮包"
+    },
+    {
+        "zh-CN": "自选一个羁绊材料",
+        "en": "Choose a material of blue quality to obtain.",
+        "ja": "青品質素材を選択して取得できます",
+        "zh-TW": "自選一個藍色材料"
+    },
+    {
+        "zh-CN": "使用后获得侦探骰子+300星盘",
+        "en": "使用后获得侦探骰子+300星盘",
+        "ja": "使用后获得侦探骰子+300星盘",
+        "zh-TW": "#N/A"
+    },
+    {
+        "zh-CN": "使用后获得恋骰子+300星盘",
+        "en": "使用后获得恋骰子+300星盘",
+        "ja": "使用后获得恋骰子+300星盘",
+        "zh-TW": "#N/A"
+    },
+    {
+        "zh-CN": "恋啦啦队+名片",
+        "en": "恋啦啦队+名片",
+        "ja": "恋啦啦队+名片",
+        "zh-TW": "#N/A"
+    },
+    {
+        "zh-CN": "抽奖券*40",
+        "en": "抽奖券*40",
+        "ja": "抽奖券*40",
+        "zh-TW": "#N/A"
+    },
+    {
+        "zh-CN": "自选徽章盒*15",
+        "en": "自选徽章盒*15",
+        "ja": "自选徽章盒*15",
+        "zh-TW": "#N/A"
+    },
+    {
+        "zh-CN": "自选礼物*",
+        "en": "自选礼物*",
+        "ja": "自选礼物*",
+        "zh-TW": "自選禮物禮包"
+    },
+    {
+        "zh-CN": "910240",
+        "en": "910240",
+        "ja": "910240",
+        "zh-TW": "#N/A"
+    },
+    {
+        "zh-CN": "910250",
+        "en": "910250",
+        "ja": "910250",
+        "zh-TW": "#N/A"
+    },
+    {
+        "zh-CN": "910260",
+        "en": "910260",
+        "ja": "910260",
+        "zh-TW": "#N/A"
+    },
+    {
+        "zh-CN": "随机开出以下其中的一项：星盘*5、星币*30、星币*100、随机绿色礼物*1。",
+        "en": "Receive one of the following items: Star Disc *5, Star Coins *30, Star Coins *100, random green gifts*1",
+        "ja": "下記のアイテムを１つランダムに獲得できます：星盤×5、 星幣×30、星幣×100、緑色ランダムギフトボックス×1。",
+        "zh-TW": "隨機開出以下其中的一項：星盤*5、星幣*30、星幣*100、隨機綠色禮物*1。"
+    },
+    {
+        "zh-CN": "雍容盛景皮肤+动态名片",
+        "en": "Splendor Royale Skins+Profile Card(Animated)",
+        "ja": "雍容絶景スキン＋名刺(ダイナミック)",
+        "zh-TW": "雍容盛景造型+動態名片"
+    },
+    {
+        "zh-CN": "付费商店的直购皮肤打5折，每次最多使用1张。",
+        "en": "Direct-purchase skins in the Shop are 50% off, limited to one coupon per transaction.",
+        "ja": "スターショップでスキン購入時にご利用できます、1回限り1枚のみ使用可能。",
+        "zh-TW": "付費商店的直購造型50%off，每次最多使用1張。"
+    },
+    {
+        "zh-CN": "付费商店的直购皮肤打3折，每次最多使用1张。",
+        "en": "Direct-purchase skins in the Shop are 30% off, limited to one coupon per transaction.",
+        "ja": "スターショップでスキン購入時にご利用できます、1回限り1枚のみ使用可能。",
+        "zh-TW": "付費商店的直購造型30%off，每次最多使用1張。"
+    },
+    {
+        "zh-CN": "付费商店的直购皮肤打7折，每次最多使用1张。",
+        "en": "Direct-purchase skins in the Shop are 70% off, limited to one coupon per transaction.",
+        "ja": "スターショップでスキン購入時にご利用できます、1回限り1枚のみ使用可能。",
+        "zh-TW": "付費商店的直購造型70%off，每次最多使用1張。"
+    },
+    {
+        "zh-CN": "从当期UP池获得，可以兑换当期UP角色。\n过期会自动转化为星之拼图。",
+        "en": "Obtained from rate up event character gacha. Used to exchange for the event character.\nWill be converted into Star Jigsaw after the event.\n",
+        "ja": "当期のピックアップガチャで手に入れて、これでピックアップのキャラを交換できます。時限切れたらスターパズルに転換されます。",
+        "zh-TW": "從當期UP池取得，可以兌換當期UP角色。\n過期會自動轉換為星之拼圖。"
+    },
+    {
+        "zh-CN": "通过完成任务获取",
+        "en": "Via tasks",
+        "ja": "ミッションを達成することで獲得",
+        "zh-TW": "通過完成任務獲取"
+    },
+    {
+        "zh-CN": "通过完成任务获取",
+        "en": "Via tasks",
+        "ja": "ミッションを達成することで獲得",
+        "zh-TW": "通過完成任務獲取"
+    },
+    {
+        "zh-CN": "梦想号大作战活动专属抽奖券",
+        "en": "Dreama Battle event exclusive lottery ticket",
+        "ja": "夢想号大作戦ガチャで使用するアイテム",
+        "zh-TW": "夢想號大作戰活動專屬抽獎券"
+    },
+    {
+        "zh-CN": "梦想号大作战活动兑换道具",
+        "en": "Dreama Battle event exchange item",
+        "ja": "夢想号大作戦イベントショップで使用するアイテム",
+        "zh-TW": "夢想號大作戰活動兌換道具"
+    },
+    {
+        "zh-CN": "魂庆典上弦月活动专属抽奖券",
+        "en": "Soul Celebration Crescent Moon exclusive lottery ticket",
+        "ja": "御魂祭の上弦の月ガチャで使用するアイテム",
+        "zh-TW": "魂慶典上弦月活動專屬抽獎券"
+    },
+    {
+        "zh-CN": "魂庆典上弦月活动兑换道具",
+        "en": "Soul Celebration Crescent Moon exchange item",
+        "ja": "御魂祭の上弦の月イベントショップで使用するアイテム",
+        "zh-TW": "魂慶典上弦月活動兌換道具"
+    },
+    {
+        "zh-CN": "限时联动",
+        "en": "Specials Collaboration",
+        "ja": "限时联动",
+        "zh-TW": "限時聯動"
+    },
+    {
+        "zh-CN": "社火游会专属抽奖券",
+        "en": "Exclusive Campfire Carnival Gacha",
+        "ja": "社火遊会専属ガチャチケット",
+        "zh-TW": "社火遊會專屬抽獎券"
+    },
+    {
+        "zh-CN": "社火游会专属兑换道具",
+        "en": "Exclusive Campfire Carnival Exchange Item",
+        "ja": "社火遊会専属交換用アイテム",
+        "zh-TW": "社火遊會專屬兌換道具"
+    },
+    {
+        "zh-CN": "测试专用代币，测试结束后会回收",
+        "en": "Test Token, will be reclaimed after the test ends",
+        "ja": "テスト用のコイン、テスト終了後は回収される",
+        "zh-TW": "測試專用代幣，測試結束後會回收"
+    },
+    {
+        "zh-CN": "学院食堂争夺战专属抽奖券",
+        "en": "Academy Cafeteria Battle Exclusive Gacha Ticket",
+        "ja": "学院食堂争奪戦専用ガチャチケット",
+        "zh-TW": "學院食堂爭奪戰專屬抽獎券"
+    },
+    {
+        "zh-CN": "学院食堂争夺战专属兑换道具",
+        "en": "Academy Cafeteria Battle Exclusive Exchange Ticket",
+        "ja": "学院食堂争奪戦専用交換用チケット",
+        "zh-TW": "學院食堂爭奪戰專兌換道具"
+    },
+    {
+        "zh-CN": "超级侦探超然解析专属兑换道具",
+        "en": "Super Detective Mystic Insight Exclusive exchange items",
+        "ja": "イベント：スーパー探偵超然解析専用交換用アイテム",
+        "zh-TW": "超級偵探超然解析專屬兌換道具"
+    },
+    {
+        "zh-CN": "龙宫秘宝争夺战专属抽奖券",
+        "en": "Dragon Palace’s Hidden Treasure: Relic battle Exclusive Gacha Ticket",
+        "ja": "竜宮争奪戦！専用ガチャチケット",
+        "zh-TW": "龍宮秘寶爭奪戰專屬抽獎券"
+    },
+    {
+        "zh-CN": "龙宫秘宝争夺战专属兑换道具",
+        "en": "Dragon Palace’s Hidden Treasure: Relic battle Exclusive Exchange Ticket",
+        "ja": "竜宮争奪戦！専用交換用チケット",
+        "zh-TW": "龍宮秘寶爭奪戰專屬兌換道具"
+    },
+    {
+        "zh-CN": "初始皮肤",
+        "en": "Default Skin",
+        "ja": "Default Skin",
+        "zh-TW": "初始造型"
+    },
+    {
+        "zh-CN": "缔结契约成功后可使用",
+        "en": "Available after Bond Forged",
+        "ja": "契約が成功すると使用可能",
+        "zh-TW": "締結契約成功後可使用"
+    },
+    {
+        "zh-CN": "通行证皮肤",
+        "en": "Season Pass Skin",
+        "ja": "プレミアムミッションパススキン",
+        "zh-TW": "通行證造型"
+    },
+    {
+        "zh-CN": "龙宫秘宝争夺战活动抽奖获得",
+        "en": "Dragon Palace’s Hidden Treasure: Relic battle Event get",
+        "ja": "竜宮争奪戦！隠されし秘宝を求めて～イベントガチャ獲得",
+        "zh-TW": "龍宮秘寶爭奪戰活動抽獎獲得"
+    },
+    {
+        "zh-CN": "梦想号大作战活动抽奖获得",
+        "en": "Dreama Battle Event get",
+        "ja": "夢想号大作戦イベントガチャ獲得",
+        "zh-TW": "夢想號大作戰活動抽獎獲得"
+    },
+    {
+        "zh-CN": "泳池派对通行证获得",
+        "en": "Pool Party Pass Reward",
+        "ja": "プールパーティーパス報酬",
+        "zh-TW": "泳池派對通行證獲得"
+    },
+    {
+        "zh-CN": "学院食堂争夺战活动抽奖获得",
+        "en": "Obtained from Academy Cafeteria Battle Event Draw",
+        "ja": "学院食堂争奪戦ガチャ取得",
+        "zh-TW": "學院食堂爭奪戰活動抽獎獲得"
+    },
+    {
+        "zh-CN": "甜蜜陷阱通行证获得",
+        "en": "Sweet Trap Pass Obtained",
+        "ja": "ハニートラップパス報酬",
+        "zh-TW": "甜蜜陷阱通行證獲得"
+    },
+    {
+        "zh-CN": "社火游会活动抽奖获得",
+        "en": "Campfire Carnival Event Gacha get",
+        "ja": "社火遊会イベントガチャ獲得",
+        "zh-TW": "社火遊會活動抽獎獲得"
+    },
+    {
+        "zh-CN": "魂庆典上弦月活动抽奖获得",
+        "en": "Soul Celebration Crescent Moon event get",
+        "ja": "御魂祭の上弦の月イベントガチャ獲得",
+        "zh-TW": "魂慶典上弦月活動抽獎獲得"
+    },
+    {
+        "zh-CN": "众筹专属",
+        "en": "Modian Crowdfunding",
+        "ja": "クラウドファンディング限定",
+        "zh-TW": "眾籌專屬"
+    },
+    {
+        "zh-CN": "节日盛装通行证获得",
+        "en": "Festival Dress Pass obtained",
+        "ja": "メリークリスマスパス報酬",
+        "zh-TW": "節日盛裝通行證獲得"
+    },
+    {
+        "zh-CN": "滨边时光通行证获得",
+        "en": "Shoreline Memories Pass obtained",
+        "ja": "浜辺の日々パス報酬",
+        "zh-TW": "濱邊時光通行證獲得"
+    },
+    {
+        "zh-CN": "解锁后即可在游戏中使用",
+        "en": "Available after unlocking",
+        "ja": "解放後ゲーム内で使用可能",
+        "zh-TW": "解鎖後即可在遊戲中使用"
+    }
+]
