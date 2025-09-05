@@ -18,8 +18,11 @@ jobs:
           mkdir $RELEASE_FOLDER
           
           # 폴더 이동
-          mv astralparty_Data $RELEASE_FOLDER/
-          mv OriginalBackup $RELEASE_FOLDER/
+          # mv astralparty_Data $RELEASE_FOLDER/
+          mv aa $RELEASE_FOLDER/astralparty_Data/StreamingAssets
+          
+          # mv OriginalBackup $RELEASE_FOLDER/
+          mv OriginalBackup/aa $RELEASE_FOLDER/OriginalBackup/astralparty_Data/StreamingAssets
           
           # 버전 파일 생성
           echo "${{ github.ref_name }}" > "$RELEASE_FOLDER/astralparty_Data/ko_version.txt"
