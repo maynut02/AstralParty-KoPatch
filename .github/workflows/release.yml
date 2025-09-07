@@ -18,13 +18,9 @@ jobs:
           mkdir $RELEASE_FOLDER
 
           mkdir -p $RELEASE_FOLDER/astralparty_Data/StreamingAssets
-          mkdir -p $RELEASE_FOLDER/OriginalBackup/astralparty_Data/StreamingAssets
           
           # mv astralparty_Data $RELEASE_FOLDER/
           mv aa $RELEASE_FOLDER/astralparty_Data/StreamingAssets
-
-          # mv OriginalBackup $RELEASE_FOLDER/
-          mv OriginalBackup/aa $RELEASE_FOLDER/OriginalBackup/astralparty_Data/StreamingAssets
           
           echo "${{ github.ref_name }}" > "$RELEASE_FOLDER/astralparty_Data/ko_version.txt"
 
