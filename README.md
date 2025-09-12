@@ -1,5 +1,6 @@
 # 아스트랄 파티 비공식 한글 패치
 > © 2023 Shanghai Electric Cicada. All rights reserved.
+
 ![아스트랄 파티 비공식 한글패치](/readme_images/한패대문1920.png)
 
 <a href="https://store.steampowered.com/app/2622000/Astral_Party/" alt="Astral Party Stram Store"><img src = "/readme_images/app-logo.png" width="300px"></a>
