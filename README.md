@@ -11,7 +11,7 @@
 1. 다운로드한 AstralParty-KoPatch.zip 파일의 압축을 해제합니다.
 2. 압축 해제 후 나온 astralparty_Data 폴더를 복사합니다.
 3. Steam 라이브러리에서 Astral Party 우클릭 > 관리 > 로컬 파일 탐색을 통해 게임 설치 폴더로 이동합니다.
-  (또는 직접 폴더로 이동 - C:\Program Files (x86)\Steam\steamapps\common\Astral Party)
+  (또는 직접 폴더로 이동 `C:\Program Files (x86)\Steam\steamapps\common\Astral Party`)
 4. 설치 폴더에 복사한 astralparty_Data 폴더를 붙여넣기하여 파일을 덮어씁니다.
 
 ## 원상복구 방법
@@ -26,3 +26,7 @@
 
 ## 사용된 폰트
 > 원스토어 모바일고딕 POP체 - [배포 페이지](https://www.onestorecorp.com/sv/fordev_font/)
+
+-----
+
+번역을 도와주신 모든 분들께 감사드립니다!
