@@ -4,6 +4,7 @@
 
 ## Astral Party 스팀 상점 페이지
 [![](/readme_images/app-logo.png)](https://store.steampowered.com/app/2622000/Astral_Party/)
+| <a href="(https://store.steampowered.com/app/2622000/Astral_Party/"><img src = "/readme_images/app-logo.png" width="300px"></a> |
 
 
 ## 다운로드 및 적용 방법
