@@ -6,7 +6,7 @@
 <a href="https://store.steampowered.com/app/2622000/Astral_Party/" alt="Astral Party Stram Store"><img src = "/readme_images/app-logo.png" width="300px"></a>
 
 ## 다운로드 및 적용 방법
-### [한글패치 다운로드](https://astral.maynut.site/)
+  ### [한글패치 다운로드](https://astral.maynut.site/)
 
 1. 다운로드한 AstralParty-KoPatch.zip 파일의 압축을 해제합니다.
 2. 압축 해제 후 나온 astralparty_Data 폴더를 복사합니다.
