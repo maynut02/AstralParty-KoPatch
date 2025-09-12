@@ -24,3 +24,5 @@
 - [한글패치 업데이트 내역](https://astral.maynut.site/updatelog)
 - [실시간 번역 수정 기록](https://astral.maynut.site/changelog)
 
+## 사용된 폰트
+> 원스토어 모바일고딕 POP체 - [배포 페이지](https://www.onestorecorp.com/sv/fordev_font/)
