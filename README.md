@@ -1,4 +1,4 @@
-# 아스트랄 파티 비공식 한글 패치
+# 아스트랄 파티 비공식 한글패치
 > © 2023 Shanghai Electric Cicada. All rights reserved.
 
 ![아스트랄 파티 비공식 한글패치](/readme_images/한패대문1920.png)
