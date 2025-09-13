@@ -8,10 +8,10 @@
 ## 다운로드 및 적용 방법
 ### [한글패치 다운로드](https://astral.maynut.site/)
 
-1. 다운로드한 AstralParty-KoPatch.zip 파일의 압축을 해제합니다.
-2. 압축 해제 후 나온 astralparty_Data 폴더를 복사합니다.
+1. 다운로드한 `AstralParty-KoPatch.zip` 파일의 압축을 해제합니다.
+2. 압축 해제 후 나온 `astralparty_Data` 폴더를 복사합니다.
 3. Steam 라이브러리에서 Astral Party 우클릭 > 관리 > 로컬 파일 탐색을 통해 게임 설치 폴더로 이동합니다.   (또는 직접 폴더로 이동 `C:\Program Files (x86)\Steam\steamapps\common\Astral Party`)
-4. 설치 폴더에 복사한 astralparty_Data 폴더를 붙여넣기하여 파일을 덮어씁니다.
+4. 설치 폴더에 복사한 `astralparty_Data` 폴더를 붙여넣기하여 기존 파일을 덮어씁니다.
 
 ## 원상복구 방법
 1. Steam 라이브러리에서 Astral Party 우클릭 > 속성으로 들어갑니다.
