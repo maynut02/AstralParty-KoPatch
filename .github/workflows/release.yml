@@ -38,7 +38,7 @@ jobs:
           tag_name: ${{ github.ref }}
           release_name: ${{ github.ref_name }}
           body: |
-            [업데이트 내역](https://astral.maynut.site/updatelog)
+            [업데이트 내역](https://astral.maynut.site/release-note)
 
             ## 적용 방법
             1. 다운로드한 AstralParty-KoPatch.zip 파일의 압축을 해제합니다.
