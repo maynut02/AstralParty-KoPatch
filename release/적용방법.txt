@@ -1,0 +1,6 @@
+8vJXnINT 파일을 붙여넣기 할 위치
+C:\Program Files (x86)\Steam\steamapps\common\Astral Party\
+
+AstralParty_INT 파일을 붙여넣기 할 위치
+C:\Users\사용자면\AppData\LocalLow\feimo\
+
