@@ -2,5 +2,6 @@
 C:\Program Files (x86)\Steam\steamapps\common\Astral Party\
 
 AstralParty_INT 파일을 붙여넣기 할 위치
-C:\Users\사용자면\AppData\LocalLow\feimo\
+C:\Users\사용자명\AppData\LocalLow\feimo\
+(윈도우 검색창에 %appdata% 입력하면 AppData 폴더로 이동함)
 
