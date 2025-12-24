@@ -17,10 +17,10 @@ jobs:
           RELEASE_FOLDER="AstralParty-KoPatch-${{ github.ref_name }}"
           mkdir $RELEASE_FOLDER
 
-          mkdir -p "$RELEASE_FOLDER/8vJXnINT/AstralParty_INT_Data/StreamingAssets"
+          mkdir -p "$RELEASE_FOLDER/AstralParty_INT_Data/StreamingAssets"
           mkdir -p "$RELEASE_FOLDER/AstralParty_INT/com.unity.addressables"
           
-          mv release/aa "$RELEASE_FOLDER/8vJXnINT/AstralParty_INT_Data/StreamingAssets/"
+          mv release/aa "$RELEASE_FOLDER/AstralParty_INT_Data/StreamingAssets/"
           mv release/AssetBundles "$RELEASE_FOLDER/AstralParty_INT/com.unity.addressables/"
           mv release/적용방법.txt "$RELEASE_FOLDER/"
           echo "${{ github.ref_name }}" > "$RELEASE_FOLDER/version.txt"
