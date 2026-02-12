@@ -1,0 +1,79 @@
+name: Release KoPatch
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Prepare Directory Structure
+        run: |
+          echo "Creating directory structure..."
+          
+          mkdir -p temp_dist/feimo/AstralParty_INT/com.unity.addressables
+          mkdir -p temp_dist/8vJXnINT/AstralParty_INT_Data/StreamingAssets/aa
+
+          # AssetBundles 복사
+          if [ -d "build/en/AssetBundles" ]; then
+            cp -r build/en/AssetBundles temp_dist/feimo/AstralParty_INT/com.unity.addressables/
+            echo "Copied AssetBundles"
+          else
+            echo "Error: build/en/AssetBundles not found. Make sure you committed the build/en folder."
+            exit 1
+          fi
+
+          # StandaloneWindows64 복사
+          if [ -d "build/en/StandaloneWindows64" ]; then
+            cp -r build/en/StandaloneWindows64 temp_dist/8vJXnINT/AstralParty_INT_Data/StreamingAssets/aa/
+            echo "Copied StandaloneWindows64"
+          else
+            echo "Error: build/en/StandaloneWindows64 not found. Make sure you committed the build/en folder."
+            exit 1
+          fi
+
+      - name: Create Zip Archive
+        run: |
+          cd temp_dist
+          zip -r ../AstralParty-KoPatch-${{ github.ref_name }}.zip feimo 8vJXnINT
+          echo "Created AstralParty-KoPatch-${{ github.ref_name }}.zip"
+
+      - name: Generate Release Notes
+        id: release_notes
+        env:
+          TZ: 'Asia/Seoul'
+        run: |
+          PREV_TAG=$(git describe --tags --abbrev=0 HEAD^ 2>/dev/null || echo "")
+          
+          echo "Current Tag: ${{ github.ref_name }}"
+          echo "Previous Tag: $PREV_TAG"
+          
+          echo "## 변경 사항" > release_body.md
+          echo "" >> release_body.md
+          
+          if [ -z "$PREV_TAG" ]; then
+            git log --pretty=format:"- [%cd] %s" --date=format-local:"%Y-%m-%d %H:%M" >> release_body.md
+          else
+            git log --pretty=format:"- [%cd] %s" --date=format-local:"%Y-%m-%d %H:%M" $PREV_TAG..HEAD >> release_body.md
+          fi
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: AstralParty-KoPatch-${{ github.ref_name }}.zip
+          body_path: release_body.md
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
