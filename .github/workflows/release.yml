@@ -62,7 +62,7 @@ jobs:
           # Mobile-JP 압축
           if [ -d "temp_dist_mobile" ]; then
             cd temp_dist_mobile
-            zip -r ../AstralParty-KoPatch-Mobile-JP-${VERSION}.zip feimo
+            zip -r ../AstralParty-KoPatch-Mobile-JP-${VERSION}.zip .
             cd ..
             echo "Created AstralParty-KoPatch-Mobile-JP-${VERSION}.zip"
           fi
