@@ -22,32 +22,51 @@ jobs:
         run: |
           echo "Creating directory structure..."
           
-          mkdir -p temp_dist/feimo/AstralParty_INT/com.unity.addressables
-          mkdir -p temp_dist/8vJXnINT/AstralParty_INT_Data/StreamingAssets/aa
+          # Steam-EN 준비
+          mkdir -p temp_dist_steam/feimo/AstralParty_INT/com.unity.addressables
+          mkdir -p temp_dist_steam/8vJXnINT/AstralParty_INT_Data/StreamingAssets/aa
 
-          # AssetBundles 복사
-          if [ -d "build/en/AssetBundles" ]; then
-            cp -r build/en/AssetBundles temp_dist/feimo/AstralParty_INT/com.unity.addressables/
-            echo "Copied AssetBundles"
+          if [ -d "steam/en/AssetBundles" ]; then
+            cp -r steam/en/AssetBundles temp_dist_steam/feimo/AstralParty_INT/com.unity.addressables/
           else
-            echo "Error: build/en/AssetBundles not found. Make sure you committed the build/en folder."
-            exit 1
+            echo "Warning: steam/en/AssetBundles not found."
           fi
 
-          # StandaloneWindows64 복사
-          if [ -d "build/en/StandaloneWindows64" ]; then
-            cp -r build/en/StandaloneWindows64 temp_dist/8vJXnINT/AstralParty_INT_Data/StreamingAssets/aa/
-            echo "Copied StandaloneWindows64"
+          if [ -d "steam/en/StandaloneWindows64" ]; then
+            cp -r steam/en/StandaloneWindows64 temp_dist_steam/8vJXnINT/AstralParty_INT_Data/StreamingAssets/aa/
           else
-            echo "Error: build/en/StandaloneWindows64 not found. Make sure you committed the build/en folder."
-            exit 1
+            echo "Warning: steam/en/StandaloneWindows64 not found."
           fi
 
-      - name: Create Zip Archive
+          # Mobile-JP 준비
+          mkdir -p temp_dist_mobile/feimo/AstralParty_INT/com.unity.addressables
+
+          if [ -d "mobile/jp/AssetBundles" ]; then
+            cp -r mobile/jp/AssetBundles temp_dist_mobile/feimo/AstralParty_INT/com.unity.addressables/
+          else
+             echo "Warning: mobile/jp/AssetBundles not found."
+          fi
+
+      - name: Create Zip Archives
         run: |
-          cd temp_dist
-          zip -r ../AstralParty-KoPatch-${{ github.ref_name }}.zip feimo 8vJXnINT
-          echo "Created AstralParty-KoPatch-${{ github.ref_name }}.zip"
+          VERSION="${{ github.ref_name }}"
+          
+          # Steam-EN 압축
+          if [ -d "temp_dist_steam" ]; then
+            cd temp_dist_steam
+            zip -r ../AstralParty-KoPatch-Steam-EN-${VERSION}.zip feimo 8vJXnINT
+            cd ..
+            echo "Created AstralParty-KoPatch-Steam-EN-${VERSION}.zip"
+          fi
+
+          # Mobile-JP 압축
+          if [ -d "temp_dist_mobile" ]; then
+            cd temp_dist_mobile
+            # Mobile 구조에 맞게 압축 대상 조정 (현재는 feimo만 포함될 수 있음)
+            zip -r ../AstralParty-KoPatch-Mobile-JP-${VERSION}.zip feimo
+            cd ..
+            echo "Created AstralParty-KoPatch-Mobile-JP-${VERSION}.zip"
+          fi
 
       - name: Generate Release Notes
         id: release_notes
@@ -59,7 +78,6 @@ jobs:
           echo "Current Tag: ${{ github.ref_name }}"
           echo "Previous Tag: $PREV_TAG"
           
-          echo "## 변경 사항" > release_body.md
           echo "" >> release_body.md
           
           if [ -z "$PREV_TAG" ]; then
@@ -71,7 +89,9 @@ jobs:
       - name: Create Release
         uses: softprops/action-gh-release@v1
         with:
-          files: AstralParty-KoPatch-${{ github.ref_name }}.zip
+          files: |
+            AstralParty-KoPatch-Steam-EN-${{ github.ref_name }}.zip
+            AstralParty-KoPatch-Mobile-JP-${{ github.ref_name }}.zip
           body_path: release_body.md
           draft: false
           prerelease: false
