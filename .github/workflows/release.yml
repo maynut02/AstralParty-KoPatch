@@ -39,10 +39,10 @@ jobs:
           fi
 
           # Mobile-JP 준비
-          mkdir -p temp_dist_mobile/feimo/AstralParty_INT/com.unity.addressables
+          mkdir -p temp_dist_mobile
 
           if [ -d "mobile/jp/AssetBundles" ]; then
-            cp -r mobile/jp/AssetBundles temp_dist_mobile/feimo/AstralParty_INT/com.unity.addressables/
+            cp -r mobile/jp/AssetBundles temp_dist_mobile/
           else
              echo "Warning: mobile/jp/AssetBundles not found."
           fi
@@ -62,7 +62,6 @@ jobs:
           # Mobile-JP 압축
           if [ -d "temp_dist_mobile" ]; then
             cd temp_dist_mobile
-            # Mobile 구조에 맞게 압축 대상 조정 (현재는 feimo만 포함될 수 있음)
             zip -r ../AstralParty-KoPatch-Mobile-JP-${VERSION}.zip feimo
             cd ..
             echo "Created AstralParty-KoPatch-Mobile-JP-${VERSION}.zip"
