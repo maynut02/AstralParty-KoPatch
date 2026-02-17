@@ -47,6 +47,22 @@ jobs:
              echo "Warning: mobile/jp/AssetBundles not found."
           fi
 
+          # BiliBili-PC 준비
+          mkdir -p temp_dist_bilibili_pc/feimo/吉星派对/com.unity.addressables
+          mkdir -p "temp_dist_bilibili_pc/AstralParty Game/吉星派对_Data/StreamingAssets/aa"
+
+          if [ -d "bilibili/pc/AssetBundles" ]; then
+            cp -r bilibili/pc/AssetBundles temp_dist_bilibili_pc/feimo/吉星派对/com.unity.addressables/
+          else
+            echo "Warning: bilibili/pc/AssetBundles not found."
+          fi
+
+          if [ -d "bilibili/pc/StandaloneWindows64" ]; then
+            cp -r bilibili/pc/StandaloneWindows64 "temp_dist_bilibili_pc/AstralParty Game/吉星派对_Data/StreamingAssets/aa/"
+          else
+            echo "Warning: bilibili/pc/StandaloneWindows64 not found."
+          fi
+
       - name: Create Zip Archives
         run: |
           VERSION="${{ github.ref_name }}"
@@ -65,6 +81,14 @@ jobs:
             zip -r ../AstralParty-KoPatch-Mobile-JP-${VERSION}.zip .
             cd ..
             echo "Created AstralParty-KoPatch-Mobile-JP-${VERSION}.zip"
+          fi
+
+          # BiliBili-PC 압축
+          if [ -d "temp_dist_bilibili_pc" ]; then
+            cd temp_dist_bilibili_pc
+            zip -r ../AstralParty-KoPatch-BiliBili-PC-${VERSION}.zip feimo "AstralParty Game"
+            cd ..
+            echo "Created AstralParty-KoPatch-BiliBili-PC-${VERSION}.zip"
           fi
 
       - name: Generate Release Notes
@@ -91,6 +115,7 @@ jobs:
           files: |
             AstralParty-KoPatch-Steam-EN-${{ github.ref_name }}.zip
             AstralParty-KoPatch-Mobile-JP-${{ github.ref_name }}.zip
+            AstralParty-KoPatch-BiliBili-PC-${{ github.ref_name }}.zip
           body_path: release_body.md
           draft: false
           prerelease: false
