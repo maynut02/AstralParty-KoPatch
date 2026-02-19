@@ -23,44 +23,44 @@ jobs:
           echo "Creating directory structure..."
           
           # Steam-EN 준비
-          mkdir -p temp_dist_steam/feimo/AstralParty_INT/com.unity.addressables
-          mkdir -p temp_dist_steam/8vJXnINT/AstralParty_INT_Data/StreamingAssets/aa
+          mkdir -p temp_dist_steam_en/feimo/AstralParty_INT/com.unity.addressables
+          mkdir -p temp_dist_steam_en/8vJXnINT/AstralParty_INT_Data/StreamingAssets/aa
 
-          if [ -d "steam/en/AssetBundles" ]; then
-            cp -r steam/en/AssetBundles temp_dist_steam/feimo/AstralParty_INT/com.unity.addressables/
+          if [ -d "build/Steam-EN/AssetBundles" ]; then
+            cp -r build/Steam-EN/AssetBundles temp_dist_steam_en/feimo/AstralParty_INT/com.unity.addressables/
           else
-            echo "Warning: steam/en/AssetBundles not found."
+            echo "Warning: build/Steam-EN/AssetBundles not found."
           fi
 
-          if [ -d "steam/en/StandaloneWindows64" ]; then
-            cp -r steam/en/StandaloneWindows64 temp_dist_steam/8vJXnINT/AstralParty_INT_Data/StreamingAssets/aa/
+          if [ -d "build/Steam-EN/StandaloneWindows64" ]; then
+            cp -r build/Steam-EN/StandaloneWindows64 temp_dist_steam_en/8vJXnINT/AstralParty_INT_Data/StreamingAssets/aa/
           else
-            echo "Warning: steam/en/StandaloneWindows64 not found."
+            echo "Warning: build/Steam-EN/StandaloneWindows64 not found."
           fi
 
-          # Mobile-JP 준비
-          mkdir -p temp_dist_mobile
+          # Android-JP 준비
+          mkdir -p temp_dist_android_jp
 
-          if [ -d "mobile/jp/AssetBundles" ]; then
-            cp -r mobile/jp/AssetBundles temp_dist_mobile/
+          if [ -d "build/Android-JP/AssetBundles" ]; then
+            cp -r build/Android-JP/AssetBundles temp_dist_android_jp/
           else
-             echo "Warning: mobile/jp/AssetBundles not found."
+             echo "Warning: build/Android-JP/AssetBundles not found."
           fi
 
-          # BiliBili-PC 준비
-          mkdir -p temp_dist_bilibili_pc/feimo/吉星派对/com.unity.addressables
-          mkdir -p "temp_dist_bilibili_pc/AstralParty Game/吉星派对_Data/StreamingAssets/aa"
+          # Windows-CN 준비
+          mkdir -p temp_dist_windows_cn/feimo/吉星派对/com.unity.addressables
+          mkdir -p "temp_dist_windows_cn/AstralParty Game/吉星派对_Data/StreamingAssets/aa"
 
-          if [ -d "bilibili/pc/AssetBundles" ]; then
-            cp -r bilibili/pc/AssetBundles temp_dist_bilibili_pc/feimo/吉星派对/com.unity.addressables/
+          if [ -d "build/Windows-CN/AssetBundles" ]; then
+            cp -r build/Windows-CN/AssetBundles temp_dist_windows_cn/feimo/吉星派对/com.unity.addressables/
           else
-            echo "Warning: bilibili/pc/AssetBundles not found."
+            echo "Warning: build/Windows-CN/AssetBundles not found."
           fi
 
-          if [ -d "bilibili/pc/StandaloneWindows64" ]; then
-            cp -r bilibili/pc/StandaloneWindows64 "temp_dist_bilibili_pc/AstralParty Game/吉星派对_Data/StreamingAssets/aa/"
+          if [ -d "build/Windows-CN/StandaloneWindows64" ]; then
+            cp -r build/Windows-CN/StandaloneWindows64 "temp_dist_windows_cn/AstralParty Game/吉星派对_Data/StreamingAssets/aa/"
           else
-            echo "Warning: bilibili/pc/StandaloneWindows64 not found."
+            echo "Warning: build/Windows-CN/StandaloneWindows64 not found."
           fi
 
       - name: Create Zip Archives
@@ -68,27 +68,27 @@ jobs:
           VERSION="${{ github.ref_name }}"
           
           # Steam-EN 압축
-          if [ -d "temp_dist_steam" ]; then
-            cd temp_dist_steam
+          if [ -d "temp_dist_steam_en" ]; then
+            cd temp_dist_steam_en
             zip -r ../AstralParty-KoPatch-Steam-EN-${VERSION}.zip feimo 8vJXnINT
             cd ..
             echo "Created AstralParty-KoPatch-Steam-EN-${VERSION}.zip"
           fi
 
-          # Mobile-JP 압축
-          if [ -d "temp_dist_mobile" ]; then
-            cd temp_dist_mobile
-            zip -r ../AstralParty-KoPatch-Mobile-JP-${VERSION}.zip .
+          # Android-JP 압축
+          if [ -d "temp_dist_android_jp" ]; then
+            cd temp_dist_android_jp
+            zip -r ../AstralParty-KoPatch-Android-JP-${VERSION}.zip .
             cd ..
-            echo "Created AstralParty-KoPatch-Mobile-JP-${VERSION}.zip"
+            echo "Created AstralParty-KoPatch-Android-JP-${VERSION}.zip"
           fi
 
-          # BiliBili-PC 압축
-          if [ -d "temp_dist_bilibili_pc" ]; then
-            cd temp_dist_bilibili_pc
-            zip -r ../AstralParty-KoPatch-BiliBili-PC-${VERSION}.zip feimo "AstralParty Game"
+          # Windows-CN 압축
+          if [ -d "temp_dist_windows_cn" ]; then
+            cd temp_dist_windows_cn
+            zip -r ../AstralParty-KoPatch-Windows-CN-${VERSION}.zip feimo "AstralParty Game"
             cd ..
-            echo "Created AstralParty-KoPatch-BiliBili-PC-${VERSION}.zip"
+            echo "Created AstralParty-KoPatch-Windows-CN-${VERSION}.zip"
           fi
 
       - name: Generate Release Notes
@@ -101,6 +101,7 @@ jobs:
           echo "Current Tag: ${{ github.ref_name }}"
           echo "Previous Tag: $PREV_TAG"
           
+          echo "[ ${{ github.ref_name }} 변경 사항 ]" > release_body.md
           echo "" >> release_body.md
           
           if [ -z "$PREV_TAG" ]; then
@@ -114,8 +115,8 @@ jobs:
         with:
           files: |
             AstralParty-KoPatch-Steam-EN-${{ github.ref_name }}.zip
-            AstralParty-KoPatch-Mobile-JP-${{ github.ref_name }}.zip
-            AstralParty-KoPatch-BiliBili-PC-${{ github.ref_name }}.zip
+            AstralParty-KoPatch-Android-JP-${{ github.ref_name }}.zip
+            AstralParty-KoPatch-Windows-CN-${{ github.ref_name }}.zip
           body_path: release_body.md
           draft: false
           prerelease: false
