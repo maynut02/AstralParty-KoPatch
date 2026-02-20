@@ -23,11 +23,11 @@ jobs:
           echo "Creating directory structure..."
           
           # Steam-EN 준비
-          mkdir -p temp_dist_steam_en/feimo/AstralParty_INT/com.unity.addressables
+          mkdir -p temp_dist_steam_en/AstralParty_INT/com.unity.addressables
           mkdir -p temp_dist_steam_en/8vJXnINT/AstralParty_INT_Data/StreamingAssets/aa
 
           if [ -d "build/Steam-EN/AssetBundles" ]; then
-            cp -r build/Steam-EN/AssetBundles temp_dist_steam_en/feimo/AstralParty_INT/com.unity.addressables/
+            cp -r build/Steam-EN/AssetBundles temp_dist_steam_en/AstralParty_INT/com.unity.addressables/
           else
             echo "Warning: build/Steam-EN/AssetBundles not found."
           fi
@@ -79,7 +79,7 @@ jobs:
           # Steam-EN 압축
           if [ -d "temp_dist_steam_en" ]; then
             cd temp_dist_steam_en
-            zip -r ../AstralParty-KoPatch-Steam-EN-${VERSION}.zip feimo 8vJXnINT
+            zip -r ../AstralParty-KoPatch-Steam-EN-${VERSION}.zip AstralParty_INT 8vJXnINT
             cd ..
             echo "Created AstralParty-KoPatch-Steam-EN-${VERSION}.zip"
           fi
