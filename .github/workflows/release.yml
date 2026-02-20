@@ -48,17 +48,17 @@ jobs:
           fi
 
           # Windows-CN 준비
-          mkdir -p temp_dist_windows_cn/feimo/吉星派对/com.unity.addressables
-          mkdir -p "temp_dist_windows_cn/AstralParty Game/吉星派对_Data/StreamingAssets/aa"
+          mkdir -p temp_dist_windows_cn/吉星派对/com.unity.addressables
+          mkdir -p "temp_dist_windows_cn/吉星派对_Data/StreamingAssets/aa"
 
           if [ -d "build/Windows-CN/AssetBundles" ]; then
-            cp -r build/Windows-CN/AssetBundles temp_dist_windows_cn/feimo/吉星派对/com.unity.addressables/
+            cp -r build/Windows-CN/AssetBundles temp_dist_windows_cn/吉星派对/com.unity.addressables/
           else
             echo "Warning: build/Windows-CN/AssetBundles not found."
           fi
 
           if [ -d "build/Windows-CN/StandaloneWindows64" ]; then
-            cp -r build/Windows-CN/StandaloneWindows64 "temp_dist_windows_cn/AstralParty Game/吉星派对_Data/StreamingAssets/aa/"
+            cp -r build/Windows-CN/StandaloneWindows64 "temp_dist_windows_cn/吉星派对_Data/StreamingAssets/aa/"
           else
             echo "Warning: build/Windows-CN/StandaloneWindows64 not found."
           fi
@@ -95,7 +95,7 @@ jobs:
           # Windows-CN 압축
           if [ -d "temp_dist_windows_cn" ]; then
             cd temp_dist_windows_cn
-            zip -r ../AstralParty-KoPatch-Windows-CN-${VERSION}.zip feimo "AstralParty Game"
+            zip -r ../AstralParty-KoPatch-Windows-CN-${VERSION}.zip 吉星派对 吉星派对_Data
             cd ..
             echo "Created AstralParty-KoPatch-Windows-CN-${VERSION}.zip"
           fi
