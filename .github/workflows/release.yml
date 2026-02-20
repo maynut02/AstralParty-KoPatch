@@ -63,6 +63,15 @@ jobs:
             echo "Warning: build/Windows-CN/StandaloneWindows64 not found."
           fi
 
+          # iOS-JP 준비
+          mkdir -p temp_dist_ios_jp/
+
+          if [ -d "build/iOS-JP" ]; then
+            cp -r build/iOS-JP/. temp_dist_ios_jp/
+          else
+            echo "Warning: build/iOS-JP not found."
+          fi
+
       - name: Create Zip Archives
         run: |
           VERSION="${{ github.ref_name }}"
@@ -91,6 +100,14 @@ jobs:
             echo "Created AstralParty-KoPatch-Windows-CN-${VERSION}.zip"
           fi
 
+          # iOS-JP 압축
+          if [ -d "temp_dist_ios_jp" ]; then
+            cd temp_dist_ios_jp
+            zip -r ../AstralParty-KoPatch-iOS-JP-${VERSION}.zip .
+            cd ..
+            echo "Created AstralParty-KoPatch-iOS-JP-${VERSION}.zip"
+          fi
+
       - name: Generate Release Notes
         id: release_notes
         env:
@@ -100,9 +117,6 @@ jobs:
           
           echo "Current Tag: ${{ github.ref_name }}"
           echo "Previous Tag: $PREV_TAG"
-          
-          echo "[ ${{ github.ref_name }} 변경 사항 ]" > release_body.md
-          echo "" >> release_body.md
           
           if [ -z "$PREV_TAG" ]; then
             git log --pretty=format:"- [%cd] %s" --date=format-local:"%Y-%m-%d %H:%M" >> release_body.md
@@ -117,6 +131,7 @@ jobs:
             AstralParty-KoPatch-Steam-EN-${{ github.ref_name }}.zip
             AstralParty-KoPatch-Android-JP-${{ github.ref_name }}.zip
             AstralParty-KoPatch-Windows-CN-${{ github.ref_name }}.zip
+            AstralParty-KoPatch-iOS-JP-${{ github.ref_name }}.zip
           body_path: release_body.md
           draft: false
           prerelease: false
