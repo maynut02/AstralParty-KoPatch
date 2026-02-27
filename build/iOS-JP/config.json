@@ -3,23 +3,21 @@
   "bundles": {
     "font_main": {
       "file": "bundles/font_main.bundle",
-      "device_path": "Documents/com.unity.addressables/AssetBundles/49f1d881fe50e1053d141aa4e4739324/332c75ec6bf68ca32576536e44d99c79/__data",
-      "needs_catalog_patch": true,
-      "bundle_hash": "332c75ec6bf68ca32576536e44d99c79",
       "bundle_name": "49f1d881fe50e1053d141aa4e4739324",
-      "original_bundle_size": 4139844
+      "bundle_hash": "332c75ec6bf68ca32576536e44d99c79",
+      "needs_catalog_patch": true
     },
     "font_tmp": {
       "file": "bundles/font_tmp.bundle",
-      "device_path": "Documents/com.unity.addressables/AssetBundles/c47505d634c76c8179b0b0b8432f514c/5bb33102e2b0901fdb3092a9710cd78a/__data"
+      "bundle_name": "c47505d634c76c8179b0b0b8432f514c"
     },
     "protobuf": {
       "file": "bundles/protobuf.bundle",
-      "device_path": "Documents/com.unity.addressables/AssetBundles/f19f4b57e00618a092c8dfc8aeb8d2fa/98715147563332eea23bf6ade1028249/__data"
+      "bundle_name": "f19f4b57e00618a092c8dfc8aeb8d2fa"
     },
     "xml": {
       "file": "bundles/xml.bundle",
-      "device_path": "Documents/com.unity.addressables/AssetBundles/9c2c156995397d00b52292463263f219/336d98838b3a9e5a0af42bc1a4c8740b/__data"
+      "bundle_name": "9c2c156995397d00b52292463263f219"
     }
   }
 }

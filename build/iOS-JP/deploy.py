@@ -59,6 +59,7 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 CONFIG_PATH = os.path.join(SCRIPT_DIR, 'config.json')
 
 ADDRESSABLES_DIR = 'Documents/com.unity.addressables'
+ASSET_BUNDLES_DIR = f'{ADDRESSABLES_DIR}/AssetBundles'
 
 
 def find_catalog(svc):
@@ -73,12 +74,24 @@ def find_catalog(svc):
     return None
 
 
-def patch_catalog(catalog_bytes, bundle_hash, bundle_name, original_size, new_size):
+def resolve_bundle_path(svc, bundle_name):
+    """bundle_name 디렉토리 아래 해시 서브디렉토리를 자동 탐색"""
+    bundle_dir = f'{ASSET_BUNDLES_DIR}/{bundle_name}'
+    try:
+        subs = svc.listdir(bundle_dir)
+    except Exception:
+        return None, None
+    for sub in subs:
+        if len(sub) == 32 and all(c in '0123456789abcdef' for c in sub):
+            return f'{bundle_dir}/{sub}/__data', sub
+    return None, None
+
+
+def patch_catalog(catalog_bytes, bundle_hash, bundle_name, new_size):
     """카탈로그에서 font_main LOCAL→REMOTE 리다이렉트 + m_BundleSize 업데이트"""
     cat = json.loads(catalog_bytes)
 
-    # 1. InternalId: RuntimePath → WebServerConfig.Path
-    # InternalId에는 bundle_hash가 들어감 (e.g. 332c75ec....bundle)
+    # InternalId: RuntimePath → WebServerConfig.Path
     ids = cat['m_InternalIds']
     redirected = False
     for i, iid in enumerate(ids):
@@ -88,38 +101,34 @@ def patch_catalog(catalog_bytes, bundle_hash, bundle_name, original_size, new_si
                 '{App.WebServerConfig.Path}',
             )
             redirected = True
+            print(f'  InternalId: LOCAL → REMOTE')
             break
 
     if not redirected:
         for iid in ids:
             if bundle_hash in iid and '{App.WebServerConfig.Path}' in iid:
                 redirected = True
+                print(f'  InternalId: 이미 REMOTE')
                 break
 
     if not redirected:
         print('  WARNING: font_main InternalId를 찾을 수 없음')
         return None
 
-    # 2. ExtraData: m_BundleSize 업데이트
+    # ExtraData: m_BundleSize 업데이트
     extra_raw = base64.b64decode(cat['m_ExtraDataString'])
-
-    # m_BundleName으로 해당 JSON entry 위치 찾기
-    # ExtraData는 UTF-16LE. 각 entry는 {...} JSON 객체.
-    # m_BundleName과 m_BundleSize가 같은 JSON 안에 있다.
     bundle_name_utf16 = bundle_name.encode('utf-16-le')
     name_pos = extra_raw.find(bundle_name_utf16)
     if name_pos < 0:
         print('  WARNING: ExtraData에서 bundle_name을 찾을 수 없음')
         return None
 
-    # bundle_name 이후에서 가장 가까운 m_BundleSize 찾기 (같은 JSON 객체 내)
     size_key = '"m_BundleSize":'.encode('utf-16-le')
     size_pos = extra_raw.find(size_key, name_pos)
     if size_pos < 0 or size_pos - name_pos > 1024:
         print('  WARNING: ExtraData에서 m_BundleSize를 찾을 수 없음')
         return None
 
-    # m_BundleSize 값 추출 및 교체
     val_start = size_pos + len(size_key)
     val_end = val_start
     while val_end < len(extra_raw):
@@ -134,19 +143,15 @@ def patch_catalog(catalog_bytes, bundle_hash, bundle_name, original_size, new_si
 
     old_val = extra_raw[val_start:val_end].decode('utf-16-le')
     new_val_bytes = str(new_size).encode('utf-16-le')
-
     extra_patched = extra_raw[:val_start] + new_val_bytes + extra_raw[val_end:]
-
     cat['m_ExtraDataString'] = base64.b64encode(extra_patched).decode('ascii')
 
-    print(f'  InternalId: LOCAL → REMOTE')
     print(f'  m_BundleSize: {old_val} → {new_size}')
 
     return json.dumps(cat, separators=(',', ':')).encode('utf-8')
 
 
 def main():
-    # config 로드
     if not os.path.exists(CONFIG_PATH):
         print('ERROR: config.json을 찾을 수 없습니다.')
         sys.exit(1)
@@ -157,7 +162,6 @@ def main():
     bundle_id = config['app_bundle_id']
     bundles = config['bundles']
 
-    # 번들 파일 존재 확인
     missing = []
     for btype, info in bundles.items():
         path = os.path.join(SCRIPT_DIR, info['file'])
@@ -170,7 +174,6 @@ def main():
             print(f'  - {m}')
         sys.exit(1)
 
-    # pymobiledevice3 import
     try:
         from pymobiledevice3.lockdown import create_using_usbmux
         from pymobiledevice3.services.house_arrest import HouseArrestService
@@ -182,7 +185,6 @@ def main():
     print('아스트랄 파티 iOS 한글패치')
     print('=' * 36)
 
-    # 디바이스 연결
     print('디바이스 연결 확인 중...', end=' ', flush=True)
     try:
         lockdown = create_using_usbmux()
@@ -192,7 +194,6 @@ def main():
         print('\nUSB로 iOS 기기를 연결하고 신뢰 설정을 확인하세요.')
         sys.exit(1)
 
-    # 앱 접근
     try:
         svc = HouseArrestService(lockdown, bundle_id=bundle_id, documents_only=True)
     except Exception:
@@ -209,34 +210,40 @@ def main():
         'xml': 'XML',
     }
 
-    # 카탈로그 패치 필요 여부 확인
-    needs_catalog = any(
-        info.get('needs_catalog_patch')
-        for info in bundles.values()
-    )
-
     success = True
 
     # 번들 배포
     for btype, info in bundles.items():
         label = LABELS.get(btype, btype)
         local_path = os.path.join(SCRIPT_DIR, info['file'])
-        remote_path = info['device_path']
+        bundle_name = info['bundle_name']
+
+        if info.get('needs_catalog_patch'):
+            # font_main: 하드코딩된 해시로 캐시 디렉토리 직접 생성
+            bundle_hash = info['bundle_hash']
+            remote_dir = f'{ASSET_BUNDLES_DIR}/{bundle_name}/{bundle_hash}'
+            remote_path = f'{remote_dir}/__data'
+            try:
+                svc.makedirs(remote_dir)
+            except Exception:
+                pass  # 이미 존재할 수 있음
+        else:
+            # 나머지: 디바이스에서 해시 자동 탐색
+            remote_path, _ = resolve_bundle_path(svc, bundle_name)
+            if not remote_path:
+                print(f'{label + ":":<16} FAIL - 디바이스에서 번들을 찾을 수 없음')
+                success = False
+                continue
 
         with open(local_path, 'rb') as f:
             data = f.read()
 
         try:
-            remote_dir = '/'.join(remote_path.split('/')[:-1])
-            if not svc.exists(remote_dir):
-                svc.makedirs(remote_dir)
-
             svc.set_file_contents(remote_path, data)
             verified = svc.stat(remote_path).get('st_size')
             status = 'OK' if verified == len(data) else f'SIZE MISMATCH ({verified})'
             print(f'{label + ":":<16} {len(data):>10,} bytes → {status}')
 
-            # font_main: __info 메타데이터 생성
             if info.get('needs_catalog_patch'):
                 info_path = remote_dir + '/__info'
                 info_content = f'-1\n{int(time.time())}\n1\n__data\n'.encode()
@@ -246,41 +253,33 @@ def main():
             print(f'{label + ":":<16} FAIL - {e}')
             success = False
 
-    # 카탈로그 패치
-    if needs_catalog and success:
-        print()
-        print('카탈로그 패치 중...')
-        catalog_path = find_catalog(svc)
-        if not catalog_path:
-            print('  ERROR: 카탈로그 파일을 찾을 수 없음')
-            success = False
-        else:
-            catalog_bytes = svc.get_file_contents(catalog_path)
-            print(f'  카탈로그: {os.path.basename(catalog_path)} ({len(catalog_bytes):,} bytes)')
+    # 카탈로그 패치 (font_main: RuntimePath → WebServerConfig.Path)
+    if success:
+        font_info = bundles.get('font_main')
+        if font_info and font_info.get('needs_catalog_patch'):
+            print()
+            print('카탈로그 패치 중...')
+            catalog_path = find_catalog(svc)
+            if not catalog_path:
+                print('  ERROR: 카탈로그 파일을 찾을 수 없음')
+                success = False
+            else:
+                catalog_bytes = svc.get_file_contents(catalog_path)
+                print(f'  카탈로그: {os.path.basename(catalog_path)} ({len(catalog_bytes):,} bytes)')
 
-            for btype, info in bundles.items():
-                if not info.get('needs_catalog_patch'):
-                    continue
-
-                bundle_path = os.path.join(SCRIPT_DIR, info['file'])
-                new_size = os.path.getsize(bundle_path)
-
+                new_size = os.path.getsize(os.path.join(SCRIPT_DIR, font_info['file']))
                 patched = patch_catalog(
                     catalog_bytes,
-                    info['bundle_hash'],
-                    info['bundle_name'],
-                    info['original_bundle_size'],
+                    font_info['bundle_hash'],
+                    font_info['bundle_name'],
                     new_size,
                 )
                 if patched:
-                    catalog_bytes = patched
+                    svc.set_file_contents(catalog_path, patched)
+                    verified = svc.stat(catalog_path).get('st_size')
+                    print(f'  저장: {len(patched):,} bytes → {"OK" if verified == len(patched) else "MISMATCH"}')
                 else:
                     success = False
-
-            if success:
-                svc.set_file_contents(catalog_path, catalog_bytes)
-                verified = svc.stat(catalog_path).get('st_size')
-                print(f'  저장: {len(catalog_bytes):,} bytes → {"OK" if verified == len(catalog_bytes) else "MISMATCH"}')
 
     print()
     if success:
